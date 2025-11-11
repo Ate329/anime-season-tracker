@@ -103,19 +103,24 @@ def fetch_anime_data(current_years_only=False):
                                     for studio in studio_names
                                 )
                                 
-                                # If produced by a Japanese studio, it's Japanese anime regardless of source
+                                # Japanese Filter Logic:
+                                # - Japanese studio = SUFFICIENT to mark as Japanese (definitely Japanese)
+                                # - Japanese studio ≠ NECESSARY (non-Japanese studio doesn't mean non-Japanese)
+                                # - Default assumption: Japanese unless proven otherwise
+                                
                                 if has_japanese_studio:
+                                    # Japanese studio → definitely Japanese anime
                                     is_likely_japanese = True
                                 else:
-                                    # Check for non-Japanese indicators only if no Japanese studio
-                                    source = anime.get('source', '').lower()
+                                    # No Japanese studio → still might be Japanese
+                                    # Default to True, only mark False if clear non-Japanese indicators
                                     is_likely_japanese = True
                                     
-                                    # Check for Korean indicators
+                                    # Check for Korean/Chinese production indicators
                                     korean_indicators = ['netmarble', 'kakao', 'naver', 'webtoon', 'd&c media']
                                     chinese_indicators = ['tencent', 'bilibili', 'haoliners']
                                     
-                                    # Mark as non-Japanese only if clear indicators and no Japanese studio
+                                    # Only mark as non-Japanese if clear Korean/Chinese production
                                     if any(indicator in producer.lower() for producer in producer_names for indicator in korean_indicators):
                                         is_likely_japanese = False
                                     elif any(indicator in producer.lower() for producer in producer_names for indicator in chinese_indicators):
@@ -164,14 +169,13 @@ def fetch_anime_data(current_years_only=False):
                         print(f"  [ERROR] Status {response.status_code}")
                         has_next_page = False
                 
-                # Save data if we got any anime
+                # Data preservation: save new data or keep existing data
+                data_path = pathlib.Path(f"data/{year}")
+                data_path.mkdir(parents=True, exist_ok=True)
+                file_path = data_path / f"{season}.json"
+                
                 if anime_list:
-                    # Create directory structure
-                    data_path = pathlib.Path(f"data/{year}")
-                    data_path.mkdir(parents=True, exist_ok=True)
-                    
-                    # Save data to JSON file
-                    file_path = data_path / f"{season}.json"
+                    # We got data from API - save it
                     with open(file_path, 'w', encoding='utf-8') as f:
                         json.dump(anime_list, f, ensure_ascii=False, indent=2)
                     
@@ -183,6 +187,24 @@ def fetch_anime_data(current_years_only=False):
                         "season": season,
                         "count": len(anime_list)
                     })
+                else:
+                    # No data from API - preserve existing data if available
+                    if file_path.exists():
+                        try:
+                            with open(file_path, 'r', encoding='utf-8') as f:
+                                existing_data = json.load(f)
+                            print(f"[PRESERVED] No new data from API, keeping existing {len(existing_data)} anime")
+                            
+                            # Add existing data to manifest
+                            available_seasons.append({
+                                "year": year,
+                                "season": season,
+                                "count": len(existing_data)
+                            })
+                        except Exception as e:
+                            print(f"[ERROR] Could not read existing file: {e}")
+                    else:
+                        print(f"[SKIP] No anime found for {year} {season}")
                 
                 # Rate limiting between seasons
                 time.sleep(2)  # Increased to 2 seconds to avoid rate limiting
