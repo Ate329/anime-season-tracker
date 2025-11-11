@@ -4,7 +4,7 @@
 
 A beautiful, free anime tracker that helps you explore seasonal anime from 2006 onwards. Automatically updated weekly with the latest releases!
 
-🌐 **Live Site**: [anime.ate329.com](https://anime.ate329.com)
+🌐 **Live Site**: [anime.ate329.com](https://anime.ate329.com)    
 
 ![Stack: 100% Free](https://img.shields.io/badge/Stack-Free%20100%25-brightgreen) ![Auto Updates](https://img.shields.io/badge/Updates-Automated-blue) ![Data Source](https://img.shields.io/badge/Data-MyAnimeList-2E51A2) ![Open Source](https://img.shields.io/badge/Open%20Source-MIT-yellow)
 
@@ -104,6 +104,7 @@ All data comes from [MyAnimeList](https://myanimelist.net/) via the [Jikan API](
 ## 🗓️ To Do
 
 - [ ] **🌏 Chinese Translation**
+- [ ] **Minor bug fixes** - Keep the button to MAL always at the bottom of the box
 - [ ] **⭐ My Personal Recommendations** - :)
 - [ ] **🔍 Search Functionality** - Search anime by title across all seasons
 - [ ] **🌙 Dark Mode** - Toggle between light and dark themes
