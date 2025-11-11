@@ -118,7 +118,7 @@ This project is not affiliated with or endorsed by MyAnimeList. All anime data, 
 
 ## 📄 License
 
-MIT License - Free to use and modify
+[MIT License](LICENSE) - Free to use and modify
 
 ---
 
