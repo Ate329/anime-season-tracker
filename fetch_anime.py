@@ -9,20 +9,29 @@ def fetch_anime_data(current_years_only=False):
     """
     Fetches anime data from Jikan API and organizes it by year and season.
     Creates a manifest.json file listing all available season data.
+    
+    The script automatically fetches data from START_YEAR to current year + 1,
+    so it will always include new years without manual updates.
+    
+    Args:
+        current_years_only (bool): If True, only fetch current and next year.
+                                   If False, fetch all years from START_YEAR.
     """
+    # Configuration: Starting year for data collection (change if needed)
+    START_YEAR = 2010
+    
     # Get current year
     current_year = datetime.date.today().year
     
     # Define years to fetch based on mode
     if current_years_only:
         # Only fetch current and next year (for weekly updates)
-        years = [current_year, current_year + 1]
+        years = list(range(current_year, current_year + 2))
         print(f"Mode: Current years only ({current_year}, {current_year + 1})")
     else:
-        # Fetch all years (for quarterly updates)
-        years = [2010, 2011, 2012, 2013, 2014, 2015, 2016, 2017, 2018, 
-                 2019, 2020, 2021, 2022, 2023, 2024, current_year, current_year + 1]
-        print(f"Mode: All years (2019-{current_year + 1})")
+        # Fetch all years dynamically from START_YEAR to current + 1 (for quarterly updates)
+        years = list(range(START_YEAR, current_year + 2))
+        print(f"Mode: All years ({START_YEAR}-{current_year + 1})")
     
     # Define seasons
     seasons = ["winter", "spring", "summer", "fall"]
