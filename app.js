@@ -9,10 +9,12 @@ let allGenres = []; // All available genres for current season
 let filterMode = 'OR'; // 'OR' or 'AND' - default is OR
 let currentYear = null;
 let currentSeason = null;
+let ratingTrendChart = null; // Chart.js instance
 
 // Initialize app
 document.addEventListener('DOMContentLoaded', () => {
     loadManifest();
+    loadRatingTrend();
     setupHentaiToggles();
     setupNotRatedToggle();
     setupJapaneseOnlyToggle();
@@ -639,6 +641,164 @@ function showError(message) {
             <p class="text-red-800 font-semibold">${message}</p>
         </div>
     `;
+}
+
+/**
+ * Load and display rating trend
+ */
+async function loadRatingTrend() {
+    try {
+        const response = await fetch('data/rating-trend.json');
+        if (!response.ok) {
+            console.log('Rating trend data not available');
+            document.getElementById('rating-trend-section').style.display = 'none';
+            return;
+        }
+        
+        const trendData = await response.json();
+        
+        // Update statistics
+        document.getElementById('overall-avg').textContent = trendData.overall_average.toFixed(2);
+        document.getElementById('highest-avg').textContent = trendData.max_rating.toFixed(2);
+        document.getElementById('lowest-avg').textContent = trendData.min_rating.toFixed(2);
+        
+        // Create the chart
+        const ctx = document.getElementById('rating-trend-chart').getContext('2d');
+        
+        // Calculate moving average
+        const movingAvg = calculateMovingAverage(trendData.ratings, 4);
+        
+        ratingTrendChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: trendData.labels,
+                datasets: [
+                    {
+                        label: 'Average Rating',
+                        data: trendData.ratings,
+                        borderColor: '#1f2937',
+                        backgroundColor: 'rgba(31, 41, 55, 0.1)',
+                        borderWidth: 2,
+                        pointRadius: 3,
+                        pointHoverRadius: 5,
+                        tension: 0.1,
+                        fill: true
+                    },
+                    {
+                        label: 'Moving Average (4 seasons)',
+                        data: movingAvg,
+                        borderColor: '#ef4444',
+                        backgroundColor: 'transparent',
+                        borderWidth: 3,
+                        borderDash: [5, 5],
+                        pointRadius: 0,
+                        tension: 0.1
+                    }
+                ]
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        display: true,
+                        position: 'top',
+                        labels: {
+                            font: {
+                                size: 12,
+                                weight: '600'
+                            }
+                        }
+                    },
+                    tooltip: {
+                        mode: 'index',
+                        intersect: false,
+                        backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                        padding: 12,
+                        titleFont: {
+                            size: 14,
+                            weight: 'bold'
+                        },
+                        bodyFont: {
+                            size: 13
+                        },
+                        callbacks: {
+                            label: function(context) {
+                                let label = context.dataset.label || '';
+                                if (label) {
+                                    label += ': ';
+                                }
+                                if (context.parsed.y !== null) {
+                                    label += context.parsed.y.toFixed(2);
+                                }
+                                return label;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: 'Season',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        ticks: {
+                            maxRotation: 45,
+                            minRotation: 45,
+                            autoSkip: true,
+                            maxTicksLimit: 20
+                        }
+                    },
+                    y: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: 'Average Rating',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        min: Math.floor(trendData.min_rating - 0.3),
+                        max: Math.ceil(trendData.max_rating + 0.3),
+                        ticks: {
+                            stepSize: 0.2
+                        }
+                    }
+                },
+                interaction: {
+                    mode: 'nearest',
+                    axis: 'x',
+                    intersect: false
+                }
+            }
+        });
+        
+    } catch (error) {
+        console.error('Error loading rating trend:', error);
+        document.getElementById('rating-trend-section').style.display = 'none';
+    }
+}
+
+/**
+ * Calculate moving average
+ */
+function calculateMovingAverage(data, windowSize) {
+    const result = [];
+    for (let i = 0; i < data.length; i++) {
+        if (i < windowSize - 1) {
+            result.push(null);
+        } else {
+            const sum = data.slice(i - windowSize + 1, i + 1).reduce((a, b) => a + b, 0);
+            result.push(sum / windowSize);
+        }
+    }
+    return result;
 }
 
 /**

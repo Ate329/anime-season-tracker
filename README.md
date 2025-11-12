@@ -15,6 +15,7 @@ A beautiful, free anime tracker that helps you explore seasonal anime from 2006 
 - 📅 **Browse by Season** - Explore anime from 2006 onwards
 - 🎯 **Smart Filtering** - Genre filters with OR/AND logic
 - 📊 **Rich Information** - Studios, ratings, synopses, themes, and more
+- 📈 **Rating Trends** - Interactive graphs showing how ratings evolve over time
 - 💫 **Modern Design** - Smooth animations and responsive layout
 - 🔄 **Auto-Updated** - Weekly updates powered by GitHub Actions
 - 🆓 **100% Free** - No ads, no tracking, no payments
@@ -47,10 +48,12 @@ anime-season-tracker/
 ├── index.html              # Main website
 ├── app.js                  # Frontend logic
 ├── fetch_anime.py          # Data fetching script
+├── generate_rating_graph.py # Rating trend graph generator
 ├── requirements.txt        # Python dependencies
 ├── README.md              # This file
 ├── data/                  # Anime data (JSON)
 │   ├── manifest.json      # Index of all seasons
+│   ├── rating-trend.json  # Rating trend data for web
 │   ├── 2006/
 │   │   ├── winter.json
 │   │   ├── spring.json
@@ -58,10 +61,12 @@ anime-season-tracker/
 │   │   └── fall.json
 │   ├── 2011/ ... 2026/    # More years
 │   └── ...
+├── assets/
+│   └── rating-trend.png   # Rating trend graph for README
 └── .github/
     └── workflows/         # GitHub Actions
-        ├── update-current-years.yml  # Weekly updates
-        └── update-all-years.yml      # Quarterly updates
+        ├── update-current-years.yml  # Weekly updates + graph
+        └── update-all-years.yml      # Quarterly updates + graph
 ```
 
 ---
@@ -74,6 +79,20 @@ anime-season-tracker/
 - **Updates**: 
   - Weekly: Current & next year
   - Quarterly: All historical data
+
+---
+
+## 📈 Rating Trends
+
+Watch how anime ratings have evolved over time! This graph shows the average MyAnimeList rating for each season from 2010 onwards.
+
+![Anime Rating Trend](assets/rating-trend.png)
+
+**Key Insights:**
+- **Overall Average**: ~6.86 ⭐
+- Ratings have remained relatively stable over the years
+- Recent seasons (2022-2024) show a slight upward trend
+- The moving average helps identify long-term patterns
 
 ---
 

@@ -28,16 +28,19 @@ jobs:
       - name: Install dependencies
         run: |
           pip install --upgrade pip
-          pip install requests
+          pip install -r requirements.txt
       
       - name: Run anime fetch script (current years only)
         run: python fetch_anime.py --current-years-only
       
+      - name: Generate rating trend graph
+        run: python generate_rating_graph.py
+      
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Data: Weekly update for current years'
-          file_pattern: 'data/*'
+          commit_message: 'Data: Weekly update for current years + rating graph'
+          file_pattern: 'data/* assets/*'
           commit_user_name: 'Anime Tracker Bot'
           commit_user_email: 'bot@anime-tracker.local'
           commit_author: 'Anime Tracker Bot <bot@anime-tracker.local>'
