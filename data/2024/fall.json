@@ -3,12 +3,25 @@
     "mal_id": 57334,
     "title": "Dandadan",
     "title_english": "Dan Da Dan",
+    "title_japanese": "ダンダダン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1584/143719l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/V3xNYDFsnN8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Reeling from her recent breakup, Momo Ayase, a popular high schooler, shows kindness to her socially awkward schoolmate, Ken Takakura, by standing up to his bullies. Takakura misunderstands her intentions, believing he has made a new friend who shares his obsession with aliens and UFOs. However, Momo's own eccentric occult beliefs lie in the supernatural realm; she thinks aliens do not exist. A rivalry quickly brews as each becomes determined to prove the other wrong.\n\nDespite their initial clash over their opposing beliefs, Momo and Takakura form an unexpected but intimate friendship, a bond forged in a series of supernatural battles and bizarre encounters with urban legends and paranormal entities. As both develop unique superhuman abilities, they learn to supplement each other's weaknesses, leading them to wonder if their newfound partnership may be about more than just survival.\n\n[Written by MAL Rewrite]",
+    "background": "Dandadan aired on MBS and TBS' Super Animeism Turbo block.",
     "episodes": 12,
     "score": 8.46,
-    "scored_by": 521997,
+    "scored_by": 522416,
+    "rank": 172,
+    "popularity": 237,
+    "members": 868725,
+    "favorites": 14379,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Science SARU"
@@ -20,14 +33,21 @@
       "Mainichi Broadcasting System",
       "Shueisha"
     ],
+    "licensors": [
+      "GKIDS"
+    ],
     "genres": [
       "Action",
       "Comedy",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2024-12-20T00:00:00+00:00",
+    "broadcast": "Fridays at 00:26 (JST)",
     "url": "https://myanimelist.net/anime/57334/Dandadan",
     "year": 2024,
     "season": "fall",
@@ -38,12 +58,29 @@
     "mal_id": 54857,
     "title": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season",
     "title_english": "Re:ZERO -Starting Life in Another World- Season 3",
+    "title_japanese": "Re:ゼロから始める異世界生活 3rd season",
+    "title_synonyms": [
+      "Re: Life in a different world from zero 3rd Season",
+      "ReZero 3rd Season",
+      "Re:Zero - Starting Life in Another World 3"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1706/144725l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/qMJNdQFPaHk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "One year after the events at the Sanctuary, Subaru Natsuki trains hard to better face future challenges. The peaceful days come to an end when Emilia receives an invitation to a meeting in the Watergate City of Priestella from none other than Anastasia Hoshin, one of her rivals in the royal selection. Considering the meeting's significance and the potential dangers Emilia could face, Subaru and his friends accompany her.\n\nHowever, as Subaru reconnects with old associates and companions in Priestella, new formidable foes emerge. Driven by fanatical motivations and engaging in ruthless methods to achieve their ambitions, the new enemy targets Emilia and threaten the very existence of the city. Rallying his allies, Subaru must give his all once more to stop their nefarious goals from becoming a concrete reality.\n\n[Written by MAL Rewrite]",
+    "background": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season is comprised of two arcs. The first eight episodes are subtitled Shuugeki-hen (Attack Arc). The latter eight, subtitled Hangeki-hen (Counterattack Arc), began airing on February 5, 2025. The series was released on Blu-ray and DVD in five volumes from January 24, 2025, to June 25, 2025.",
     "episodes": 16,
     "score": 8.44,
-    "scored_by": 193252,
+    "scored_by": 193561,
+    "rank": 187,
+    "popularity": 562,
+    "members": 451010,
+    "favorites": 6159,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "28 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "White Fox"
@@ -56,6 +93,7 @@
       "Kadokawa",
       "DAXEL"
     ],
+    "licensors": [],
     "genres": [
       "Drama",
       "Fantasy",
@@ -66,8 +104,10 @@
       "Psychological",
       "Time Travel"
     ],
+    "demographics": [],
     "aired_from": "2024-10-02T00:00:00+00:00",
     "aired_to": "2025-03-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/54857/Re_Zero_kara_Hajimeru_Isekai_Seikatsu_3rd_Season",
     "year": 2024,
     "season": "fall",
@@ -78,12 +118,27 @@
     "mal_id": 54865,
     "title": "Blue Lock vs. U-20 Japan",
     "title_english": "Blue Lock Season 2",
+    "title_japanese": "ブルーロック VS. U-20 JAPAN",
+    "title_synonyms": [
+      "Blue Lock 2nd Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1584/144860l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/g9gB5OCtIT4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The next phase of the controversial Blue Lock project is underway with the candidate pool being dwindled down to just 35. Out of the remaining strikers, only a select few will be chosen to play in an upcoming exhibition game against the current U-20 Japanese soccer team. Playing in this match comes with a caveat: winning will grant the players the right to represent the nation as the new U-20 team, but losing will bring an end to Blue Lock in its entirety. Among the ones left in the running is Yoichi Isagi, who is coming to terms with his own abilities.\n\nTo further complicate matters, the six best players in the pool have already been named to the starting lineup and the remaining 29 will have to duke it out to claim a coveted spot. Each candidate must select a top six pairing to team up with for the selection to prove their competence. But if this mishmash of strikers wants to overthrow the current U-20 team, they will need to find a way to combine their playstyles effectively.\n\n[Written by MAL Rewrite]",
+    "background": "Blue Lock vs. U-20 Japan aired on TV Asahi's IMAnimation block. It was released on Blu-ray in two volumes from March 26, 2025, to May 28, 2025.",
     "episodes": 14,
     "score": 7.54,
-    "scored_by": 156295,
+    "scored_by": 156480,
+    "rank": 1900,
+    "popularity": 889,
+    "members": 308551,
+    "favorites": 2257,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "8bit"
@@ -100,14 +155,19 @@
       "Bandai Namco Filmworks",
       "Bandai Namco Music Live"
     ],
+    "licensors": [],
     "genres": [
       "Sports"
     ],
     "themes": [
       "Team Sports"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/54865/Blue_Lock_vs_U-20_Japan",
     "year": 2024,
     "season": "fall",
@@ -118,12 +178,25 @@
     "mal_id": 57181,
     "title": "Ao no Hako",
     "title_english": "Blue Box",
+    "title_japanese": "アオのハコ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1496/147108l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ySnAsuFOH28?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Every morning, incoming first-year Taiki Inomata hurries to his high school gym in order to further refine his badminton skills. However, his true motivation stems from sharing the otherwise empty gym with second-year Chinatsu Kano, Taiki's crush and the star player of the girls' basketball team. Although Chinatsu seems unapproachable, Taiki gradually finds opportunities to get to know her little by little.\n\nUnbeknownst to Taiki, his tireless work ethic and admiration motivate Chinatsu to work harder and strive to achieve her greatest ambitions. When her family must suddenly move overseas for work, Chinatsu decides to remain in Japan and shoot for victory at the national level. With nowhere to stay, she is taken in by Taiki's mother, who is longtime friends with Chinatsu's own. Overwhelmed with the new reality of living alongside the girl he loves, Taiki resolves to join Chinatsu at the national level in his own sport—and grow closer to her in the process.\n\nStill, despite being good enough to catch his coach's eye, Taiki must fight an uphill battle to qualify for a spot on the starting team. Cheered on by both Chinatsu and gymnast Hina Chouno, his childhood friend, Taiki aims to make a name for himself among his powerful upperclassmen.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 8.18,
-    "scored_by": 128789,
+    "scored_by": 128910,
+    "rank": 437,
+    "popularity": 922,
+    "members": 293575,
+    "favorites": 3900,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Telecom Animation Film"
@@ -136,6 +209,7 @@
       "TMS Music",
       "Unlimited Produce by TMS"
     ],
+    "licensors": [],
     "genres": [
       "Romance",
       "Sports"
@@ -145,8 +219,12 @@
       "School",
       "Team Sports"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-03T00:00:00+00:00",
     "aired_to": "2025-03-27T00:00:00+00:00",
+    "broadcast": "Thursdays at 23:56 (JST)",
     "url": "https://myanimelist.net/anime/57181/Ao_no_Hako",
     "year": 2024,
     "season": "fall",
@@ -157,12 +235,27 @@
     "mal_id": 56784,
     "title": "Bleach: Sennen Kessen-hen - Soukoku-tan",
     "title_english": "Bleach: Thousand-Year Blood War - The Conflict",
+    "title_japanese": "BLEACH 千年血戦篇-相剋譚-",
+    "title_synonyms": [
+      "Bleach: Thousand-Year Blood War Arc Part 3"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1595/144074l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/tShYCQALuH8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After an awe-inspiring battle with Ichibei Hyousube—leader of the Soul Society's Royal Guard—the powerful Yhwach moves into the final stage of his master plan. He aims to slay the Soul King, the being whose very existence maintains the status quo of three worlds: Hueco Mundo, the Soul Society, and the realm of humans that Ichigo Kurosaki and his closest friends hail from. Conquering his own bout with the remainder of the Royal Guard, Uryuu Ishida joins Yhwach in his efforts to create a new world in his image.\n\nWith a flood of resolution and newfound power, Ichigo rushes to stop Yhwach from accomplishing his ultimate goal and save the countless lives within the three existing realms. But Ichigo has a complicated lineage, one that leaves him susceptible to Yhwach's sinister influence.\n\nMeanwhile, in a final desperate gambit, Jirou Sakuranosuke Shunsui Kyouraku, the newly promoted head captain of the Soul Society's combat corps, enlists the help of an old enemy whose immense power may turn the tide of battle.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 14,
     "score": 8.67,
-    "scored_by": 135994,
+    "scored_by": 136201,
+    "rank": 75,
+    "popularity": 1028,
+    "members": 264464,
+    "favorites": 3505,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Pierrot Films"
@@ -175,14 +268,19 @@
       "Shueisha",
       "Zack Promotion"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/56784/Bleach__Sennen_Kessen-hen_-_Soukoku-tan",
     "year": 2024,
     "season": "fall",
@@ -193,12 +291,27 @@
     "mal_id": 52215,
     "title": "Chi. Chikyuu no Undou ni Tsuite",
     "title_english": "Orb: On the Movements of the Earth",
+    "title_japanese": "チ。―地球の運動について―",
+    "title_synonyms": [
+      "About the Movement of the Earth"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1749/145922l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Aju1yusWVKo?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Twelve-year-old prodigy Rafal believes in living rationally, so as to earn praise and respect from society while not being led astray by his emotions. To this end, he publicly states his intention to study theology—the academic field held in highest regard in early 15th century Poland. However, an encounter with a mysterious man upends Rafal's life, sparking an illogical desire to instead pursue his passion for astronomy.\n\nRafal is determined to prove the beauty and rationality of heliocentrism—the theory that the Earth revolves around the Sun. This belief is considered heretical by the powerful Church, which promotes geocentrism—the Sun revolving around the Earth—as the sole truth of the universe. Those whose beliefs do not align with the will of the Church suffer unfathomably gruesome consequences.\n\nIn pursuit of evidence for a heliocentric model of the universe, Rafal grapples with obtaining precise calculations and building empirical theories. His greatest challenge, however, lies in conducting this research discreetly—lest he wish to meet the same fate as other heretics.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 8.7,
-    "scored_by": 96850,
+    "scored_by": 97031,
+    "rank": 67,
+    "popularity": 1094,
+    "members": 248226,
+    "favorites": 5817,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -209,14 +322,19 @@
       "NHK Enterprises",
       "SKY Perfect Pictures"
     ],
+    "licensors": [],
     "genres": [
       "Drama"
     ],
     "themes": [
       "Historical"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2025-03-15T00:00:00+00:00",
+    "broadcast": "Saturdays at 23:45 (JST)",
     "url": "https://myanimelist.net/anime/52215/Chi_Chikyuu_no_Undou_ni_Tsuite",
     "year": 2024,
     "season": "fall",
@@ -227,12 +345,27 @@
     "mal_id": 40333,
     "title": "Uzumaki",
     "title_english": "Uzumaki: Spiral Into Horror",
+    "title_japanese": "うずまき",
+    "title_synonyms": [
+      "The Spiral"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1207/146272l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/2ivmweJQaco?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In the town of Kurouzu-cho, Kirie Goshima lives a fairly normal life with her family. As she walks to the train station one day to meet her boyfriend, Shuuichi Saito, she sees his father staring at a snail shell in an alley. Thinking nothing of it, she mentions the incident to Shuuichi, who says that his father has been acting weird lately. Shuuichi reveals his rising desire to leave the town with Kirie, saying that the town is infected with spirals.\n\nBut his father's obsession with the shape soon proves deadly, beginning a chain of horrific and unexplainable events that causes the residents of Kurouzu-cho to spiral into madness.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 4,
     "score": 5.7,
-    "scored_by": 71629,
+    "scored_by": 71660,
+    "rank": 11812,
+    "popularity": 1145,
+    "members": 238901,
+    "favorites": 1237,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "28 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Akatsuki",
@@ -240,6 +373,9 @@
     ],
     "producers": [
       "Production I.G"
+    ],
+    "licensors": [
+      "VIZ Media"
     ],
     "genres": [
       "Avant Garde",
@@ -250,8 +386,12 @@
     "themes": [
       "Psychological"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-09-28T00:00:00+00:00",
     "aired_to": "2024-10-19T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/40333/Uzumaki",
     "year": 2024,
     "season": "fall",
@@ -262,12 +402,28 @@
     "mal_id": 58572,
     "title": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su 2nd Season",
     "title_english": "Shangri-La Frontier Season 2",
+    "title_japanese": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd season",
+    "title_synonyms": [
+      "Shangri-La Frontier: Crappy Game Hunter Challenges God-Tier Game",
+      "Shanfro"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1996/147601l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/7HSDKDCAHX8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Ever since Rakurou \"Sunraku\" Hizutome started to play the extremely popular virtual reality game Shangri-La Frontier, he has truly fallen in love with it. Sunraku has quickly made a big name for himself by fighting two of the seven unique, nearly unbeatable monsters, which is unthinkable for most players. To progress the game's story, he sets out on an adventure with his leporine guide, Emul, to acquire a magic operation unit from an ancient workshop.\n\nThough Sunraku breezes through this quest alongside his clanmates Towa \"Arthur Pencilgon\" Amane and Kei \"OiKatzo\" Uomi, there seems to be an ulterior motive as to why the two of them decided to help Sunraku in the first place. Nevertheless, Sunraku gains valuable knowledge and allies, critical for his advancement in the game. By seeking out powerful enemies and unraveling the inner workings of the game's world, Sunraku may just change Shangri-La Frontier forever.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 8.26,
-    "scored_by": 113999,
+    "scored_by": 114157,
+    "rank": 341,
+    "popularity": 1160,
+    "members": 235875,
+    "favorites": 1447,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "C2C"
@@ -281,6 +437,7 @@
       "Tencent Games",
       "Netmarble"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -289,8 +446,12 @@
     "themes": [
       "Video Game"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-13T00:00:00+00:00",
     "aired_to": "2025-03-30T00:00:00+00:00",
+    "broadcast": "Sundays at 17:00 (JST)",
     "url": "https://myanimelist.net/anime/58572/Shangri-La_Frontier__Kusoge_Hunter_Kamige_ni_Idoman_to_su_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -301,12 +462,28 @@
     "mal_id": 57066,
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka V: Houjou no Megami-hen",
     "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? V",
+    "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうかV 豊穣の女神篇",
+    "title_synonyms": [
+      "DanMachi 5th Season",
+      "Is It Wrong That I Want to Meet You in a Dungeon 5th Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1299/144738l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/8UJbzK14gto?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Goddess Festival—A fruit festival that brings the labyrinth city of Orario to life. Goddesses symbolizing fertility are enshrined on the altar, and among them is the Goddess of Beauty. Bell Cranel, who has survived and returned to his daily life from the dead depths of the dungeon, is here and ready to enjoy the bustle of the Goddess Festival until he receives a letter from a girl at a small bar in a corner of Orario—\"To Mr. Bell, please go on a date with just the two of us at the upcoming Goddess Festival. From Syr.\" Syr's single-minded determination will drive both Bell and the labyrinth city crazy. Meanwhile, the Einherjar, the warriors who claim to be the \"strongest,\" are now suddenly on the move...\n\n(Source: HIDIVE)",
+    "background": "",
     "episodes": 15,
     "score": 7.89,
-    "scored_by": 82175,
+    "scored_by": 82287,
+    "rank": 883,
+    "popularity": 1338,
+    "members": 201549,
+    "favorites": 1135,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "J.C.Staff"
@@ -321,14 +498,19 @@
       "SB Creative",
       "GREE Entertainment"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2025-03-07T00:00:00+00:00",
+    "broadcast": "Saturdays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/57066/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_V__Houjou_no_Megami-hen",
     "year": 2024,
     "season": "fall",
@@ -339,12 +521,27 @@
     "mal_id": 52995,
     "title": "Arifureta Shokugyou de Sekai Saikyou Season 3",
     "title_english": "Arifureta: From Commonplace to World's Strongest Season 3",
+    "title_japanese": "ありふれた職業で世界最強 season 3",
+    "title_synonyms": [
+      "From Common Job Class to the Strongest in the World Season 3"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1553/145597l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/b4HY4UX-EFY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "En route to conquer a Great Labyrinth with his allies and former classmates, Hajime Nagumo is sidetracked by a tragedy that befalls his party member Shea Haulia. After encountering a group of rabbitmen caught in an ambush, Nagumo learns that members of Shea's Haulia Tribe have been abducted by soldiers of the Hoelscher Empire. To alleviate the anxiety of Shea, whose father may be in mortal danger, Nagumo decides to head toward the empire and rescue the missing Haulias.\n\nAfter arriving at his destination, Hajime is caught up in political turmoil between the empire and the Heiligh Kingdom. As princess Liliana S. B. Heiligh tries to formalize an alliance with the empire to protect her weakened kingdom against demon attacks, the Haulia Tribe plans to assassinate Emperor Gahard D. Hoelscher to free all rabbitmen from the empire's threat. Determined to protect his allies at any cost, Hajime will need to ignore all political considerations and unleash his unstoppable power on anyone who may stand in his way.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 16,
     "score": 7.02,
-    "scored_by": 61337,
+    "scored_by": 61405,
+    "rank": 4428,
+    "popularity": 1421,
+    "members": 188661,
+    "favorites": 1085,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "asread."
@@ -361,6 +558,7 @@
       "Sony Music Solutions",
       "Bandai Namco Music Live"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -370,8 +568,10 @@
       "Harem",
       "Isekai"
     ],
+    "demographics": [],
     "aired_from": "2024-10-14T00:00:00+00:00",
     "aired_to": "2025-02-17T00:00:00+00:00",
+    "broadcast": "Mondays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/52995/Arifureta_Shokugyou_de_Sekai_Saikyou_Season_3",
     "year": 2024,
     "season": "fall",
@@ -382,12 +582,25 @@
     "mal_id": 50306,
     "title": "Seirei Gensouki 2",
     "title_english": "Seirei Gensouki: Spirit Chronicles Season 2",
+    "title_japanese": "精霊幻想記2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1087/144583l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/dBXaDjFhOC0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After Rio escapes the capital of the Beltrum Kingdom with his former teacher Celia Claire and his bond spirit, Aishia, he finds himself in a dire situation once again. As it turns out, multiple people from his past life in Japan are suddenly scattered around the new world. Rio rushes to their help, saving a small group and taking them under his wing. To his surprise, one of the rescuees is his old self's childhood friend Miharu Ayase.\n\nThe newcomers were not the only ones summoned. With old friends and new allies by his side, Rio sets out to locate the other abductees while searching for a way to send them back to Japan. However, Rio never loses sight of his main goal: avenging his mother's death.\n\n[Written by MAL Rewrite]",
+    "background": "Seirei Gensouki 2 was released on Blu-ray and DVD in two volumes from January 29, 2025, to February 26, 2025.",
     "episodes": 12,
     "score": 6.87,
-    "scored_by": 64446,
+    "scored_by": 64472,
+    "rank": 5162,
+    "popularity": 1424,
+    "members": 188292,
+    "favorites": 1270,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "TMS Entertainment"
@@ -407,6 +620,7 @@
       "TMS Music",
       "CTW"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -418,8 +632,10 @@
       "Isekai",
       "Reincarnation"
     ],
+    "demographics": [],
     "aired_from": "2024-10-08T00:00:00+00:00",
     "aired_to": "2024-12-24T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/50306/Seirei_Gensouki_2",
     "year": 2024,
     "season": "fall",
@@ -430,12 +646,27 @@
     "mal_id": 59145,
     "title": "Ranma ½ (2024)",
     "title_english": "Ranma ½ (2024)",
+    "title_japanese": "らんま1/2",
+    "title_synonyms": [
+      "Ranma 1/2 (2024)"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1155/144299l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ux3HwkNff8Q?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "During their martial arts training expedition in China, Ranma Saotome and his father Genma suffered an accident, which in turn, afflicted them with a curse—whenever they are doused with cold water, Ranma transforms into a girl, while his father turns into a panda! Only hot water can reverse these changes, but any further contact with cold water opens the can of worms once more.\n\nUnfortunately, the trouble does not end there, as Ranma finds out about his betrothal to one of the daughters of Soun Tendou, his father's closest friend. During the families' first meeting, it is decided that Ranma is to be married to Akane, the youngest daughter, a decision that is met with vehement protests from both sides. The two are simply not compatible, yet they are forced to live under one roof. Ranma's status quo further adds to the chaos, leading him to a series of comedic situations and misunderstandings that, in the grand scheme of things, may just be what he needs to work with Akane.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 8,
-    "scored_by": 74110,
+    "scored_by": 74171,
+    "rank": 711,
+    "popularity": 1702,
+    "members": 151567,
+    "favorites": 1165,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "MAPPA"
@@ -446,6 +677,7 @@
       "Shogakukan",
       "dugout"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Comedy",
@@ -457,8 +689,12 @@
       "Martial Arts",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 00:55 (JST)",
     "url": "https://myanimelist.net/anime/59145/Ranma_½_2024",
     "year": 2024,
     "season": "fall",
@@ -469,12 +705,27 @@
     "mal_id": 58172,
     "title": "Nageki no Bourei wa Intai shitai",
     "title_english": "Let This Grieving Soul Retire",
+    "title_japanese": "嘆きの亡霊は引退したい",
+    "title_synonyms": [
+      "Let This Grieving Soul Retire! Woe Is the Weakling Who Leads the Strongest Party"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1679/145660l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/g_DvFLdgBFI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As dungeon-like treasure vaults started appearing throughout the land, more and more people began signing up as treasure hunters—risking their lives to obtain the vast riches and ancient relics inside. In the imperial capital of Zebrudia, the top hunter party is the Grieving Souls—a group of six childhood friends led by Krai Andrey, who is thought to be the strongest of them due to having a reputed wide array of skills.\n\nHowever, Krai actually has no special talent. His accomplishments are actually the result of his friends being overpowered. Krai has repeatedly attempted to leave the party out of fear his lack of aptitudes would one day cause his companions' downfall. Nevertheless, everyone around Krai thinks differently, making him feel obligated to remain the group's leader.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.04,
-    "scored_by": 66105,
+    "scored_by": 66218,
+    "rank": 4373,
+    "popularity": 1789,
+    "members": 142999,
+    "favorites": 451,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Zero-G"
@@ -487,14 +738,19 @@
       "GREE Entertainment",
       "Saber Links"
     ],
+    "licensors": [
+      "Crunchyroll"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-01T00:00:00+00:00",
     "aired_to": "2024-12-24T00:00:00+00:00",
+    "broadcast": "Tuesdays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/58172/Nageki_no_Bourei_wa_Intai_shitai",
     "year": 2024,
     "season": "fall",
@@ -505,12 +761,25 @@
     "mal_id": 56964,
     "title": "Raise wa Tanin ga Ii",
     "title_english": "Yakuza Fiancé: Raise wa Tanin ga Ii",
+    "title_japanese": "来世は他人がいい",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1428/143773l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/QpdoydykBOA?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After years of animosity, the leaders of Osaka's Somei and Tokyo's Miyama yakuza groups have called a truce—by arranging an engagement between their respective grandchildren, Yoshino Somei and Kirishima Miyama. To this end, 17-year-old Yoshino moves to Tokyo to live with the Miyama family and attend school with her new fiancé. Although Kirishima is all smiles and perfectly polite, there is something unsettling about his demeanor that Yoshino cannot put her finger on.\n\nYoshino's suspicions are soon confirmed: despite his manners, Kirishima is a masochistic maniac. He hurts people without batting an eye and also revels in being punished verbally and physically himself. What he wants most is a spoiled and arrogant fiancée who will ruin his life. When Yoshino does not quite meet his expectations, he reveals his true colors and openly insults her. However, instead of running away in fear, Yoshino decides to take revenge by making Kirishima fall in love with her and then ruthlessly breaking his heart.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.18,
-    "scored_by": 57246,
+    "scored_by": 57344,
+    "rank": 3600,
+    "popularity": 1800,
+    "members": 141969,
+    "favorites": 741,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Deen"
@@ -525,14 +794,19 @@
       "arma bianca",
       "SKY Perfect Pictures"
     ],
+    "licensors": [],
     "genres": [
       "Romance"
     ],
     "themes": [
       "Organized Crime"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-07T00:00:00+00:00",
     "aired_to": "2024-12-23T00:00:00+00:00",
+    "broadcast": "Mondays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/56964/Raise_wa_Tanin_ga_Ii",
     "year": 2024,
     "season": "fall",
@@ -543,12 +817,25 @@
     "mal_id": 58714,
     "title": "Saikyou no Shienshoku \"Wajutsushi\" de Aru Ore wa Sekai Saikyou Clan wo Shitagaeru",
     "title_english": "The Most Notorious \"Talker\" Runs the World's Greatest Clan",
+    "title_japanese": "最凶の支援職【話術士】である俺は世界最強クランを従える",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1683/145446l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/A1kcb7MUczM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Noel longs to be a Seeker like his heroic grandfather, slaying the beasts that emerge from Abysses and exploring far-off lands. Unfortunately, it turns out he's nothing but a measly Talker–a job with no combat skills whatsoever. Undaunted, Noel sets out to establish the strongest clan in all the land, using his silver-tongued Talker skills to unite assassins and heroes under his leadership.\n\n(Source: Seven Seas Entertainment)",
+    "background": "",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 69781,
+    "scored_by": 69862,
+    "rank": 1700,
+    "popularity": 1846,
+    "members": 137547,
+    "favorites": 659,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "Felix Film",
@@ -568,14 +855,19 @@
       "Bushiroad Move",
       "GREE Entertainment"
     ],
+    "licensors": [
+      "Crunchyroll"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-07T00:00:00+00:00",
     "aired_to": "2024-12-23T00:00:00+00:00",
+    "broadcast": "Mondays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/58714/Saikyou_no_Shienshoku_Wajutsushi_de_Aru_Ore_wa_Sekai_Saikyou_Clan_wo_Shitagaeru",
     "year": 2024,
     "season": "fall",
@@ -586,12 +878,27 @@
     "mal_id": 57891,
     "title": "Hitoribocchi no Isekai Kouryaku",
     "title_english": "Loner Life in Another World",
+    "title_japanese": "ひとりぼっちの異世界攻略",
+    "title_synonyms": [
+      "Lonely Attack on the Different World"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1714/145320l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/aLrRmw4hlUM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "High school student Haruka has always been a content loner. One day, he and his class are abruptly transported to another world and given skill points to use when choosing from an assortment of abilities and magical powers. Unfortunately, Haruka arrives last, and he can only use his points on the seemingly impractical abilities the others had no interest in. Although he is on his own again and must adjust to his new life by himself, he much prefers it that way.\n\nHowever, Haruka's peaceful solitude is short-lived, as he runs into some of his classmates. Weak to their pleas for help, he ends up sheltering and helping them reunite with the others. But the different cliques struggle to see eye to eye, forcing Haruka to find a way to end the infighting and restore harmony between them to survive the unfamiliar world.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.56,
-    "scored_by": 63890,
+    "scored_by": 63958,
+    "rank": 6957,
+    "popularity": 1877,
+    "members": 135693,
+    "favorites": 517,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Passione",
@@ -605,6 +912,9 @@
       "Overlap",
       "GREE Entertainment"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -613,8 +923,10 @@
     "themes": [
       "Isekai"
     ],
+    "demographics": [],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2024-12-20T00:00:00+00:00",
+    "broadcast": "Fridays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/57891/Hitoribocchi_no_Isekai_Kouryaku",
     "year": 2024,
     "season": "fall",
@@ -625,12 +937,25 @@
     "mal_id": 57611,
     "title": "Kimi wa Meido-sama.",
     "title_english": "You are Ms. Servant.",
+    "title_japanese": "君は冥土様。",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1909/144684l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/kRL2nBz7Z6E?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "One day, Hitoyoshi Yokoya wakes up to a mysterious nameless girl dressed as a maid ringing his doorbell, asking to be his servant. With her former master referring her to the Yokoya household, she offers her expertise as an assassin. Intimidated by her background, Hitoyoshi tries to send her away; but when she leaves something behind, he rushes to return it to her and is nearly hit by a truck in the process. With her fast reflexes, the girl saves him just in time, and Hitoyoshi ends up taking her in. \n\nIronically, the maid lacks any skills apart from the art of killing she has perfected since childhood. Nevertheless, Hitoyoshi welcomes the girl with open arms, encouraging her to leave her monochromatic past behind and experience a normal life. To seal the deal, Hitoyoshi names her Yuki, marking the beginning of her path to redemption and happiness.\n\n[Written by MAL Rewrite]",
+    "background": "Kimi wa Meido-sama. aired on TV Asahi's NUMAnimation block. The series was released on Blu-ray in a box set on March 26, 2025.",
     "episodes": 12,
     "score": 7.06,
-    "scored_by": 48761,
+    "scored_by": 48782,
+    "rank": 4231,
+    "popularity": 1923,
+    "members": 131247,
+    "favorites": 484,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Felix Film"
@@ -645,13 +970,16 @@
       "BS Asahi",
       "TV Asahi Music"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/57611/Kimi_wa_Meido-sama",
     "year": 2024,
     "season": "fall",
@@ -662,12 +990,28 @@
     "mal_id": 54853,
     "title": "Maou 2099",
     "title_english": "Demon Lord 2099",
+    "title_japanese": "魔王2099",
+    "title_synonyms": [
+      "Ken to Maou no Cyberpunk",
+      "The Lord Of Immortals Blooming in The Abyss F.E. 2099"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1675/144605l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/eZnTZ05dsKs?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Five hundred years ago, the fantasy world of Alneath was torn apart by a war between magically gifted immortals and mortals armed with magical artifacts. The conflict came to an end when mortals' hero, Gram, slayed the Demon Lord Veltol Velvet Velsvolt. In 2099, the world looks a bit different. Alneath and technologically advanced Earth have fused in an event known as Fantasion. Immortals have been hunted down to near extinction, and technological implants called Familia allow mortals to use magic.\n\nAs the new world slowly recovers, Veltol's vassal Machina Solege resurrects him in Shinjuku, a techno-magical city constructed in the middle of devastated lands. However, Veltol's magic is severely weakened, and his former ally Marcus has betrayed him. To regain his fame and magical abilities, Veltol follows the advice of Takahashi—Machina's friend and a professional hacker—to start an unusual career: live streaming. His sharp tongue and comically poor gaming skills quickly secure him followers, but to dominate the world once again, Veltol must first uncover Shinjuku's secrets and thwart Marcus' vile plans.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.42,
-    "scored_by": 56244,
+    "scored_by": 56298,
+    "rank": 2342,
+    "popularity": 1937,
+    "members": 129532,
+    "favorites": 396,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "J.C.Staff"
@@ -678,6 +1022,7 @@
       "BS11",
       "Kadokawa"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Fantasy",
@@ -686,8 +1031,10 @@
     "themes": [
       "Urban Fantasy"
     ],
+    "demographics": [],
     "aired_from": "2024-10-13T00:00:00+00:00",
     "aired_to": "2024-12-29T00:00:00+00:00",
+    "broadcast": "Sundays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/54853/Maou_2099",
     "year": 2024,
     "season": "fall",
@@ -698,12 +1045,30 @@
     "mal_id": 59989,
     "title": "Kami no Tou: Koubou-sen",
     "title_english": "Tower of God Season 2: Workshop Battle",
+    "title_japanese": "神之塔 -Tower of God- 工房戦",
+    "title_synonyms": [
+      "Sin-ui Tap",
+      "신의 탑",
+      "Kami no Tou 2nd Season",
+      "Tower of God: Workshop Battle"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1877/145819l.jpg",
+    "trailer_url": null,
     "synopsis": "Second part of Tower of God Season 2.",
+    "background": "",
     "episodes": 13,
     "score": 6.89,
-    "scored_by": 61912,
+    "scored_by": 61945,
+    "rank": 5057,
+    "popularity": 1942,
+    "members": 129226,
+    "favorites": 269,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "The Answer Studio"
@@ -714,6 +1079,7 @@
       "Bandai Namco Filmworks",
       "Line Digital Frontier"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -722,8 +1088,10 @@
       "Mystery"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-29T00:00:00+00:00",
+    "broadcast": "Sundays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/59989/Kami_no_Tou__Koubou-sen",
     "year": 2024,
     "season": "fall",
@@ -734,17 +1102,31 @@
     "mal_id": 56894,
     "title": "Dragon Ball Daima",
     "title_english": "Dragon Ball Daima",
+    "title_japanese": "ドラゴンボール ダイマ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1723/145231l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ezbYAglQoxI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After saving the world from the destructive might of Majin Buu, Gokuu Son and his allies look forward to a well-earned rest. However, unbeknownst to them, their battle was recorded and observed by Gomah, an evil being who assumes the title of King in the Demon Realm, filling the void left behind with the death of former ruler Dabura.\n\nAt Gomah's side is Degesu, the younger brother of Higashi no Kaioshin, a being who lords over the universe. Jealous of his brother's power, Degesu works alongside Gomah to steal Earth's Dragon Balls and preemptively subdue any potential future enemies. Calling upon the power of the legendary dragon Shenron, Gomah wishes for Gokuu and his friends to be reverted into children, intending to rob them of the limitless power that defeated Buu. With Earth's greatest warriors shrunken down, Gomah abducts Dende, the planet's acting god.\n\nBut Gokuu refuses to be set back by his new body, working to master his younger form to fight as proficiently as he could as an adult. Joined by Kaioshin and Glorio—a mysterious but seemingly rebellious demon—Gokuu pursues Gomah to the Demon Realm in order to rescue Dende and restore his friends to their natural ages.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 20,
     "score": 7.6,
-    "scored_by": 57018,
+    "scored_by": 57078,
+    "rank": 1666,
+    "popularity": 1967,
+    "members": 126918,
+    "favorites": 915,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Toei Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -754,8 +1136,12 @@
     "themes": [
       "Martial Arts"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-11T00:00:00+00:00",
     "aired_to": "2025-02-28T00:00:00+00:00",
+    "broadcast": "Fridays at 23:40 (JST)",
     "url": "https://myanimelist.net/anime/56894/Dragon_Ball_Daima",
     "year": 2024,
     "season": "fall",
@@ -766,12 +1152,29 @@
     "mal_id": 56228,
     "title": "Rekishi ni Nokoru Akujo ni Naru zo",
     "title_english": "I'll Become a Villainess Who Goes Down in History",
+    "title_japanese": "歴史に残る悪女になるぞ",
+    "title_synonyms": [
+      "Rekiaku",
+      "I'll Become a Villainess That Will Go Down in History: The More of a Villainess I Become",
+      "the More the Prince will Dote on Me"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1005/145339l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/1BhTUhaugxo?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The kind and compassionate heroine of an otome game may be as flawless as she is admirable, but a certain young woman from Japan much prefers the villainess, Alicia Williams. She sees sense in Alicia's ruthless verbal abuse and values her discipline and fortitude. On the other hand, aside from always toying with Prince Duke Seeker's emotions, the commoner heroine seems to only spout lip service.\n\nGiven the choice, the young woman would love to be reincarnated as Alicia—and her wish suddenly comes true! Seven-year-old Alicia awakens with the memories of her past life, now aware of all the future events, outcomes, and the world's secrets. She has no fear; to outsmart the heroine and avoid a bad ending, all Alicia needs is hard work, mastery of her noble family's dark magic, and the determination to become the greatest villainess in history.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.33,
-    "scored_by": 61880,
+    "scored_by": 61943,
+    "rank": 2782,
+    "popularity": 1996,
+    "members": 124368,
+    "favorites": 656,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Maho Film"
@@ -782,6 +1185,7 @@
       "Kadokawa",
       "Bandai Namco Music Live"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy",
@@ -791,8 +1195,12 @@
       "Isekai",
       "Villainess"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2024-10-02T00:00:00+00:00",
     "aired_to": "2024-12-25T00:00:00+00:00",
+    "broadcast": "Wednesdays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/56228/Rekishi_ni_Nokoru_Akujo_ni_Naru_zo",
     "year": 2024,
     "season": "fall",
@@ -803,12 +1211,27 @@
     "mal_id": 59131,
     "title": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season",
     "title_english": "As a Reincarnated Aristocrat, I'll Use My Appraisal Skill to Rise in the World Season 2",
+    "title_japanese": "転生貴族、鑑定スキルで成り上がる 第2期",
+    "title_synonyms": [
+      "Reincarnated as an Aristocrat with an Appraisal Skill Season 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1280/143705l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/7YbYh1WMmxM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Second season of Tensei Kizoku, Kantei Skill de Nariagaru.",
+    "background": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season aired on CBC and TBS' Agaru Anime block.",
     "episodes": 12,
     "score": 7.44,
-    "scored_by": 55349,
+    "scored_by": 55416,
+    "rank": 2289,
+    "popularity": 2104,
+    "members": 116711,
+    "favorites": 307,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "studio MOTHER"
@@ -824,6 +1247,7 @@
       "Bandai Namco Filmworks",
       "Bandai Namco Music Live"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
@@ -832,8 +1256,10 @@
       "Isekai",
       "Reincarnation"
     ],
+    "demographics": [],
     "aired_from": "2024-09-29T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/59131/Tensei_Kizoku_Kantei_Skill_de_Nariagaru_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -844,12 +1270,27 @@
     "mal_id": 55887,
     "title": "Kekkon suru tte, Hontou desu ka",
     "title_english": "365 Days to the Wedding",
+    "title_japanese": "結婚するって、本当ですか 365 Days To The Wedding",
+    "title_synonyms": [
+      "Are You Really Getting Married?"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1969/145469l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/KQGbXUOZTPg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As introverted colleagues at a travel agency in Tokyo, Takuya Oohara and Rika Honjouji both cherish their happily single lives. After work, home is where they feel most at ease: Takuya unwinds with his cat, while Rika studies various maps. However, an uncertain future looms over their treasured tranquility when their company plans to open a branch office in Alaska within one year and transfer an unmarried employee there.\n\nDuring a day off, Takuya and Rika accidentally meet and, despite never having spoken before, open up to each other about their relocation fears. Feeling encouraged by Takuya facing the same predicament, Rika suddenly proposes a daring solution—to pretend to be engaged for 365 days. Takuya accepts, but little do the two know that the path to marriage may, in many ways, change forever the very lifestyles they struggle to preserve.\n\n[Written by MAL Rewrite]",
+    "background": "Kekkon suru tte, Hontou desu ka was released on Blu-ray and DVD in two volumes from December 25, 2024, to January 29, 2025.",
     "episodes": 12,
     "score": 7.12,
-    "scored_by": 47541,
+    "scored_by": 47567,
+    "rank": 3922,
+    "popularity": 2125,
+    "members": 114764,
+    "favorites": 355,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Ashi Productions"
@@ -861,6 +1302,7 @@
       "BS11",
       "Rakuten"
     ],
+    "licensors": [],
     "genres": [
       "Romance"
     ],
@@ -868,8 +1310,12 @@
       "Adult Cast",
       "Workplace"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-03T00:00:00+00:00",
     "aired_to": "2024-12-19T00:00:00+00:00",
+    "broadcast": "Thursdays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/55887/Kekkon_suru_tte_Hontou_desu_ka",
     "year": 2024,
     "season": "fall",
@@ -880,12 +1326,27 @@
     "mal_id": 55994,
     "title": "Sword Art Online Alternative: Gun Gale Online II",
     "title_english": "Sword Art Online Alternative: Gun Gale Online II",
+    "title_japanese": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+    "title_synonyms": [
+      "SAO Alternative Gun Gale Online II"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1335/145505l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/y0v2lH6IRrc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A new tournament, Squad Jam 3, has been announced in the popular VR game Gun Gale Online. This time, Pitohui, one of the best performers in the previous competition, offers to team up with Karen Kohiruimaki, better known in-game as LLENN, the \"Pink Devil.\" Despite her initial reluctance, Karen agrees to join Pitohui's team, LPFM, since she looks forward to facing SHINC, her rivals from the previous Squad Jam.\n\nThe newly formed LPFM enrolls in the tournament and is quickly recognized as the favorite to win due to the caliber of its players. As they strive to come out on top and win Squad Jam 3, LLENN, Pitohui, and the other members of LPFM battle against other competitors and tackle unexpected challenges.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.14,
-    "scored_by": 32741,
+    "scored_by": 32774,
+    "rank": 3851,
+    "popularity": 2150,
+    "members": 112722,
+    "favorites": 340,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "A-1 Pictures"
@@ -898,6 +1359,9 @@
       "Straight Edge",
       "Kadokawa"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Action"
     ],
@@ -905,8 +1369,10 @@
       "Military",
       "Video Game"
     ],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/55994/Sword_Art_Online_Alternative__Gun_Gale_Online_II",
     "year": 2024,
     "season": "fall",
@@ -917,12 +1383,27 @@
     "mal_id": 55071,
     "title": "Amagami-san Chi no Enmusubi",
     "title_english": "Tying the Knot with an Amagami Sister",
+    "title_japanese": "甘神さんちの縁結び",
+    "title_synonyms": [
+      "Matchmaking of the Amagami Household"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1410/143586l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/g9U-VtFDFv4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After witnessing his mother's death at a young age, Uryuu Kamihate grew up disillusioned with the gods, dismissing faith in them as utter nonsense. Due to his beliefs, he aims to become a doctor, spending most of his time studying to enter the prestigious Kyoto University.\n\nTo further his studies, Uryuu searches for a new place to take him in and get away from the noisy environment of the orphanage where he grew up. Chidori Amagami, head priest of the Amagami Shrine, allows him to stay at the Amagami residence. However, Uryuu has to live there with Chidori's three granddaughters—Yae, Yuna, and Asahi—who serve as shrine maidens. Moreover, Chidori has another condition for Uryuu: he has to marry one of the sisters to ensure the shrine's future and one day inherit it. But with Uryuu's goals and outlook naturally clashing against the sisters' beliefs, this already daunting ordeal seems outright impossible.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.55,
-    "scored_by": 37164,
+    "scored_by": 37192,
+    "rank": 1838,
+    "popularity": 2312,
+    "members": 100897,
+    "favorites": 575,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Drive"
@@ -934,6 +1415,7 @@
       "Crunchyroll",
       "BS NTV"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance",
@@ -942,8 +1424,12 @@
     "themes": [
       "Harem"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-02T00:00:00+00:00",
     "aired_to": "2025-03-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/55071/Amagami-san_Chi_no_Enmusubi",
     "year": 2024,
     "season": "fall",
@@ -954,12 +1440,30 @@
     "mal_id": 55150,
     "title": "Yarinaoshi Reijou wa Ryuutei Heika wo Kouryakuchuu",
     "title_english": "The Do-Over Damsel Conquers The Dragon Emperor",
+    "title_japanese": "やり直し令嬢は竜帝陛下を攻略中",
+    "title_synonyms": [
+      "Yariryuu",
+      "The Returnee Noble Lady Attacks His Majesty the Dragon Emperor",
+      "Win Over the Dragon Emperor This Time Around",
+      "Noble Girl!"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1672/148866l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/GrO6UbTt8vg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Jill Savelle—fiancée of the crown prince Gerald der Kratos and known as the \"Lady Goddess of War\"—is being hunted down by the same country she swore to protect. Betrayed by her betrothed, she is framed as a traitor and imprisoned. In her last moments, Jill is filled with regret, but just as death approaches, she awakens six years in the past. This time, she will not be a mere pawn.\n\nNow as a 10-year-old girl, Jill resolves to escape her imminent engagement to the prince. To this end, she jokingly professes her love to the 19-year-old dragon emperor Hadis Teos Rave, who will one day stain the land in blood due to madness. But against all expectations, he accepts!\n\nIn contrast to the tyrant from Jill's memories, the Hadis of this time is a kind albeit unfortunate emperor. Can Jill prevent Hadis from descending down the same dark, villainous road, or is he bound to an inevitable future?\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 42152,
+    "scored_by": 42193,
+    "rank": 4490,
+    "popularity": 2354,
+    "members": 98307,
+    "favorites": 397,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "J.C.Staff"
@@ -972,6 +1476,7 @@
       "BS NTV",
       "Kadokawa"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy",
@@ -980,8 +1485,12 @@
     "themes": [
       "Time Travel"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2024-10-09T00:00:00+00:00",
     "aired_to": "2024-12-25T00:00:00+00:00",
+    "broadcast": "Wednesdays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/55150/Yarinaoshi_Reijou_wa_Ryuutei_Heika_wo_Kouryakuchuu",
     "year": 2024,
     "season": "fall",
@@ -992,12 +1501,28 @@
     "mal_id": 58516,
     "title": "Ao no Exorcist: Yuki no Hate-hen",
     "title_english": "Blue Exorcist: Beyond the Snow Saga",
+    "title_japanese": "青の祓魔師 雪ノ果篇",
+    "title_synonyms": [
+      "Blue Exorcist Season 4",
+      "Ao no Exorcist 4th Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1617/144043l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/1p5XY7gcgYU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Demonic activity worldwide has significantly increased due to the involvement and corrupt practices of the Illuminati. To combat the unnatural influx of demons, the Vatican Headquarters decides to hold the annual Exorcist Certification Exam early and allow for as many exorcists as possible to take up the mantle.\n\nStraight from the Vatican, one of the most powerful exorcists, Lewin \"Lightning\" Light, arrives at True Cross Academy to help prepare the students for the exam. The ease and mastery with which Lewin performs exorcisms quickly impresses Ryuuji \"Bon\" Suguro, who has lost his ambition to continue his studies, and Lewin surprisingly accepts him as his apprentice. Amid the worsening situation, twin brothers Rin and Yukio Okumura are sent to locate the recently missing exorcist Shura Kirigakure, who seems to be chained to a decades-long contract with a powerful, immortal demon hiding in Aomori Prefecture's dangerous, snowy mountains.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.48,
-    "scored_by": 31055,
+    "scored_by": 31119,
+    "rank": 2128,
+    "popularity": 2368,
+    "members": 96938,
+    "favorites": 235,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio VOLN"
@@ -1010,6 +1535,9 @@
       "Rakuonsha",
       "Shueisha"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Action",
       "Supernatural"
@@ -1018,8 +1546,12 @@
       "Mythology",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/58516/Ao_no_Exorcist__Yuki_no_Hate-hen",
     "year": 2024,
     "season": "fall",
@@ -1030,12 +1562,25 @@
     "mal_id": 57944,
     "title": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki",
     "title_english": "The Healer Who Was Banished From His Party, Is, in Fact, the Strongest",
+    "title_japanese": "パーティーから追放されたその治癒師、実は最強につき",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1432/141123l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/WFIhhEqv-38?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Throughout his youth, unskilled healer Laust was taken advantage of by unscrupulous adventurers. Despite intensive efforts to improve himself, Laust is swindled by the members of Blades of Lightning—the first party that he joins after completing his training—and is eventually banished by its leader Margulus.\n\nAs the subject of public ridicule, Laust is not hopeful about his future prospects. However, novice adventurer Narsena unexpectedly offers to form a party with him, and he happily accepts. The duo quickly gain fame by conquering uncharted parts of the labyrinth. While there seems to be a reason behind Narsena's hasty proposal, Laust is oblivious to what it could be.\n\nMeanwhile, Margulus fails for the second time to slay a poisonous hydra, even after enlisting the help of elite healer Lyra for the quest. Laust soon finds himself being asked to rejoin Blades of Lightning, but it is not as easy as he imagined to move on from his former comrades-in-arms despite his new path and current companion.\n\n[Written by MAL Rewrite]",
+    "background": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki aired on ABC TV and TV Asahi's ANiMAZiNG!!! block.",
     "episodes": 12,
     "score": 5.71,
-    "scored_by": 38826,
+    "scored_by": 38883,
+    "rank": 11740,
+    "popularity": 2511,
+    "members": 88242,
+    "favorites": 139,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Studio Elle"
@@ -1051,14 +1596,19 @@
       "Procen Studio",
       "Zero G Act"
     ],
+    "licensors": [
+      "Crunchyroll"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/57944/Party_kara_Tsuihou_sareta_Sono_Chiyushi_Jitsu_wa_Saikyou_ni_Tsuki",
     "year": 2024,
     "season": "fall",
@@ -1069,12 +1619,28 @@
     "mal_id": 58445,
     "title": "Sayounara Ryuusei, Konnichiwa Jinsei",
     "title_english": "Good Bye, Dragon Life",
+    "title_japanese": "さようなら竜生、こんにちは人生",
+    "title_synonyms": [
+      "Goodbye Dragon Life",
+      "Hello Human Life"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1225/144606l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/dAYaQ_jSpdg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Long ago, a human managed to defeat the oldest, most powerful dragon of them all. This dragon was so strong that even the gods feared it, but it accepted its end all alone. Then, suddenly, the dragon woke up in a new life as a guy named Dolan, living in a faraway village.\n\nLiving as a regular person now, Dolan works hard in the fields and hunts for food. Even though life in the village is simple, it's also cozy and makes him happy in ways he never felt as a dragon.\n\nBut one day, while exploring a swamp, Dolan meets Celina, a creature who's part human and part snake called a lamia. She's looking for a partner but admits she's not great at getting humans to like her because she's part snake. Despite their differences, Dolan and Cerina start to become friends. However, they face lots of challenges from outside forces.\n\nJoin them on a magical adventure as a once-mighty dragon begins a new life in a quiet corner of the world!\n\n(Source: MAL News)",
+    "background": "Each episode was streamed one week in advance of the TV broadcast starting on October 4, 2024, on Abema. Regular broadcasting began on October 11, 2024.",
     "episodes": 12,
-    "score": 6.34,
-    "scored_by": 37922,
+    "score": 6.33,
+    "scored_by": 37958,
+    "rank": 8351,
+    "popularity": 2514,
+    "members": 88141,
+    "favorites": 186,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "SynergySP",
@@ -1092,6 +1658,7 @@
       "AlphaPolis",
       "HIAN"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -1100,8 +1667,10 @@
     "themes": [
       "Reincarnation"
     ],
+    "demographics": [],
     "aired_from": "2024-10-11T00:00:00+00:00",
     "aired_to": "2024-12-27T00:00:00+00:00",
+    "broadcast": "Fridays at 01:28 (JST)",
     "url": "https://myanimelist.net/anime/58445/Sayounara_Ryuusei_Konnichiwa_Jinsei",
     "year": 2024,
     "season": "fall",
@@ -1112,12 +1681,25 @@
     "mal_id": 59425,
     "title": "NegaPosi Angler",
     "title_english": "Negative Positive Angler",
+    "title_japanese": "ネガポジアングラー",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1537/145325l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/X0O40QEozOo?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "For blasé college dropout Tsunehiro Sasaki, life has become hopeless. After failing to enter a top university, he has lost all his money trading on financial markets and is now critically indebted. To add to his misery, he learns that he only has at most two years left to live due to an incurable disease.\n\nThe trajectory of Tsunehiro's life suddenly changes after a group of amateur fishermen saves him from drowning as he was trying to escape from a trio of creditors. While Takaaki Tsutsujimori pushes Tsunehiro to work at the group's workplace—a convenience store that doubles as a fishing shop—Hana Ayukawa tries to share her love for fishing.\n\nAlthough the attempts of the joyful group of anglers initially prove unsuccessful, Takaaki urges Tsunehiro to take a fresh start in life, and the young man eventually accepts the fishing enthusiast's assistance to pay off his debts. As work, friendships, and an unfamiliar hobby all suddenly find their way into his life, Tsunehiro must find the strength to change his ways if he wants to make the best of his remaining time.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.37,
-    "scored_by": 24407,
+    "scored_by": 24431,
+    "rank": 2602,
+    "popularity": 2968,
+    "members": 66766,
+    "favorites": 291,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Nut"
@@ -1129,14 +1711,17 @@
       "Tencent Japan",
       "Kadokawa"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
     "themes": [
       "Adult Cast"
     ],
+    "demographics": [],
     "aired_from": "2024-10-03T00:00:00+00:00",
     "aired_to": "2024-12-19T00:00:00+00:00",
+    "broadcast": "Thursdays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/59425/NegaPosi_Angler",
     "year": 2024,
     "season": "fall",
@@ -1147,12 +1732,27 @@
     "mal_id": 56843,
     "title": "Goukon ni Ittara Onna ga Inakatta Hanashi",
     "title_english": "How I Attended an All-Guy's Mixer",
+    "title_japanese": "合コンに行ったら女がいなかった話",
+    "title_synonyms": [
+      "The Story of How I Went to a Mixer and There Were No Women There"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1198/145156l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/o7C7IniZ8GI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "College student Tokiwa gets invited to a mixer by his female classmate Suo. But when he arrives with his friends, they're greeted by three dazzlingly handsome men?!\n\n(Source: Square Enix)",
+    "background": "Each episode was streamed five days in advance of the TV broadcast starting on September 30, 2024, on ABEMA. Regular broadcasting began on October 5, 2024.",
     "episodes": 12,
     "score": 7.39,
-    "scored_by": 24709,
+    "scored_by": 24738,
+    "rank": 2520,
+    "popularity": 3010,
+    "members": 64948,
+    "favorites": 380,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Ashi Productions"
@@ -1168,6 +1768,9 @@
       "BS NTV",
       "NetEase"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy",
       "Romance"
@@ -1176,8 +1779,10 @@
       "Adult Cast",
       "Crossdressing"
     ],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/56843/Goukon_ni_Ittara_Onna_ga_Inakatta_Hanashi",
     "year": 2024,
     "season": "fall",
@@ -1188,12 +1793,27 @@
     "mal_id": 54726,
     "title": "Tsuma, Shougakusei ni Naru.",
     "title_english": "TsumaSho",
+    "title_japanese": "妻、小学生になる。",
+    "title_synonyms": [
+      "If My Wife Becomes an Elementary School Student."
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1752/145548l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/kIudl9WJAiU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The moments Keisuke Niijima shared with his wife, Takae, were the happiest in his life. After their first meeting as coworkers, the bond between them gradually became stronger. They eventually married and were blessed with a daughter named Mai soon after. However, following Takae's death, time seems to have stopped for Keisuke, resulting in his inability to build a proper relationship with his daughter.\n\nTen years later, the gloomy Niijima household is bound for change when a little girl knocks at the door—claiming to be Takae's reincarnation. After confirming her identity, Keisuke's world brightens once more as he revels at the thought of making new memories with his beloved family. Unfortunately, this fortuitous miracle comes with its obvious drawbacks, and one mistake will spell more tragic consequences for Keisuke and everyone else involved.\n\n[Written by MAL Rewrite]",
+    "background": "Tsuma, Shougakusei ni Naru. was released on Blu-ray in six volumes from January 29, 2025, to June 25, 2025. Episode 2 received an advance release on U-NEXT and Anime Hodai on October 6, 2024. Each subsequent episode was streamed 7 days in advance of the TV broadcast on U-NEXT and Anime Hodai.",
     "episodes": 12,
     "score": 7.53,
-    "scored_by": 22942,
+    "scored_by": 22949,
+    "rank": 1945,
+    "popularity": 3011,
+    "members": 64908,
+    "favorites": 206,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Signpost"
@@ -1207,6 +1827,7 @@
       "Crunchyroll",
       "Yomiuri TV Enterprise"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
@@ -1214,8 +1835,12 @@
     "themes": [
       "Reincarnation"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/54726/Tsuma_Shougakusei_ni_Naru",
     "year": 2024,
     "season": "fall",
@@ -1226,12 +1851,27 @@
     "mal_id": 57362,
     "title": "Hoshifuru Oukoku no Nina",
     "title_english": "Nina the Starry Bride",
+    "title_japanese": "星降る王国のニナ",
+    "title_synonyms": [
+      "Nina of the Starry Kingdom"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1436/144553l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/kwLbtS9laBQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "On the dusty streets of the castle town Dayah in the Fortna Kingdom, a young orphan named Nina steals for survival. Experiencing one tragedy after another, she has little to hope for in her life. Believing it best for Nina, her closest friend, Saji, hands her over to Second Prince Azure Seth Fortna, who has been searching for someone with unique and intense deep-blue eyes—just like Nina's.\n\nThe kingdom's princess, the revered Astral Priestess Alisha, has recently died on her way to the Galgada Kingdom, where she was to marry the tyrant First Prince Sett. However, her death is concealed for political reasons, and that is where Nina needs to step in. With nowhere else to go and no one to turn to, Nina assumes Alisha's identity and future duties. But with each moment spent with Azure, Nina feels herself drawn to his warmth, fearing that once she is wed to another, nobody will remain to remember her true self.\n\n[Written by MAL Rewrite]",
+    "background": "Each episode was streamed three days in advance of the TV broadcast on Crunchyroll and ABEMA starting on October 7, 2024. Regular broadcasting began on October 10, 2024.",
     "episodes": 12,
     "score": 7.39,
-    "scored_by": 24112,
+    "scored_by": 24146,
+    "rank": 2523,
+    "popularity": 3072,
+    "members": 62803,
+    "favorites": 384,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Signal.MD"
@@ -1247,13 +1887,18 @@
       "Bit grooove promotion",
       "BS Asahi"
     ],
+    "licensors": [],
     "genres": [
       "Fantasy",
       "Romance"
     ],
     "themes": [],
+    "demographics": [
+      "Josei"
+    ],
     "aired_from": "2024-10-10T00:00:00+00:00",
     "aired_to": "2024-12-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/57362/Hoshifuru_Oukoku_no_Nina",
     "year": 2024,
     "season": "fall",
@@ -1264,12 +1909,27 @@
     "mal_id": 57635,
     "title": "Kamonohashi Ron no Kindan Suiri 2nd Season",
     "title_english": "Ron Kamonohashi's Forbidden Deductions Season 2",
+    "title_japanese": "鴨乃橋ロンの禁断推理 2nd Season",
+    "title_synonyms": [
+      "Ron Kamonohashi: Deranged Detective Season 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1917/144334l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/j53lkj6VvEU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Not long after forming their partnership, detectives Ron Kamonohashi and Totomaru Isshiki have proven adept at solving various cases together. However, the two are further motivated to continue their work when they discover that the House of M—an infamous crime syndicate—orchestrated Ron's expulsion from the prestigious Detective Training Academy BLUE five years prior. It appears that this group is also linked to Ron's mysterious ability that causes those around him to lose their lives, a phenomenon which Ron is desperate to stop.\n\nA member of the House of M soon starts to commit boastful serial murders around Shibuya as an act of provocation toward Ron. Consequently, the investigative pair must do their best to apprehend the culprit for the sake of justice as well as learning more about Ron's dark past and present condition.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.62,
-    "scored_by": 22108,
+    "scored_by": 22121,
+    "rank": 1586,
+    "popularity": 3089,
+    "members": 62257,
+    "favorites": 256,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Diomedéa"
@@ -1281,6 +1941,7 @@
       "Kadokawa",
       "Bit grooove promotion"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Mystery"
@@ -1289,8 +1950,12 @@
       "Adult Cast",
       "Detective"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-07T00:00:00+00:00",
     "aired_to": "2024-12-30T00:00:00+00:00",
+    "broadcast": "Mondays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/57635/Kamonohashi_Ron_no_Kindan_Suiri_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -1301,12 +1966,27 @@
     "mal_id": 57554,
     "title": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran",
     "title_english": "Rurouni Kenshin: Kyoto Disturbance",
+    "title_japanese": "るろうに剣心 -明治剣客浪漫譚- 京都動乱",
+    "title_synonyms": [
+      "Rurouni Kenshin Season 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1314/145530l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/7LYFlRvOxYw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After living peaceful days at the Kamiya dojo, Kenshin Himura finds himself at a crucial crossroads, as his vow to never end a life is put to the ultimate test.\n\nFollowing the murder of his former commander, he now has to retread the road of violence and blood to take down Makoto Shishio—the assassin prodigy who calls himself the notorious Battousai's successor. With ambitions to overthrow the Meiji government and establish his dominion in Kyoto, Shishio has meticulously schemed for a decade, building a formidable anti-government military force. Now, Shishio has turned his sights toward recruiting Aoshi Shinomori, a cold-blooded killer and the former leader of the legendary Oniwaban Group warriors.\n\nAs Kenshin travels through a village abandoned by the government and currently under the iron fist of Shishio's henchmen, he is determined to prevent the country from spiraling back into civil war. He allies with his former rival, Hajime Saitou, forging a fragile partnership in a battle against Shishio's empire that will determine the fate of Japan.\n\n[Written by MAL Rewrite]",
+    "background": "Rurouni Kenshin: Meiji Kenkaku Romantan - Kyoto Douran aired on Fuji TV's noitaminA block. It was released on Blu-ray and DVD in four volumes from January 29, 2025, to July 30, 2025. The series adapts the Rurouni Kenshin: Meiji Kenkaku Romantan manga's Kyoto arc starting from volume 8.",
     "episodes": 23,
     "score": 7.77,
-    "scored_by": 21807,
+    "scored_by": 21827,
+    "rank": 1170,
+    "popularity": 3190,
+    "members": 58151,
+    "favorites": 273,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "LIDENFILMS"
@@ -1317,6 +1997,9 @@
       "Fuji TV",
       "Shueisha"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Action"
     ],
@@ -1324,8 +2007,12 @@
       "Historical",
       "Samurai"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2025-03-21T00:00:00+00:00",
+    "broadcast": "Fridays at 00:55 (JST)",
     "url": "https://myanimelist.net/anime/57554/Rurouni_Kenshin__Meiji_Kenkaku_Romantan_-_Kyoto_Douran",
     "year": 2024,
     "season": "fall",
@@ -1336,12 +2023,25 @@
     "mal_id": 53033,
     "title": "Mecha-ude (TV)",
     "title_english": "Mecha-Ude: Mechanical Arms",
+    "title_japanese": "メカウデ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1079/145918l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/HZKYXA3bWCk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Hikaru Amatsuga's days of tranquility come to a sudden end when he rescues Alma, a mechanical arm crying for help. Alma fuses with his jacket, introducing Hikaru to the world of mechanical arms: mysterious, sentient weapons that normally become a part of their users' bodies. Forced to flee for his life, Hikaru is eventually captured by Aki Murasame, a twin mechanical arms user working for ARMS, an organization that protects the machines against unethical treatment.\n\nThe Kagami Group, a nefarious organization that treats mechanical arms as mere tools, seeks to recover Alma. Hikaru is deemed a failure by ARMS for his lack of natural predisposition to be an mechanical arm wielder, so Aki is assigned to be his bodyguard. But Aki is defeated by Jun Kagami, who cruelly tears out her two mechanical limbs, condemning the girl to a slow death. Unwilling to abandon Aki to her grim fate, Hikaru miraculously awakens his power and neutralizes Kagami. Now a full member of ARMS, Hikaru is determined to unravel the truth about mechanical arms and protect his newfound friends and allies.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.79,
-    "scored_by": 18528,
+    "scored_by": 18538,
+    "rank": 5554,
+    "popularity": 3216,
+    "members": 57305,
+    "favorites": 159,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "TriF Studio"
@@ -1351,13 +2051,16 @@
       "Kansai TV",
       "BS Asahi"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2024-12-20T00:00:00+00:00",
+    "broadcast": "Fridays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/53033/Mecha-ude_TV",
     "year": 2024,
     "season": "fall",
@@ -1368,12 +2071,28 @@
     "mal_id": 55823,
     "title": "Natsume Yuujinchou Shichi",
     "title_english": "Natsume's Book of Friends Season 7",
+    "title_japanese": "夏目友人帳 漆",
+    "title_synonyms": [
+      "Natsume Yuujinchou Season 7",
+      "Natsume's Book of Friends Seven"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1270/145168l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/yNmx5gKcHrQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As a young child, Takashi Natsume believed his ability to see youkai to be nothing but a curse. Now a high school student, Natsume has managed to heal from his old wounds and form unbreakable bonds with humans and youkai alike. Natsume's newfound friendships—including the one with his spirit bodyguard Madara, nicknamed \"Nyanko-sensei\"—are often interlaced with his duty to return the names of the spirits written inside the Book of Friends, his late grandmother Reiko's keepsake. While more remarkable youkai reach out to him, Natsume discovers that he still has much to learn about the world that surrounds him.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 8.58,
-    "scored_by": 16360,
+    "scored_by": 16372,
+    "rank": 114,
+    "popularity": 3313,
+    "members": 54357,
+    "favorites": 510,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Shuka"
@@ -1385,6 +2104,7 @@
       "Hakusensha",
       "Ai Addiction"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life",
       "Supernatural"
@@ -1393,8 +2113,12 @@
       "Iyashikei",
       "Mythology"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2024-10-08T00:00:00+00:00",
     "aired_to": "2024-12-24T00:00:00+00:00",
+    "broadcast": "Tuesdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/55823/Natsume_Yuujinchou_Shichi",
     "year": 2024,
     "season": "fall",
@@ -1405,12 +2129,25 @@
     "mal_id": 56400,
     "title": "Maou-sama, Retry! R",
     "title_english": "Demon Lord, Retry! R",
+    "title_japanese": "魔王様、リトライ! R",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1667/145393l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/cpFCIfAopOw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "With Rabbi Village greatly expanding under the management of his subordinates Isami Tahara and Yuu Kirino, Hakuto Kunai can now resume his adventures while looking for items to counteract magic. He begins his search at the Prison Labyrinth in Rookie Town, where a secret laboratory deep within the dungeon gives him insight into technology that is far more advanced and dangerous than anything in the rest of the world.\n\nMeanwhile, Rabbi Village has gained unwanted international attention from the newly formed Queendom of Xenobia, which wishes to drive a wedge between the Holy Kingdom of Light and the State of Right. But with Kunai's newly summoned aide, Akane Fujisaki, at his disposal, things may not go as the Queendom plans.\n\n[Written by MAL Rewrite]",
+    "background": "Each episode was streamed one week in advance of the TV broadcast from September 28, 2024, on ABEMA. Regular broadcasting began on October 5, 2024.",
     "episodes": 12,
     "score": 5.92,
-    "scored_by": 19704,
+    "scored_by": 19716,
+    "rank": 10668,
+    "popularity": 3490,
+    "members": 49716,
+    "favorites": 107,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Gekkou"
@@ -1432,6 +2169,7 @@
       "RKB Mainichi Broadcasting Corporation",
       "Yoyogi Animation Gakuin"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -1440,8 +2178,10 @@
     "themes": [
       "Isekai"
     ],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/56400/Maou-sama_Retry_R",
     "year": 2024,
     "season": "fall",
@@ -1452,12 +2192,25 @@
     "mal_id": 57559,
     "title": "MF Ghost 2nd Season",
     "title_english": "MF Ghost Season 2",
+    "title_japanese": "MFゴースト 2nd Season",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1037/145338l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/iVP02kre9rM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The second race in the MFG tournament at the notoriously difficult Lake Ashinoko track is underway. Though his car is severely disadvantaged in terms of horsepower, tune-ups to Kanata Katagiri's Toyota 86 GT allow him to quickly soar into a qualifying position. However, torrential downpour on the final day of racing brings tire traction woes and causes all drivers to struggle. \n\nThanks to the environment he grew up in and his extensive training, Kanata surprises everyone when he is able to pull ahead of the pack—albeit with some very risky maneuvers. However, there are still two formidable competitors ahead of Kanata: last race's winner Michael Beckenbauer and Lake Ashinoko record holder Kouki Sawatari. But even if Kanata can close the gap, he still needs to watch out for the drivers in his rearview preying on even a single mistake that they can take advantage of. \n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.8,
-    "scored_by": 21027,
+    "scored_by": 21050,
+    "rank": 1096,
+    "popularity": 3779,
+    "members": 43379,
+    "favorites": 216,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Felix Film"
@@ -1470,14 +2223,19 @@
       "Crunchyroll",
       "Techno Sound"
     ],
+    "licensors": [],
     "genres": [
       "Drama"
     ],
     "themes": [
       "Racing"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-07T00:00:00+00:00",
     "aired_to": "2024-12-23T00:00:00+00:00",
+    "broadcast": "Mondays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/57559/MF_Ghost_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -1488,12 +2246,28 @@
     "mal_id": 57533,
     "title": "Youkai Gakkou no Sensei Hajimemashita!",
     "title_english": "A Terrified Teacher at Ghoul School!",
+    "title_japanese": "妖怪学校の先生はじめました！",
+    "title_synonyms": [
+      "I Started Being a Teacher for a Youkai School!",
+      "Yohaji"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1800/145662l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/QXS8IUu0DVs?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Following a bad experience teaching at a public high school that resulted in a break from working, Haruaki Abe eagerly takes up a new job at Hyakki Academy. Despite his cowardice, the novice teacher is motivated to do better this time around. However, his mind quickly changes when he finds out that everyone at the school is actually a supernatural being known as a youkai, leaving him glaringly out of place as the only human around.\n\nFacing his class as its new homeroom teacher, Abe immediately becomes a target for the students' antics due to his quick-to-scare nature. Though as the man starts to learn more about the creatures, as well as himself, getting along with the unruly group might not be as hard as he originally thought as their school lives begin to get more vibrant.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.29,
-    "scored_by": 13386,
+    "scored_by": 13402,
+    "rank": 3002,
+    "popularity": 3783,
+    "members": 43297,
+    "favorites": 267,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Satelight"
@@ -1510,6 +2284,7 @@
       "BS Asahi",
       "Kappa Entertainment"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy"
@@ -1520,8 +2295,12 @@
       "School",
       "Workplace"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-08T00:00:00+00:00",
     "aired_to": "2025-03-25T00:00:00+00:00",
+    "broadcast": "Tuesdays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/57533/Youkai_Gakkou_no_Sensei_Hajimemashita",
     "year": 2024,
     "season": "fall",
@@ -1532,12 +2311,25 @@
     "mal_id": 57102,
     "title": "Houkago Shounen Hanako-kun Part 2",
     "title_english": "After-School Hanako-kun Part 2",
+    "title_japanese": "放課後少年花子くん 続編",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1910/144517l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/mXMkL7BNtU0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Second part of Houkago Shounen Hanako-kun.",
+    "background": "",
     "episodes": 4,
     "score": 7.11,
-    "scored_by": 11721,
+    "scored_by": 11730,
+    "rank": 3995,
+    "popularity": 3904,
+    "members": 40838,
+    "favorites": 145,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Lerche"
@@ -1548,6 +2340,7 @@
       "Half H.P Studio",
       "Studio Tronc"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Supernatural"
@@ -1555,8 +2348,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2024-10-08T00:00:00+00:00",
     "aired_to": "2024-10-29T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:35 (JST)",
     "url": "https://myanimelist.net/anime/57102/Houkago_Shounen_Hanako-kun_Part_2",
     "year": 2024,
     "season": "fall",
@@ -1567,12 +2362,25 @@
     "mal_id": 58511,
     "title": "Nanatsu no Taizai: Mokushiroku no Yonkishi 2nd Season",
     "title_english": "The Seven Deadly Sins: Four Knights of the Apocalypse Season 2",
+    "title_japanese": "七つの大罪 黙示録の四騎士 第2期",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1109/145389l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/BpbMeDoYofU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Second season of Nanatsu no Taizai: Mokushiroku no Yonkishi.",
+    "background": "",
     "episodes": 12,
     "score": 7.43,
-    "scored_by": 12964,
+    "scored_by": 12987,
+    "rank": 2331,
+    "popularity": 3925,
+    "members": 40422,
+    "favorites": 133,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Telecom Animation Film"
@@ -1588,14 +2396,19 @@
       "Marui Group",
       "Unlimited Produce by TMS"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-29T00:00:00+00:00",
+    "broadcast": "Sundays at 16:30 (JST)",
     "url": "https://myanimelist.net/anime/58511/Nanatsu_no_Taizai__Mokushiroku_no_Yonkishi_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -1606,25 +2419,45 @@
     "mal_id": 60108,
     "title": "One Piece: Gyojin Tou-hen",
     "title_english": "One Piece Log: Fish-Man Island Saga",
+    "title_japanese": "SPECIAL EDITED VERSION『ONE PIECE』魚人島編",
+    "title_synonyms": [
+      "OP"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1928/146063l.jpg",
+    "trailer_url": null,
     "synopsis": "Two years after the Summit War, Monkey D. Luffy plans to reunite with the Straw Hat Pirates in the Sabaody Archipelago. However, the Marines obstruct Luffy's path with overwhelming force. Meanwhile, the Straw Hats must also foil the schemes of a group of impersonators acting in their likenesses.\n\nWith two years of intensive training with allies old and new, Luffy regroups with his friends aboard the Thousand Sunny to set sail for the New World. As the Straw Hat Crew departs for Fish-Man Island, new threats creep up from the abyss. But more determined than ever to become the King of the Pirates, Luffy is prepared to defeat any enemy that may stand between him and his dream.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 21,
-    "score": 7.91,
-    "scored_by": 12741,
+    "score": 7.9,
+    "scored_by": 12759,
+    "rank": 864,
+    "popularity": 4045,
+    "members": 38024,
+    "favorites": 161,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Toei Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-11-03T00:00:00+00:00",
     "aired_to": "2025-03-30T00:00:00+00:00",
+    "broadcast": "Sundays at 09:30 (JST)",
     "url": "https://myanimelist.net/anime/60108/One_Piece__Gyojin_Tou-hen",
     "year": 2024,
     "season": "fall",
@@ -1635,12 +2468,28 @@
     "mal_id": 57360,
     "title": "Kabushikigaisha Magi-Lumière",
     "title_english": "Magilumiere Magical Girls Inc.",
+    "title_japanese": "株式会社マジルミエ",
+    "title_synonyms": [
+      "Magilumiere Co. Ltd.",
+      "Kabushikigaisha Magilumiere"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1926/145102l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/eBKTqtWWXOw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In recent years, creatures known as Kaii have frequently attacked cities and wrought destruction. Exterminating these monsters quickly became a popular and well-respected profession, carried out by magical girls. More than five hundred magical girl companies, ranging from small ventures to large corporations, offer their aid to those who need it.\n\nKana Sakuragi is a studious college graduate struggling to land a job despite attending numerous interviews. But when a Kaii attacks during her latest interview, she finds herself assisting the magical girl responding to the crisis. Although she lacks battle experience, Kana relies on her exceptional memory and knowledge to help subdue the monster.\n\nHitomi Koshigaya, the headstrong magical girl who faced the Kaii, recognizes Kana's potential and invites her to join Magilumiere Magical Girls Inc.—the startup where Hitomi works. Wishing to make a difference, Kana accepts the offer to become a magical girl herself. While Kana may not be suited for the corporate world, it soon becomes clear that her true calling is to rise as one of the most talented magical girls in existence.\n\n[Written by MAL Rewrite]",
+    "background": "Kabushikigaisha Magi-Lumière aired on Nippon TV's Friday Anime Night block.",
     "episodes": 12,
     "score": 6.96,
-    "scored_by": 10930,
+    "scored_by": 10934,
+    "rank": 4708,
+    "popularity": 4341,
+    "members": 32701,
+    "favorites": 65,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "J.C.Staff",
@@ -1651,6 +2500,7 @@
       "Nippon Television Network",
       "Shueisha"
     ],
+    "licensors": [],
     "genres": [
       "Action"
     ],
@@ -1659,8 +2509,12 @@
       "Mahou Shoujo",
       "Workplace"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2024-12-20T00:00:00+00:00",
+    "broadcast": "Fridays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/57360/Kabushikigaisha_Magi-Lumière",
     "year": 2024,
     "season": "fall",
@@ -1671,12 +2525,27 @@
     "mal_id": 56647,
     "title": "Ao no Miburo",
     "title_english": "Blue Miburo",
+    "title_japanese": "青のミブロ",
+    "title_synonyms": [
+      "The Blue Wolves of Mibu"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1079/147334l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/cStgZyAzVg8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Though he grew up as an orphan, Nio Chirinu finds a place to belong: being a waiter at his adoptive grandmother's restaurant. But this peace does not last long; Nio and his sister Iroha are used as bait to arrest child abductors by Toshizou Hijikata and Souji Okita—two members of an infamous ronin group called Miburo. After the ordeal, Toshizou proposes that Nio join the ranks of Miburo and protect the people of Kyoto.\n\nFrustrated by his own weakness, Nio trains to match the swordsmanship of his new comrades. Even so, he struggles to be accepted by Tarou Tanaka and Hajime Saitou, the other Miburo members of his age. Determined to befriend them, Nio must discover his own sense of justice and become strong enough to prevail against all his enemies.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 6.69,
-    "scored_by": 6569,
+    "scored_by": 6579,
+    "rank": 6126,
+    "popularity": 4391,
+    "members": 31820,
+    "favorites": 129,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Maho Film"
@@ -1685,6 +2554,7 @@
       "Dentsu",
       "Yomiuri Telecasting"
     ],
+    "licensors": [],
     "genres": [
       "Action"
     ],
@@ -1692,8 +2562,12 @@
       "Historical",
       "Samurai"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-19T00:00:00+00:00",
     "aired_to": "2025-03-29T00:00:00+00:00",
+    "broadcast": "Saturdays at 17:30 (JST)",
     "url": "https://myanimelist.net/anime/56647/Ao_no_Miburo",
     "year": 2024,
     "season": "fall",
@@ -1704,12 +2578,27 @@
     "mal_id": 56662,
     "title": "Trillion Game",
     "title_english": "TRILLION GAME",
+    "title_japanese": "トリリオンゲーム",
+    "title_synonyms": [
+      "$1,000,000,000,000 Game"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1081/147379l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/7qBzCnFKGJc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After socially awkward technology specialist Manabu \"Gaku\" Taira is saved from thugs by the outgoing Haru Tennouji, the two men find that they get along with each other well. Years later, Gaku, who is having a tough time getting a job due to his timidness, is convinced by Haru to apply for a position alongside him at Dragon Bank, one of Japan's largest IT companies.\n\nDuring their interviews, the company's board director, Kirika Kokuryuu, takes an interest in Haru and Gaku's contrasting personalities. However, Gaku does not get hired by the company, leading Haru to quit the job on his first day in protest. Nevertheless, they decide to embark on an ambitious plan of making a trillion dollars.\n\nIn order for their scheme to come to fruition, Haru and Gaku start looking for potential investors, but everyone rejects their extravagant idea. In spite of that, the two soon find themselves getting an offer from Kirika—and with her investment, they might just be able to reach their goal.\n\n[Written by MAL Rewrite]",
+    "background": "Trillion Game was released on Blu-ray in four volumes from February 26, 2025, to May 28, 2025.",
     "episodes": 26,
     "score": 7.56,
-    "scored_by": 11079,
+    "scored_by": 11086,
+    "rank": 1809,
+    "popularity": 4432,
+    "members": 31130,
+    "favorites": 111,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -1722,14 +2611,19 @@
       "Sun TV",
       "Kadokawa"
     ],
+    "licensors": [],
     "genres": [
       "Drama"
     ],
     "themes": [
       "Adult Cast"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2025-03-28T00:00:00+00:00",
+    "broadcast": "Fridays at 01:58 (JST)",
     "url": "https://myanimelist.net/anime/56662/Trillion_Game",
     "year": 2024,
     "season": "fall",
@@ -1740,12 +2634,25 @@
     "mal_id": 53723,
     "title": "Acro Trip",
     "title_english": "Acro Trip",
+    "title_japanese": "アクロトリップ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1397/145153l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Ngiaf7XxsQM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Due to her mother's work, Chizuko Date has never remained in one place for long or grown attached to anything in particular. However, while temporarily staying with her grandfather Suikyou, she witnesses something extraordinary: a magical girl named Berry Blossom fighting against Chroma, member of the evil organization Fossa Magna. Seeing Berry Blossom save the day ignites a passion in Chizuko, and she swears to be a fan of the new magical girl in town thereafter.\n\nAs time passes, Berry Blossom's popularity dwindles due to the incompetence of her opponent. When Chizuko randomly encounters Chroma himself, she does not hold back her complaints against him. For his part, Chroma does not enjoy being defeated again and again; moreover, Fossa Magna will force him to resign if he continues losing. In desperation, Chroma begs Chizuko to become his second-in-command and help him with his evildoings.\n\nFor the sake of Berry Blossom regaining the spotlight, Chizuko must question whether it is right to join forces with the magical girl's sworn enemy.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.72,
-    "scored_by": 8045,
+    "scored_by": 8048,
+    "rank": 5943,
+    "popularity": 5043,
+    "members": 23289,
+    "favorites": 75,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Voil"
@@ -1762,6 +2669,7 @@
       "BS NTV",
       "Happinet Phantom Studios"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
@@ -1769,8 +2677,12 @@
       "Mahou Shoujo",
       "Parody"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2024-10-02T00:00:00+00:00",
     "aired_to": "2024-12-18T00:00:00+00:00",
+    "broadcast": "Wednesdays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/53723/Acro_Trip",
     "year": 2024,
     "season": "fall",
@@ -1781,12 +2693,27 @@
     "mal_id": 57796,
     "title": "Touhai: Ura Rate Mahjong Touhairoku",
     "title_english": null,
+    "title_japanese": "凍牌〜裏レート麻雀闘牌録〜",
+    "title_synonyms": [
+      "Frozen Mahjong Tiles: Underground Mahjong Battle Record"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1306/145571l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/8SE4zO_AV4Q?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Ever since moving into his own apartment, quiet high school student Kei has been looking for a new thrill. He soon finds himself playing mahjong, but his whole life takes a dramatic turn when he is forced to play the game with a criminal group. Even though the odds seem against him, Kei is able to outmatch the others. Instead of claiming his reward in cash, however, he decides to take an abducted girl named Amina under his wing.\n\nDue to Kei's skills and cold playstyle, the mysterious Hideharu Seki takes an interest in him, introducing him to mahjong parlors and new potential opponents. But when matched up against an experienced player named Doujima, Kei is severely outskilled and only narrowly escapes going into serious debt. If he wants to protect his new life with Amina, Kei must find a way to outwit these shady characters and come out on top in every game he plays.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 6.6,
-    "scored_by": 3861,
+    "scored_by": 3863,
+    "rank": 6719,
+    "popularity": 5241,
+    "members": 21190,
+    "favorites": 75,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "East Fish Studio"
@@ -1795,6 +2722,7 @@
       "Pony Canyon",
       "Studio Mausu"
     ],
+    "licensors": [],
     "genres": [
       "Drama",
       "Suspense"
@@ -1804,8 +2732,12 @@
       "Psychological",
       "Strategy Game"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2025-04-05T00:00:00+00:00",
+    "broadcast": "Saturdays at 02:23 (JST)",
     "url": "https://myanimelist.net/anime/57796/Touhai__Ura_Rate_Mahjong_Touhairoku",
     "year": 2024,
     "season": "fall",
@@ -1816,12 +2748,25 @@
     "mal_id": 53287,
     "title": "Love Live! Superstar!! 3rd Season",
     "title_english": "Love Live! Superstar!! Season 3",
+    "title_japanese": "ラブライブ！スーパースター!!",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1489/144640l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/NMOI1Om9pSo?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As the Love Live! Competition draws to a close, Kanon Shibuya takes an offer to study abroad and bids farewell to her friends and fellow members of the school idol group Liella!. Although they will live on opposite sides of the world, both Kanon and the group remain motivated to continue their idol activities.\n\nUnbeknownst to Kanon, however, her plans are cut short by Wien Margarete's parents, who request that Kanon remain in Japan for another year so that their daughter can learn from her. While Kanon finds herself in awkward limbo, Wien cannot bring herself to join her once fierce rival Liella! and decides to start a group of her own.\n\nNot wanting Wien's determination to go to waste, Kanon joins the new group, recruiting her former group member's sister Tomari Onitsuka in the process. As the newfound unit strives to wash off Wien's controversial past, the new Liella! is also wrestling with the struggles of losing their irreplaceable center.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.89,
-    "scored_by": 7447,
+    "scored_by": 7448,
+    "rank": 891,
+    "popularity": 5256,
+    "members": 21041,
+    "favorites": 148,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
     "studios": [
       "Sunrise"
@@ -1832,6 +2777,7 @@
       "Bandai Namco Music Live",
       "Bushiroad Creative"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
@@ -1840,8 +2786,10 @@
       "Music",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 17:00 (JST)",
     "url": "https://myanimelist.net/anime/53287/Love_Live_Superstar_3rd_Season",
     "year": 2024,
     "season": "fall",
@@ -1852,12 +2800,28 @@
     "mal_id": 58173,
     "title": "Mahoutsukai ni Narenakatta Onnanoko no Hanashi",
     "title_english": "The Stories of Girls Who Couldn't Be Magicians",
+    "title_japanese": "魔法使いになれなかった女の子の話",
+    "title_synonyms": [
+      "A Story of a Girl that was Unable to Become a Mage",
+      "Mahonare"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1535/145026l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ipGzBc-h-R8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "From a young age, Kurumi Mirai has aspired to become a magician. Driven by her ambition, she has spent her childhood preparing to join the prestigious Rettoran Academy of Magic. Although Kurumi excels in the selection exam, her dream is crushed when she is not chosen for the elite magic class.\n\nAdmitted to the standard class at the academy instead, Kurumi soon befriends Maki Kumiiru, her new roommate; and Yuzu Edel, another girl unhappy with her placement. However, to everyone's surprise, their homeroom teacher, Minami Suzuki, promises to teach the class magic anyway. Although skeptical at first, the girls start to believe that this may be their second chance at realizing their dreams and becoming wonderful magicians.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.17,
     "scored_by": 5546,
+    "rank": 9323,
+    "popularity": 5706,
+    "members": 16981,
+    "favorites": 21,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Novel",
     "studios": [
       "J.C.Staff"
@@ -1872,14 +2836,17 @@
       "NetEase",
       "Fosun Entertainment Japan"
     ],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:53 (JST)",
     "url": "https://myanimelist.net/anime/58173/Mahoutsukai_ni_Narenakatta_Onnanoko_no_Hanashi",
     "year": 2024,
     "season": "fall",
@@ -1890,12 +2857,25 @@
     "mal_id": 56420,
     "title": "Haigakura",
     "title_english": null,
+    "title_japanese": "ハイガクラ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1214/142185l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/DOVWt4vYU3M?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The balance of the world is deeply shaken when malevolent gods known as the Four Perils break their seals and disappear together with eight million minor deities. In the absence of gods, lands become barren and famine looms in the country of the Eight Immortals. In order to restore the fragile harmony, kashi—gifted dancers and singers—must hunt the missing gods in other realms, use their performance skills to charm the deities, and seal them using the power of their rosaries.\n\nAlthough a master dancer, Ichiyou is ridiculed by his peers for his lack of singing talent. Nonetheless, the young kashi is tasked by the Eight Immortals to bring back the Four Perils before the world plunges into complete chaos. Helped by his familiars Tenkou and Kaka, Ichiyou embarks on the perilous mission given to him, with his search leading him to modern-day Japan. If he hopes to save the world, Ichiyou must also uncover the truth behind the Four Perils' disappearance—but this event seems to be disturbingly intertwined with his own past.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 5.89,
-    "scored_by": 2143,
+    "scored_by": 2145,
+    "rank": 10867,
+    "popularity": 5859,
+    "members": 15741,
+    "favorites": 44,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Typhoon Graphics"
@@ -1909,13 +2889,18 @@
       "arma bianca",
       "GREE Entertainment"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Josei"
+    ],
     "aired_from": "2024-10-07T00:00:00+00:00",
     "aired_to": "2025-09-26T00:00:00+00:00",
+    "broadcast": "Fridays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/56420/Haigakura",
     "year": 2024,
     "season": "fall",
@@ -1926,12 +2911,25 @@
     "mal_id": 57517,
     "title": "Puniru wa Kawaii Slime",
     "title_english": "Puniru is a Kawaii Slime",
+    "title_japanese": "ぷにるはかわいいスライム",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1681/145175l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/isltEPrpqZg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "This is the story of Puniru the slime and Kotarou, a middle school student, until they cease being friends...\n\nKotarou Kawaii is a second-year middle school boy. When he was in elementary school, a slime he created came to life, and for the past seven years, he has been spending time with the slime named Puniru as his \"friend.\" However, there is one problem for Kotarou...\n\nOver the seven years, both have grown significantly, and Puniru has transformed into an incredibly beautiful girl!\n\nBesides her beautiful appearance, Puniru freely transforms into various cute forms as a slime, causing Kotarou to be both excited and bewildered by her carefree behavior every time.\n\nWill Puniru and Kotarou be able to continue spending time together as \"friends\" despite these challenging days ahead?\n\n(Source: Official website)",
+    "background": "",
     "episodes": 12,
     "score": 6.91,
-    "scored_by": 4870,
+    "scored_by": 4873,
+    "rank": 4943,
+    "popularity": 6092,
+    "members": 14229,
+    "favorites": 49,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "TOHO animation STUDIO"
@@ -1942,6 +2940,7 @@
       "TOHO animation",
       "Shogakukan"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
@@ -1949,8 +2948,10 @@
       "Gag Humor",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2024-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 23:45 (JST)",
     "url": "https://myanimelist.net/anime/57517/Puniru_wa_Kawaii_Slime",
     "year": 2024,
     "season": "fall",
@@ -1961,12 +2962,25 @@
     "mal_id": 58854,
     "title": "Kinoko Inu",
     "title_english": "Kinokoinu Mushroom Pup",
+    "title_japanese": "きのこいぬ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1954/144622l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/N2Wkmh15UXs?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Grief-stricken over the death of his last family member, his dog Hanako, picture book writer Hotaru Yuuyami suffers from writer's block for nearly two months. Despite his childhood friend and editor Tsubaki Uehara's best efforts, nothing seems to alleviate his pain. But all of this changes one day with the sudden apparition of Kinoko Inu, a mysterious mushroom from his garden that turns into a dog-shaped animal. Much to the great dismay of Tsubaki, Hotaru hastily invites the creature into his abode.\n\nDays after Hotaru and Kinoko Inu start living together, the strange mushroom-dog decides to burn the last of Hanako's personal belongings in order to alleviate Hotaru's depression. However, the cohabitation between the overworked writer and his mischievous guest proves more difficult than expected, and Hotaru must let go of his grief if he wants to properly take care of Kinoko Inu.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.89,
-    "scored_by": 3081,
+    "scored_by": 3079,
+    "rank": 5057,
+    "popularity": 7440,
+    "members": 8769,
+    "favorites": 23,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "C-Station"
@@ -1981,6 +2995,7 @@
       "ABC Animation",
       "FuRyu"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
@@ -1988,8 +3003,12 @@
       "Adult Cast",
       "Pets"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2024-10-03T00:00:00+00:00",
     "aired_to": "2024-12-19T00:00:00+00:00",
+    "broadcast": "Thursdays at 21:00 (JST)",
     "url": "https://myanimelist.net/anime/58854/Kinoko_Inu",
     "year": 2024,
     "season": "fall",
@@ -2000,12 +3019,25 @@
     "mal_id": 56967,
     "title": "Kamierabi 2nd Season",
     "title_english": "KamiErabi GOD.app Season 2",
+    "title_japanese": "カミエラビ GOD.app",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1475/145570l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/vWKYjQ94-m0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After the mysterious disappearance of one of its participants, the battle meant to name a successor to God is brutally interrupted, leaving behind a trail of destruction and shaking the world. Twelve years later, while the former contestants in the divine competition struggle to fit in society after they were turned into semi-permanents—beings unable to age—Lall refuses to let go of her brother, who has been forgotten by everyone.\n\nDetermined to resurrect her brother—the only one she sees fit to sit on the heavenly throne—Lall steals her his cellphone from a cult run by a past competitor, which accidentally restarts the competition. Helped by her classmate Eko Sasaki, Lall will show no mercy to prevail against her enemies in her efforts to finally see her brother again.\n\n[Written by MAL Rewrite]",
+    "background": "Kamierabi 2nd Season aired on Fuji TV's +Ultra block.",
     "episodes": 12,
     "score": 6.2,
-    "scored_by": 2404,
+    "scored_by": 2405,
+    "rank": 9130,
+    "popularity": 7579,
+    "members": 8355,
+    "favorites": 18,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Unend"
@@ -2019,6 +3051,7 @@
       "BS Fuji",
       "Crunchyroll"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Suspense"
@@ -2026,8 +3059,10 @@
     "themes": [
       "High Stakes Game"
     ],
+    "demographics": [],
     "aired_from": "2024-10-03T00:00:00+00:00",
     "aired_to": "2024-12-19T00:00:00+00:00",
+    "broadcast": "Thursdays at 00:55 (JST)",
     "url": "https://myanimelist.net/anime/56967/Kamierabi_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -2038,12 +3073,25 @@
     "mal_id": 55570,
     "title": "Shin Tennis no Oujisama: U-17 World Cup Semifinal",
     "title_english": "The Prince of Tennis II U-17 World Cup Semifinal",
+    "title_japanese": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1507/145670l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/m7BcHk9tUiA?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After the intense quarterfinals, the U-17 World Cup competition has been whittled down to four formidable teams. Standing between Team Japan's quest for international glory is the nine-time tournament champion, Germany, and their star-studded team, pro player Jurgen Borisovich Volk at its helm. With both the momentum and the crowd's favor on the side of their opponents, Japan faces an uphill battle.\n\nDetermined to avenge an earlier loss, Japan sends seven of their best—including team captain Houou Byoudouin—to challenge the German national team. But trying to reach the finals for the first time in Japan's tennis history may cause even these fearless players to crumble under mounting waves of pressure as they venture into uncharted territories.\n\n[Written by MAL Rewrite]",
+    "background": "Episodes 1 and 2 were screened in advance at the Shinjuku Piccadilly Cinema on September 23, 2024.",
     "episodes": 13,
     "score": 6.67,
-    "scored_by": 2097,
+    "scored_by": 2098,
+    "rank": 6281,
+    "popularity": 7775,
+    "members": 7798,
+    "favorites": 29,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "M.S.C"
@@ -2057,14 +3105,19 @@
       "Jinnan Studio",
       "Bandai Namco Filmworks"
     ],
+    "licensors": [],
     "genres": [
       "Sports"
     ],
     "themes": [
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-03T00:00:00+00:00",
     "aired_to": "2024-12-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/55570/Shin_Tennis_no_Oujisama__U-17_World_Cup_Semifinal",
     "year": 2024,
     "season": "fall",
@@ -2075,12 +3128,25 @@
     "mal_id": 56461,
     "title": "Hamidashi Creative",
     "title_english": null,
+    "title_japanese": "ハミダシクリエイティブ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1773/150096l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/vfXg_Jy38AE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "It's the end of June, and the summer seems to be locked in place. Tomohiro Izumi, recognized by himself and those around him as an introvert, is spending another quiet day in his little corner of his classroom... or so he thought.\n\n\"Congratulations! You've been selected as our next student council president!\"\n\nThe student council president lottery, held on the spur of the moment by the academy. Tomohiro manages to be the one randomly selected thanks to his ridiculous luck! Now the spotlight is suddenly upon him, and as a result, rumors about him begin to circulate. With no way out, Tomohiro relies on his advisor to start gathering allies he can rely on.\n\nBut none of the candidates his advisor suggests, from his classmate Kano to his underclassman Asumi, and even his little sister Hiyori, are even coming to the campus!? Amidst all of this chaos, even the former president that no one could ever get ahold of, Shio, shows up...!\n\nIs it fate, or is it a foregone conclusion? The unheard of and unprecedented battles of the \"Random Lottery Student Council President\" are about to begin! \n\n(Source: Sekai Project, edited)",
+    "background": "",
     "episodes": 12,
     "score": 5.62,
     "scored_by": 1305,
+    "rank": 12185,
+    "popularity": 7834,
+    "members": 7650,
+    "favorites": 22,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Hayabusa Film"
@@ -2088,14 +3154,17 @@
     "producers": [
       "Frontier Engine"
     ],
+    "licensors": [],
     "genres": [
       "Romance"
     ],
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2024-12-20T00:00:00+00:00",
+    "broadcast": "Fridays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/56461/Hamidashi_Creative",
     "year": 2024,
     "season": "fall",
@@ -2106,25 +3175,43 @@
     "mal_id": 59505,
     "title": "Kankin Kuiki Level X",
     "title_english": "Lockdown Zone: Lv. X",
+    "title_japanese": "監禁区域レベルX",
+    "title_synonyms": [
+      "Lockdown Zone: Level X"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1509/144685l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/6wpx2C6ujAg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After waking up in her room on Christmas Eve, high school student Ryouka Tsurumi makes a series of chilling discoveries. Her mother informs her that her mansion has been evacuated and the area placed on lockdown due to the presence of an unknown and dangerous entity named X. The only other person left in the building is Shuuhei Murosaka, Ryouka's childhood friend. To add to the horror, Ryouka learns that X can brainwash people for its gruesome goal: feeding itself of human blood to reproduce.\n\nHowever, Shuuhei comes to Ryouka's rescue and manages to save her from one of X's brutal attacks. As the two friends try to escape from the lockdown area, they are captured by hypnotized humans and subsequently devoured by the giant beast. But for Ryouka, the nightmare has just started: she wakes up for the second time in her room, only to find out that a different X is now threatening her life. Realizing that she is stuck in a time loop, Ryouka decides to team up with Shuuhei to find a safe future away from the threat of X.\n\n[Written by MAL Rewrite]",
+    "background": "Adaptation of Romy Ooishi's interactive web novel published on peep.",
     "episodes": 6,
     "score": 6.4,
-    "scored_by": 1924,
+    "scored_by": 1925,
+    "rank": 7919,
+    "popularity": 7855,
+    "members": 7612,
+    "favorites": 28,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Web novel",
     "studios": [
       "Imagica Infos",
       "Imageworks Studio"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Horror",
       "Mystery"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-09-07T00:00:00+00:00",
     "aired_to": "2024-10-12T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:56 (JST)",
     "url": "https://myanimelist.net/anime/59505/Kankin_Kuiki_Level_X",
     "year": 2024,
     "season": "fall",
@@ -2135,12 +3222,28 @@
     "mal_id": 59175,
     "title": "Ooi! Tonbo 2nd Season",
     "title_english": "Tonbo! Season 2",
+    "title_japanese": "オーイ！とんぼ 第2期",
+    "title_synonyms": [
+      "Hey! Tonbo",
+      "Oi! Tonbo"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1115/145549l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/aX7zsrvvh0U?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After graduating middle school, Tonbo Ooi sets sail from the isolated island of Tokara to Kumamoto in hopes of advancing her golf career. Using his connections, Tonbo's mentor Kazuyoshi Igarashi is able to convince coach Hajime Udou to train her. While Tonbo initially has trouble showing off her abilities with her peculiar playstyle and inexperience with using a variety of golf clubs, she quickly proves her worth at her course debut by making use of her unique skills.\n\nLeaving an impression on Hajime and the people around her, Tonbo is sent to compete in the Kyushu Women's Championship. Met with familiar faces and new rivals, she is determined to dive deeper into the professional world of golf.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.31,
-    "scored_by": 2839,
+    "scored_by": 2845,
+    "rank": 2908,
+    "popularity": 8632,
+    "members": 6056,
+    "favorites": 16,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "OLM"
@@ -2156,13 +3259,16 @@
       "Golf Digest Sha",
       "REMOW"
     ],
+    "licensors": [],
     "genres": [
       "Drama",
       "Sports"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2025-01-04T00:00:00+00:00",
+    "broadcast": "Saturdays at 10:00 (JST)",
     "url": "https://myanimelist.net/anime/59175/Ooi_Tonbo_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -2173,12 +3279,25 @@
     "mal_id": 59892,
     "title": "Murder Mystery of the Dead",
     "title_english": null,
+    "title_japanese": "マーダーミステリー・オブ・ザ・デッド",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1582/145611l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/FopiI3lAPeI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In a world devastated by a zombie pandemic, the protagonist, Mikoto Amano, wakes up in an unfamiliar place with no memory. She is taken in by six girls: Ranna, Lili, Yuu, Fumika, Murumuru, and Rumina. However, their peaceful days are suddenly shattered when a shocking event occurs—the man who was rescued alongside Mikoto is brutally murdered. The killer is among them, and the next target could be anyone...\n\nSet in the Tokyu Kabukicho Tower, the story unfolds in this now sealed-off high-rise, where mysteries and secrets attack one after another. As bonds of friendship start to form among the girls, will they be able to uncover the truth behind the incident?\n\n(Source: MAL News)",
+    "background": "",
     "episodes": 6,
     "score": 5.66,
     "scored_by": 218,
+    "rank": 12009,
+    "popularity": 8889,
+    "members": 5638,
+    "favorites": 21,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Game",
     "studios": [
       "Ziine Studio"
@@ -2187,14 +3306,17 @@
       "ABC Animation",
       "Balus"
     ],
+    "licensors": [],
     "genres": [
       "Mystery",
       "Supernatural",
       "Suspense"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-11-14T00:00:00+00:00",
     "aired_to": "2024-12-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/59892/Murder_Mystery_of_the_Dead",
     "year": 2024,
     "season": "fall",
@@ -2205,12 +3327,25 @@
     "mal_id": 58302,
     "title": "The iDOLM@STER Shiny Colors 2nd Season",
     "title_english": "The iDOLM@STER Shiny Colors Season 2",
+    "title_japanese": "アイドルマスター シャイニーカラーズ 2nd season",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1978/145055l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/iZ9Y1uj9Fio?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Following the success of Shiny Colors' first concert, Mano Sakuragi and her friends continue to face new challenges. After Straylight, a new unit of 283 Production, makes its debut concert, the members of the units are temporarily shuffled into new groups to prepare for a Halloween event to help them grow individually as idols.\n\nWhile Mano struggles to express her ideas, her fellow unit member Hiori Kazano feels left out by her new comrades' talent. At the same time, Fuyuko Mayuzumi, who has bitterly failed to become Straylight's center, proves completely unable to show her real personality, jeopardizing the entire project in the process. Shiny Colors' producer will have to find a way for Fuyuko to break out of her shell if he wants to see his idol units illuminate the world once more.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.34,
     "scored_by": 1447,
+    "rank": 8270,
+    "popularity": 9195,
+    "members": 5151,
+    "favorites": 22,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Game",
     "studios": [
       "Polygon Pictures"
@@ -2219,6 +3354,7 @@
       "Lantis",
       "Bandai Namco Entertainment"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
@@ -2226,8 +3362,10 @@
       "Idols (Female)",
       "Music"
     ],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:23 (JST)",
     "url": "https://myanimelist.net/anime/58302/The_iDOLMSTER_Shiny_Colors_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -2238,12 +3376,25 @@
     "mal_id": 57924,
     "title": "Tono to Inu",
     "title_english": "The Corgi and the Samurai",
+    "title_japanese": "殿と犬",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1614/147192l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/LTZbOMC8xE4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In the warring states era, there were those who performed feats resembling demons or gods—though that is now a thing of the past. The Lord now lives in a completely declined and impoverished tenement. The Lord who has fallen into such circumstances, encounters a single dog. Feeling pity for its peculiar short-limbed appearance, the Lord reaches out a hand, but soon becomes amused by its mischievous behaviors. Thus begins the cohabitation of the fearsome Lord and cheerful dog, bringing peace and harmony to their lives!\n\n(Source: MAL News)",
+    "background": "",
     "episodes": 24,
     "score": 6.65,
-    "scored_by": 415,
+    "scored_by": 416,
+    "rank": 6385,
+    "popularity": 9415,
+    "members": 4808,
+    "favorites": 21,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
     "source": "Web manga",
     "studios": [
       "OLM",
@@ -2253,6 +3404,7 @@
       "Pony Canyon",
       "Tokyo MX"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
@@ -2261,8 +3413,10 @@
       "Pets",
       "Samurai"
     ],
+    "demographics": [],
     "aired_from": "2024-10-10T00:00:00+00:00",
     "aired_to": "2025-03-28T00:00:00+00:00",
+    "broadcast": "Thursdays at 21:54 (JST)",
     "url": "https://myanimelist.net/anime/57924/Tono_to_Inu",
     "year": 2024,
     "season": "fall",
@@ -2273,17 +3427,34 @@
     "mal_id": 58395,
     "title": "Neko ni Tensei shita Ojisan",
     "title_english": "Neko Oji: The Guy That Got Reincarnated as a Cat",
+    "title_japanese": "ねこに転生したおじさん",
+    "title_synonyms": [
+      "The Old Man Who Was Reincarnated as a Cat",
+      "Neko Oji: The Old Man Who Was Reincarnated as a Cat"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1562/149986l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/98wAwY4S6Xw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Once an average office worker, an old man finds himself reincarnated as a sweet little cat named Pun-chan. Unsure of how he got into this position, he tries to find his way around in his new body. However, the cat soon runs into familiar faces—including his former boss, who quickly becomes fond of him. Regardless, there does not seem to be a dull day ahead for Pun-chan as he learns to adapt to his new life.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 48,
     "score": 6.22,
-    "scored_by": 487,
+    "scored_by": 488,
+    "rank": 8981,
+    "popularity": 11038,
+    "members": 2938,
+    "favorites": 15,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "1 min per ep",
+    "rating": "G - All Ages",
     "source": "Web manga",
     "studios": [
       "Studio Eight Color"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
@@ -2291,8 +3462,10 @@
       "Pets",
       "Reincarnation"
     ],
+    "demographics": [],
     "aired_from": "2024-10-07T00:00:00+00:00",
     "aired_to": "2025-09-08T00:00:00+00:00",
+    "broadcast": "Mondays at 13:00 (JST)",
     "url": "https://myanimelist.net/anime/58395/Neko_ni_Tensei_shita_Ojisan",
     "year": 2024,
     "season": "fall",
@@ -2303,23 +3476,43 @@
     "mal_id": 57562,
     "title": "Hyakushou Kizoku 2nd Season",
     "title_english": null,
+    "title_japanese": "百姓貴族 2nd Season",
+    "title_synonyms": [
+      "Noble Farmer Season 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1275/150168l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/V-zbnODynTc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Second season of Hyakushou Kizoku.",
+    "background": "",
     "episodes": 12,
     "score": 6.79,
-    "scored_by": 880,
+    "scored_by": 879,
+    "rank": 5603,
+    "popularity": 11760,
+    "members": 2403,
+    "favorites": 7,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Pie in the sky"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2024-10-04T00:00:00+00:00",
     "aired_to": "2024-12-20T00:00:00+00:00",
+    "broadcast": "Fridays at 21:54 (JST)",
     "url": "https://myanimelist.net/anime/57562/Hyakushou_Kizoku_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -2330,12 +3523,25 @@
     "mal_id": 58137,
     "title": "Kagaku x Bouken Survival!",
     "title_english": null,
+    "title_japanese": "科学×冒険サバイバル！",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1798/150102l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Yj0aOUWrUgU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": null,
+    "background": "",
     "episodes": 21,
     "score": null,
     "scored_by": null,
+    "rank": 17587,
+    "popularity": 13437,
+    "members": 1444,
+    "favorites": 6,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Gallop"
@@ -2344,6 +3550,7 @@
       "Toei Animation",
       "NHK"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Comedy"
@@ -2351,8 +3558,12 @@
     "themes": [
       "Educational"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2025-03-15T00:00:00+00:00",
+    "broadcast": "Saturdays at 18:25 (JST)",
     "url": "https://myanimelist.net/anime/58137/Kagaku_x_Bouken_Survival",
     "year": 2024,
     "season": "fall",
@@ -2363,24 +3574,40 @@
     "mal_id": 57101,
     "title": "1 Cho",
     "title_english": "1 Second",
+    "title_japanese": "1초",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1599/139552l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/LTbmvSos0LM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Every second counts when you're a first responder. But what if you could see a glimpse into the future? Hosu is a firefighter with the supernatural ability to do just that. There’s just one catch. It only works when he feels extreme stress under pressure. Will knowing what will happen ahead of time help Hosu extinguish fires before they completely destroy homes and lives? And will he learn to wield his ability when he needs it most?\n\n(Source: Webtoon Entertainment)",
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 19772,
+    "popularity": 13454,
+    "members": 1441,
+    "favorites": 8,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Durufix"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-11-24T00:00:00+00:00",
     "aired_to": "2025-01-05T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/57101/1_Cho",
     "year": 2024,
     "season": "fall",
@@ -2391,24 +3618,42 @@
     "mal_id": 59499,
     "title": "Asatir 2: Mirai no Mukashi Banashi",
     "title_english": "Future Folktales 2",
+    "title_japanese": "アサティール2 未来の昔ばなし",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1717/144671l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ndROyfA1ZzU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Sequel to Asatir: Mirai no Mukashi Banashi.",
+    "background": "",
     "episodes": 13,
     "score": 6.36,
-    "scored_by": 190,
+    "scored_by": 191,
+    "rank": 8140,
+    "popularity": 14282,
+    "members": 1158,
+    "favorites": 3,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Toei Animation",
       "Manga Productions"
     ],
     "producers": [],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Adventure"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-11-03T00:00:00+00:00",
     "aired_to": "2025-02-02T00:00:00+00:00",
+    "broadcast": "Sundays at 07:00 (JST)",
     "url": "https://myanimelist.net/anime/59499/Asatir_2__Mirai_no_Mukashi_Banashi",
     "year": 2024,
     "season": "fall",
@@ -2419,23 +3664,39 @@
     "mal_id": 58827,
     "title": "Okaimono Panda!",
     "title_english": null,
+    "title_japanese": "お買いものパンダ！",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1668/149988l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/I0x4rCFacyk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "TV anime of Okaimono Panda! to celebrate its 11th anniversary.",
+    "background": "",
     "episodes": 20,
     "score": null,
     "scored_by": null,
+    "rank": 19237,
+    "popularity": 16641,
+    "members": 641,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
     "source": "Other",
     "studios": [
       "Shin-Ei Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [],
     "aired_from": "2024-11-06T00:00:00+00:00",
     "aired_to": "2025-03-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 21:54 (JST)",
     "url": "https://myanimelist.net/anime/58827/Okaimono_Panda",
     "year": 2024,
     "season": "fall",
@@ -2446,17 +3707,31 @@
     "mal_id": 60357,
     "title": "Maarui Kanojo to Zannen na Kareshi 2nd Season",
     "title_english": null,
+    "title_japanese": "まぁるい彼女と残念な彼氏 第2期",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1050/146614l.jpg",
+    "trailer_url": null,
     "synopsis": "Second season of Maarui Kanojo to Zannen na Kareshi.",
+    "background": "",
     "episodes": 6,
     "score": null,
     "scored_by": null,
+    "rank": 18336,
+    "popularity": 17613,
+    "members": 528,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Imageworks Studio"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
@@ -2464,8 +3739,10 @@
     "themes": [
       "Adult Cast"
     ],
+    "demographics": [],
     "aired_from": "2024-11-16T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 02:23 (JST)",
     "url": "https://myanimelist.net/anime/60357/Maarui_Kanojo_to_Zannen_na_Kareshi_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -2476,23 +3753,41 @@
     "mal_id": 59894,
     "title": "Shooting Star Catch! Tiniping",
     "title_english": null,
+    "title_japanese": "슈팅스타 캐치! 티니핑",
+    "title_synonyms": [
+      "Star Catch! Teenieping"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1583/145688l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 15070,
+    "popularity": 18013,
+    "members": 491,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "SAMG Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Mahou Shoujo"
     ],
+    "demographics": [],
     "aired_from": "2024-10-10T00:00:00+00:00",
     "aired_to": "2025-05-01T00:00:00+00:00",
+    "broadcast": "Thursdays at 18:00 (JST)",
     "url": "https://myanimelist.net/anime/59894/Shooting_Star_Catch_Tiniping",
     "year": 2024,
     "season": "fall",
@@ -2503,12 +3798,27 @@
     "mal_id": 59732,
     "title": "Pochars",
     "title_english": null,
+    "title_japanese": "ぽちゃーズ",
+    "title_synonyms": [
+      "Pochaazu"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1155/145243l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": null,
     "score": null,
     "scored_by": null,
+    "rank": 19505,
+    "popularity": 18357,
+    "members": 463,
+    "favorites": 0,
     "type": "TV",
+    "status": "Currently Airing",
+    "airing": true,
+    "approved": true,
+    "duration": "1 min",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "DLE"
@@ -2516,12 +3826,15 @@
     "producers": [
       "Fuji TV"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-09T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Wednesdays at 01:25 (JST)",
     "url": "https://myanimelist.net/anime/59732/Pochars",
     "year": 2024,
     "season": "fall",
@@ -2532,12 +3845,25 @@
     "mal_id": 59485,
     "title": "Shibuya♡Hachi Part 2",
     "title_english": null,
+    "title_japanese": "SHIBUYA♡HACHI 第2クール",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1515/144659l.jpg",
+    "trailer_url": null,
     "synopsis": "Part two of Shibuya♡Hachi.",
+    "background": "",
     "episodes": 12,
     "score": null,
     "scored_by": null,
+    "rank": 14975,
+    "popularity": 18376,
+    "members": 461,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
     "source": "Other",
     "studios": [
       "Nippon Animation"
@@ -2545,12 +3871,15 @@
     "producers": [
       "PansonWorks"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 07:00 (JST)",
     "url": "https://myanimelist.net/anime/59485/Shibuya♡Hachi_Part_2",
     "year": 2024,
     "season": "fall",
@@ -2561,23 +3890,39 @@
     "mal_id": 59881,
     "title": "Wish Cat",
     "title_english": "Wish Cat",
+    "title_japanese": "위시캣",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1850/145583l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 16096,
+    "popularity": 19217,
+    "members": 399,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "SAMG Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Mahou Shoujo"
     ],
+    "demographics": [],
     "aired_from": "2024-09-12T00:00:00+00:00",
     "aired_to": "2025-03-13T00:00:00+00:00",
+    "broadcast": "Thursdays at 17:50 (JST)",
     "url": "https://myanimelist.net/anime/59881/Wish_Cat",
     "year": 2024,
     "season": "fall",
@@ -2588,24 +3933,42 @@
     "mal_id": 59512,
     "title": "Punirunes: Puni 2",
     "title_english": null,
+    "title_japanese": "ぷにるんず ぷに2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1387/144697l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/jJM5MTuAcGk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Second season of Punirunes.",
+    "background": "",
     "episodes": 25,
     "score": null,
     "scored_by": null,
+    "rank": 19597,
+    "popularity": 19523,
+    "members": 375,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "OLM Digital"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy",
       "Slice of Life"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-10-06T00:00:00+00:00",
     "aired_to": "2025-03-30T00:00:00+00:00",
+    "broadcast": "Sundays at 09:15 (JST)",
     "url": "https://myanimelist.net/anime/59512/Punirunes__Puni_2",
     "year": 2024,
     "season": "fall",
@@ -2616,22 +3979,38 @@
     "mal_id": 60516,
     "title": "Bawang Long Lei Qi 2nd Season",
     "title_english": null,
+    "title_japanese": "霸王龙雷奇 第二季",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1053/146959l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 20219,
+    "popularity": 21180,
+    "members": 276,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "6 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2024-12-04T00:00:00+00:00",
     "aired_to": "2024-12-11T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/60516/Bawang_Long_Lei_Qi_2nd_Season",
     "year": 2024,
     "season": "fall",
@@ -2642,25 +4021,43 @@
     "mal_id": 60052,
     "title": "Sylvanian Families: Freya no Piece of Secret",
     "title_english": null,
+    "title_japanese": "シルバニアファミリー　フレアのピース・オブ・シークレット",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1856/145941l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 6,
     "score": null,
     "scored_by": null,
+    "rank": 15430,
+    "popularity": 21536,
+    "members": 256,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "G - All Ages",
     "source": "Other",
     "studios": [
       "LandQ studios"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-11-21T00:00:00+00:00",
     "aired_to": "2024-12-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 19:22 (JST)",
     "url": "https://myanimelist.net/anime/60052/Sylvanian_Families__Freya_no_Piece_of_Secret",
     "year": 2024,
     "season": "fall",
@@ -2671,12 +4068,25 @@
     "mal_id": 59123,
     "title": "Kumarba Season 2",
     "title_english": null,
+    "title_japanese": "クマーバ シーズン2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1897/144484l.jpg",
+    "trailer_url": null,
     "synopsis": "Second season of Kumarba.",
+    "background": "",
     "episodes": 12,
     "score": null,
     "scored_by": null,
+    "rank": 18078,
+    "popularity": 22178,
+    "members": 222,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
     "source": "Other",
     "studios": [
       "Creative House Pocket"
@@ -2684,10 +4094,15 @@
     "producers": [
       "Kumarba"
     ],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-10-05T00:00:00+00:00",
     "aired_to": "2024-12-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 07:00 (JST)",
     "url": "https://myanimelist.net/anime/59123/Kumarba_Season_2",
     "year": 2024,
     "season": "fall",
@@ -2698,15 +4113,29 @@
     "mal_id": 60910,
     "title": "Hero Inside 2",
     "title_english": null,
+    "title_japanese": "히어로 인사이드2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1138/147842l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 9,
     "score": null,
     "scored_by": null,
+    "rank": 21924,
+    "popularity": 22386,
+    "members": 212,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure"
@@ -2714,8 +4143,10 @@
     "themes": [
       "Super Power"
     ],
+    "demographics": [],
     "aired_from": "2024-09-22T00:00:00+00:00",
     "aired_to": "2024-11-17T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/60910/Hero_Inside_2",
     "year": 2024,
     "season": "fall",
@@ -2726,17 +4157,33 @@
     "mal_id": 59740,
     "title": "Pinkfong-gwa Hogi: Sae Chingu Ninimo",
     "title_english": null,
+    "title_japanese": "핑크퐁과 호기: 새 친구 니니모",
+    "title_synonyms": [
+      "Pinkfong & Hogi: New Friend Ninimo"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1552/145268l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 19476,
+    "popularity": 22626,
+    "members": 200,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [
       "Pinkfong"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
@@ -2744,8 +4191,12 @@
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-09-21T00:00:00+00:00",
     "aired_to": "2024-12-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 14:30 (JST)",
     "url": "https://myanimelist.net/anime/59740/Pinkfong-gwa_Hogi__Sae_Chingu_Ninimo",
     "year": 2024,
     "season": "fall",
@@ -2756,12 +4207,25 @@
     "mal_id": 61289,
     "title": "Sorotani no Keibatchi",
     "title_english": null,
+    "title_japanese": "そろ谷のけいばっち",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1325/148688l.jpg",
+    "trailer_url": null,
     "synopsis": "Behind the scenes of the serious competition in G1 races, you'll see the quirky and hilarious tactics played out by jockeys, horses, spectators, and trainers. Don't miss the emotions of the people and horses who, with their complicated circumstances and personal feelings in mind, are determined to win the G1 and make the right predictions!\n\n(Source: Official Site, translated)",
+    "background": "",
     "episodes": 4,
     "score": null,
     "scored_by": null,
+    "rank": 15331,
+    "popularity": 24025,
+    "members": 150,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "DLE"
@@ -2769,6 +4233,7 @@
     "producers": [
       "TV Asahi"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Sports"
@@ -2776,8 +4241,10 @@
     "themes": [
       "Racing"
     ],
+    "demographics": [],
     "aired_from": "2024-11-28T00:00:00+00:00",
     "aired_to": "2024-12-19T00:00:00+00:00",
+    "broadcast": "Thursdays at Unknown",
     "url": "https://myanimelist.net/anime/61289/Sorotani_no_Keibatchi",
     "year": 2024,
     "season": "fall",
@@ -2788,22 +4255,40 @@
     "mal_id": 60207,
     "title": "Shaonian Jia Guo Meng",
     "title_english": null,
+    "title_japanese": "少年家国梦",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1475/146285l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 14825,
+    "popularity": 24259,
+    "members": 143,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Historical",
       "Military"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-10-01T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/60207/Shaonian_Jia_Guo_Meng",
     "year": null,
     "season": null,
@@ -2811,43 +4296,32 @@
     "is_japanese": true
   },
   {
-    "mal_id": 60997,
-    "title": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe",
-    "title_english": "Balala the Fairies: Radiant Star Guardians",
-    "image_url": "https://cdn.myanimelist.net/images/anime/1593/147985l.jpg",
-    "synopsis": "The Fairies Laura Xia, Cora Yan and Sylvia Bai and Symin, felt the change in magic energy and boarded the Star Dream Moon Boat to enter the newly opened Fantasy Night Realm.\n\nIn defending the Fantasy Night Realm against the dark forces controlled by Nightfall, the fairies were recognized by the Radiant Stars and made the new Guardians of the Radiant Stars.\n\nThey passed the trial awakening the power of the Radiant Stars, and forged friendship with Aiden and Connie as well. Together they fought against Nightfall, but they didn't expect to fall into his trap, accidentally lifting the seal and releasing him. The Fantasy Night Realm is about to face a greater crisis...\n\n(Source: Balala the Fairies Wiki)",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "type": "TV",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "aired_from": "2024-11-15T00:00:00+00:00",
-    "aired_to": "2024-12-09T00:00:00+00:00",
-    "url": "https://myanimelist.net/anime/60997/Balala_Xiao_Mo_Xian__Yao_Xing_Shouhu_Zhe",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
     "mal_id": 60914,
     "title": "Beuledeu Ibalso 4: Bakery Ppang Stars",
     "title_english": "Bread Barbershop 4",
+    "title_japanese": "브레드이발소4: 베이커리 빵스타즈",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1575/147846l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 22,
     "score": null,
     "scored_by": null,
+    "rank": 20263,
+    "popularity": 24336,
+    "members": 141,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy"
@@ -2855,9 +4329,56 @@
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-11-30T00:00:00+00:00",
     "aired_to": "2025-06-07T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/60914/Beuledeu_Ibalso_4__Bakery_Ppang_Stars",
+    "year": 2024,
+    "season": "fall",
+    "is_hentai": false,
+    "is_japanese": true
+  },
+  {
+    "mal_id": 60997,
+    "title": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe",
+    "title_english": "Balala the Fairies: Radiant Star Guardians",
+    "title_japanese": "巴啦啦小魔仙曜星守护者1",
+    "title_synonyms": [],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1593/147985l.jpg",
+    "trailer_url": null,
+    "synopsis": "The Fairies Laura Xia, Cora Yan and Sylvia Bai and Symin, felt the change in magic energy and boarded the Star Dream Moon Boat to enter the newly opened Fantasy Night Realm.\n\nIn defending the Fantasy Night Realm against the dark forces controlled by Nightfall, the fairies were recognized by the Radiant Stars and made the new Guardians of the Radiant Stars.\n\nThey passed the trial awakening the power of the Radiant Stars, and forged friendship with Aiden and Connie as well. Together they fought against Nightfall, but they didn't expect to fall into his trap, accidentally lifting the seal and releasing him. The Fantasy Night Realm is about to face a greater crisis...\n\n(Source: Balala the Fairies Wiki)",
+    "background": "",
+    "episodes": 26,
+    "score": null,
+    "scored_by": null,
+    "rank": 20130,
+    "popularity": 24335,
+    "members": 141,
+    "favorites": 0,
+    "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
+    "source": "Original",
+    "studios": [],
+    "producers": [],
+    "licensors": [],
+    "genres": [],
+    "themes": [
+      "Mahou Shoujo"
+    ],
+    "demographics": [
+      "Kids"
+    ],
+    "aired_from": "2024-11-15T00:00:00+00:00",
+    "aired_to": "2024-12-09T00:00:00+00:00",
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/60997/Balala_Xiao_Mo_Xian__Yao_Xing_Shouhu_Zhe",
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
@@ -2867,25 +4388,43 @@
     "mal_id": 60705,
     "title": "Xiong Chumo: Xiongxiong Bang Bang Tuan 3",
     "title_english": "Boonie Squad 3",
+    "title_japanese": "熊熊帮帮团3",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1115/147383l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 16691,
+    "popularity": 28848,
+    "members": 71,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "Fantawild Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-12-20T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/60705/Xiong_Chumo__Xiongxiong_Bang_Bang_Tuan_3",
     "year": null,
     "season": null,
@@ -2896,23 +4435,41 @@
     "mal_id": 62454,
     "title": "Tobot: Daedosiui Yeongungdeul Season 2 Part 3",
     "title_english": null,
+    "title_japanese": "또봇 : 대도시의 영웅들 시즌2 파트 3",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1623/151974l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 8,
     "score": null,
     "scored_by": null,
+    "rank": 15719,
+    "popularity": 29085,
+    "members": 54,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2024-10-25T00:00:00+00:00",
     "aired_to": "2024-12-13T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/62454/Tobot__Daedosiui_Yeongungdeul_Season_2_Part_3",
     "year": 2024,
     "season": "fall",

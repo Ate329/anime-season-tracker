@@ -3,12 +3,27 @@
     "mal_id": 1535,
     "title": "Death Note",
     "title_english": "Death Note",
+    "title_japanese": "デスノート",
+    "title_synonyms": [
+      "DN"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1079/138100l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Vt_3c8BgxV4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Brutal murders, petty thefts, and senseless violence pollute the human world. In contrast, the realm of death gods is a humdrum, unchanging gambling den. The ingenious 17-year-old Japanese student Light Yagami and sadistic god of death Ryuk share one belief: their worlds are rotten.\n\nFor his own amusement, Ryuk drops his Death Note into the human world. Light stumbles upon it, deeming the first of its rules ridiculous: the human whose name is written in this note shall die. However, the temptation is too great, and Light experiments by writing a felon's name, which disturbingly enacts his first murder.\n\nAware of the terrifying godlike power that has fallen into his hands, Light—under the alias Kira—follows his wicked sense of justice with the ultimate goal of cleansing the world of all evil-doers. The meticulous mastermind detective L is already on his trail, but as Light's brilliance rivals L's, the grand chase for Kira turns into an intense battle of wits that can only end when one of them is dead.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 37,
     "score": 8.62,
-    "scored_by": 2933233,
+    "scored_by": 2933518,
+    "rank": 98,
+    "popularity": 2,
+    "members": 4191962,
+    "favorites": 182731,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -19,6 +34,9 @@
       "Shueisha",
       "D.N. Dream Partners"
     ],
+    "licensors": [
+      "VIZ Media"
+    ],
     "genres": [
       "Supernatural",
       "Suspense"
@@ -26,8 +44,12 @@
     "themes": [
       "Psychological"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-04T00:00:00+00:00",
     "aired_to": "2007-06-27T00:00:00+00:00",
+    "broadcast": "Wednesdays at 00:56 (JST)",
     "url": "https://myanimelist.net/anime/1535/Death_Note",
     "year": 2006,
     "season": "fall",
@@ -38,12 +60,25 @@
     "mal_id": 1575,
     "title": "Code Geass: Hangyaku no Lelouch",
     "title_english": "Code Geass: Lelouch of the Rebellion",
+    "title_japanese": "コードギアス 反逆のルルーシュ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1032/135088l.jpg",
+    "trailer_url": null,
     "synopsis": "In the year 2010, the Holy Empire of Britannia is establishing itself as a dominant military nation, starting with the conquest of Japan. Renamed to Area 11 after its swift defeat, Japan has seen significant resistance against these tyrants in an attempt to regain independence.\n\nLelouch Lamperouge, a Britannian student, unfortunately finds himself caught in a crossfire between the Britannian and the Area 11 rebel armed forces. He is able to escape, however, thanks to the timely appearance of a mysterious girl named C.C., who bestows upon him Geass, the \"Power of Kings.\" Realizing the vast potential of his newfound \"power of absolute obedience,\" Lelouch embarks upon a perilous journey as the masked vigilante known as Zero, leading a merciless onslaught against Britannia in order to get revenge once and for all.\n\n[Written by MAL Rewrite]",
+    "background": "Code Geass: Hangyaku no Lelouch is an original anime series by Sunrise animation studio with original character designs by the all-female Japanese manga artist group Clamp. Manga and light novels based off the show have been published by Kadokawa Shoten. The show has sold millions of DVDs and Blu-ray volumes and is extremely popular in both Japan and North America. The show is known for its multi-genre appeal and for its diverse cast of characters who face many moral dilemmas over the course of the series. The series won: \"The Best Anime TV Series\" award at the 2007 Tokyo International Anime Fair, \"The Best TV animation\" award at the twelfth Animation Kobe, and \"The Most Popular Anime\" award at the Animage 's 29th Annual Anime Grand Prix. The series was rebroadcasted during October 2021 on the Animeism programming block to celebrate its 15th anniversary.",
     "episodes": 25,
     "score": 8.71,
-    "scored_by": 1489180,
+    "scored_by": 1489464,
+    "rank": 65,
+    "popularity": 22,
+    "members": 2413498,
+    "favorites": 114720,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Sunrise"
@@ -56,6 +91,10 @@
       "Bandai Namco Entertainment",
       "Hakuhodo DY Media Partners"
     ],
+    "licensors": [
+      "Funimation",
+      "Bandai Entertainment"
+    ],
     "genres": [
       "Award Winning",
       "Drama",
@@ -67,8 +106,10 @@
       "School",
       "Super Power"
     ],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2007-07-29T00:00:00+00:00",
+    "broadcast": "Fridays at 01:25 (JST)",
     "url": "https://myanimelist.net/anime/1575/Code_Geass__Hangyaku_no_Lelouch",
     "year": 2006,
     "season": "fall",
@@ -79,12 +120,28 @@
     "mal_id": 1482,
     "title": "D.Gray-man",
     "title_english": "D.Gray-man",
+    "title_japanese": "ディー・グレイマン",
+    "title_synonyms": [
+      "D. Gray-man",
+      "D. Grey-man"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/75194l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/GIOe6KZrHBA?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Losing a loved one is so painful that one may sometimes wish to be able to resurrect them—a weakness that the enigmatic Millennium Earl exploits. To make his mechanical weapons known as \"Akuma,\" he uses the souls of the dead that are called back. Once a soul is placed in an Akuma, it is trapped forever, and the only way to save them is to exorcise them from their vessel using the Anti-Akuma weapon, \"Innocence.\"\n \nAfter spending three years as the disciple of General Cross, Allen Walker is sent to the Black Order—an organization comprised of those willing to fight Akuma and the Millennium Earl—to become an official Exorcist. With an arm as his Innocence and a cursed eye that can see the suffering souls within an Akuma, it's up to Allen and his fellow Exorcists to stop the Millennium Earl's ultimate plot: one that can lead to the destruction of the world.\n\n[Written by MAL Rewrite]",
+    "background": "D.Gray-man is based on Katsura Hoshino's manga series of the same title. The anime adapts the first 158 chapters from the first 16 volumes, while adding anime exclusive content, mainly during the first half of the series. FUNimation Entertainment licensed and released only the first 51 episodes of D.Gray-man. The explanation they provided for not acquiring the remaining episodes was that there were licensing issues with Dentsu. However, on June 30, 2016, it was announced that Funimation acquired the rights the second half of the anime.",
     "episodes": 103,
     "score": 8,
-    "scored_by": 295002,
+    "scored_by": 295015,
+    "rank": 706,
+    "popularity": 313,
+    "members": 723005,
+    "favorites": 13814,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "TMS Entertainment"
@@ -96,6 +153,9 @@
       "Half H.P Studio",
       "Sony Music Entertainment"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -104,8 +164,12 @@
     "themes": [
       "Urban Fantasy"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-03T00:00:00+00:00",
     "aired_to": "2008-09-30T00:00:00+00:00",
+    "broadcast": "Tuesdays at 18:00 (JST)",
     "url": "https://myanimelist.net/anime/1482/DGray-man",
     "year": 2006,
     "season": "fall",
@@ -116,12 +180,28 @@
     "mal_id": 1604,
     "title": "Katekyou Hitman Reborn!",
     "title_english": "Reborn!",
+    "title_japanese": "家庭教師ヒットマンREBORN!",
+    "title_synonyms": [
+      "Kateikyoushi Hitman Reborn!",
+      "Home Tutor Hitman Reborn!"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1531/142751l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/hOgAuJgKZuc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "There is no putting it lightly—Tsunayoshi Sawada is just no good. He is clumsy, talentless, and desperately in love with the school idol Kyouko Sasagawa, a girl so completely out of his league. Dubbed \"Loser Tsuna\" by his classmates, he seems to be the very personification of failure in the guise of a middle-schooler.\n\nTsuna's boring life takes an extraordinary twist when he encounters the mysterious Reborn, who happens to be a hitman... and shockingly, a baby! Sent from the strongest Mafia family in Italy, Reborn is assigned the daunting mission of preparing the dull middle schooler to succeed the ninth boss of the notorious Vongola family, who is on the brink of retirement. The dull boy has a grueling road ahead, but with the help of his new criminal affiliates and his peculiar home tutor, perhaps even Loser Tsuna can achieve greatness.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 203,
     "score": 8.12,
-    "scored_by": 267790,
+    "scored_by": 267816,
+    "rank": 526,
+    "popularity": 424,
+    "members": 580783,
+    "favorites": 16178,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Artland"
@@ -133,6 +213,10 @@
       "Pony Canyon",
       "d-rights"
     ],
+    "licensors": [
+      "VIZ Media",
+      "Discotek Media"
+    ],
     "genres": [
       "Action",
       "Comedy"
@@ -141,8 +225,12 @@
       "Organized Crime",
       "Super Power"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2010-09-25T00:00:00+00:00",
+    "broadcast": "Saturdays at 10:30 (JST)",
     "url": "https://myanimelist.net/anime/1604/Katekyou_Hitman_Reborn",
     "year": 2006,
     "season": "fall",
@@ -153,12 +241,28 @@
     "mal_id": 1519,
     "title": "Black Lagoon: The Second Barrage",
     "title_english": "Black Lagoon: The Second Barrage",
+    "title_japanese": "BLACK LAGOON The Second Barrage",
+    "title_synonyms": [
+      "Black Lagoon 2nd Season",
+      "Black Lagoon Second Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/83748l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/-KgtNdG_zfE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Rokurou \"Rock\" Okajima has joined the Lagoon Company, a pirate mercenary group which operates out of Roanapur, Thailand. Despite his initial protests, this filthy slum of depraved souls and merciless criminals now serves as the former salaryman's home. Stranded, with nothing left of his past life but the clothes on his back and his inner morality, Rock is forced to perform jobs alongside the other members of the Lagoon crew. Berated for his lack of spine as he wades through the underbelly of society, he must decide whether to continue on amidst the gunfire and ruthlessness or risk everything he has in an attempt to be free. Whether he chooses the comfort of a familiar land or the freedom of being an outlaw, his decision will have lasting consequences on the crew who gave him a home.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 8.17,
-    "scored_by": 336165,
+    "scored_by": 336213,
+    "rank": 464,
+    "popularity": 434,
+    "members": 564743,
+    "favorites": 3315,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -167,6 +271,10 @@
       "Geneon Entertainment",
       "Arts Pro"
     ],
+    "licensors": [
+      "Funimation",
+      "Geneon Entertainment USA"
+    ],
     "genres": [
       "Action"
     ],
@@ -174,8 +282,12 @@
       "Adult Cast",
       "Organized Crime"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2006-10-03T00:00:00+00:00",
     "aired_to": "2006-12-19T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:59 (JST)",
     "url": "https://myanimelist.net/anime/1519/Black_Lagoon__The_Second_Barrage",
     "year": 2006,
     "season": "fall",
@@ -186,12 +298,27 @@
     "mal_id": 1559,
     "title": "Shijou Saikyou no Deshi Kenichi",
     "title_english": "KenIchi: The Mightiest Disciple",
+    "title_japanese": "史上最強の弟子 ケンイチ",
+    "title_synonyms": [
+      "History's Strongest Disciple Kenichi"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/75515l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/IZeFGHH7xWE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Whenever he is not getting pummeled in the karate club after school, high schooler Kenichi Shirahama can be found with his head buried in one of the many self-help books he carries with him every day. One day, on the way to school, Kenichi accidentally frightens the new student in his class, leading her to throw him down onto the ground. After apologizing for her violent reflexes, she introduces herself as Miu Furinji and asks Kenichi to be her friend.\n\nLater that day, after karate club practice, Kenichi is given an ultimatum by one of the other club members: they will fight next week and the loser has to quit the club permanently. While lamenting his imminent defeat in the upcoming fight, Kenichi witnesses Miu fend off three thugs easily. Fed up with being perpetually bullied by those more powerful than him, he asks Miu for tips on how to become a better fighter. She directs Kenichi to her grandfather's dojo, Ryouzanpaku, where several skilled—albeit strange—masters of extreme martial arts have gathered to hone their abilities. Miu promises that Kenichi will become significantly stronger, but only if he manages to stay alive.\n\nWith those ominous words looming in his mind and the appearance of a criminal martial arts gang known as \"Ragnarok\" threatening the safety of those around him, Kenichi takes the first step on his journey to become a world-class fighter and a defender of the defenseless.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 50,
     "score": 8.03,
-    "scored_by": 163675,
+    "scored_by": 163679,
+    "rank": 655,
+    "popularity": 856,
+    "members": 319415,
+    "favorites": 3673,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "TMS Entertainment"
@@ -201,6 +328,10 @@
       "Tokyo Movie Shinsha",
       "Shogakukan"
     ],
+    "licensors": [
+      "Funimation",
+      "Discotek Media"
+    ],
     "genres": [
       "Action",
       "Comedy"
@@ -209,8 +340,12 @@
       "Martial Arts",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-08T00:00:00+00:00",
     "aired_to": "2007-09-30T00:00:00+00:00",
+    "broadcast": "Sundays at 00:55 (JST)",
     "url": "https://myanimelist.net/anime/1559/Shijou_Saikyou_no_Deshi_Kenichi",
     "year": 2006,
     "season": "fall",
@@ -221,12 +356,28 @@
     "mal_id": 1530,
     "title": "Kanon (2006)",
     "title_english": "Kanon",
+    "title_japanese": "カノン (2006)",
+    "title_synonyms": [
+      "Kanon Remake",
+      "Kanon 2006"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1362/128746l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/KCXq37YLik4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As a young child, Aizawa Yuuichi had often visited his cousin in the city; however, something drastic happened to keep him away for seven long years. Now, Yuuichi returns, his memories of those days are simply gone.\n\nSettling into the wintry town, Yuuichi comes across several young girls, all of whom are connected to his past. As he befriends them and continues to interact with them, the long forgotten memories from his childhood begin to resurface...\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.94,
-    "scored_by": 141345,
+    "scored_by": 141362,
+    "rank": 791,
+    "popularity": 943,
+    "members": 286115,
+    "favorites": 4487,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Kyoto Animation"
@@ -236,14 +387,20 @@
       "TBS",
       "Movic"
     ],
+    "licensors": [
+      "ADV Films",
+      "Funimation"
+    ],
     "genres": [
       "Drama",
       "Romance",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2007-03-16T00:00:00+00:00",
+    "broadcast": "Fridays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/1530/Kanon_2006",
     "year": 2006,
     "season": "fall",
@@ -254,12 +411,25 @@
     "mal_id": 1571,
     "title": "Ghost Hunt",
     "title_english": "Ghost Hunt",
+    "title_japanese": "ゴーストハント",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/11/73908l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/i39YnrNdkcI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "While at school, Mai Taniyama and her friends like to exchange ghost stories. Apparently, there is an abandoned school building on their campus that is the center of many ghost stories. During the story, they are interrupted by a mysterious male figure. The person turns out to be Kazuya Shibuya, a 17-year-old who is president of the Shibuya Psychic Research Company. He was called by the principal to investigate the stories surrounding the abandoned school building.\n\nThe next day, on the way to school, Mai passes the school building in question. While examining a strange camera she spotted inside, she gets surprised by Kazuya's assistant. Unknowingly interfering with the investigation, Mai breaks the camera and Kazuya's assistant gets injured.\n\nKazuya forcefully hires Mai in order to pay for the camera and replace his injured assistant. From that point on, Mai begins to learn about the paranormal world and the profession of ghost hunting.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 7.74,
     "scored_by": 103531,
+    "rank": 1238,
+    "popularity": 1139,
+    "members": 240585,
+    "favorites": 3107,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "J.C.Staff"
@@ -270,14 +440,21 @@
       "Marvelous Entertainment",
       "Delfi Sound"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Horror",
       "Mystery",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2006-10-04T00:00:00+00:00",
     "aired_to": "2007-03-28T00:00:00+00:00",
+    "broadcast": "Wednesdays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/1571/Ghost_Hunt",
     "year": 2006,
     "season": "fall",
@@ -288,12 +465,29 @@
     "mal_id": 1536,
     "title": "Busou Renkin",
     "title_english": "Buso Renkin",
+    "title_japanese": "武装錬金",
+    "title_synonyms": [
+      "BoRe",
+      "BuRe",
+      "Arms Alchemy"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/75566l.jpg",
+    "trailer_url": null,
     "synopsis": "Disguising themselves as humans, homunculi inhabit the world to prey on the unsuspecting population. Created long ago by alchemists from Europe, homunculi are difficult to eliminate without weapons known as Kurogane. Each Kurogane is uniquely shaped according to its wielder's instincts, taking the form of special abilities called Busou Renkin.\n\nWhile walking home from school one day, Kazuki Mutou spots a defenseless girl under attack by a homunculus. But as he attempts to intervene, the girl ends up saving Kazuki’s life instead, shattering his ignorant worldview. The girl introduces herself as Tokiko Tsumura, and Kazuki soon learns that she has accidentally implanted a Kurogane inside of him. Now unintentionally dragged into the fight against homunculi, Kazuki must forgo his former life of leisure in order to protect the ones he holds dear.\n\n[Written by MAL Rewrite]",
+    "background": "Busou Renkin was released on DVD in North America by VIZ Media from April 29, 2008, to October 7, 2008.",
     "episodes": 26,
     "score": 7.28,
-    "scored_by": 82340,
+    "scored_by": 82346,
+    "rank": 3026,
+    "popularity": 1503,
+    "members": 178078,
+    "favorites": 872,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Xebec"
@@ -304,6 +498,9 @@
       "Imagine",
       "Geneon Entertainment"
     ],
+    "licensors": [
+      "VIZ Media"
+    ],
     "genres": [
       "Action",
       "Supernatural"
@@ -311,8 +508,12 @@
     "themes": [
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2007-03-29T00:00:00+00:00",
+    "broadcast": "Thursdays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/1536/Busou_Renkin",
     "year": 2006,
     "season": "fall",
@@ -323,12 +524,31 @@
     "mal_id": 1594,
     "title": "Jigoku Shoujo Futakomori",
     "title_english": "Hell Girl: Two Mirrors",
+    "title_japanese": "地獄少女 二籠",
+    "title_synonyms": [
+      "Hell Girl 2",
+      "Hell Girl Futakomori",
+      "Hell Girl Second Cage",
+      "Hell Girl: The Two Prisoners",
+      "Jigoku Shoujo: Futagomori"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/86975l.jpg",
+    "trailer_url": null,
     "synopsis": "Ai Enma and her companions continue to offer their service of revenge against those who have wronged others, and the price is as steep as ever—for damning the offender to hell, the person exacting vengeance is sent to the abyss as well. As they cast soul after soul into the darkness, a new sinister force is watching them: a little girl named Kikuri.\n\nWhile Ai continues her duties, she meets a boy named Takuma Kurebayashi, known as the \"Devil's Child\" because of the horrific events that occur around him. Unfortunately, Takuma's reputation leads the townspeople to use him as a scapegoat for those who have been ferried off to hell. When things quickly spiral out of control, Ai must find a way to bring an end to this senseless violence, as it poses a threat to her very existence.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 26,
     "score": 7.87,
-    "scored_by": 70586,
+    "scored_by": 70591,
+    "rank": 922,
+    "popularity": 1571,
+    "members": 169883,
+    "favorites": 694,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Studio Deen"
@@ -336,6 +556,9 @@
     "producers": [
       "Aniplex",
       "SKY Perfect Well Think"
+    ],
+    "licensors": [
+      "Sentai Filmworks"
     ],
     "genres": [
       "Horror",
@@ -346,8 +569,10 @@
     "themes": [
       "Psychological"
     ],
+    "demographics": [],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2007-04-07T00:00:00+00:00",
+    "broadcast": "Saturdays at 19:30 (JST)",
     "url": "https://myanimelist.net/anime/1594/Jigoku_Shoujo_Futakomori",
     "year": 2006,
     "season": "fall",
@@ -358,25 +583,50 @@
     "mal_id": 1562,
     "title": "Yamato Nadeshiko Shichihenge♥",
     "title_english": "The Wallflower",
+    "title_japanese": "ヤマトナデシコ七変化♥",
+    "title_synonyms": [
+      "Yamato Nadeshiko Shichi Henge",
+      "Perfect Girl Evolution",
+      "The Seven Metamorphoses of Yamato Nadeshiko"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/11/7701l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/VJhIshF_daw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Ever since her crush rejected her by insulting her appearance, Sunako Nakahara has been a shut-in with a hatred for beauty, embracing all things morbid and occult-related. She is sent to live in her aunt's mansion which, to her dismay, she'll share with four exceedingly handsome boys her age. Furthermore, her flighty aunt has made a deal with these boys that in exchange for living there rent-free, they are to turn Sunako into a proper lady by the time she returns from a trip around the world.\n\nThus begins Sunako's hectic life with abrasive Kyohei Takano, ladies' man Ranmaru Morii, calm Takenaga Oda, and friendly Yukinojo Toyama. As she interacts with them she finds them less obnoxious, and she may not be as much of an outcast as she thought.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 7.71,
-    "scored_by": 84602,
+    "scored_by": 84609,
+    "rank": 1338,
+    "popularity": 1573,
+    "members": 169795,
+    "favorites": 2420,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Nippon Animation"
     ],
     "producers": [],
+    "licensors": [
+      "ADV Films",
+      "Funimation"
+    ],
     "genres": [
       "Comedy"
     ],
     "themes": [
       "Reverse Harem"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2006-10-04T00:00:00+00:00",
     "aired_to": "2007-03-28T00:00:00+00:00",
+    "broadcast": "Wednesdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/1562/Yamato_Nadeshiko_Shichihenge♥",
     "year": 2006,
     "season": "fall",
@@ -387,12 +637,31 @@
     "mal_id": 1565,
     "title": "Pokemon Diamond & Pearl",
     "title_english": "Pokémon: Diamond and Pearl",
+    "title_japanese": "ポケットモンスター ダイヤモンド&パール",
+    "title_synonyms": [
+      "Pocket Monsters: Diamond & Pearl",
+      "Diamond and Pearl",
+      "DP: Battle Dimension",
+      "DP: Galactic Battles",
+      "DP: Sinnoh League Victors"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1425/142699l.jpg",
+    "trailer_url": null,
     "synopsis": "Following the end of Satoshi's Hoenn journey, he travels to the Sinnoh region for his next adventure en route to becoming a Pokémon Master. Immediately upon arrival, Team Rocket makes another attempt to snatch Pikachu, only for it to fail once again. However, Pikachu has fallen deep into a forest and it's up to Satoshi to find him! Along the way, he reunites with Takeshi—a Pokémon breeder with whom he has traveled through many regions—and meets his soon-to-be rival, Shinji, a power-hungry trainer who cares little for his Pokémons' feelings.\n\nStill in search for Pikachu, Satoshi notices a powerful electric attack in the distance and heads toward it to find Pikachu with Team Rocket and Hikari—a novice trainer aiming to be the top Pokémon coordinator. After foiling Team Rocket's plans, Satoshi reunites with Pikachu and Hikari joins the group. And thus, Satoshi and his friends begin their journey through the exciting land of Sinnoh.\n\n[Written by MAL Rewrite]",
+    "background": "In the US, the second season of Pokemon: Diamond and Pearl is called Pokemon: Battle Dimension (Pokemon Season 11).",
     "episodes": 191,
     "score": 7.32,
-    "scored_by": 97042,
+    "scored_by": 97060,
+    "rank": 2840,
+    "popularity": 1636,
+    "members": 159675,
+    "favorites": 550,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG - Children",
     "source": "Game",
     "studios": [
       "OLM"
@@ -403,6 +672,10 @@
       "Nintendo",
       "Shogakukan Productions"
     ],
+    "licensors": [
+      "VIZ Media",
+      "The Pokemon Company International"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -410,8 +683,12 @@
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-09-28T00:00:00+00:00",
     "aired_to": "2010-09-09T00:00:00+00:00",
+    "broadcast": "Thursdays at 19:00 (JST)",
     "url": "https://myanimelist.net/anime/1565/Pokemon_Diamond___Pearl",
     "year": 2006,
     "season": "fall",
@@ -422,12 +699,27 @@
     "mal_id": 1606,
     "title": "Kekkaishi",
     "title_english": "Kekkaishi",
+    "title_japanese": "結界師",
+    "title_synonyms": [
+      "Barrier Master"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/75191l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/xht0MY1Tjnk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Yoshimura Sumimura comes from a long line of \"Kekkaishi,\" individuals who have supernatural abilities and are able to destroy evil creatures called Ayakashi that venture into the human realm from time to time. The Ayakashi are demons that look to feast on the power emanating from the land of Karasumori, which also happens to be where Yoshimura's high school is located. Now, Yoshimura must fight to protect his beloved school and hometown. Although, if it were up to him, he would rather be baking cakes than fighting off the ugly characters that show up at night.\n\nThankfully, Yoshimura isn't the only one helping to keep the baddies at bay. His childhood friend and neighbor, Tokine Yukimura, joins him in this righteous battle. Despite the fact that they are from rival clans, these two make a fantastic team. And teamwork is something vital to fighting the evil that is closing in, as the Ayakashi attack in waves, looking to claim the land as their own, and a shadowy organization looks on, ready to pounce when the time is right...",
+    "background": "",
     "episodes": 52,
     "score": 7.59,
     "scored_by": 52046,
+    "rank": 1696,
+    "popularity": 2101,
+    "members": 116918,
+    "favorites": 642,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Sunrise"
@@ -435,6 +727,10 @@
     "producers": [
       "Yomiuri Telecasting",
       "Tohokushinsha Film Corporation"
+    ],
+    "licensors": [
+      "VIZ Media",
+      "Discotek Media"
     ],
     "genres": [
       "Action",
@@ -444,8 +740,12 @@
     "themes": [
       "Mythology"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-16T00:00:00+00:00",
     "aired_to": "2008-02-05T00:00:00+00:00",
+    "broadcast": "Mondays at 19:00 (JST)",
     "url": "https://myanimelist.net/anime/1606/Kekkaishi",
     "year": 2006,
     "season": "fall",
@@ -456,12 +756,25 @@
     "mal_id": 1498,
     "title": "Black Blood Brothers",
     "title_english": "Black Blood Brothers",
+    "title_japanese": "ブラック・ブラッド・ブラザーズ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/13804l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/0R3LBOc_dak?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Black Bloods and Red Bloods, vampires and humans. Despite their differences, these two races once fought together in a crusade against a formidable foe. A decade later, the vampire war hero Jirou Mochizuki, known as the \"Silver Blade,\" travels with his younger brother Kotarou to the Special Zone—a safe haven where vampires and humans live in harmony.\n\nHowever, their journey is suddenly faced with danger when a conflict erupts between vampire migrants and human forces from the Special Zone. With the rise of a developing conspiracy from an old enemy, Jirou will need the help of his new ally, Mimiko \"Compromiser\" Katsuragi, as well as the power of his ancient bloodline to protect what he treasures the most.\n\n[Written by MAL Rewrite]",
+    "background": "Black Blood Brothers was released on Blu-ray and DVD by Funimation Entertainment on August 31, 2010.",
     "episodes": 12,
     "score": 7.08,
-    "scored_by": 56754,
+    "scored_by": 56758,
+    "rank": 4144,
+    "popularity": 2215,
+    "members": 106993,
+    "favorites": 411,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "Group TAC",
@@ -472,6 +785,9 @@
       "Happinet Pictures",
       "Omnibus Promotion"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Comedy",
@@ -481,8 +797,10 @@
       "Urban Fantasy",
       "Vampire"
     ],
+    "demographics": [],
     "aired_from": "2006-09-08T00:00:00+00:00",
     "aired_to": "2006-11-24T00:00:00+00:00",
+    "broadcast": "Fridays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/1498/Black_Blood_Brothers",
     "year": 2006,
     "season": "fall",
@@ -493,12 +811,25 @@
     "mal_id": 1589,
     "title": "Bartender",
     "title_english": "Bartender",
+    "title_japanese": "バーテンダー",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/67397l.jpg",
+    "trailer_url": null,
     "synopsis": "Hidden in the backstreets of the Ginza district is Eden Hall, a lone bar operated by Ryuu Sasakura, the prodigy bartender who is said to mix the most incredible cocktails anyone has ever tasted. However, not just anyone can find Eden Hall; rather, it is Eden Hall that must find those who need it. Customers of varying backgrounds, each plagued with their own troubles, wander into this bar. Nevertheless, Ryuu always knows the ideal cocktail to console and guide each distraught soul.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 11,
     "score": 7.31,
-    "scored_by": 31723,
+    "scored_by": 31727,
+    "rank": 2884,
+    "popularity": 2241,
+    "members": 105374,
+    "favorites": 536,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Palm Studio"
@@ -511,6 +842,9 @@
       "Fuji Creative",
       "Omnibus Promotion"
     ],
+    "licensors": [
+      "Anime Limited"
+    ],
     "genres": [
       "Drama",
       "Gourmet"
@@ -519,8 +853,12 @@
       "Adult Cast",
       "Workplace"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2006-10-15T00:00:00+00:00",
     "aired_to": "2006-12-31T00:00:00+00:00",
+    "broadcast": "Sundays at 01:45 (JST)",
     "url": "https://myanimelist.net/anime/1589/Bartender",
     "year": 2006,
     "season": "fall",
@@ -531,12 +869,30 @@
     "mal_id": 1579,
     "title": "Kiniro no Corda: Primo Passo",
     "title_english": "La corda d'oro: primo passo",
+    "title_japanese": "金色のコルダ ～primo passo～",
+    "title_synonyms": [
+      "Kin'iro no Chord",
+      "Kiniro no Chord",
+      "Kin-iro no Corda: Primo Passo",
+      "The Golden Chord"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/7228l.jpg",
+    "trailer_url": null,
     "synopsis": "Seiso Academy is a prestigious high school that sorts students into two majors: General Studies, characterized by distinct grey uniforms, and Music Studies, characterized by pristine white uniforms. While rushing to class one morning, General Studies student Kahoko Hino has a chance encounter with Lili, a small fairy searching for someone with the ability to see her. Lili flies away, and Kahoko, puzzled by their meeting, continues on her way.\n\nLater that day, the participants of a school-wide music competition are announced, and all of them are, unsurprisingly, Music Studies students—at least until Kahoko's name is read out. Immediately tracking down Lili, the small fairy gifts Kahoko a magical violin and convinces her to participate in the competition.\n\nKiniro no Corda: Primo Passo follows Kahoko's endeavors alongside Lili, as the young student must now face the challenges of competition and go head-to-head against her competitors while navigating a new world of classical music.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 7.4,
-    "scored_by": 50233,
+    "scored_by": 50238,
+    "rank": 2471,
+    "popularity": 2308,
+    "members": 101117,
+    "favorites": 869,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Yumeta Company"
@@ -547,6 +903,9 @@
       "Koei",
       "TYO"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Romance"
     ],
@@ -555,8 +914,12 @@
       "Reverse Harem",
       "School"
     ],
+    "demographics": [
+      "Josei"
+    ],
     "aired_from": "2006-10-02T00:00:00+00:00",
     "aired_to": "2007-03-26T00:00:00+00:00",
+    "broadcast": "Mondays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/1579/Kiniro_no_Corda__Primo_Passo",
     "year": 2006,
     "season": "fall",
@@ -567,12 +930,27 @@
     "mal_id": 1546,
     "title": "Negima!?",
     "title_english": "Negima!? Magister Negi Magi",
+    "title_japanese": "ネギま!?",
+    "title_synonyms": [
+      "Negima Remake"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/73997l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/d0xvFaz5RLY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A remake of the Negima anime with its own original story.\n\nWizard Negi Springfield may be a boy, but he has a man-sized job to do! Fresh from the Academy of Magic, Negi continues his training as an instructor at Mahora Academy in Japan. But before he can get his Masters in magic, the 31 schoolgirls of Class 3-A are gonna keep him up all night cramming for a final exam in will power. Temptation aside, Negi has more on his syllabus than flirting and spells. Darkness is closing in, and Negi is gonna need help from his lovely student bodies to drive the ghouls from their school. These girls want to prove that they're the best in class, and extra credit is available to the cuties that aren't afraid of after-hours phantom fighting!\n\n(Source: DVD case)",
+    "background": "",
     "episodes": 26,
     "score": 6.92,
-    "scored_by": 38312,
+    "scored_by": 38314,
+    "rank": 4915,
+    "popularity": 2314,
+    "members": 100800,
+    "favorites": 275,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Shaft",
@@ -580,6 +958,10 @@
     ],
     "producers": [
       "TV Tokyo"
+    ],
+    "licensors": [
+      "Funimation",
+      "Sentai Filmworks"
     ],
     "genres": [
       "Comedy",
@@ -590,8 +972,12 @@
       "Harem",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-04T00:00:00+00:00",
     "aired_to": "2007-03-28T00:00:00+00:00",
+    "broadcast": "Wednesdays at 17:30 (JST)",
     "url": "https://myanimelist.net/anime/1546/Negima",
     "year": 2006,
     "season": "fall",
@@ -602,12 +988,25 @@
     "mal_id": 1568,
     "title": "Sumomomo Momomo: Chijou Saikyou no Yome",
     "title_english": "Sumomomo Momomo: The World's Strongest Bride",
+    "title_japanese": "すもももももも〜地上最強のヨメ〜",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/2357l.jpg",
+    "trailer_url": null,
     "synopsis": "Koushi Inuzuka is a smart high school student who aims to become a public prosecutor. Unfortunately for our good guy, he was born into a martial arts family whose head (ie his father) only knows one language: violence. When Koushi was still a baby, his father made a pact with his biggest rival to marry Koushi to his opponent-turned-friend's daughter. The union of the two blood lines is supposed to bring forth Earth's strongest martial arts clan. \n\nSkip forward: Koushi is in high school, oblivious to the marriage arranged for him at his birth. Enter Momoko Kuzuryuu: sugar bomb, airhead, loli martial arts artist and Koushi's self-proclaimed bride (the strongest on Earth, no less). Her wish for sexual intercourse meets with Koushi's square refusal as he has absolutely no desire to get it on with someone who looks like she could be his little sister, not to mention that he doesn't have the foggiest idea who she actually is. \n\nMeanwhile, a war has broken out between the martial arts families. For Koushi, this means that numerous fighters are out to challenge/assassinate him. As if that weren't bad enough, our protagonist also has a fight phobia due to a traumatic incident that took place in his childhood. Now it's up to Momoko and her superhuman fighting skills to protect her \"husband.\" Will the two sweethearts survive the trials and tribulations ahead of them? More importantly, will Momoko get her way receiving a baby from Koushi? \n\n(Source: Kotonoha)",
+    "background": "",
     "episodes": 22,
     "score": 6.82,
-    "scored_by": 25762,
+    "scored_by": 25763,
+    "rank": 5424,
+    "popularity": 2849,
+    "members": 71698,
+    "favorites": 104,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Hibari"
@@ -618,6 +1017,7 @@
       "Lantis",
       "Movic"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Comedy",
@@ -627,8 +1027,12 @@
       "Harem",
       "Martial Arts"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2007-03-16T00:00:00+00:00",
+    "broadcast": "Fridays at 02:40 (JST)",
     "url": "https://myanimelist.net/anime/1568/Sumomomo_Momomo__Chijou_Saikyou_no_Yome",
     "year": 2006,
     "season": "fall",
@@ -639,12 +1043,29 @@
     "mal_id": 1569,
     "title": "Otome wa Boku ni Koishiteru",
     "title_english": "Otoboku: Maidens are Falling for Me!",
+    "title_japanese": "乙女は僕に恋してる",
+    "title_synonyms": [
+      "Otome wa Onee-sama ni Koi Shiteru",
+      "The Maiden is Falling in Love With the Elder Sister",
+      "The Maiden is Falling in Love With Me"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/75483l.jpg",
+    "trailer_url": null,
     "synopsis": "Mizuho can't believe his ears when Grandpa's will is read out. Grandpa's final wish is for Mizuho to attend the same academy as Mizuho's mother. The catch is it's an all-girls school. With the help of friend Mariya however, he gets a makeover good enough to fool everyone at the academy. \n\n(Source: ANN)",
+    "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 27108,
+    "scored_by": 27110,
+    "rank": 4520,
+    "popularity": 2990,
+    "members": 66019,
+    "favorites": 180,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "feel."
@@ -653,6 +1074,9 @@
       "Starchild Records",
       "Dream Force",
       "GANSIS"
+    ],
+    "licensors": [
+      "Media Blasters"
     ],
     "genres": [
       "Comedy",
@@ -663,8 +1087,10 @@
       "Crossdressing",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-08T00:00:00+00:00",
     "aired_to": "2006-12-24T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1569/Otome_wa_Boku_ni_Koishiteru",
     "year": 2006,
     "season": "fall",
@@ -675,12 +1101,29 @@
     "mal_id": 1557,
     "title": "Shounen Onmyouji",
     "title_english": "Shonen Onmyoji",
+    "title_japanese": "少年陰陽師",
+    "title_synonyms": [
+      "The Young Spirit Master",
+      "Teenager Onmyoji",
+      "Shonen Onmyouji"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1865/106109l.jpg",
+    "trailer_url": null,
     "synopsis": "Masahiro is the grandson of the great onmyouji, Abe no Seimei. However, he lost his sixth sense that enables him to see supernatural beings, which is very important for an onmyouji. Thus, he is left with no choice but to try and pick a different career. But one day, a strange mononoke appears, which he names Mokkun, who shows him his true potential powers after fighting a demon. With the assistance of Mokkun, his quest to become the greatest onmyouji begins.",
+    "background": "",
     "episodes": 26,
     "score": 7.53,
     "scored_by": 20959,
+    "rank": 1939,
+    "popularity": 3168,
+    "members": 58673,
+    "favorites": 275,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Studio Deen"
@@ -688,6 +1131,10 @@
     "producers": [
       "Sotsu",
       "Marine Entertainment"
+    ],
+    "licensors": [
+      "Funimation",
+      "Geneon Entertainment USA"
     ],
     "genres": [
       "Action",
@@ -697,8 +1144,12 @@
       "Historical",
       "Mythology"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2006-10-04T00:00:00+00:00",
     "aired_to": "2007-03-28T00:00:00+00:00",
+    "broadcast": "Tuesdays at 02:30 (JST)",
     "url": "https://myanimelist.net/anime/1557/Shounen_Onmyouji",
     "year": 2006,
     "season": "fall",
@@ -709,18 +1160,36 @@
     "mal_id": 1212,
     "title": "Oban Star-Racers",
     "title_english": null,
+    "title_japanese": "オーバン・スターレーサーズ",
+    "title_synonyms": [
+      "Oban Star Racers"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/3702l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ESSUoVpZP9c?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Eva's birthday has just passed, and she hasn't heard from her father. Despising the Boarding School she attends, she escapes using her Rocket Bike that she just completed. Taking on the alias \"Molly,\" Eva sneaks with the Earth team to Alwas for the Great Race because the winner of the race gets any one wish granted. Little does the Earth Team know what danger awaits them...",
+    "background": "",
     "episodes": 26,
     "score": 7.51,
-    "scored_by": 25901,
+    "scored_by": 25905,
+    "rank": 2000,
+    "popularity": 3288,
+    "members": 55114,
+    "favorites": 560,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "HAL Film Maker"
     ],
     "producers": [
       "Sav! The World Productions"
+    ],
+    "licensors": [
+      "Shout! Factory"
     ],
     "genres": [
       "Adventure",
@@ -730,8 +1199,10 @@
       "Mecha",
       "Racing"
     ],
+    "demographics": [],
     "aired_from": "2006-09-23T00:00:00+00:00",
     "aired_to": "2007-03-25T00:00:00+00:00",
+    "broadcast": "Saturdays at 08:06 (JST)",
     "url": "https://myanimelist.net/anime/1212/Oban_Star-Racers",
     "year": 2006,
     "season": "fall",
@@ -742,12 +1213,27 @@
     "mal_id": 1601,
     "title": "Red Garden",
     "title_english": "Red Garden",
+    "title_japanese": "レッド ガーデン",
+    "title_synonyms": [
+      "RG"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/25411l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ph2u12qGZBE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Strange suicides have been taking place in New York. One day, four girls from the same high school wake up in the morning feeling tired and dizzy and not being able to remember anything about the previous night. In school, they find out that one of their classmates has committed suicide. School is canceled for the rest of the day, but instead of going home, the girls are drawn to a park by butterflies only they can see. Suddenly a man and a woman approach the girls, telling them that they all died the previous night. \n\n(Source: ANN)",
+    "background": "",
     "episodes": 22,
     "score": 7.02,
-    "scored_by": 11770,
+    "scored_by": 11771,
+    "rank": 4463,
+    "popularity": 3541,
+    "members": 48346,
+    "favorites": 143,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Gonzo"
@@ -756,6 +1242,10 @@
       "GDH",
       "Sotsu Music Publishing",
       "Future Vision Music"
+    ],
+    "licensors": [
+      "ADV Films",
+      "Funimation"
     ],
     "genres": [
       "Drama",
@@ -766,8 +1256,10 @@
     "themes": [
       "Psychological"
     ],
+    "demographics": [],
     "aired_from": "2006-10-04T00:00:00+00:00",
     "aired_to": "2007-03-14T00:00:00+00:00",
+    "broadcast": "Wednesdays at 02:40 (JST)",
     "url": "https://myanimelist.net/anime/1601/Red_Garden",
     "year": 2006,
     "season": "fall",
@@ -778,12 +1270,27 @@
     "mal_id": 1538,
     "title": "Pumpkin Scissors",
     "title_english": null,
+    "title_japanese": "パンプキン・シザーズ",
+    "title_synonyms": [
+      "PumpSci"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/75181l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/AE83hgV3ZSQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Three years ago, the long war between the Royal Empire and the Republic of Frost came to an end. With both nations a long way from recovery, a passionate young woman named Alice L. Malvin leads the Pumpkin Scissors, a unit of the imperial army specializing in war relief.\n\nDuring a mission to assist a village occupied by renegade soldiers, Alice meets Randal Oland, a scarred former soldier with a sordid past and kind heart. Encouraged by the efforts of the Pumpkin Scissors, he joins the team on their mission. During the assault, however, Randal enters a trance-like state prompted by a mysterious blue lantern. As a result, he acquires monstrous strength and decimates the enemy forces.\n\nDespite having witnessed Randal's disturbing transformation, Alice invites him to join her squandrant, confident that his gentle nature will prevail and make him a perfect fit for the Pumpkin Scissors.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.15,
-    "scored_by": 18234,
+    "scored_by": 18235,
+    "rank": 3767,
+    "popularity": 3638,
+    "members": 46355,
+    "favorites": 143,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Gonzo",
@@ -793,6 +1300,10 @@
       "GDH",
       "Sotsu Music Publishing"
     ],
+    "licensors": [
+      "ADV Films",
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Comedy",
@@ -801,8 +1312,12 @@
     "themes": [
       "Military"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2006-10-03T00:00:00+00:00",
     "aired_to": "2007-03-18T00:00:00+00:00",
+    "broadcast": "Tuesdays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/1538/Pumpkin_Scissors",
     "year": 2006,
     "season": "fall",
@@ -813,12 +1328,28 @@
     "mal_id": 1543,
     "title": "Yoake Mae yori Ruriiro na: Crescent Love",
     "title_english": "Brighter Than the Dawning Blue",
+    "title_japanese": "夜明け前より瑠璃色な -Crescent Love-",
+    "title_synonyms": [
+      "Yoake Mae yori Ruri Iro na: Crescent Love",
+      "Yoakena"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/19794l.jpg",
+    "trailer_url": null,
     "synopsis": "The moon and the earth are linked by a single contact point, \"Mitsuru ga Sakichau Ouren Rakuniushi\" where Tatsuya lives under the supervision of the Sphere Kingdom (Moon Kingdom)'s Princess Feena Fam Earthlight who is coming to stay at his home.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 12,
     "score": 7.08,
     "scored_by": 17306,
+    "rank": 4192,
+    "popularity": 3821,
+    "members": 42671,
+    "favorites": 156,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Daume"
@@ -830,6 +1361,9 @@
       "Memory-Tech",
       "Omnibus Promotion"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy",
       "Romance",
@@ -838,8 +1372,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2006-12-21T00:00:00+00:00",
+    "broadcast": "Thursdays at 02:30 (JST)",
     "url": "https://myanimelist.net/anime/1543/Yoake_Mae_yori_Ruriiro_na__Crescent_Love",
     "year": 2006,
     "season": "fall",
@@ -850,12 +1386,25 @@
     "mal_id": 1555,
     "title": "Tokimeki Memorial: Only Love",
     "title_english": "Tokimeki Memorial",
+    "title_japanese": "ときめきメモリアル Only Love",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1207/128537l.jpg",
+    "trailer_url": null,
     "synopsis": "Aoba Riku has just transferred to a new high school because of his father's job, and things aren't quite what he expected. The headmaster's secretary controls the school while espousing the virtues of academic freedom, the teachers are even stranger than normal teachers, and half the student body is walking around with animal ears on. On his very first day, Riku is unfortunate enough to find himself at the center of the student council's latest event, which has him running for his life. All this on top of the normal high school rigour of popularity contests, crushes, and homework makes it unsure whether Riku will be able to survive this new school.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 25,
     "score": 7.01,
     "scored_by": 15994,
+    "rank": 4483,
+    "popularity": 3985,
+    "members": 39100,
+    "favorites": 94,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "AIC ASTA"
@@ -863,6 +1412,7 @@
     "producers": [
       "Konami"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
@@ -871,8 +1421,10 @@
       "Harem",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-03T00:00:00+00:00",
     "aired_to": "2007-04-03T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/1555/Tokimeki_Memorial__Only_Love",
     "year": 2006,
     "season": "fall",
@@ -883,18 +1435,34 @@
     "mal_id": 1570,
     "title": "Happiness!",
     "title_english": "Happiness!",
+    "title_japanese": "はぴねす！",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/75250l.jpg",
+    "trailer_url": null,
     "synopsis": "Kamizaka Haruhi having been rescued when she was young by a mage, longed to be a mage herself, so she enrolled into a special school that allows regular and magic classes into two different sections. Together with her rival/best friend, Hiiragi Anri, they study magic together while she is searching for the boy that saved her years ago, to give him a Valentines' chocolate.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 12,
     "score": 6.33,
-    "scored_by": 16781,
+    "scored_by": 16782,
+    "rank": 8321,
+    "popularity": 4039,
+    "members": 38072,
+    "favorites": 40,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Artland"
     ],
     "producers": [
       "Delfi Sound"
+    ],
+    "licensors": [
+      "Maiden Japan"
     ],
     "genres": [
       "Comedy",
@@ -904,8 +1472,10 @@
       "Harem",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2006-12-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1570/Happiness",
     "year": 2006,
     "season": "fall",
@@ -916,17 +1486,31 @@
     "mal_id": 1581,
     "title": "Gift: Eternal Rainbow",
     "title_english": null,
+    "title_japanese": "ギフト～ eternal rainbow",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/75540l.jpg",
+    "trailer_url": null,
     "synopsis": "Amaumi Haruhiko is a high school student who attends Shimano Academy in a town called Narasakicho. Narasakicho contains an unknown rainbow which constantly overlooks the town and is related to granting a magical wish called \"Gift.\" Gift is a once-in-a-lifetime present between two people.\n\nAs a child, Haruhiko has been close with his childhood friend, Kirino, until he obtains a new non-blood sister by the name of Riko. Haruhiko develops a strong relationship with Riko until they sadly depart due to the fact Haruhiko's father could no longer support the two of them.\n\nAfter some times passes by, Riko finally returns to the town of Narasakicho, and along with Kirino, starts to attend Shimano Academy with Haruhiko. The series revolves around the relationship among these main protagonists and slowly reveals the story behind both Gift and the rainbow.",
+    "background": "",
     "episodes": 12,
     "score": 6.55,
     "scored_by": 14447,
+    "rank": 7042,
+    "popularity": 4326,
+    "members": 33065,
+    "favorites": 29,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "OLM"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Drama",
@@ -936,8 +1520,10 @@
       "Harem",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2006-12-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1581/Gift__Eternal_Rainbow",
     "year": 2006,
     "season": "fall",
@@ -948,12 +1534,27 @@
     "mal_id": 1588,
     "title": "Mamoru-kun ni Megami no Shukufuku wo!",
     "title_english": "Venus to Mamoru!",
+    "title_japanese": "護くんに女神の祝福を！",
+    "title_synonyms": [
+      "Mamoru-kun was Blessed by a Goddess!"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/75243l.jpg",
+    "trailer_url": null,
     "synopsis": "\"Beatrice\". It is a mysterious power that responds to people’s will and realize all of them. Tokyo Beatrice University Attached High School is the only school that teaches Beatrice called \"magic appears in the real world\".\n\nYoshimura Mamoru is a high school boy who was saved by Beatrice miraculously when he was a child. At the first day of the school, he meets a girl under the cherry trees on his way to the school. She orders him to go out with her.\n\nHer name is Takasu Ayako. She is in the second grade and one year older than him. She is a director of student committee of discipline. Also, she is a granddaughter of a big-name politician, very beautiful, and a genius Beatrician who can even shoot a satellite down. She is called Witch Beatrice or Death Angel in Beatrice, but in fact, she is a pure-hearted girl.\n\n(Source: AnimeNfo)",
+    "background": "",
     "episodes": 24,
     "score": 7.01,
-    "scored_by": 11186,
+    "scored_by": 11187,
+    "rank": 4514,
+    "popularity": 4622,
+    "members": 28458,
+    "favorites": 45,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Zexcs"
@@ -961,6 +1562,7 @@
     "producers": [
       "Kadokawa Shoten"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
@@ -968,8 +1570,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2007-03-30T00:00:00+00:00",
+    "broadcast": "Fridays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/1588/Mamoru-kun_ni_Megami_no_Shukufuku_wo",
     "year": 2006,
     "season": "fall",
@@ -980,12 +1584,27 @@
     "mal_id": 1592,
     "title": "Hataraki Man",
     "title_english": null,
+    "title_japanese": "働きマン",
+    "title_synonyms": [
+      "Working Man"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/73869l.jpg",
+    "trailer_url": null,
     "synopsis": "Hiroko Matsukata is a woman who works for a magazine company. She puts all she has into her work, and is known as a strong, straight-forward working girl, who can at will turn herself into Hataraki man (working man) mode. Despite Hiroko's success at work, her life lacks romance. Even though a hard worker, she'd leave early anytime to go on a date. Too bad her boyfriend is an even bigger workaholic than Hiroko.\n\n(Source: ANN)",
+    "background": "Hataraki Man aired on Fuji TV's noitaminA block.",
     "episodes": 11,
     "score": 6.98,
     "scored_by": 8451,
+    "rank": 4634,
+    "popularity": 4668,
+    "members": 27914,
+    "favorites": 63,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Gallop"
@@ -1000,6 +1619,9 @@
       "Fujipacific Music",
       "Tavac"
     ],
+    "licensors": [
+      "Maiden Japan"
+    ],
     "genres": [
       "Comedy",
       "Drama",
@@ -1009,8 +1631,12 @@
       "Adult Cast",
       "Workplace"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2006-10-13T00:00:00+00:00",
     "aired_to": "2006-12-22T00:00:00+00:00",
+    "broadcast": "Fridays at 00:45 (JST)",
     "url": "https://myanimelist.net/anime/1592/Hataraki_Man",
     "year": 2006,
     "season": "fall",
@@ -1021,12 +1647,28 @@
     "mal_id": 1554,
     "title": "Asatte no Houkou.",
     "title_english": "Living for the Day After Tomorrow",
+    "title_japanese": "あさっての方向。",
+    "title_synonyms": [
+      "A Direction of the Day After Tomorrow",
+      "Towards the Day After Tomorrow"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/74962l.jpg",
+    "trailer_url": null,
     "synopsis": "About to enter junior high school, Karada Iokawa is a cheerful and reliable girl, who hates being treated as a child more than anything. After her parents' deaths, her older brother, Hiro, comes back from studying abroad to take care of her. His ex-girlfriend Shouko Nogami, a composed yet sometimes childish and stubborn young woman, follows him to Japan in order to find out why he left her. Between the two girls, the atmosphere is tense, which eventually leads to Shouko calling Karada childish.\n\nLater, Karada stands before a shrine praying to grow up. Little does she know that the shrine wishing stone would grant her wish. As Karada grows older, at the same time, Shouko, who happens to be nearby, finds herself a child once again. With their ages now reversed, Shouko and Karada must come to terms with one another and ultimately themselves.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 10820,
+    "scored_by": 10821,
+    "rank": 4491,
+    "popularity": 4797,
+    "members": 26151,
+    "favorites": 44,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "J.C.Staff"
@@ -1037,13 +1679,18 @@
       "TBS",
       "Mag Garden"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2006-12-22T00:00:00+00:00",
+    "broadcast": "Fridays at 01:55 (JST)",
     "url": "https://myanimelist.net/anime/1554/Asatte_no_Houkou",
     "year": 2006,
     "season": "fall",
@@ -1054,12 +1701,25 @@
     "mal_id": 1602,
     "title": "Soukou no Strain",
     "title_english": "Strain: Strategic Armored Infantry",
+    "title_japanese": "奏光のストレイン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/75409l.jpg",
+    "trailer_url": null,
     "synopsis": "Eleven-year-old Sara Werec's elder brother, Ralph, was sent to the frontlines of an interstellar war 130 light years away, and Sara vowed to reunite with him one day as a comrade. Five years later, Sara is a student at Grapera Space Armed Soldier Academy, training to become a Reasoner, a pilot of an advanced weapons system called a \"Strain.\"\n\nWhen the academy is suddenly attacked by enemy forces, Sara enters battle against a Strain that quickly overpowers her. After incapacitating her, the pilot reveals himself to be her Ralph. Killing all the other students and destroying the school, he disappears, leaving Sara to question everything she has ever known. Soukou no Strain is the story of Sara as she reenters training under a new name, now determined to confront her brother and make sense of her brother's actions.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7,
-    "scored_by": 9580,
+    "scored_by": 9581,
+    "rank": 4549,
+    "popularity": 4944,
+    "members": 24434,
+    "favorites": 79,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Original",
     "studios": [
       "Studio Fantasia"
@@ -1067,6 +1727,9 @@
     "producers": [
       "Happinet Pictures",
       "Omnibus Promotion"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Drama",
@@ -1078,8 +1741,10 @@
       "Military",
       "Space"
     ],
+    "demographics": [],
     "aired_from": "2006-11-02T00:00:00+00:00",
     "aired_to": "2007-02-15T00:00:00+00:00",
+    "broadcast": "Thursdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/1602/Soukou_no_Strain",
     "year": 2006,
     "season": "fall",
@@ -1090,12 +1755,27 @@
     "mal_id": 1583,
     "title": "009-1",
     "title_english": "009-1",
+    "title_japanese": "ゼロゼロナインワン",
+    "title_synonyms": [
+      "Zero Zero Nine One"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/11/19998l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/zKNcfXH8Y6k?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Mylene Hoffman, a beautiful cyborg spy with the codename \"009-1\" lives in an alternative world where the cold war never ended, continuously on-going for 140 years. The world is split into two factions, the West and the East block. A masquerade of peace between the two is slowly dissipated as the conflict occurs. Through politics, the two factions battle over supremacy over technology to threats of a nuclear attack. Mylene Hoffman, teaming up with three other agent, gets surrounded by deception, chaos, and rivalry as she carries out missions assigned by her superiors.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.2,
     "scored_by": 7766,
+    "rank": 9098,
+    "popularity": 5003,
+    "members": 23586,
+    "favorites": 30,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Ishimori Entertainment"
@@ -1105,14 +1785,22 @@
       "TBS",
       "Sony Music Entertainment"
     ],
+    "licensors": [
+      "ADV Films",
+      "Funimation"
+    ],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2006-12-22T00:00:00+00:00",
+    "broadcast": "Fridays at 01:25 (JST)",
     "url": "https://myanimelist.net/anime/1583/009-1",
     "year": 2006,
     "season": "fall",
@@ -1123,16 +1811,34 @@
     "mal_id": 6609,
     "title": "Pucca (TV)",
     "title_english": null,
+    "title_japanese": "짜장소녀 뿌까",
+    "title_synonyms": [
+      "Jjajang Sonyeo Ppukka"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/15145l.jpg",
+    "trailer_url": null,
     "synopsis": "Pucca is the young daughter of a Chinese noodle house owner and she is hopelessly in love with the ninja Garu. He tries desperately to avoid Pucca's advances and usually does not return her affection. This results in many comical situations as Pucca goes to great lengths just to steal a kiss from Garu. Expect to see lots of \"funny love\" antics involving everything from noodles to deadly ninjas.\n\n(Source: TV.com)",
+    "background": "",
     "episodes": 26,
-    "score": 6.74,
-    "scored_by": 10113,
+    "score": 6.73,
+    "scored_by": 10118,
+    "rank": 5895,
+    "popularity": 5412,
+    "members": 19470,
+    "favorites": 40,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
     "source": "Other",
     "studios": [],
     "producers": [
       "VOOZ Character System"
+    ],
+    "licensors": [
+      "Disney Platform Distribution"
     ],
     "genres": [
       "Comedy",
@@ -1141,8 +1847,10 @@
     "themes": [
       "Parody"
     ],
+    "demographics": [],
     "aired_from": "2006-09-18T00:00:00+00:00",
     "aired_to": "2007-05-14T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/6609/Pucca_TV",
     "year": 2006,
     "season": "fall",
@@ -1153,12 +1861,28 @@
     "mal_id": 1587,
     "title": "Tenpou Ibun: Ayakashi Ayashi",
     "title_english": "Ghost Slayers Ayashi",
+    "title_japanese": "天保異聞 妖奇士",
+    "title_synonyms": [
+      "Tenpouibun Ayakashiayashi",
+      "Strange Story of Tempou Era: Ayakashiayashi"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1122/133858l.jpg",
+    "trailer_url": null,
     "synopsis": "In the year of Tenpo 14, Yoi, monsters from another world attack Edo. Those who fight against them are members of Bansha Aratemesho. In public, Bansha Aratemsho is known as an organization to study foreign books. In fact, they are a organization dedicated to destroying the Yoi. These warriors are called Ayakashi. They gather information of odd events in the country, and are sent to destroy Yoi who appear. They are generally very strange people. For example, a guy who has lost his memory, a girl who dresses like a man. They have special powers with which to beat the Yoi.\n\n(Source: AniDB)",
+    "background": "",
     "episodes": 25,
     "score": 6.85,
     "scored_by": 4731,
+    "rank": 5257,
+    "popularity": 5562,
+    "members": 18114,
+    "favorites": 26,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Bones"
@@ -1167,6 +1891,9 @@
       "Aniplex",
       "Mainichi Broadcasting System"
     ],
+    "licensors": [
+      "Bandai Entertainment"
+    ],
     "genres": [
       "Supernatural"
     ],
@@ -1174,8 +1901,10 @@
       "Historical",
       "Mythology"
     ],
+    "demographics": [],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2007-03-31T00:00:00+00:00",
+    "broadcast": "Saturdays at 18:00 (JST)",
     "url": "https://myanimelist.net/anime/1587/Tenpou_Ibun__Ayakashi_Ayashi",
     "year": 2006,
     "season": "fall",
@@ -1186,12 +1915,29 @@
     "mal_id": 1591,
     "title": "Kujibiki♥Unbalance",
     "title_english": null,
+    "title_japanese": "くじびき♥アンバランス",
+    "title_synonyms": [
+      "Kujian",
+      "Kujibiki♥Unbalance (2006)",
+      "Kujibiki♥Unbalance (TV)"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/75281l.jpg",
+    "trailer_url": null,
     "synopsis": "Once a year prestigious Rikkyouin High School has a lottery to determine the next year's Student Council membership. On their first day of school Chihiro Enomoto wins the presidency while his childhood friend Tokino Akiyama picks the vice-president's ticket. There is one catch though, they must first pass a one year apprenticeship under the current Student Council and any failure to perform the tasks assigned, however minor, will result in immediate expulsion from the school.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 12,
-    "score": 6.22,
-    "scored_by": 5224,
+    "score": 6.21,
+    "scored_by": 5226,
+    "rank": 9043,
+    "popularity": 5932,
+    "members": 15277,
+    "favorites": 16,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
     "studios": [
       "Ajia-do"
@@ -1201,6 +1947,9 @@
       "Lantis",
       "Media Factory"
     ],
+    "licensors": [
+      "Media Blasters"
+    ],
     "genres": [
       "Comedy",
       "Romance"
@@ -1208,8 +1957,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2006-12-23T00:00:00+00:00",
+    "broadcast": "Saturdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/1591/Kujibiki♥Unbalance",
     "year": 2006,
     "season": "fall",
@@ -1220,12 +1971,28 @@
     "mal_id": 1912,
     "title": "Marginal Prince: Gekkeiju no Ouji-tachi",
     "title_english": null,
+    "title_japanese": "マージナルプリンス -月桂樹の王子達-",
+    "title_synonyms": [
+      "Marginal Prince: Gekkeijyu no Oujitachi",
+      "Marginal Prince: Gekkeiju no Ohji Tachi"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/27476l.jpg",
+    "trailer_url": null,
     "synopsis": "\"Marginal Prince\" based off of the hit love simulation game series for girls! Yuta studies abroad in a tiny, far away island in the pacific ocean name Alphonso where he enters the all-dorm, all-male Alphonso Gakuen. However, the school is really a place for the children of the famous . . . and the school specializes in classes on empires and alchemy! And one day, after studying enough at the school, the students become known as \"Marginal Princes\"! Learn about the stories of fate and trial as each of the students studies to become kings!\n\n(Source: Crunchyroll)",
+    "background": "",
     "episodes": 13,
     "score": 5.78,
     "scored_by": 4449,
+    "rank": 11457,
+    "popularity": 5941,
+    "members": 15221,
+    "favorites": 18,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Tokyo Kids"
@@ -1234,14 +2001,17 @@
       "GDH",
       "Sotsu Music Publishing"
     ],
+    "licensors": [],
     "genres": [
       "Boys Love"
     ],
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-02T00:00:00+00:00",
     "aired_to": "2006-12-25T00:00:00+00:00",
+    "broadcast": "Mondays at 02:13 (JST)",
     "url": "https://myanimelist.net/anime/1912/Marginal_Prince__Gekkeiju_no_Ouji-tachi",
     "year": 2006,
     "season": "fall",
@@ -1252,18 +2022,38 @@
     "mal_id": 1835,
     "title": "Ryuusei no Rockman",
     "title_english": "Megaman Star Force",
+    "title_japanese": "流星のロックマン",
+    "title_synonyms": [
+      "Ryusei no Rockman",
+      "Rockman of the Shooting Star",
+      "Rockman of the Meteor"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/26600l.jpg",
+    "trailer_url": null,
     "synopsis": "In the year 220X, the world has advanced toward radio-wave technology, and the world is connected through the Wave Road. Meet Subaru Hoshikawa, a fifth-grade student who lost his father in a space accident. Subaru meets an extraterrestrial radio-wave being named War-Rock, descending from a distant FM planet. War-Rock claims to know about Subaru's father, but many alien beings are after War-Rock. The two work together and merge into Rockman, a radio-wave human capable of traversing the Wave Road and battling the radio-wave viruses and FMs that threaten the Earth.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 55,
     "score": 7.09,
     "scored_by": 6433,
+    "rank": 4102,
+    "popularity": 6023,
+    "members": 14639,
+    "favorites": 84,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
     "source": "Game",
     "studios": [
       "Xebec"
     ],
     "producers": [
       "Shogakukan Productions"
+    ],
+    "licensors": [
+      "VIZ Media"
     ],
     "genres": [
       "Action",
@@ -1272,8 +2062,10 @@
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2007-10-27T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1835/Ryuusei_no_Rockman",
     "year": 2006,
     "season": "fall",
@@ -1284,12 +2076,25 @@
     "mal_id": 1541,
     "title": "Souten no Ken",
     "title_english": "Fist of the Blue Sky",
+    "title_japanese": "蒼天の拳",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/17056l.jpg",
+    "trailer_url": null,
     "synopsis": "A mysterious man known as \"the King of Death\" roams the streets of pre-war Shanghai in this action-packed prequel to Fist of the North Star.\n\nShanghai in the 1930s is a dangerous place. Foreign governments and Chinese factions have carved the city into different quarters, each with its own laws and government, and all rife with corruption. As the major powers vie for political control, the streets are left to local gangs. Life is cheap, and death is always near.\n\nIn days past, one man walked these mean streets battling the forces of evil. He was known only as Yan Wang, \"the King of Death.\" Few knew who he really was, but many knew that he was a master of Hokuto Shinken - Fist of the North Star - a lethal martial art. He disappeared years ago after dispatching the city's worst gangsters, and is now rumored to be in Japan. Various people have come to Japan in search of him, but who will find him first?",
+    "background": "",
     "episodes": 22,
     "score": 6.68,
-    "scored_by": 4179,
+    "scored_by": 4180,
+    "rank": 6189,
+    "popularity": 6178,
+    "members": 13741,
+    "favorites": 24,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "27 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "APPP"
@@ -1298,6 +2103,7 @@
       "TV Asahi",
       "Arts Pro"
     ],
+    "licensors": [],
     "genres": [
       "Action"
     ],
@@ -1305,8 +2111,10 @@
       "Historical",
       "Martial Arts"
     ],
+    "demographics": [],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2007-03-15T00:00:00+00:00",
+    "broadcast": "Thursdays at 02:40 (JST)",
     "url": "https://myanimelist.net/anime/1541/Souten_no_Ken",
     "year": 2006,
     "season": "fall",
@@ -1317,12 +2125,25 @@
     "mal_id": 1703,
     "title": "Tokyo Tribe 2",
     "title_english": null,
+    "title_japanese": "TOKYO TRIBE 2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/50493l.jpg",
+    "trailer_url": null,
     "synopsis": "This is the other side of Tokyo, a Tokyo of a different color. There, various tribes are living. The SARU from Japan's Musashino, WU-RONZE of Bukuro, and HANDS of Shindyuku... Young men living in the city...the public of modern times builds a home out of corruption, these young men of the sordid side of life, a side called \"reality,\" are depicted here!\n\n(Source: AnimeNfo)",
+    "background": "",
     "episodes": 13,
     "score": 6.62,
     "scored_by": 2939,
+    "rank": 6578,
+    "popularity": 6336,
+    "members": 12869,
+    "favorites": 32,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -1330,13 +2151,16 @@
     "producers": [
       "Sony Music Entertainment"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Drama"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-11-12T00:00:00+00:00",
     "aired_to": "2007-02-18T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1703/Tokyo_Tribe_2",
     "year": 2006,
     "season": "fall",
@@ -1347,12 +2171,25 @@
     "mal_id": 1561,
     "title": "Lovedol: Lovely Idol",
     "title_english": "Lovely Idol",
+    "title_japanese": "らぶドル～Lovely Idol～",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/6448l.jpg",
+    "trailer_url": null,
     "synopsis": "Lovedol, or Lovely Idol, is a girl group consisting of two generations of idols. The 3rd Generation is about to make its debut, but to their surprise, they have been delayed! The vague reason is only that \"they lack something.\" The manager, and the 3rd Gen. girls too, must find the answer.",
+    "background": "",
     "episodes": 12,
-    "score": 6.11,
+    "score": 6.1,
     "scored_by": 3427,
+    "rank": 9676,
+    "popularity": 7170,
+    "members": 9631,
+    "favorites": 9,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "AIC ASTA",
@@ -1362,13 +2199,16 @@
       "AIC",
       "Pony Canyon Enterprises"
     ],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Idols (Female)",
       "Music"
     ],
+    "demographics": [],
     "aired_from": "2006-10-03T00:00:00+00:00",
     "aired_to": "2006-12-19T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/1561/Lovedol__Lovely_Idol",
     "year": 2006,
     "season": "fall",
@@ -1379,12 +2219,29 @@
     "mal_id": 1868,
     "title": "Giniro no Olynsis: Tokito",
     "title_english": null,
+    "title_japanese": "銀色のオリンシス TOKITO",
+    "title_synonyms": [
+      "Giniro no Olynsis: Tokito",
+      "Gin'iro no Olynssis: Tokito",
+      "Giniro no Olynssis: Tokito"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1286/151078l.jpg",
+    "trailer_url": null,
     "synopsis": "AD 3567. Mankind has lost its once great civilization, now living in the ruins of the aftermath. But even though their lives are threatened by Gardeners — mysterious unmanned mobile weapons (of different ranks) sent from the Moon — brave teenagers have to become Gardener hunters to earn their living. And although human civilization at large lies in ruins due to high-tech maintenance free technology, some parts of the remaining cities still work in limited ways, supporting the humans living there.\n\nOne fateful day Tokito Aizawa meets Tea, awakening a power older and beyond that of the Gardeners, and inadvertently opening up the door to a possibly much brighter future for the remainder of mankind...\n\n(Source: AniDB)",
+    "background": "",
     "episodes": 12,
     "score": 6.2,
-    "scored_by": 3214,
+    "scored_by": 3215,
+    "rank": 9119,
+    "popularity": 7335,
+    "members": 9091,
+    "favorites": 6,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Toei Animation"
@@ -1394,6 +2251,7 @@
       "Nagoya Broadcasting Network",
       "Asahi Broadcasting"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Drama",
@@ -1402,8 +2260,10 @@
     "themes": [
       "Mecha"
     ],
+    "demographics": [],
     "aired_from": "2006-10-06T00:00:00+00:00",
     "aired_to": "2006-12-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1868/Giniro_no_Olynsis__Tokito",
     "year": 2006,
     "season": "fall",
@@ -1414,12 +2274,28 @@
     "mal_id": 1603,
     "title": "Super Robot Taisen OG: Divine Wars",
     "title_english": "Super Robot Wars The Original Generation: The Divine Wars",
+    "title_japanese": "スーパーロボット大戦OG -ディバイン・ウォーズ-",
+    "title_synonyms": [
+      "Super Robot Wars OG: Divine Wars",
+      "SRWOG"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/31063l.jpg",
+    "trailer_url": null,
     "synopsis": "It is two hundred years after the beginning of the Space Era, when human civilization on Earth began expanding into space. However, by the start of the 21st century, two meteors struck the planet, sending humanity into chaos. By the year 179 of the Space Era, secret technology, dubbed Extra-Over Technology, or EOT, was discovered by the Earth Federal Government within a third meteor that hit Earth in the Marquesas Islands of the South Pacific. Dr. Bian Zoldark, head of the EOTI Institute (Extra-Over Technological Investigative Institute), had evidence the creators of the EOT were heading to Earth, in order to reclaim it...or worse, invade the planet. In order to defend humanity from extraterrestrial threats, the government begins to research and develop humanoid mecha called Personal Troopers.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 25,
     "score": 6.77,
-    "scored_by": 3338,
+    "scored_by": 3339,
+    "rank": 5662,
+    "popularity": 7427,
+    "members": 8806,
+    "favorites": 15,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Game",
     "studios": [
       "OLM"
@@ -1430,14 +2306,21 @@
       "Genco",
       "Banpresto"
     ],
+    "licensors": [
+      "Bandai Entertainment",
+      "Media Blasters",
+      "Bandai Visual USA"
+    ],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2007-03-29T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1603/Super_Robot_Taisen_OG__Divine_Wars",
     "year": 2006,
     "season": "fall",
@@ -1448,12 +2331,30 @@
     "mal_id": 1600,
     "title": "Galaxy Angel Rune",
     "title_english": null,
+    "title_japanese": "ギャラクシーエンジェる～ん",
+    "title_synonyms": [
+      "Galaxy Ange-lune",
+      "Galaxy Angel II",
+      "Galaxy Angerune",
+      "Galaxy Ange-Rune"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/76294l.jpg",
+    "trailer_url": null,
     "synopsis": "Apricot Sakuraba and 4 new girls were now assigned as the new Galaxy Angels with the same mission: to search for the Lost Technology and keep peace to Planet Transbaal. \n\n(Source: ANN)",
+    "background": "",
     "episodes": 13,
     "score": 6.21,
     "scored_by": 2098,
+    "rank": 9033,
+    "popularity": 8513,
+    "members": 6260,
+    "favorites": 3,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
     "studios": [
       "Satelight"
@@ -1464,13 +2365,18 @@
       "Broccoli",
       "Sunny Side Up"
     ],
+    "licensors": [
+      "Bandai Visual USA"
+    ],
     "genres": [
       "Comedy",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-10-02T00:00:00+00:00",
     "aired_to": "2006-12-25T00:00:00+00:00",
+    "broadcast": "Mondays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/1600/Galaxy_Angel_Rune",
     "year": 2006,
     "season": "fall",
@@ -1481,12 +2387,27 @@
     "mal_id": 1882,
     "title": "Sasami: Mahou Shoujo Club 2",
     "title_english": "Sasami Magical Girls Club 2",
+    "title_japanese": "砂沙美☆魔法少女クラブ シーズン2",
+    "title_synonyms": [
+      "Sasami: Mahou Shojo Club Season 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/5649l.jpg",
+    "trailer_url": null,
     "synopsis": "In this world, there live a group of people who call themselves \"Majo\" or \"Magical Girls\". They hide their powers so as to assimilate into the environment. They have been living together in harmony with the humans for many years to come, and their predecessors continue to do so. Sasami was enthroned with magical powers since her birth. However, at the age of three, she was told by her parents never to use her innate powers and from then on, had kept it a secret from everyone. On the day of a new school term, a new transfer teacher by the name of Wajuu arrives and from then on, Sasami's life begins to change tremendously.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 13,
     "score": 6.67,
     "scored_by": 2026,
+    "rank": 6276,
+    "popularity": 9070,
+    "members": 5331,
+    "favorites": 6,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [
       "AIC Spirits"
@@ -1496,13 +2417,18 @@
       "AIC",
       "BeSTACK"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [],
     "themes": [
       "Mahou Shoujo",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2007-01-11T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1882/Sasami__Mahou_Shoujo_Club_2",
     "year": 2006,
     "season": "fall",
@@ -1513,12 +2439,29 @@
     "mal_id": 2717,
     "title": "Ginga Tetsudou Monogatari: Eien e no Bunkiten",
     "title_english": "The Galaxy Railways II",
+    "title_japanese": "銀河鉄道物語 ～永遠への分岐点～",
+    "title_synonyms": [
+      "The Galaxy Railways 2",
+      "Ginga Tetsudou Monogatari II",
+      "The Galaxy Railways: Eternal Divergence"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/77281l.jpg",
+    "trailer_url": null,
     "synopsis": "Second season.",
+    "background": "",
     "episodes": 24,
     "score": 6.7,
     "scored_by": 1470,
+    "rank": 6117,
+    "popularity": 9314,
+    "members": 4948,
+    "favorites": 4,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Planet"
@@ -1527,6 +2470,7 @@
       "CBC Television",
       "Omnibus Promotion"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -1536,8 +2480,10 @@
     "themes": [
       "Space"
     ],
+    "demographics": [],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2007-03-29T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2717/Ginga_Tetsudou_Monogatari__Eien_e_no_Bunkiten",
     "year": 2006,
     "season": "fall",
@@ -1548,12 +2494,27 @@
     "mal_id": 17291,
     "title": "Jinzou Konchuu Kabutoborg VxV",
     "title_english": null,
+    "title_japanese": "人造昆虫カブトボーグ V×V",
+    "title_synonyms": [
+      "Artificial Insect KABUTO BORG Victory by Victory"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1980/133532l.jpg",
+    "trailer_url": null,
     "synopsis": "BorgBattles between KabutoBorgs have become popular enough to hold world tournaments. The main character Ryuusei is an enthusiast of these battles. Along with his friends Katsuji and Ken, he continues fighting against new enemies day after day.",
+    "background": "",
     "episodes": 52,
     "score": 6.08,
     "scored_by": 286,
+    "rank": 9837,
+    "popularity": 14614,
+    "members": 1069,
+    "favorites": 9,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [
       "G&G Entertainment",
@@ -1565,6 +2526,7 @@
       "Nihon Ad Systems",
       "Animax"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Comedy",
@@ -1573,8 +2535,10 @@
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [],
     "aired_from": "2006-10-05T00:00:00+00:00",
     "aired_to": "2007-10-11T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/17291/Jinzou_Konchuu_Kabutoborg_VxV",
     "year": 2006,
     "season": "fall",
@@ -1585,12 +2549,25 @@
     "mal_id": 15913,
     "title": "Happy☆Lucky Bikkuriman",
     "title_english": null,
+    "title_japanese": "祝! (ハピ☆ラキ)ビックリマン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/43261l.jpg",
+    "trailer_url": null,
     "synopsis": "Continuation of the Bikkuriman Series.\n\nGenki Seihikari and his friends join the adventure in order to save seven gods of the White Galaxy.",
+    "background": "",
     "episodes": 46,
-    "score": 6.28,
+    "score": 6.27,
     "scored_by": 352,
+    "rank": 8717,
+    "popularity": 14768,
+    "members": 1030,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [
       "Toei Animation"
@@ -1598,14 +2575,19 @@
     "producers": [
       "TV Asahi"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-10-15T00:00:00+00:00",
     "aired_to": "2007-09-30T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/15913/Happy☆Lucky_Bikkuriman",
     "year": 2006,
     "season": "fall",
@@ -1616,15 +2598,31 @@
     "mal_id": 27811,
     "title": "Zhong Hua Xiao Zi",
     "title_english": "Shaolin Wuzang",
+    "title_japanese": "中华小子",
+    "title_synonyms": [
+      "Chinese Kids"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1224/120682l.jpg",
+    "trailer_url": null,
     "synopsis": "Set in the Henan Province of China during the 17th century, three teenagers are sent to a Shaolin Temple to learn the style of Kung Fu against a ruthless Demon, not seen since the Sui Dynasty, who terrorizes the province in order to search for two magic books to create more power and being stronger in world domination.\n\n(Source: Wikipedia)",
+    "background": "",
     "episodes": 26,
-    "score": 6.13,
+    "score": 6.12,
     "scored_by": 255,
+    "rank": 9617,
+    "popularity": 15509,
+    "members": 838,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Supernatural"
@@ -1635,8 +2633,10 @@
       "Mythology",
       "Samurai"
     ],
+    "demographics": [],
     "aired_from": "2006-12-16T00:00:00+00:00",
     "aired_to": "2007-01-01T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/27811/Zhong_Hua_Xiao_Zi",
     "year": null,
     "season": null,
@@ -1647,17 +2647,34 @@
     "mal_id": 8900,
     "title": "Saru Getchu: On Air 2nd",
     "title_english": null,
+    "title_japanese": "サルゲッチュ ～オンエアー～2nd",
+    "title_synonyms": [
+      "Saru! Get You: On Air",
+      "Ape Escape"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/24682l.jpg",
+    "trailer_url": null,
     "synopsis": "Saru Getchu: On Air sequel.",
+    "background": "",
     "episodes": 51,
     "score": 5.87,
     "scored_by": 182,
+    "rank": 10934,
+    "popularity": 15554,
+    "members": 828,
+    "favorites": 3,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
     "source": "Game",
     "studios": [
       "Xebec"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
@@ -1665,8 +2682,12 @@
       "Romance"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2007-09-29T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/8900/Saru_Getchu__On_Air_2nd",
     "year": 2006,
     "season": "fall",
@@ -1677,12 +2698,27 @@
     "mal_id": 1863,
     "title": "Silk Road Shounen Yuuto",
     "title_english": null,
+    "title_japanese": "シルクロード少年 ユート",
+    "title_synonyms": [
+      "Silk Road Boy Yuto"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1/1863l.jpg",
+    "trailer_url": null,
     "synopsis": "When a boy Yuto visits Qinghai in China, he is involved in the battle between time-travelers, and he is sent to the Silk Road in the past. They are looking for a mysterious treasure, the statue of Yuki Daruma Taishi, which is said to make miracles. Seeing historical events and encountering historical persons, such as Yang Guifei and Xuanzang, he will learn many thinks. Whether will he be able to go back to today?\n\n(Source: AnimeNfo)",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 15195,
+    "popularity": 15647,
+    "members": 806,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "20 min per ep",
+    "rating": null,
     "source": "Unknown",
     "studios": [
       "OLM"
@@ -1690,6 +2726,7 @@
     "producers": [
       "NHK-BS2"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
@@ -1697,8 +2734,10 @@
     "themes": [
       "Historical"
     ],
+    "demographics": [],
     "aired_from": "2006-09-16T00:00:00+00:00",
     "aired_to": "2007-03-24T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/1863/Silk_Road_Shounen_Yuuto",
     "year": 2006,
     "season": "fall",
@@ -1709,21 +2748,39 @@
     "mal_id": 22345,
     "title": "Funny Pets 2nd Season",
     "title_english": null,
+    "title_japanese": "Funny Pets 2ndシーズン",
+    "title_synonyms": [
+      "Funny Pets Plus"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/58491l.jpg",
+    "trailer_url": null,
     "synopsis": "The story continues where it was left off from in the first season as Crescent and Corona continue bickering over Funny.",
+    "background": "",
     "episodes": 12,
     "score": 5.56,
     "scored_by": 323,
+    "rank": 12400,
+    "popularity": 15849,
+    "members": 764,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "6 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-10-09T00:00:00+00:00",
     "aired_to": "2006-12-25T00:00:00+00:00",
+    "broadcast": "Mondays at 23:45 (JST)",
     "url": "https://myanimelist.net/anime/22345/Funny_Pets_2nd_Season",
     "year": 2006,
     "season": "fall",
@@ -1734,23 +2791,41 @@
     "mal_id": 9426,
     "title": "Pururun! Shizuku-chan",
     "title_english": null,
+    "title_japanese": "ぷるるんっ！しずくちゃん",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1685/146428l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/DQ7OlfZOQaw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The series revolves around a playful young child named Shizuku-Chan. He, alongside his schoolmates, friends, and family lives a life of dangerous adventures in the Shizuku Forest.\n\n(Source: Wikipedia)",
+    "background": "",
     "episodes": 51,
     "score": null,
     "scored_by": null,
+    "rank": 19603,
+    "popularity": 16138,
+    "members": 716,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
     "source": "Manga",
     "studios": [
       "TMS Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-10-07T00:00:00+00:00",
     "aired_to": "2007-09-29T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/9426/Pururun_Shizuku-chan",
     "year": 2006,
     "season": "fall",
@@ -1761,12 +2836,31 @@
     "mal_id": 8345,
     "title": "Ukkari Pénélope",
     "title_english": null,
+    "title_japanese": "うっかりペネロペ",
+    "title_synonyms": [
+      "Ukkari Penelope",
+      "Pénélope tête en l'air",
+      "Carelessly Penelope",
+      "Absent-minded Penelope",
+      "Head in the Air Penelope"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/21983l.jpg",
+    "trailer_url": null,
     "synopsis": "Meet Penelope, the absent-minded young koala. Rarely seen without Deudeu – her favourite stuffed rabbit – Penelope likes nothing more than finding another adventure in the most unlikely of places. A simple gust of wind blowing her hat away can lead to Penelope running her own stall atop a tree stump where she trades flowers for apples, and paper planes for acorns. From games of hide and seek with her friends, to playing with the bubbles in the bath or counting sheep during nap time, Penelope’s life is never dull – even if she does wear odd socks when she gets herself dressed in the morning.\n\n(Source: Anime-Planet)",
+    "background": "Winner of the Excellence Award on the 11th Japan Media Arts Festival.",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 15928,
+    "popularity": 17193,
+    "members": 571,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [
       "Nippon Animation"
@@ -1774,6 +2868,7 @@
     "producers": [
       "NHK"
     ],
+    "licensors": [],
     "genres": [
       "Award Winning",
       "Slice of Life"
@@ -1781,8 +2876,12 @@
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-11-20T00:00:00+00:00",
     "aired_to": "2006-12-25T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/8345/Ukkari_Pénélope",
     "year": 2006,
     "season": "fall",
@@ -1793,12 +2892,25 @@
     "mal_id": 22651,
     "title": "Kerokero Keroppi: Hasunoue Town Kiki Ippatsu!",
     "title_english": null,
+    "title_japanese": "けろけろけろっぴ はすのうえタウン危機一髪!",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/10/59081l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/X126Sq0DtcI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": null,
+    "background": "Short anime aired inside the anime corner of the Kitty's Paradise TV block.",
     "episodes": 6,
     "score": null,
     "scored_by": null,
+    "rank": 17799,
+    "popularity": 18075,
+    "members": 486,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [
       "Asahi Production"
@@ -1806,12 +2918,17 @@
     "producers": [
       "Sanrio"
     ],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-10-10T00:00:00+00:00",
     "aired_to": "2006-12-19T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/22651/Kerokero_Keroppi__Hasunoue_Town_Kiki_Ippatsu",
     "year": 2006,
     "season": "fall",
@@ -1822,23 +2939,39 @@
     "mal_id": 3372,
     "title": "RGB Adventure",
     "title_english": "RGB Adventure",
+    "title_japanese": "RGBアドベンチャ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/30308l.jpg",
+    "trailer_url": null,
     "synopsis": "The light – it is the resource of life. There are mysterious monsters and robots that aim at the powers of the light, i.e. R(Red), G(Green), and B(Blue). However, no one notices that… except three children.\n\nRyu - he is a stupid, simple, and mischievous boy who he says without hesitation that his dream is to the conqueror of the world. \nGuccho - he is a nerd of mechanics, glutton, and chicken-hearted.\nBecky - she is very cute, but she has a very twisted personality.\n\nThey have encouraging friends, such as Rosso, Gibson, Bo, etc. They are various aliens that usually change their figures into animals. By exchanges between aliens who have different principles, purposes, tastes, and hobbies, they will learn importance of communications.\n\n(Source: AnimeNfo)",
+    "background": "",
     "episodes": 6,
     "score": null,
     "scored_by": null,
+    "rank": 14467,
+    "popularity": 18291,
+    "members": 467,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "20 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [
       "ACC Production"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-11-19T00:00:00+00:00",
     "aired_to": "2006-12-24T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3372/RGB_Adventure",
     "year": 2006,
     "season": "fall",
@@ -1849,12 +2982,29 @@
     "mal_id": 25615,
     "title": "Genki Genki Non-tan (2006)",
     "title_english": null,
+    "title_japanese": "げんき げんき ノンタン",
+    "title_synonyms": [
+      "Genki Genki Nontan",
+      "Genki! Genki! Nontan",
+      "Genki Genki Nontan 3"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/65137l.jpg",
+    "trailer_url": null,
     "synopsis": "Direct continuation of the second season. Also labeled as episode 26-35.",
+    "background": "",
     "episodes": 10,
     "score": null,
     "scored_by": null,
+    "rank": 21524,
+    "popularity": 19936,
+    "members": 349,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "6 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [
       "Polygon Pictures"
@@ -1862,12 +3012,17 @@
     "producers": [
       "Nippon Columbia"
     ],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Music"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-10-02T00:00:00+00:00",
     "aired_to": "2006-10-13T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/25615/Genki_Genki_Non-tan_2006",
     "year": 2006,
     "season": "fall",
@@ -1878,23 +3033,44 @@
     "mal_id": 30048,
     "title": "Kkurukkuru-wa Chingu-deul",
     "title_english": "Curucuru and Friends",
+    "title_japanese": "꾸루꾸루와 친구들",
+    "title_synonyms": [
+      "Tales of Greenery",
+      "The Family of Greenwood"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1306/99071l.jpg",
+    "trailer_url": null,
     "synopsis": "The story is set in a village called Green Forest Village, where is inhabited by friendly animals. The story were focused on 5 special animal friends whose friendship binds them together, Koori: A brown Raccoon boy and an aspiring inventor, Pinpin: A blue and white Giant Panda boy and a warm hearted artist, Lalla: a pink Tabby cat girl and an aspiring musician who wishes to be a princess, Toto: a purple Bat boy who wants to be a pilot and fly and lastly; Curucuru, a Brown bear boy who likes to cook. All of them venture through several adventures in the forest and town, making exciting and marvelous stories and also getting in and out of trouble as they learn valuable lessons in life and things around them.\n\n(Source: Wikipedia)",
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 17896,
+    "popularity": 20686,
+    "members": 302,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
       "Slice of Life"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-11-24T00:00:00+00:00",
     "aired_to": "2007-02-16T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/30048/Kkurukkuru-wa_Chingu-deul",
     "year": 2006,
     "season": "fall",
@@ -1905,21 +3081,42 @@
     "mal_id": 48338,
     "title": "Kungya Kungya",
     "title_english": null,
+    "title_japanese": "쿵야쿵야",
+    "title_synonyms": [
+      "Kung-ya Kung-ya",
+      "Koongya Koongya"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1633/114464l.jpg",
+    "trailer_url": null,
     "synopsis": "Kyungyas, from vegetable kingdom, comes to the Kyungya Restaurant. \nThey have a mission to make children eat more vegetable and protect them from greasy, instant dishes. However, far from completing their mission, Kyungyas have hard time keeping the restaurant from bankruptcy. It is because of Onion Kyungya’s experimental dishes. His curiosity makes trouble with Celery Kyungya, the manager of Kyungya restaurant. \nHow can they solve the problems they have with the customers. Would it be possible for Kyungyas to accomplish the mission?\n\n(Source: KBS Media)",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 18092,
+    "popularity": 22990,
+    "members": 184,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Game",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-11-09T00:00:00+00:00",
     "aired_to": "2007-05-10T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/48338/Kungya_Kungya",
     "year": 2006,
     "season": "fall",
@@ -1930,22 +3127,38 @@
     "mal_id": 56463,
     "title": "Mahou Shokudou Chara Pontan",
     "title_english": null,
+    "title_japanese": "魔法食堂チャラポンタン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1505/138096l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 18368,
+    "popularity": 24602,
+    "members": 135,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Gourmet"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2006-11-01T00:00:00+00:00",
     "aired_to": "2006-11-30T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/56463/Mahou_Shokudou_Chara_Pontan",
     "year": 2006,
     "season": "fall",
@@ -1956,22 +3169,40 @@
     "mal_id": 45718,
     "title": "Shaonian Huo Yuan Jia",
     "title_english": null,
+    "title_japanese": "少年霍元甲",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1430/115330l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 14820,
+    "popularity": 25869,
+    "members": 111,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Other",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Historical",
       "Martial Arts"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-11-01T00:00:00+00:00",
     "aired_to": "2007-01-01T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/45718/Shaonian_Huo_Yuan_Jia",
     "year": null,
     "season": null,
@@ -1982,19 +3213,37 @@
     "mal_id": 44171,
     "title": "Kewang Lantian",
     "title_english": "Desire for Sky",
+    "title_japanese": "渴望藍天",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1933/118019l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 17807,
+    "popularity": 26230,
+    "members": 105,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2006-10-01T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44171/Kewang_Lantian",
     "year": null,
     "season": null,

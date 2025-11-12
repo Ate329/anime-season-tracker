@@ -3,12 +3,25 @@
     "mal_id": 2167,
     "title": "Clannad",
     "title_english": "Clannad",
+    "title_japanese": "CLANNAD",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1804/95033l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/pTTsmwHxHns?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Tomoya Okazaki is a delinquent who finds life dull and believes he'll never amount to anything. Along with his friend Youhei Sunohara, he skips school and plans to waste his high school days away.\n\nOne day while walking to school, Tomoya passes a young girl muttering quietly to herself. Without warning she exclaims \"Anpan!\" (a popular Japanese food) which catches Tomoya's attention. He soon discovers the girl's name is Nagisa Furukawa and that she exclaims things she likes in order to motivate herself. Nagisa claims they are now friends, but Tomoya walks away passing the encounter off as nothing.\n\nHowever, Tomoya finds he is noticing Nagisa more and more around school. Eventually he concedes and befriends her. Tomoya learns Nagisa has been held back a year due to a severe illness and that her dream is to revive the school's drama club. Claiming he has nothing better to do, he decides to help her achieve this goal along with the help of four other girls.\n\nAs Tomoya spends more time with the girls, he learns more about them and their problems. As he attempts to help each girl overcome her respective obstacle, he begins to realize life isn't as dull as he once thought.\n\n[Written by MAL Rewrite]",
+    "background": "Clannad adapts the visual novel of the same title.",
     "episodes": 23,
     "score": 7.99,
-    "scored_by": 786338,
+    "scored_by": 786439,
+    "rank": 719,
+    "popularity": 95,
+    "members": 1485309,
+    "favorites": 28352,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Kyoto Animation"
@@ -19,6 +32,9 @@
       "Movic",
       "Animation Do"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Romance"
@@ -26,8 +42,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-05T00:00:00+00:00",
     "aired_to": "2008-03-28T00:00:00+00:00",
+    "broadcast": "Fridays at 01:55 (JST)",
     "url": "https://myanimelist.net/anime/2167/Clannad",
     "year": 2007,
     "season": "fall",
@@ -38,12 +56,28 @@
     "mal_id": 3002,
     "title": "Gyakkyou Burai Kaiji: Ultimate Survivor",
     "title_english": "Kaiji: Ultimate Survivor",
+    "title_japanese": "逆境無頼カイジ Ultimate Survivor",
+    "title_synonyms": [
+      "Tobaku Mokushiroku Kaiji",
+      "The Suffering Pariah Kaiji"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/80032l.jpg",
+    "trailer_url": null,
     "synopsis": "After one of his coworkers fails to repay a debt, apathetic bum Kaiji Itou is pressured by loan sharks to settle the large sum of cash. Since Kaiji has little money and no future prospects of his own, he is unable to return what his colleague borrowed. Faced with massive financial burdens, Kaiji is given an offer to board the illustrious Espoir—it is said that \"one night aboard the ship, and all of your debts will be paid.\"\n\nWhat seems like a simple night of gambling quickly turns into a game of strategy and betrayal. With the losers of the tournament being subjected to a backbreaking life of indebted servitude, Kaiji must choose his actions—and allies—carefully. However, this is only the beginning of a series of gambles that will wager Kaiji's life, testing the full extent of his wits and will to survive.\n\n[Written by MAL Rewrite]",
+    "background": "In a February 2015 poll conducted by Japanese website Goo Ranking, Gyakkyou Burai Kaiji: Ultimate Survivor placed second for \"Best Cerebral Anime.\" The series was released on Blu-ray by Sentai Filmworks on April 20, 2021.",
     "episodes": 26,
     "score": 8.26,
-    "scored_by": 174700,
+    "scored_by": 174734,
+    "rank": 338,
+    "popularity": 687,
+    "members": 383624,
+    "favorites": 10729,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -52,6 +86,9 @@
       "VAP",
       "Nippon Television Network",
       "Arts Pro"
+    ],
+    "licensors": [
+      "Sentai Filmworks"
     ],
     "genres": [
       "Suspense"
@@ -62,8 +99,12 @@
       "Psychological",
       "Strategy Game"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2008-04-02T00:00:00+00:00",
+    "broadcast": "Wednesdays at 00:59 (JST)",
     "url": "https://myanimelist.net/anime/3002/Gyakkyou_Burai_Kaiji__Ultimate_Survivor",
     "year": 2007,
     "season": "fall",
@@ -74,12 +115,27 @@
     "mal_id": 2787,
     "title": "Shakugan no Shana II (Second)",
     "title_english": "Shakugan no Shana: Season II",
+    "title_japanese": "灼眼のシャナII –Second–",
+    "title_synonyms": [
+      "Shakugan no Shana 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1827/134365l.jpg",
+    "trailer_url": null,
     "synopsis": "Denizens from the Crimson Realm continue to infiltrate Misaki City and steal life energy from humans. To combat this threat, Flame Hazes are tasked with saving humans from losing their existences. But while it is a Flame Haze's duty to protect humans, Shana—the \"Flame-Haired Burning-Eyed Hunter\"—seems to be focusing her attention on one human in particular: Yuuji Sakai, a teenage boy who was unwittingly dragged into the fight between Crimson Denizens and Flame Hazes. Since her first encounter with Yuuji, Shana has started to see him as more than just a friend. In fact, Yuuji wonders if Shana might have revealed her feelings to him once before, but it is difficult for him to confirm due to her hot-and-cold personality. Nonetheless, their days pass like any other, until a new transfer student arrives at their high school—one who bears a striking resemblance to an old enemy.\n\nYuuji and Shana have no time to dance around their feelings for each other; while their adversaries from the Bal Masqué organization plan their next attack, the two must keep their guard up as they explore the origin behind the coveted magical object within Yuuji's body, the \"Midnight Lost Child.\"\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.54,
-    "scored_by": 176038,
+    "scored_by": 176043,
+    "rank": 1892,
+    "popularity": 860,
+    "members": 317534,
+    "favorites": 988,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "J.C.Staff"
@@ -87,6 +143,9 @@
     "producers": [
       "ASCII Media Works",
       "Geneon Entertainment"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Action",
@@ -98,8 +157,10 @@
       "School",
       "Urban Fantasy"
     ],
+    "demographics": [],
     "aired_from": "2007-10-05T00:00:00+00:00",
     "aired_to": "2008-03-28T00:00:00+00:00",
+    "broadcast": "Fridays at 01:25 (JST)",
     "url": "https://myanimelist.net/anime/2787/Shakugan_no_Shana_II_Second",
     "year": 2007,
     "season": "fall",
@@ -110,12 +171,25 @@
     "mal_id": 2924,
     "title": "ef: A Tale of Memories.",
     "title_english": "ef - a tale of memories.",
+    "title_japanese": "ef - a tale of memories.",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1246/107820l.jpg",
+    "trailer_url": null,
     "synopsis": "On Christmas Eve, Hiro Hirono runs into Miyako Miyamura, a frivolous girl who \"borrows\" his bicycle in order to chase down a purse thief. After Hiro finds his bicycle wrecked and Miyako unconscious, the two unexpectedly spend their Christmas Eve together, and when they discover they go to the same high school, their accidental relationship develops even further. This sparks the jealousy of Hiro's childhood friend Kei Shindou, whose pure approach to life catches the eye of Kyosuke Tsutsumi, a womanizing photographer searching for the perfect shot.\n\nElsewhere, Renji Asou, a boy who dreams of being a girl's knight in shining armor, has a chance encounter with Kei's twin sister—the overly shy Chihiro Shindou, who spends her time reading alone—at an abandoned train station. The two quickly become friends and eventually decide to write a novel together. However, when Renji discovers Chihiro's secret, his childish ideals are put to the test.\n\nGuided by two mysterious adults, these youths' relationships intertwine in a heart-rending tale of love, rejection, acceptance, and memories.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.86,
-    "scored_by": 110425,
+    "scored_by": 110431,
+    "rank": 947,
+    "popularity": 1022,
+    "members": 266597,
+    "favorites": 2768,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Shaft"
@@ -124,14 +198,19 @@
       "Rondo Robe",
       "Geneon Entertainment"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Mystery",
       "Romance"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-10-07T00:00:00+00:00",
     "aired_to": "2007-12-23T00:00:00+00:00",
+    "broadcast": "Sundays at 01:35 (JST)",
     "url": "https://myanimelist.net/anime/2924/ef__A_Tale_of_Memories",
     "year": 2007,
     "season": "fall",
@@ -142,12 +221,27 @@
     "mal_id": 2581,
     "title": "Kidou Senshi Gundam 00",
     "title_english": "Mobile Suit Gundam 00",
+    "title_japanese": "機動戦士ガンダム00",
+    "title_synonyms": [
+      "Gundam Double O"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/13200l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/yTGzkTQjGak?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In the distant future, mankind's dependence on fossil fuels will lead to their complete depletion, an energy crisis unlike anything the world witnessed. Out of retaliation and fear, humanity began focusing at an alternative source of energy: solar power. Different nations have united together to form three major factions—the Union of Solar Energy and Free Nations, the Advanced European Union, and the Human Reform League. Each of these sectors has access to a solar power generator, which gives them limitless energy.\n \nAs a result, countries that were once dependent on the sale of fossil fuels are now plunged in poverty, leading to years of warfare and internal strife over the control of solar energy. Amid this chaos, an unknown paramilitary organization appeared identifying themselves as \"Celestial Being,\" aspire to end all warfare through armed intervention by using mysterious and technologically advanced Mobile Suits known as Gundams.\n\nMobile Suit Gundam 00 follows the story of Celestial Being's Gundam Meisters Setsuna F. Seiei, Lockon Stratos, Allelujah Haptism, and Tieria Erde. These four dive into the devastating battle between the three superpowers to accomplish their goal of changing the world.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 8.1,
-    "scored_by": 126323,
+    "scored_by": 126330,
+    "rank": 551,
+    "popularity": 1181,
+    "members": 231621,
+    "favorites": 4587,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Sunrise"
@@ -158,6 +252,10 @@
       "Mainichi Broadcasting System",
       "Sony Music Entertainment"
     ],
+    "licensors": [
+      "Nozomi Entertainment",
+      "Bandai Entertainment"
+    ],
     "genres": [
       "Drama",
       "Sci-Fi"
@@ -167,8 +265,10 @@
       "Military",
       "Space"
     ],
+    "demographics": [],
     "aired_from": "2007-10-06T00:00:00+00:00",
     "aired_to": "2008-03-29T00:00:00+00:00",
+    "broadcast": "Saturdays at 18:00 (JST)",
     "url": "https://myanimelist.net/anime/2581/Kidou_Senshi_Gundam_00",
     "year": 2007,
     "season": "fall",
@@ -179,12 +279,27 @@
     "mal_id": 2923,
     "title": "Shugo Chara!",
     "title_english": "Shugo Chara!",
+    "title_japanese": "しゅごキャラ！",
+    "title_synonyms": [
+      "Guardian Character!"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1615/145754l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/W6MxRZahEgA?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Amu Hinamori is a shy girl who struggles to make friends in part due to the rumors spread around school about her \"cool and spicy\" personality. Wishing that she could show everyone her \"would-be\" self, Amu wakes up to the presence of three colorful and ornately decorated eggs in her bed. Each of these \"Hearts Eggs\" houses a \"Guardian Character\"—manifestations of someone's would-be self and their dreams. With the aid of Ran, Miki, and Su, Amu now finds herself able to express who she truly is. However, things do not always pan out in her favor.\n\nThe sudden appearance of Amu's Guardian Characters prompts the Seiyo Elementary Guardians, a student council-like group with each member possessing their own Guardian Character, to take notice of her. As someone who has multiple Characters, Amu is roped into being the Guardians' \"Joker,\" tasked with helping them find X Eggs—corrupted versions of one's Hearts Egg. \n\nAs she becomes entangled in the Guardians' quest, Amu begins to uncover more about these mysterious Characters, the X Eggs, and the organization that seems to be at the center of it all.\n\n[Written by MAL Rewrite]",
+    "background": "Shugo Chara! was released in 16 compilation DVDs by Pony Canyon, each containing three to four episodes, from February 20, 2008 to May 20, 2009. The series has been dubbed in French and Italian by Studio La Dame Blanche and LOGOS srl respectively.",
     "episodes": 51,
     "score": 7.41,
-    "scored_by": 109307,
+    "scored_by": 109319,
+    "rank": 2424,
+    "popularity": 1192,
+    "members": 230026,
+    "favorites": 3108,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
     "source": "Manga",
     "studios": [
       "Satelight"
@@ -194,6 +309,7 @@
       "Sotsu",
       "Pony Canyon"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
@@ -201,8 +317,12 @@
       "Mahou Shoujo",
       "School"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2007-10-06T00:00:00+00:00",
     "aired_to": "2008-09-27T00:00:00+00:00",
+    "broadcast": "Saturdays at 09:30 (JST)",
     "url": "https://myanimelist.net/anime/2923/Shugo_Chara",
     "year": 2007,
     "season": "fall",
@@ -213,12 +333,25 @@
     "mal_id": 2926,
     "title": "Myself; Yourself",
     "title_english": "Myself; Yourself",
+    "title_japanese": "マイセルフ; ユアセルフ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/75247l.jpg",
+    "trailer_url": null,
     "synopsis": "In the peaceful little town of Sakuranomori, a group of young friends are about to bid farewell to one of their own. Due to his parents’ business plans, Sana Hidaka has to move away from his quiet childhood home to the boisterous city of Tokyo. Though it pains him, he must say goodbye to his precious friends—the kind-hearted Aoi Oribe, the spunky Wakatsuki twins, Shuri and Shuusuke, and the cheerful and upbeat Nanaka Yatsushiro. But even though he is reluctant to leave them behind, he believes that no matter how far apart they are, they will always cherish the memories of their friendship.\n\nFive years later, Sana, now a 16-year-old high school student, returns to his hometown with the hope of restoring his old life. However, he quickly realizes that although his town may not have changed drastically, the friends he left behind are not who they used to be. Unsettling shadows loom over Sakuranomori as his friends hold new secrets and bear burdens that threaten the bonds they once shared.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.1,
     "scored_by": 97495,
+    "rank": 4076,
+    "popularity": 1409,
+    "members": 191357,
+    "favorites": 768,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Doga Kobo"
@@ -229,6 +362,9 @@
       "Happinet Pictures",
       "5pb."
     ],
+    "licensors": [
+      "Maiden Japan"
+    ],
     "genres": [
       "Drama",
       "Romance"
@@ -236,8 +372,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2007-12-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 02:15 (JST)",
     "url": "https://myanimelist.net/anime/2926/Myself__Yourself",
     "year": 2007,
     "season": "fall",
@@ -248,12 +386,28 @@
     "mal_id": 2963,
     "title": "Minami-ke",
     "title_english": null,
+    "title_japanese": "みなみけ",
+    "title_synonyms": [
+      "Minamike",
+      "The Minami Family"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/75279l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/SPKY_xH15GU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The Minami residence is home to three sisters: the strict and diligent eldest sister Haruka; air-headed and lively Kana; and the youngest, Chiaki, whose sharp tongue spares no one. Living without adult supervision, the sisters share the workload of cooking and laundry, as well as the occasional romantic adventure. From combating chronic laziness to hanging out with friends, there is never a boring day in the Minami household.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.63,
-    "scored_by": 73055,
+    "scored_by": 73059,
+    "rank": 1545,
+    "popularity": 1483,
+    "members": 180575,
+    "favorites": 1095,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Daume"
@@ -264,6 +418,7 @@
       "Eye Move",
       "Sunny Side Up"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
@@ -271,8 +426,12 @@
       "CGDCT",
       "School"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-08T00:00:00+00:00",
     "aired_to": "2007-12-31T00:00:00+00:00",
+    "broadcast": "Mondays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/2963/Minami-ke",
     "year": 2007,
     "season": "fall",
@@ -283,12 +442,27 @@
     "mal_id": 2596,
     "title": "Shinreigari",
     "title_english": "Ghost Hound",
+    "title_japanese": "神霊狩／GHOST HOUND",
+    "title_synonyms": [
+      "Shinreigari: Ghost Hound"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/80967l.jpg",
+    "trailer_url": null,
     "synopsis": "Strange things are happening around the town of Suiten. The daughter of a priest begins to see strange visions, spirits have started to roam the mountains, and Tarou Komori is having unsettling dreams. Due to the trauma of being kidnapped 11 years ago, he has repressed most of the memories that could shed light on what really happened. But they return in his sleep, combined with encounters beyond the realm of dreams.\n \nAs the supernatural and psychological collide, three children struggle to face their demons and repair the breach between the spiritual and corporeal worlds.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 22,
     "score": 7.39,
-    "scored_by": 46935,
+    "scored_by": 46937,
+    "rank": 2500,
+    "popularity": 1633,
+    "members": 160699,
+    "favorites": 887,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Production I.G"
@@ -300,6 +474,9 @@
       "TYO",
       "Mag Garden"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Mystery",
       "Supernatural",
@@ -308,8 +485,10 @@
     "themes": [
       "Psychological"
     ],
+    "demographics": [],
     "aired_from": "2007-10-18T00:00:00+00:00",
     "aired_to": "2008-04-04T00:00:00+00:00",
+    "broadcast": "Thursdays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/2596/Shinreigari",
     "year": 2007,
     "season": "fall",
@@ -320,12 +499,29 @@
     "mal_id": 2403,
     "title": "Kodomo no Jikan (TV)",
     "title_english": null,
+    "title_japanese": "こどものじかん",
+    "title_synonyms": [
+      "Nymphet",
+      "A Child's Time",
+      "Kojika"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1944/149834l.jpg",
+    "trailer_url": null,
     "synopsis": "3rd grade teacher Aoki Daisuke didn't expect the first class he ever taught to be one of the toughest obstacles of his life. After getting off on the wrong foot with the entire class, a moment of kind-heartedness instantly convinces one of his students, Rin Kokonoe, to make the ill-fated Aoki-sensei her lover. But what exactly are Rin's intentions for wanting to actively seduce Aoki-sensei, and will Aoki-sensei be able to help her to deal with them?",
+    "background": "",
     "episodes": 12,
     "score": 6.68,
-    "scored_by": 55435,
+    "scored_by": 55441,
+    "rank": 6233,
+    "popularity": 2092,
+    "members": 117239,
+    "favorites": 600,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Studio Barcelona"
@@ -337,6 +533,7 @@
       "Dream Force",
       "Futabasha"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Drama",
@@ -345,8 +542,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-12T00:00:00+00:00",
     "aired_to": "2007-12-28T00:00:00+00:00",
+    "broadcast": "Fridays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/2403/Kodomo_no_Jikan_TV",
     "year": 2007,
     "season": "fall",
@@ -357,18 +556,41 @@
     "mal_id": 2494,
     "title": "Goshuushou-sama Ninomiya-kun",
     "title_english": "Good Luck! Ninomiya-kun",
+    "title_japanese": "ご愁傷さま二ノ宮くん",
+    "title_synonyms": [
+      "Goshusho-sama Ninomiya-kun",
+      "Gosyushosama Ninomiyakun",
+      "My Condolences",
+      "Ninomiya-kun",
+      "My Heartfelt Sympathy",
+      "Ninomiya-kun"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/75603l.jpg",
+    "trailer_url": null,
     "synopsis": "Shungo Ninomiya is just an ordinary, run-of-the-mill high school student who lives at home with his older sister Ryoko—at least when she's not away doing her job as a mercenary. However, Shungo's life ceases to be normal the moment a cute girl named Mayu Tsukimura descends into the middle of his school's campus in a military-grade helicopter. It turns out Ryoko sent this girl, along with her older brother Mikihiro, to live at the Ninomiya household.\n\nBut the newly-arrived siblings are a little special: Mayu is, in fact, a succubus and her brother, an incubus! And as if the circumstances are not problematic enough, Mayu is crippled with androphobia—the fear of men—and it's up to Shungo to help her overcome this at the behest of his sister. Ryoko plans to force Mayu to be closer to Shungo, and to do this, she’ll employ some questionable methods such as having them share the same bed and even take baths together. \n\nThe situation further complicates when student council president Reika Houjou arrives as the new maid of the Ninomiya family, and she will stop at nothing to thwart Shungo and Mayu’s sexually-geared training. With the sudden arrival of all these oddities, Shungo's ordinary life is about to be thrown into utter turmoil.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.63,
-    "scored_by": 49475,
+    "scored_by": 49476,
+    "rank": 6510,
+    "popularity": 2291,
+    "members": 101937,
+    "favorites": 173,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Light novel",
     "studios": [
       "AIC Spirits"
     ],
     "producers": [
       "Kadokawa Shoten"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Comedy",
@@ -378,8 +600,10 @@
     "themes": [
       "Harem"
     ],
+    "demographics": [],
     "aired_from": "2007-10-05T00:00:00+00:00",
     "aired_to": "2007-12-21T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2494/Goshuushou-sama_Ninomiya-kun",
     "year": 2007,
     "season": "fall",
@@ -390,12 +614,27 @@
     "mal_id": 2927,
     "title": "KimiKiss Pure Rouge",
     "title_english": "KimiKiss: Pure Rouge",
+    "title_japanese": "キミキス pure rouge",
+    "title_synonyms": [
+      "Kimi-kiss pure rouge"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/19934l.jpg",
+    "trailer_url": null,
     "synopsis": "Kouichi Sanada and Kazuki Aihara's childhood friend Mao Mizusawa has returned after living in France for a couple of years. Kouichi is surprised to learn that, since her parents are remaining overseas for the time being, his mother has agreed to let Mao stay with them. The three friends help each other deal with the ups and downs of high school romance.\n \n(Source: ANN)",
+    "background": "",
     "episodes": 24,
     "score": 7.25,
-    "scored_by": 41825,
+    "scored_by": 41828,
+    "rank": 3222,
+    "popularity": 2423,
+    "members": 93091,
+    "favorites": 298,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "J.C.Staff"
@@ -404,6 +643,9 @@
       "Bandai Visual",
       "Lantis"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Romance"
@@ -411,8 +653,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-07T00:00:00+00:00",
     "aired_to": "2008-03-23T00:00:00+00:00",
+    "broadcast": "Sundays at 02:55 (JST)",
     "url": "https://myanimelist.net/anime/2927/KimiKiss_Pure_Rouge",
     "year": 2007,
     "season": "fall",
@@ -423,12 +667,25 @@
     "mal_id": 2986,
     "title": "Bamboo Blade",
     "title_english": "Bamboo Blade",
+    "title_japanese": "バンブーブレード",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1790/114537l.jpg",
+    "trailer_url": null,
     "synopsis": "Kojirou is the kendo instructor for Muroe High School and he's totally broke. But then an unexpected chance is given to him: his team must win against his senpai's team and the prize is: free meals for a whole year! Now, the only problem left... where to find girls skilled enough and willing to join the kendo team?",
+    "background": "",
     "episodes": 26,
     "score": 7.29,
-    "scored_by": 42140,
+    "scored_by": 42142,
+    "rank": 2958,
+    "popularity": 2449,
+    "members": 91691,
+    "favorites": 285,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "AIC ASTA"
@@ -441,6 +698,9 @@
       "KlockWorx",
       "flying DOG"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Comedy",
       "Sports"
@@ -449,8 +709,12 @@
       "Combat Sports",
       "School"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-02T00:00:00+00:00",
     "aired_to": "2008-04-01T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/2986/Bamboo_Blade",
     "year": 2007,
     "season": "fall",
@@ -461,12 +725,27 @@
     "mal_id": 2508,
     "title": "Genshiken 2",
     "title_english": "Genshiken 2",
+    "title_japanese": "げんしけん2",
+    "title_synonyms": [
+      "Gendai Shikaku Bunka Kenkyuukai 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1958/94708l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/iD6ufvvwi-A?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The Society for the Study of Modern Visual Culture, otherwise known as Genshiken, is now under the charge of a more confident Sasahara. Things have changed in between semesters, and the otaku club now has a new otaku-hating member named Ogiue. Sasahara's initial goal of starting a doujin circle and selling those fan-made magazines at the next Comic Festival becomes a reality, but reality is a cruel master... who apparently crossplays. Afterward, the club is abuzz with talk about Tanaka and Ohno's relationship, which takes a hesitant step forward.\n\n(Source: Media Blasters)",
+    "background": "",
     "episodes": 12,
     "score": 7.74,
-    "scored_by": 46754,
+    "scored_by": 46760,
+    "rank": 1236,
+    "popularity": 2519,
+    "members": 87815,
+    "favorites": 219,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Arms"
@@ -480,6 +759,9 @@
       "Palm Studio",
       "Showgate"
     ],
+    "licensors": [
+      "Media Blasters"
+    ],
     "genres": [
       "Slice of Life"
     ],
@@ -488,8 +770,12 @@
       "Otaku Culture",
       "Parody"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-10T00:00:00+00:00",
     "aired_to": "2007-12-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/2508/Genshiken_2",
     "year": 2007,
     "season": "fall",
@@ -500,12 +786,25 @@
     "mal_id": 2795,
     "title": "Dragonaut: The Resonance",
     "title_english": "Dragonaut - The Resonance",
+    "title_japanese": "ドラゴノーツ-ザ・レソナンス-",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1523/134026l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/VxaPLXc8khs?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Twenty years prior to the story's beginning, an asteroid headed for Earth destroys Pluto. Due to Pluto's destruction, the asteroid, which is dubbed Thanatos, becomes temporarily stagnant. Now, in order to avoid Earth's impending destruction, the International Solarsystem Development Agency (ISDA) works on the \"D-Project\", and creates the \"Dragonaut\" after finding a dragon egg under the ocean. This weapon's primary purpose is to destroy the asteroid when the time comes. However, they soon find out that the asteroid is not their only threat, as powerful dragon-like creatures, which are bent on destruction, appear on Earth.\n\nAfter witnessing a murder by one of the creatures, Jin Kamishina, a lonely 18-year-old boy who lost his family in a shuttle accident two years ago, gets involved in the mysteries of the dragons and becomes the chosen pilot of the Dragonaut. Helping him on his journey is Toa, a mysterious girl who saves him from falling to his death after the creature attacks him. As they get deeper into the mysteries of the dragons, they encounter new friends and enemies, and also begin to develop a closer relationship. \n\n(Source: Wikipedia)",
+    "background": "",
     "episodes": 25,
     "score": 6.56,
-    "scored_by": 34462,
+    "scored_by": 34464,
+    "rank": 6945,
+    "popularity": 2668,
+    "members": 80252,
+    "favorites": 118,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Gonzo"
@@ -513,6 +812,9 @@
     "producers": [
       "Nihon Ad Systems",
       "Sotsu Music Publishing"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Drama",
@@ -523,8 +825,10 @@
     "themes": [
       "Mecha"
     ],
+    "demographics": [],
     "aired_from": "2007-10-04T00:00:00+00:00",
     "aired_to": "2008-03-27T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2795/Dragonaut__The_Resonance",
     "year": 2007,
     "season": "fall",
@@ -535,12 +839,28 @@
     "mal_id": 3001,
     "title": "Moyashimon",
     "title_english": null,
+    "title_japanese": "もやしもん",
+    "title_synonyms": [
+      "Moyasimon",
+      "Tales of Agriculture"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/37533l.jpg",
+    "trailer_url": null,
     "synopsis": "One could say that freshman college student Tadayasu Sawaki has a wide range of vision. He has a peculiar ability that allows him to see microorganisms with the naked eye. Sawaki can see all sorts of microbes, from the fungi that cause athlete's foot to the yeast used to make alcohol, with him perceiving his little friends as cute chibi creatures. Attending an agricultural university, his talent piques the interest of numerous professors, including Professor Itsuki, who specializes in fermentation. \n\nSawaki starts school indifferent toward his ability, choosing an agricultural school in Tokyo. However, with the help of the eccentric community around him, he slowly learns to appreciate these visible microbes and his talent. The whimsical cast of professors and classmates attending the university almost makes Sawaki seem normal despite his ability.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 11,
     "score": 7.54,
-    "scored_by": 29773,
+    "scored_by": 29774,
+    "rank": 1881,
+    "popularity": 2746,
+    "members": 76668,
+    "favorites": 268,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Telecom Animation Film",
@@ -555,6 +875,7 @@
       "Sony Music Entertainment",
       "Fujipacific Music"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Gourmet",
@@ -563,8 +884,12 @@
     "themes": [
       "Adult Cast"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-12T00:00:00+00:00",
     "aired_to": "2007-12-21T00:00:00+00:00",
+    "broadcast": "Fridays at 00:45 (JST)",
     "url": "https://myanimelist.net/anime/3001/Moyashimon",
     "year": 2007,
     "season": "fall",
@@ -575,12 +900,28 @@
     "mal_id": 2985,
     "title": "Majin Tantei Nougami Neuro",
     "title_english": "Neuro: Supernatural Detective",
+    "title_japanese": "魔人探偵 脳噛ネウロ",
+    "title_synonyms": [
+      "Private Evil-Eye Nougami Neuro",
+      "Demon Detective Nougami Neuro"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/20930l.jpg",
+    "trailer_url": null,
     "synopsis": "Yako Katsuragi is an acclaimed high school detective, who, despite her young age, has solved many cases. In fact, there seems to be no case that she cannot solve, or any culprit that escapes justice. But within the walls of her detective agency lies the secret to her prolific crime-solving skills: the cases are actually solved by her assistant, Neuro Nougami.\n\nHowever, to call Neuro an ordinary man would be incorrect. In reality, he is a demon, who came to the human world in search of the ultimate mystery, having already solved every mystery in the demon world. With Yako as his proxy, he feasts on the negative energy released by humans when they commit crimes. Thus, he promises to help Yako solve the mystery of her father's death. But to do so, he must avoid drawing too much attention to himself, which is why Yako plays the role of the detective. As Yako desperately searches for the truth of her father's death, the unlikely duo continues to solve case after case in order to satisfy Neuro's ravenous appetite.\n\n[Written by MAL Rewrite]",
+    "background": "Majin Tantei Nougami Neuro was released on DVD in nine volumes from December 21, 2007, to August 27, 2008.",
     "episodes": 25,
     "score": 7.57,
-    "scored_by": 28740,
+    "scored_by": 28742,
+    "rank": 1747,
+    "popularity": 2877,
+    "members": 70787,
+    "favorites": 603,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -589,6 +930,7 @@
       "VAP",
       "Shueisha"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Mystery",
@@ -598,8 +940,12 @@
       "Detective",
       "Mythology"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2008-03-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 01:29 (JST)",
     "url": "https://myanimelist.net/anime/2985/Majin_Tantei_Nougami_Neuro",
     "year": 2007,
     "season": "fall",
@@ -610,12 +956,25 @@
     "mal_id": 2369,
     "title": "Rental Magica",
     "title_english": "Rental Magica",
+    "title_japanese": "レンタルマギカ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/73999l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/djNLQ-lNgdI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Due to his father's disappearance, Itsuki Iba has to take over the family business: a magician dispatch service. Their family employs countless magicians and other supernatural beings in order to send them out to help those who need magical assistance. As a leader, Itsuki now has to be tough, commanding, and reliable, but there's one problem, he's a coward. Also, in order to run a successful business, he must connect with his employees, which is more difficult than it seems due to his personality. But not only does he have to deal with his own employees, he also has to deal with those who threaten the family business.\n\n(Source: CrunchyRoll)",
+    "background": "",
     "episodes": 24,
     "score": 6.98,
     "scored_by": 22225,
+    "rank": 4610,
+    "popularity": 3018,
+    "members": 64603,
+    "favorites": 108,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Zexcs"
@@ -626,14 +985,19 @@
       "KlockWorx",
       "NTT Docomo"
     ],
+    "licensors": [
+      "Nozomi Entertainment"
+    ],
     "genres": [
       "Action",
       "Mystery",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-10-08T00:00:00+00:00",
     "aired_to": "2008-03-24T00:00:00+00:00",
+    "broadcast": "Mondays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/2369/Rental_Magica",
     "year": 2007,
     "season": "fall",
@@ -644,12 +1008,25 @@
     "mal_id": 2595,
     "title": "D.C.II: Da Capo II",
     "title_english": null,
+    "title_japanese": "D.C.II ～ダ・カーポII～",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/75305l.jpg",
+    "trailer_url": null,
     "synopsis": "The undying Sakura Trees return. Based on a PS2 sequel of the original DaCapo game, the story once again takes place on Hatsunejima, but is set 53 years after the events of D.C. and D.C.S.S.. Although some characters will probably look a bit familiar to the initiated eye, the cast is a new one. The new main protagonist is Yoshiyuki Sakurai, who lives next door to the Asakura sisters Yume and Otome, who are the granddaughters of Junichi and Nemu from the first season.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.85,
     "scored_by": 16871,
+    "rank": 5277,
+    "popularity": 4032,
+    "members": 38297,
+    "favorites": 41,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "feel."
@@ -657,6 +1034,7 @@
     "producers": [
       "Starchild Records"
     ],
+    "licensors": [],
     "genres": [
       "Drama",
       "Romance",
@@ -665,8 +1043,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-02T00:00:00+00:00",
     "aired_to": "2007-12-25T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2595/DCII__Da_Capo_II",
     "year": 2007,
     "season": "fall",
@@ -677,12 +1057,27 @@
     "mal_id": 2970,
     "title": "Night Wizard",
     "title_english": null,
+    "title_japanese": "ナイトウィザード",
+    "title_synonyms": [
+      "Night Wizard The Animation"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/75604l.jpg",
+    "trailer_url": null,
     "synopsis": "Night Wizard. A term given to those whose mission is to protect the world from impending darkness. Renji Hiiragi is one such Night Wizard, who is constantly called on missions, even though all he wants is to be able to go to school and graduate. \n\nHowever, his latest order was to protect Elis Shiho, who is a new transfer student at his academy. Being dragged into the Astronomy Club by Renji's childhood friend, Kureha Akabane on her first day at school, Elis soon realises that she too, has the power to become a Night Wizard, after possessing one of seven secret Jewels, the Jewel of Kindness. \n\nAlong with Renji and Kureha, Elis now begins her fight and her new life as a Night Wizard.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 13,
     "score": 6.63,
-    "scored_by": 15500,
+    "scored_by": 15501,
+    "rank": 6532,
+    "popularity": 4057,
+    "members": 37772,
+    "favorites": 56,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Game",
     "studios": [
       "HAL Film Maker"
@@ -691,14 +1086,17 @@
       "TYO",
       "Omnibus Promotion"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2007-12-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/2970/Night_Wizard",
     "year": 2007,
     "season": "fall",
@@ -709,12 +1107,27 @@
     "mal_id": 2562,
     "title": "Shion no Ou",
     "title_english": "The Flowers of Hard Blood",
+    "title_japanese": "しおんの王 - The Flowers of Hard Blood",
+    "title_synonyms": [
+      "Shion no Oh"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/74050l.jpg",
+    "trailer_url": null,
     "synopsis": "Defying the odds, middle school student Shion Yasuoka is becoming a rising star of the professional shogi world. Despite losing her family at a young age and being unable to speak due to the trauma, in her loving adoptive family and at the shogi association, she has found the necessary emotional support to move on with her life and very demanding career.\n\nHer talent attracts the attention of Satoru Hani, a successful businessman and brother of the current \"Meijin\"—the title given to the defending champion of Japan's most prestigious shogi tournament. He decides to organize a tournament open to both men and women, including professional and amateur players, and urges Shion to participate in the competition. However, Satoru seems to know a lot about Shion's troubled past, and his actions bring suspicion from Shion's friend Ayumi Saitou and the police—who are still investigating the death of Shion's loved ones.\n\nAs the end of Satoru's tournament approaches, Shion starts remembering events related to the night when she lost everything and will have to show her mental fortitude to defeat her opponents and foil the plans of the culprits who ruined her life.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 22,
     "score": 7.49,
     "scored_by": 11659,
+    "rank": 2065,
+    "popularity": 4275,
+    "members": 33925,
+    "favorites": 96,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Deen"
@@ -727,6 +1140,7 @@
       "Fujipacific Music",
       "Universal Music Japan"
     ],
+    "licensors": [],
     "genres": [
       "Drama",
       "Mystery",
@@ -735,8 +1149,10 @@
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [],
     "aired_from": "2007-10-14T00:00:00+00:00",
     "aired_to": "2008-03-23T00:00:00+00:00",
+    "broadcast": "Sundays at 02:15 (JST)",
     "url": "https://myanimelist.net/anime/2562/Shion_no_Ou",
     "year": 2007,
     "season": "fall",
@@ -747,12 +1163,25 @@
     "mal_id": 2942,
     "title": "Sketchbook: Full Color's",
     "title_english": "Sketchbook ~full color's~",
+    "title_japanese": "スケッチブック ～full color's～",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1763/137274l.jpg",
+    "trailer_url": null,
     "synopsis": "To Sora Kajiwara, the world is full of wonderful and adorable things she wants to draw—cats being a popular object of her affection. Even though there are some things that can't be captured with a pencil and paper, she still brings her sketchbook wherever she goes. Her love of drawing eventually leads her to join her school's art club, despite her shy and childish personality.\n\nJust like herself, all of Sora's fellow art club members have their own vivid imagination and personality to match. Through her interactions with the rest of the club, Sora begins to break out of her shell and see more of the world around her, taking every opportunity to sketch whatever is on her mind or in her heart.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
-    "score": 7.36,
-    "scored_by": 10283,
+    "score": 7.37,
+    "scored_by": 10285,
+    "rank": 2568,
+    "popularity": 4280,
+    "members": 33861,
+    "favorites": 201,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
     "source": "4-koma manga",
     "studios": [
       "HAL Film Maker"
@@ -765,6 +1194,9 @@
       "TYO",
       "Mag Garden"
     ],
+    "licensors": [
+      "Nozomi Entertainment"
+    ],
     "genres": [
       "Slice of Life"
     ],
@@ -773,8 +1205,12 @@
       "Iyashikei",
       "Visual Arts"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2007-10-02T00:00:00+00:00",
     "aired_to": "2007-12-25T00:00:00+00:00",
+    "broadcast": "Tuesdays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/2942/Sketchbook__Full_Colors",
     "year": 2007,
     "season": "fall",
@@ -785,12 +1221,27 @@
     "mal_id": 2964,
     "title": "Blue Drop: Tenshi-tachi no Gikyoku",
     "title_english": "Blue Drop",
+    "title_japanese": "BLUE DROP ～天使達の戯曲～",
+    "title_synonyms": [
+      "Blue Drop: Tenshitachi no Gikyoku"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/50485l.jpg",
+    "trailer_url": null,
     "synopsis": "Five years ago, something horrifying happened on Kamioki Island. Something so nightmarish that it stripped all memory from Mari Wakatake's mind even as it left every other human on the island dead in its wake! Now enrolled against her will at an isolated girl's academy, Mari is unaware that hidden eyes are watching her, waiting for her memory to return. \n\nBuried in her psyche is the most terrifying secret of all: while Mari was the only human who lived, she may not have been the only survivor! As something in a female skin invades Kaihou Academy, Mari's only hope may lie in a strange girl to whom she is inexplicably drawn yet cannot trust. \n\n(Source: Sentai Filmworks)",
+    "background": "",
     "episodes": 13,
     "score": 6.66,
-    "scored_by": 12886,
+    "scored_by": 12887,
+    "rank": 6324,
+    "popularity": 4344,
+    "members": 32677,
+    "favorites": 111,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "BeSTACK",
@@ -802,14 +1253,21 @@
       "Showgate",
       "King Records"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Girls Love",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2007-12-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/2964/Blue_Drop__Tenshi-tachi_no_Gikyoku",
     "year": 2007,
     "season": "fall",
@@ -820,12 +1278,28 @@
     "mal_id": 2772,
     "title": "Juushin Enbu: Hero Tales",
     "title_english": "Hero Tales",
+    "title_japanese": "獣神演武 - HERO TALES -",
+    "title_synonyms": [
+      "Jyuushin Enbu",
+      "Jushin Enbu"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/75193l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/73LMSSiH9eo?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "For citizens of the Ken Empire, justice is a myth. Lord Keiro, the deranged Shogun of the Imperial Army, blazes a trail of terror across the countryside in search of the sacred sword that will make him a god. Standing in his way is Taito, an omnipotent star reborn in human form—a young hero who vows to use his celestial strength to avenge those slaughtered by the villainous Shogun.\n\nTaito's mystical powers steer him toward a violent showdown with Keiro, and if used recklessly, his newfound abilities could shred the very fabric of his being. To master the art of control and become a heroic martial artist, Taito must seek the guidance of others like him: the seven star-born warriors with the strength to shatter a corrupt empire.\n\n(Source: RightStuf)",
+    "background": "",
     "episodes": 26,
     "score": 6.81,
-    "scored_by": 10500,
+    "scored_by": 10501,
+    "rank": 5466,
+    "popularity": 4583,
+    "members": 29019,
+    "favorites": 37,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Flag"
@@ -835,6 +1309,9 @@
       "Genco",
       "Tohokushinsha Film Corporation"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -843,8 +1320,12 @@
     "themes": [
       "Martial Arts"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2007-10-08T00:00:00+00:00",
     "aired_to": "2008-03-31T00:00:00+00:00",
+    "broadcast": "Mondays at 02:00 (JST)",
     "url": "https://myanimelist.net/anime/2772/Juushin_Enbu__Hero_Tales",
     "year": 2007,
     "season": "fall",
@@ -855,12 +1336,25 @@
     "mal_id": 1807,
     "title": "Prism Ark",
     "title_english": null,
+    "title_japanese": "プリズム・アーク",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/10/23155l.jpg",
+    "trailer_url": null,
     "synopsis": "The Sablum Empire has been attempting to take over the kingdom of Windland for many years, and are now plotting with the mercenaries Sister Hell and Darkness Knight to start a new offensive using powerful magical beings called Angels. \n\nHyaweh, a carefree yet talented swordsman, and Priecia, who just might be the lost princess of Windland, are enrolled at the Knight's Academy in Windland to hone their skill at swords and sorcery. There they meet many friends and allies who can help them protect their homeland from the impending invasion.",
+    "background": "",
     "episodes": 12,
     "score": 6.39,
     "scored_by": 9307,
+    "rank": 8016,
+    "popularity": 4974,
+    "members": 23941,
+    "favorites": 27,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Visual novel",
     "studios": [
       "Front Line"
@@ -872,6 +1366,7 @@
       "Pencil",
       "Omnibus Promotion"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Comedy",
@@ -882,8 +1377,10 @@
       "Harem",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-08T00:00:00+00:00",
     "aired_to": "2007-12-24T00:00:00+00:00",
+    "broadcast": "Mondays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/1807/Prism_Ark",
     "year": 2007,
     "season": "fall",
@@ -894,12 +1391,25 @@
     "mal_id": 2931,
     "title": "Mokke",
     "title_english": null,
+    "title_japanese": "もっけ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/19674l.jpg",
+    "trailer_url": null,
     "synopsis": "This is a story about two sisters: Shizuru, is a high school student who is able to see ghosts while her younger sister, Mizuki, is haunted by these apparitions. Frustrated by their abilities, their parents decided to entrust the sisters into the care of their grandparents who live in the countryside. As they adapt to life in the countryside, Shizuru and Mizuki begin to learn about the importance of coexisting nature with these apparitions.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 24,
     "score": 7.03,
     "scored_by": 3848,
+    "rank": 4388,
+    "popularity": 5678,
+    "members": 17198,
+    "favorites": 30,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
     "source": "Manga",
     "studios": [
       "Madhouse",
@@ -910,6 +1420,7 @@
       "Nagoya Broadcasting Network",
       "Techno Sound"
     ],
+    "licensors": [],
     "genres": [
       "Mystery",
       "Slice of Life",
@@ -918,8 +1429,12 @@
     "themes": [
       "Iyashikei"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2008-03-16T00:00:00+00:00",
+    "broadcast": "Wednesdays at 02:45 (JST)",
     "url": "https://myanimelist.net/anime/2931/Mokke",
     "year": 2007,
     "season": "fall",
@@ -930,18 +1445,37 @@
     "mal_id": 3000,
     "title": "Taiho Shichau zo: Full Throttle",
     "title_english": "You're Under Arrest: Full Throttle",
+    "title_japanese": "逮捕しちゃうぞ フルスロットル",
+    "title_synonyms": [
+      "Taiho Shichauzo: Full Throttle",
+      "Taiho Shichau zo (2007)"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/21616l.jpg",
+    "trailer_url": null,
     "synopsis": "Miyuki Kobayakawa, fresh from forensics training in the United States and Natsumi Tsujimoto, from completing Japanese Self-Defense Force (JSDF) ranger training return in the long-awaited 3rd season of the highly popular series. This time, the duo rejoins active duty at Bokuto Police Department, fighting against crime using their wits and brawn, plus having some misadventures along the way. \n\n(Source: ANN)",
+    "background": "",
     "episodes": 23,
     "score": 7.17,
     "scored_by": 3987,
+    "rank": 3685,
+    "popularity": 6622,
+    "members": 11639,
+    "favorites": 6,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Deen"
     ],
     "producers": [
       "TBS"
+    ],
+    "licensors": [
+      "Sentai Filmworks"
     ],
     "genres": [
       "Action",
@@ -952,8 +1486,12 @@
       "Detective",
       "Workplace"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-10-05T00:00:00+00:00",
     "aired_to": "2008-03-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3000/Taiho_Shichau_zo__Full_Throttle",
     "year": 2007,
     "season": "fall",
@@ -964,12 +1502,28 @@
     "mal_id": 2965,
     "title": "Suteki Tantei Labyrinth",
     "title_english": "Fantastic Detective Labyrinth",
+    "title_japanese": "素敵探偵☆ラビリンス",
+    "title_synonyms": [
+      "Lovely Detective Labyrinth",
+      "Great Detective Labyrinth"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/17592l.jpg",
+    "trailer_url": null,
     "synopsis": "In a forgotten town known as the old capital of Tokyo, strange and mysterious crimes are progressively occuring. These supernatural occurances are beyond comprehension and bring fear and terror to the people. Only one person is not intimidated by the evil underlying these occurances and is willing to challenge them: Hyuga Mayuki, a young boy detective who holds a special insight power that allows him to uncover the real truth behind these occurances. \n\n(Source: ANN)",
+    "background": "",
     "episodes": 25,
     "score": 6.64,
     "scored_by": 2826,
+    "rank": 6459,
+    "popularity": 6766,
+    "members": 11027,
+    "favorites": 16,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Deen"
@@ -977,13 +1531,20 @@
     "producers": [
       "Sotsu"
     ],
+    "licensors": [
+      "Nozomi Entertainment"
+    ],
     "genres": [
       "Mystery",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2007-10-03T00:00:00+00:00",
     "aired_to": "2008-03-26T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2965/Suteki_Tantei_Labyrinth",
     "year": 2007,
     "season": "fall",
@@ -994,12 +1555,29 @@
     "mal_id": 3493,
     "title": "Ryuusei no Rockman Tribe",
     "title_english": "Megaman Star Force Tribe",
+    "title_japanese": "流星のロックマン トライブ",
+    "title_synonyms": [
+      "Ryusei no Rockman Tribe",
+      "Shooting Star Rockman Tribe",
+      "Mega Man Shooting Star Tribe"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1256/94652l.jpg",
+    "trailer_url": null,
     "synopsis": "The second series is to follow the events of the second video game, focusing on the lost continent of Mu. The ancient civilization vanished ages ago, and a few of its remnants still exist as myths and legends called UMAs (unidentified lifeforms). The UMAs begin merging with humans in order to search for the treasures of Mu, the powerful ooparts, which will give them the power to revive Mu. After Subaru and War-Rock encounter several unusual enemies, they meet a professor named Doctor Orihime who sends them on a quest to find the ooparts and stop the UMAs. Using the ooparts, Rockman is able to take new forms, including Thunder Berserk, Fire Dinosaur, and Green Shinobi. (Source: Wikipedia)",
+    "background": "",
     "episodes": 21,
     "score": 6.93,
     "scored_by": 3055,
+    "rank": 4846,
+    "popularity": 8016,
+    "members": 7247,
+    "favorites": 21,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
     "source": "Game",
     "studios": [
       "Xebec"
@@ -1007,12 +1585,15 @@
     "producers": [
       "Half H.P Studio"
     ],
+    "licensors": [],
     "genres": [
       "Adventure"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-11-03T00:00:00+00:00",
     "aired_to": "2008-03-29T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3493/Ryuusei_no_Rockman_Tribe",
     "year": 2007,
     "season": "fall",
@@ -1023,17 +1604,31 @@
     "mal_id": 2929,
     "title": "Moonlight Mile 2nd Season: Touch Down",
     "title_english": null,
+    "title_japanese": "ムーンライトマイル 2ndシーズン -Touch down-",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/4265l.jpg",
+    "trailer_url": null,
     "synopsis": "The second season of Moonlight Mile.",
+    "background": "",
     "episodes": 14,
     "score": 7.26,
     "scored_by": 1902,
+    "rank": 3154,
+    "popularity": 8936,
+    "members": 5571,
+    "favorites": 10,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Manga",
     "studios": [
       "Studio Hibari"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Drama",
@@ -1042,8 +1637,12 @@
     "themes": [
       "Space"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-09-13T00:00:00+00:00",
     "aired_to": "2007-12-13T00:00:00+00:00",
+    "broadcast": "Thursdays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/2929/Moonlight_Mile_2nd_Season__Touch_Down",
     "year": 2007,
     "season": "fall",
@@ -1054,17 +1653,33 @@
     "mal_id": 3738,
     "title": "Usavich II",
     "title_english": "Usavich II",
+    "title_japanese": "ウサビッチ",
+    "title_synonyms": [
+      "Usavich 2"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/15661l.jpg",
+    "trailer_url": null,
     "synopsis": "The adventures of Putin and Kirenenko, two rabbits stuck in a Russian prison, continue as they make their escape and try to avoid the fearsome Soviet bunnies on their trail!",
+    "background": "",
     "episodes": 13,
     "score": 7.03,
     "scored_by": 3296,
+    "rank": 4405,
+    "popularity": 9067,
+    "members": 5335,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Kanaban Graphics"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy"
@@ -1073,8 +1688,10 @@
       "Anthropomorphic",
       "Gag Humor"
     ],
+    "demographics": [],
     "aired_from": "2007-10-08T00:00:00+00:00",
     "aired_to": "2008-01-15T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3738/Usavich_II",
     "year": 2007,
     "season": "fall",
@@ -1085,12 +1702,27 @@
     "mal_id": 2719,
     "title": "MapleStory",
     "title_english": null,
+    "title_japanese": "メイプルストーリー",
+    "title_synonyms": [
+      "Maple Story"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/4868l.jpg",
+    "trailer_url": null,
     "synopsis": "Ten years ago, the World Tree that protected peace and order of the world was being targeted by an evil organization called the Zakum. The Human race led four other races: the brave warriors, the intelligent magicians, the agile archers and the sly thieves in a fight against the Zakums. In the end, the World Tree activated self-destruction to protect itself. However, the other races thought it was the Human race that destroyed the World Tree. When the World Tree was destroyed most of the races had nothing left, so a number of them went to Maple Island thinking the ones who stayed would die. They escaped Victoria and lived on Maple Island where living is getting harder and harder. Since then, a never-ending war between the different races began.\n\nTen years later, the main protagonist, Al, is determined to revive the World Tree. Al and his companions begin their journey to seek the seeds of the World Tree. At the same time, the Zakums reappear…\n\n(Source: Wikipedia)",
+    "background": "",
     "episodes": 25,
     "score": 5.21,
     "scored_by": 1914,
+    "rank": 13414,
+    "popularity": 9248,
+    "members": 5073,
+    "favorites": 4,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Game",
     "studios": [
       "Madhouse"
@@ -1100,6 +1732,7 @@
       "Dentsu",
       "Nexon"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -1107,8 +1740,12 @@
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-07T00:00:00+00:00",
     "aired_to": "2008-03-30T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2719/MapleStory",
     "year": 2007,
     "season": "fall",
@@ -1119,25 +1756,43 @@
     "mal_id": 10526,
     "title": "Duel Masters Zero",
     "title_english": null,
+    "title_japanese": "デュエル・マスターズ ゼロ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/28926l.jpg",
+    "trailer_url": null,
     "synopsis": "This season is a direct continuation of the Zero Duel Masters with the same alternative setting, plot and characters. The only difference between both season were the shift from 2D to 3DCGI animation.\n\nIt follows after the duel of Shobu vs. Hakuoh, later unveiling Hakuoh and Jura were cooperating with the series' main antagonist: Professor March, who aims to control every creature by obtaining every Duel Orb.\n\n(Source: Duel Masters Wikia)",
+    "background": "",
     "episodes": 24,
     "score": 5.95,
     "scored_by": 708,
+    "rank": 10533,
+    "popularity": 11995,
+    "members": 2245,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "Shogakukan Music & Digital Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-06T00:00:00+00:00",
     "aired_to": "2008-03-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/10526/Duel_Masters_Zero",
     "year": 2007,
     "season": "fall",
@@ -1148,12 +1803,27 @@
     "mal_id": 6798,
     "title": "Saa Ikou! Tamagotchi",
     "title_english": "Let's Go! Tamagotchi",
+    "title_japanese": "さぁイコー！たまごっち",
+    "title_synonyms": [
+      "Saa Ikoo! Tamagotchi"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/10/15719l.jpg",
+    "trailer_url": null,
     "synopsis": "Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub was uploaded by Bandai in December 2008. It was originally uploaded a week before the release of the first movie in Japanese.",
+    "background": "",
     "episodes": 12,
     "score": 5.71,
     "scored_by": 517,
+    "rank": 11743,
+    "popularity": 13785,
+    "members": 1311,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [
       "OLM"
@@ -1161,10 +1831,15 @@
     "producers": [
       "Bandai"
     ],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-11-29T00:00:00+00:00",
     "aired_to": "2008-02-14T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/6798/Saa_Ikou_Tamagotchi",
     "year": 2007,
     "season": "fall",
@@ -1175,12 +1850,25 @@
     "mal_id": 22441,
     "title": "Hello Kitty: Ringo no Mori to Parallel Town",
     "title_english": "Hello Kitty: Apple Forest and Parallel Town",
+    "title_japanese": "ハローキティ りんごの森とパラレルタウン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1030/102887l.jpg",
+    "trailer_url": null,
     "synopsis": "Kitty and Mimmy fall through a hole and end up in a parallel world. It's identical to the one the sisters live in but it's inhabited by humans with transparent wings and pointy ears. Kitty becomes friends with Emily, a supermodel in this parallel world, and together they try to rescue Mimmy who has disappeared. Their search is hampered by Akuro--a black cat who has a mean streak.",
+    "background": "Short anime aired inside the anime corner of the Kitty's Paradise TV block.",
     "episodes": 27,
     "score": 6.13,
     "scored_by": 230,
+    "rank": 9572,
+    "popularity": 14785,
+    "members": 1025,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [
       "Asahi Production"
@@ -1188,13 +1876,18 @@
     "producers": [
       "Sanrio"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-02T00:00:00+00:00",
     "aired_to": "2008-03-25T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/22441/Hello_Kitty__Ringo_no_Mori_to_Parallel_Town",
     "year": 2007,
     "season": "fall",
@@ -1205,12 +1898,29 @@
     "mal_id": 3251,
     "title": "Hatara Kids Mai Ham Gumi",
     "title_english": "Master Hamsters",
+    "title_japanese": "はたらキッズマイハム組",
+    "title_synonyms": [
+      "Hatarakids Maiham Gumi",
+      "Hatara kids My ham Gumi",
+      "Master Hamsters"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/21232l.jpg",
+    "trailer_url": null,
     "synopsis": "Hatara Kids Maihamu Gumi, literally \"Working Kids, My Hamster Team\", is a Japanese anime action series for young children about hamsters who hold down jobs from firefighting to cooking.\n\n(Source: Wikipedia)",
+    "background": "",
     "episodes": 50,
     "score": 5.94,
     "scored_by": 138,
+    "rank": 10560,
+    "popularity": 16069,
+    "members": 727,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Toei Animation"
@@ -1218,12 +1928,17 @@
     "producers": [
       "TV Asahi"
     ],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-07T00:00:00+00:00",
     "aired_to": "2008-10-05T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3251/Hatara_Kids_Mai_Ham_Gumi",
     "year": 2007,
     "season": "fall",
@@ -1234,17 +1949,31 @@
     "mal_id": 3164,
     "title": "Ichigo Ichie: Koibana Tomobana",
     "title_english": null,
+    "title_japanese": "一期一会 恋バナ友バナ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/4864l.jpg",
+    "trailer_url": null,
     "synopsis": "Ichigo Ichie is based on a series of stationery. The stationery, by a company called Mind Wave, focuses on the friendship of two young girls.\n\n(Source: TokyoPop)",
+    "background": "",
     "episodes": 13,
     "score": 6.29,
     "scored_by": 151,
+    "rank": 8606,
+    "popularity": 16122,
+    "members": 720,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [],
     "producers": [
       "Four Some"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Slice of Life"
@@ -1252,8 +1981,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2007-10-20T00:00:00+00:00",
     "aired_to": "2008-01-26T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3164/Ichigo_Ichie__Koibana_Tomobana",
     "year": 2007,
     "season": "fall",
@@ -1264,24 +1995,44 @@
     "mal_id": 5468,
     "title": "Yattokame Tanteidan",
     "title_english": null,
+    "title_japanese": "やっとかめ探偵団",
+    "title_synonyms": [
+      "At Last! Turtle Detective Agency"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/11274l.jpg",
+    "trailer_url": null,
     "synopsis": "Neighborhood children help a group of retirees solve local mysteries in contemporary Japan.",
+    "background": "",
     "episodes": 14,
     "score": null,
     "scored_by": null,
+    "rank": 16815,
+    "popularity": 17486,
+    "members": 538,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "20 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [
       "No Side"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Mystery",
       "Slice of Life"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-07T00:00:00+00:00",
     "aired_to": "2008-01-06T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/5468/Yattokame_Tanteidan",
     "year": 2007,
     "season": "fall",
@@ -1292,12 +2043,27 @@
     "mal_id": 8191,
     "title": "Hoshi Shinichi Short Short",
     "title_english": null,
+    "title_japanese": "星新一 ショートショート",
+    "title_synonyms": [
+      "Hoshi Shinichi's Short Shorts"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/11/20995l.jpg",
+    "trailer_url": null,
     "synopsis": "This series features stories from the acclaimed sci-fi writer Hoshi Shinichi. The episodes uses animation, live-action footage, computer graphics, and other visual means to re-enact the short stories. Each episode is a collection of several short-short stories by Hoshi Shinichi.\n\nNote: This entry includes the pilot and the 25 TV episodes.",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 22045,
+    "popularity": 17741,
+    "members": 514,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Book",
     "studios": [
       "Echoes"
@@ -1306,13 +2072,16 @@
       "NHK",
       "Directions"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-11-11T00:00:00+00:00",
     "aired_to": "2008-11-17T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/8191/Hoshi_Shinichi_Short_Short",
     "year": 2007,
     "season": "fall",
@@ -1323,23 +2092,41 @@
     "mal_id": 9533,
     "title": "Pururun! Shizuku-chan Aha",
     "title_english": null,
+    "title_japanese": "ぷるるんっ! しずくちゃんあはっ☆",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/26376l.jpg",
+    "trailer_url": null,
     "synopsis": "Second season of Pururun! Shizuku-chan.",
+    "background": "",
     "episodes": 51,
     "score": null,
     "scored_by": null,
+    "rank": 19605,
+    "popularity": 18245,
+    "members": 471,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": null,
     "source": "Manga",
     "studios": [
       "TMS Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-07T00:00:00+00:00",
     "aired_to": "2008-09-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/9533/Pururun_Shizuku-chan_Aha",
     "year": 2007,
     "season": "fall",
@@ -1350,23 +2137,41 @@
     "mal_id": 3243,
     "title": "Elec-king The Animation",
     "title_english": null,
+    "title_japanese": "エレキング The Animation",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/50731l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/9wXAUjKIt-4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A surrealist comedy about a local neighborhood. The 4-koma it's based on is known for the number of characters added each week, which exceeded over 280 during its serialization. The anime focuses on the 16 most reoccurring of the bunch and each episode is composed of 3 skits/chapters.",
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 21237,
+    "popularity": 18648,
+    "members": 441,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "4-koma manga",
     "studios": [
       "Zuiyo"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2007-11-10T00:00:00+00:00",
     "aired_to": "2008-02-09T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/3243/Elec-king_The_Animation",
     "year": 2007,
     "season": "fall",
@@ -1377,12 +2182,25 @@
     "mal_id": 2930,
     "title": "Tensai? Dr. Hamax",
     "title_english": null,
+    "title_japanese": "天才？Dr.ハマックス",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/74919l.jpg",
+    "trailer_url": null,
     "synopsis": "No synopsis has been added for this series yet.\n\nClick here to update this information.",
+    "background": "",
     "episodes": 12,
     "score": null,
     "scored_by": null,
+    "rank": 15592,
+    "popularity": 19021,
+    "members": 414,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "Trans Arts"
@@ -1391,12 +2209,15 @@
       "Production I.G",
       "Tohokushinsha Film Corporation"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-10-06T00:00:00+00:00",
     "aired_to": "2007-12-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/2930/Tensai_Dr_Hamax",
     "year": 2007,
     "season": "fall",
@@ -1407,12 +2228,25 @@
     "mal_id": 12185,
     "title": "Mameushi-kun (TV)",
     "title_english": null,
+    "title_japanese": "まめうしくん",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/34397l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/VCZ4qozANq4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Mameushi-kun follows the farmland adventures of a calf that is as small as a dust speck.\n\n(Source: AniDB)",
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 18408,
+    "popularity": 19139,
+    "members": 404,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "15 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [
       "TMS Entertainment"
@@ -1420,13 +2254,18 @@
     "producers": [
       "Sotsu"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-06T00:00:00+00:00",
     "aired_to": "2008-09-27T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/12185/Mameushi-kun_TV",
     "year": 2007,
     "season": "fall",
@@ -1437,12 +2276,27 @@
     "mal_id": 20173,
     "title": "Mori no Senshi Bonolon",
     "title_english": null,
+    "title_japanese": "森の戦士ボノロン",
+    "title_synonyms": [
+      "Bonolon: Fushigina Mori no Iitsutae"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1614/148393l.jpg",
+    "trailer_url": null,
     "synopsis": "Bonolon is touted as the warrior who comes from the forest of the great oaks. Despite his huge body size and outwardly orange appearance, Bonolon is only a child of 9 years old. \n\nHowever, notwithstanding his tender age, Bonolon possess a strong sense of justice and strives to become a reliable man. The tears of those people who are depressed or troubled will flow through the roots of the great oaks and communicates their feelings to Bonolon. Bonolon will then appear from the great oaks and help the people solve their problems as well as grant their wishes.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 18836,
+    "popularity": 19356,
+    "members": 388,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [
       "Actas"
@@ -1452,13 +2306,18 @@
       "Coamix",
       "North Stars Pictures"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-11-05T00:00:00+00:00",
     "aired_to": "2008-05-17T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/20173/Mori_no_Senshi_Bonolon",
     "year": 2007,
     "season": "fall",
@@ -1469,22 +2328,40 @@
     "mal_id": 35508,
     "title": "Shampoo Ouji",
     "title_english": null,
+    "title_japanese": "シャンプー王子",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/85586l.jpg",
+    "trailer_url": null,
     "synopsis": "Prince Shampoo lives in the clean and shiny Bubble Kingdom. He's bored with his life and decides to jump out of the protective dome and explore the dirty things of the outer world. Here he encounters various people and understands what dirty and cleanliness really mean in the world.",
+    "background": "",
     "episodes": 12,
     "score": null,
     "scored_by": null,
+    "rank": 14779,
+    "popularity": 20889,
+    "members": 292,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-01T00:00:00+00:00",
     "aired_to": "2007-12-17T00:00:00+00:00",
+    "broadcast": "Mondays at 17:55 (JST)",
     "url": "https://myanimelist.net/anime/35508/Shampoo_Ouji",
     "year": 2007,
     "season": "fall",
@@ -1495,21 +2372,41 @@
     "mal_id": 40273,
     "title": "Fuwa no Go Renkan",
     "title_english": "Fuwa",
+    "title_japanese": "福娃の五連環",
+    "title_synonyms": [
+      "Fuwa and the five rings",
+      "福娃五连环",
+      "Fuwa Wu Lianhuan"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1763/102677l.jpg",
+    "trailer_url": null,
     "synopsis": "Fuwa Beibei encounters the severely injured goddess, Athena. In order to help Athena regain strength, Beibei sets out to find a mysterious wooden box left by Coubertin in 1894, but the worrying thing is that Pixiu who injured his stomach from his glutinous eating habits heard this news too. He thought that this mysterious energy could not only cure his stomach, but also improve his magic, and such begins the journey through time and space of two spirits with different aims. After all the hardships, they found the sixth son of the dragon - Bixi, and after the two's efforts in passing his test, Bixi carries them along 100 years of Olympic history.",
+    "background": "",
     "episodes": 54,
     "score": null,
     "scored_by": null,
+    "rank": 21432,
+    "popularity": 21503,
+    "members": 258,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Historical"
     ],
+    "demographics": [],
     "aired_from": "2007-10-01T00:00:00+00:00",
     "aired_to": "2008-08-24T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/40273/Fuwa_no_Go_Renkan",
     "year": 2007,
     "season": "fall",
@@ -1520,12 +2417,25 @@
     "mal_id": 54051,
     "title": "Dokan-kun Nanika no Ekaki Uta",
     "title_english": null,
+    "title_japanese": "土管くん何かの絵描き歌",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1668/132216l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 21039,
+    "popularity": 24043,
+    "members": 149,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "45 sec per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "DLE"
@@ -1533,12 +2443,15 @@
     "producers": [
       "TV Tokyo"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2007-10-06T00:00:00+00:00",
     "aired_to": "2007-12-31T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/54051/Dokan-kun_Nanika_no_Ekaki_Uta",
     "year": 2007,
     "season": "fall",
@@ -1549,22 +2462,40 @@
     "mal_id": 44689,
     "title": "Shen Bing Xiaojiang",
     "title_english": "Shen Bing Kids",
+    "title_japanese": "神兵小将",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1293/128217l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 14856,
+    "popularity": 25043,
+    "members": 125,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-10-04T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44689/Shen_Bing_Xiaojiang",
     "year": null,
     "season": null,
@@ -1575,22 +2506,40 @@
     "mal_id": 48160,
     "title": "Dao Baejji Bumhil Daesodong",
     "title_english": null,
+    "title_japanese": "다오 배찌 붐힐 대소동",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1609/130348l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 20916,
+    "popularity": 25450,
+    "members": 118,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2007-11-15T00:00:00+00:00",
     "aired_to": "2008-05-15T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/48160/Dao_Baejji_Bumhil_Daesodong",
     "year": 2007,
     "season": "fall",

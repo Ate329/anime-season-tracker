@@ -3,12 +3,27 @@
     "mal_id": 23273,
     "title": "Shigatsu wa Kimi no Uso",
     "title_english": "Your Lie in April",
+    "title_japanese": "四月は君の嘘",
+    "title_synonyms": [
+      "Kimiuso"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1405/143284l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/aMJpI_fEsA4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Kousei Arima is a child prodigy known as the \"Human Metronome\" for playing the piano with precision and perfection. Guided by a strict mother and rigorous training, Kousei dominates every competition he enters, earning the admiration of his musical peers and praise from audiences. When his mother suddenly passes away, the subsequent trauma makes him unable to hear the sound of a piano, and he never takes the stage thereafter.\n\nNowadays, Kousei lives a quiet and unassuming life as a junior high school student alongside his friends Tsubaki Sawabe and Ryouta Watari. While struggling to get over his mother's death, he continues to cling to music. His monochrome life turns upside down the day he encounters the eccentric violinist Kaori Miyazono, who thrusts him back into the spotlight as her accompanist. Through a little lie, these two young musicians grow closer together as Kaori tries to fill Kousei's world with color.\n\n[Written by MAL Rewrite]",
+    "background": "Winner in the anime division of the 2016 Sugoi Japan® Awards.",
     "episodes": 22,
     "score": 8.64,
-    "scored_by": 1439075,
+    "scored_by": 1439304,
+    "rank": 85,
+    "popularity": 24,
+    "members": 2369289,
+    "favorites": 89108,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "A-1 Pictures"
@@ -22,6 +37,9 @@
       "Kyoraku Industrial Holdings",
       "Kansai TV"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Drama",
       "Romance"
@@ -32,8 +50,12 @@
       "Performing Arts",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-10T00:00:00+00:00",
     "aired_to": "2015-03-20T00:00:00+00:00",
+    "broadcast": "Fridays at 01:20 (JST)",
     "url": "https://myanimelist.net/anime/23273/Shigatsu_wa_Kimi_no_Uso",
     "year": 2014,
     "season": "fall",
@@ -44,12 +66,25 @@
     "mal_id": 23755,
     "title": "Nanatsu no Taizai",
     "title_english": "The Seven Deadly Sins",
+    "title_japanese": "七つの大罪",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/65409l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/wxcvbL6o55M?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In a world similar to the European Middle Ages, the feared yet revered Holy Knights of Britannia use immensely powerful magic to protect the region of Britannia and its kingdoms. However, a small subset of the Knights supposedly betrayed their homeland and turned their blades against their comrades in an attempt to overthrow the ruler of Liones. They were defeated by the Holy Knights, but rumors continued to persist that these legendary knights, called the \"Seven Deadly Sins,\" were still alive. Ten years later, the Holy Knights themselves staged a coup d’état, and thus became the new, tyrannical rulers of the Kingdom of Liones.\n\nBased on the best-selling manga series of the same name, Nanatsu no Taizai follows the adventures of Elizabeth, the third princess of the Kingdom of Liones, and her search for the Seven Deadly Sins. With their help, she endeavors to not only take back her kingdom from the Holy Knights, but to also seek justice in an unjust world.\n \n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.61,
-    "scored_by": 1410173,
+    "scored_by": 1410300,
+    "rank": 1640,
+    "popularity": 32,
+    "members": 2172892,
+    "favorites": 19398,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "A-1 Pictures"
@@ -61,14 +96,21 @@
       "Kodansha",
       "Movic"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-05T00:00:00+00:00",
     "aired_to": "2015-03-29T00:00:00+00:00",
+    "broadcast": "Sundays at 17:00 (JST)",
     "url": "https://myanimelist.net/anime/23755/Nanatsu_no_Taizai",
     "year": 2014,
     "season": "fall",
@@ -79,12 +121,29 @@
     "mal_id": 22535,
     "title": "Kiseijuu: Sei no Kakuritsu",
     "title_english": "Parasyte: The Maxim",
+    "title_japanese": "寄生獣 セイの格率",
+    "title_synonyms": [
+      "Parasite",
+      "Parasitic Beasts",
+      "Parasyte"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/73178l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/9Oe9umzw1Gc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "All of a sudden, they arrived: parasitic aliens that descended upon Earth and quickly infiltrated humanity by burrowing into the brains of vulnerable targets. These insatiable beings acquire full control of their host and are able to morph into a variety of forms in order to feed on unsuspecting prey.\n \nSixteen-year-old high school student Shinichi Izumi falls victim to one of these parasites, but it fails to take over his brain, ending up in his right hand instead. Unable to relocate, the parasite, now named Migi, has no choice but to rely on Shinichi in order to stay alive. Thus, the pair is forced into an uneasy coexistence and must defend themselves from hostile parasites that hope to eradicate this new threat to their species.\n\n[Written by MAL Rewrite]",
+    "background": "The anime was simulcast by Crunchyroll outside of Asia. Aside from the manga and anime, the series also has two live-action film adaptations. The Chinese Ministry of Culture blacklisted Kiseijuu: Sei no Kakuritsu as well as 37 other works on June 9, 2015.",
     "episodes": 24,
     "score": 8.32,
-    "scored_by": 1230345,
+    "scored_by": 1230435,
+    "rank": 281,
+    "popularity": 43,
+    "members": 2001489,
+    "favorites": 36361,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Madhouse"
@@ -93,6 +152,9 @@
       "VAP",
       "Nippon Television Network",
       "Forecast Communications"
+    ],
+    "licensors": [
+      "Sentai Filmworks"
     ],
     "genres": [
       "Action",
@@ -104,8 +166,12 @@
       "Gore",
       "Psychological"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2014-10-09T00:00:00+00:00",
     "aired_to": "2015-03-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 01:29 (JST)",
     "url": "https://myanimelist.net/anime/22535/Kiseijuu__Sei_no_Kakuritsu",
     "year": 2014,
     "season": "fall",
@@ -116,12 +182,28 @@
     "mal_id": 22297,
     "title": "Fate/stay night: Unlimited Blade Works",
     "title_english": "Fate/stay night [Unlimited Blade Works]",
+    "title_japanese": "Fate/stay night [Unlimited Blade Works]",
+    "title_synonyms": [
+      "Fate/stay night (2014)",
+      "Fate - Stay Night"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/67333l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/61RuoLIlCUM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The Holy Grail War is a battle royale among seven magi who serve as Masters. Masters, through the use of the command seals they are given when they enter the war, command Heroic Spirits known as Servants to fight for them in battle. In the Fifth Holy Grail War, Rin Toosaka is among the magi entering the competition. With her Servant, Archer, she hopes to obtain the ultimate prize—the Holy Grail, a magical artifact capable of granting its wielder any wish.\n \nOne of Rin's classmates, Shirou Emiya, accidentally enters the competition and ends up commanding a Servant of his own known as Saber. As they find themselves facing mutual enemies, Rin and Shirou decide to form a temporary alliance as they challenge their opponents in the Holy Grail War. \n\n[Written by MAL Rewrite]",
+    "background": "Fate/Stay Night: Unlimited Blade Works is based on the second route of Type-Moon's Fate/stay Night visual novel. It was originally released in 2004 for Microsoft Windows and later ported to the PS2 and PS Vita in the form of an updated edition, with bonus content, titled Fate/stay Night: Réalta Nua.",
     "episodes": 12,
     "score": 8.18,
-    "scored_by": 716590,
+    "scored_by": 716641,
+    "rank": 439,
+    "popularity": 142,
+    "members": 1150937,
+    "favorites": 17188,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "28 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Visual novel",
     "studios": [
       "ufotable"
@@ -131,6 +213,9 @@
       "Notes",
       "Studio Mausu"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Action",
       "Fantasy"
@@ -138,8 +223,10 @@
     "themes": [
       "Urban Fantasy"
     ],
+    "demographics": [],
     "aired_from": "2014-10-12T00:00:00+00:00",
     "aired_to": "2014-12-28T00:00:00+00:00",
+    "broadcast": "Sundays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/22297/Fate_stay_night__Unlimited_Blade_Works",
     "year": 2014,
     "season": "fall",
@@ -150,12 +237,27 @@
     "mal_id": 25013,
     "title": "Akatsuki no Yona",
     "title_english": "Yona of the Dawn",
+    "title_japanese": "暁のヨナ",
+    "title_synonyms": [
+      "Yona: The girl standing in the blush of dawn"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/64225l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/mbXTfrDueNw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The kingdom of Kouka is blessed with a beautiful princess whose childlike innocence charms all who come across her. Named Yona, she has grown up sheltered in the royal palace, shielded from any danger that may befall her. However, all good things must come to an end.\n\nYona's perfect world comes crashing down when a heinous act of treason threatens to erase all that she holds dear, including her birthright as the princess of Kouka. Left with no one to trust but her childhood friend and loyal bodyguard Son Hak, she is forced to flee the palace. Faced with the perils of surviving in the wild with a target on her back, Yona realizes that her kingdom is no longer the safe haven it once was.\n\nFree from the shackles of naivety, Yona vows to do everything in her power to become strong enough to crush her enemies. With Hak by her side, she must piece together the remains of an ancient legend that might be the key to reclaiming her kingdom from those who conspired to steal it from her.\n\n[Written by MAL Rewrite]",
+    "background": "The cast members from the drama CD reprised their roles in the anime.",
     "episodes": 24,
     "score": 8.03,
-    "scored_by": 444426,
+    "scored_by": 444509,
+    "rank": 656,
+    "popularity": 213,
+    "members": 917846,
+    "favorites": 17480,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Studio Pierrot"
@@ -171,14 +273,21 @@
       "Docomo Anime Store",
       "Top-Insight International"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Adventure",
       "Fantasy",
       "Romance"
     ],
     "themes": [],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2014-10-07T00:00:00+00:00",
     "aired_to": "2015-03-24T00:00:00+00:00",
+    "broadcast": "Tuesdays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/25013/Akatsuki_no_Yona",
     "year": 2014,
     "season": "fall",
@@ -189,12 +298,25 @@
     "mal_id": 25157,
     "title": "Trinity Seven",
     "title_english": "Trinity Seven",
+    "title_japanese": "トリニティセブン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/67795l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/DO49_W622Rs?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "One day, the bright red sun stopped shining, causing the \"Breakdown Phenomenon\"—the destruction of Arata Kasuga's town and the disappearance of the people inhabiting it. All, however, is not yet lost; by utilizing the magical grimoire given to him by his childhood friend and cousin Hijiri Kasuga, Arata's world gets artificially reconstructed.\n\nIn order to investigate the phenomenon, Lilith Asami appears before Arata, whose artificial world suddenly disintegrates. He is given two choices: hand over the book, or die. However, Arata chooses the third option—enrolling in the top-secret magic school Royal Biblia Academy, where six other magical users await him. Together with Lilith, these six form the Trinity Seven, the elite of the school who each bolster their own power and skill.\n\nWith the ambition to save Hijiri and the help of his newfound friends, Arata stops at nothing to prevent the destruction of his beloved hometown and to bring his best friend back.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.03,
-    "scored_by": 482209,
+    "scored_by": 482272,
+    "rank": 4404,
+    "popularity": 222,
+    "members": 889082,
+    "favorites": 3859,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Seven Arcs Pictures"
@@ -210,6 +332,9 @@
       "Docomo Anime Store",
       "DeNA"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Comedy",
@@ -221,8 +346,12 @@
       "Harem",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-08T00:00:00+00:00",
     "aired_to": "2014-12-24T00:00:00+00:00",
+    "broadcast": "Wednesdays at 01:40 (JST)",
     "url": "https://myanimelist.net/anime/25157/Trinity_Seven",
     "year": 2014,
     "season": "fall",
@@ -233,12 +362,27 @@
     "mal_id": 22147,
     "title": "Amagi Brilliant Park",
     "title_english": "Amagi Brilliant Park",
+    "title_japanese": "甘城ブリリアントパーク",
+    "title_synonyms": [
+      "Amaburi"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/85435l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ylxiq33nd-A?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Seiya Kanie, a smart and extremely narcissistic high school student, believes that the beautiful but reserved Isuzu Sento has invited him on a date at an amusement park called Amagi Brilliant Park. Much to his chagrin, not only is the location a run-down facility, the supposed date is merely a recruitment tour where Sento and Princess Latifa Fleuranza, the owner of the theme park, ask him to become the park's new manager. Their cause for desperation? As stipulated in a land-use contract, Amagi has less than three months to meet a quota of 500,000 guests, or the park will be closed for good and the land redeveloped by a greedy real-estate company.\n\nSeiya is won over by the revelation that Amagi is no ordinary amusement park; many of its employees are Maple Landers—mysterious magical beings who live in the human world and are nourished by the energy created by people having fun. Entrusted with the hopes and dreams of this far-off enchanted land, Seiya must now use his many skills to bring Amagi back on its feet, or watch it crumble before his eyes.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.45,
-    "scored_by": 367206,
+    "scored_by": 367228,
+    "rank": 2247,
+    "popularity": 335,
+    "members": 691902,
+    "favorites": 2771,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Kyoto Animation"
@@ -250,6 +394,9 @@
       "flying DOG",
       "Mobcast"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy",
       "Supernatural"
@@ -257,8 +404,10 @@
     "themes": [
       "Workplace"
     ],
+    "demographics": [],
     "aired_from": "2014-10-07T00:00:00+00:00",
     "aired_to": "2014-12-26T00:00:00+00:00",
+    "broadcast": "Fridays at 02:16 (JST)",
     "url": "https://myanimelist.net/anime/22147/Amagi_Brilliant_Park",
     "year": 2014,
     "season": "fall",
@@ -269,12 +418,28 @@
     "mal_id": 23281,
     "title": "Psycho-Pass 2",
     "title_english": "Psycho-Pass 2",
+    "title_japanese": "PSYCHO-PASS サイコパス 2",
+    "title_synonyms": [
+      "Psycho-Pass Second Season",
+      "Psychopath 2nd Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1197/100616l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/QKjI60UUg1M?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A year and a half after the events of the original sci-fi psychological thriller, Akane Tsunemori continues her work as an inspector—enforcing the Sibyl System's judgments. Joining her are new enforcers and junior inspector Mika Shimotsuki, a young woman blindly and inflexibly loyal to Sibyl. As Akane ponders both the nature of her job and the legitimacy of Sibyl's verdicts, a disturbing new menace emerges.\n\nA mysterious figure has discovered a way to control the Crime Coefficient—a number compiled from mental scans that allows Sibyl to gauge psychological health and identify potential criminals. Through these means, he is able to murder an enforcer, leaving behind a cryptic clue: \"WC?\" scrawled in blood on a wall.\n\nAkane and the rest of Division 01 soon find themselves playing a deadly game against their new foe, coming face-to-face with a conspiracy threatening not only the authority of the Sibyl System, but the very foundation of Akane's own convictions.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 11,
     "score": 7.41,
-    "scored_by": 366592,
+    "scored_by": 366613,
+    "rank": 2419,
+    "popularity": 343,
+    "members": 685600,
+    "favorites": 1510,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Tatsunoko Production"
@@ -288,6 +453,9 @@
       "TOHO animation",
       "Kyoraku Industrial Holdings"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Mystery",
@@ -299,8 +467,10 @@
       "Detective",
       "Psychological"
     ],
+    "demographics": [],
     "aired_from": "2014-10-10T00:00:00+00:00",
     "aired_to": "2014-12-19T00:00:00+00:00",
+    "broadcast": "Fridays at 00:50 (JST)",
     "url": "https://myanimelist.net/anime/23281/Psycho-Pass_2",
     "year": 2014,
     "season": "fall",
@@ -311,12 +481,27 @@
     "mal_id": 17729,
     "title": "Grisaia no Kajitsu",
     "title_english": "The Fruit of Grisaia",
+    "title_japanese": "グリザイアの果実",
+    "title_synonyms": [
+      "Le Fruit de la Grisaia"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1645/112632l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/970KFTXP4YQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Yuuji Kazami is a transfer student who has just been admitted into Mihama Academy. He wants to live an ordinary high school life, but this dream of his may not come true any time soon as Mihama Academy is quite the opposite. Consisting of only the principal and five other students, all of whom are girls, Yuuji becomes acquainted with each of them, discovering more about their personalities as socialization is inevitable. Slowly, he begins to learn about the truth behind the small group of students occupying the academy—they each have their own share of traumatic experiences which are tucked away from the world.\n\nMihama Academy acts as a home for these girls, they are the \"fruit\" which fell from their trees and have begun to decay. It is up to Yuuji to become the catalyst to save them from themselves, but how can he save another when he cannot even save himself?\n\n[Written by MAL Rewrite]",
+    "background": "Grisaia no Kajitsu is based on a visual novel by FrontWing. Some of the visual novel's voice actresses reprise their roles in the anime.",
     "episodes": 13,
     "score": 7.45,
-    "scored_by": 327215,
+    "scored_by": 327250,
+    "rank": 2259,
+    "popularity": 370,
+    "members": 648897,
+    "favorites": 4420,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Visual novel",
     "studios": [
       "8bit"
@@ -329,6 +514,9 @@
       "NBCUniversal Entertainment Japan",
       "Front Wing"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Romance",
@@ -339,8 +527,10 @@
       "Psychological",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2014-10-05T00:00:00+00:00",
     "aired_to": "2014-12-28T00:00:00+00:00",
+    "broadcast": "Sundays at 20:30 (JST)",
     "url": "https://myanimelist.net/anime/17729/Grisaia_no_Kajitsu",
     "year": 2014,
     "season": "fall",
@@ -351,18 +541,38 @@
     "mal_id": 23321,
     "title": "Log Horizon 2nd Season",
     "title_english": "Log Horizon 2",
+    "title_japanese": "ログ・ホライズン 第2シリーズ",
+    "title_synonyms": [
+      "Log Horizon Second Season",
+      "Log Horizon Dai 2 Series"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/68097l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/lJrCR6up9jE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After being trapped in the world of Elder Tale for six months, Shiroe and the other Adventurers have begun to get the hang of things in their new environment. The Adventurers are starting to gain the trust of the People of the Land, and Akiba has flourished thanks to the law and order established by Shiroe's Round Table Alliance, regaining its everyday liveliness. Despite this success, however, the Alliance faces a new crisis: they are running out of funds to govern Akiba, and spies from the Minami district have infiltrated the city.\n\nAs formidable forces rise in other districts, there is also a need to discover more about the vast new world they are trapped in—leading Shiroe to decide that the time has come to venture outside the city. Accompanied by his friend Naotsugu and the Sage of Mirror Lake Regan, the calculative Shiroe makes his move, hoping to unravel new possibilities and eventually find a way home.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 7.55,
-    "scored_by": 354306,
+    "scored_by": 354332,
+    "rank": 1865,
+    "popularity": 374,
+    "members": 640512,
+    "favorites": 1401,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Studio Deen"
     ],
     "producers": [
       "NHK"
+    ],
+    "licensors": [
+      "Funimation",
+      "Sentai Filmworks"
     ],
     "genres": [
       "Action",
@@ -373,8 +583,10 @@
       "Adult Cast",
       "Video Game"
     ],
+    "demographics": [],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2015-03-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 17:30 (JST)",
     "url": "https://myanimelist.net/anime/23321/Log_Horizon_2nd_Season",
     "year": 2014,
     "season": "fall",
@@ -385,12 +597,28 @@
     "mal_id": 23673,
     "title": "Ookami Shoujo to Kuro Ouji",
     "title_english": "Wolf Girl & Black Prince",
+    "title_japanese": "オオカミ少女と黒王子",
+    "title_synonyms": [
+      "Ookami Shoujo to Kuroouji",
+      "Wolf Girl & Black Prince"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1728/147375l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/tZJPQfq2UNk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Erika Shinohara has taken to lying about her romantic exploits to earn the respect of her new friends. So when they ask for a picture of her \"boyfriend,\" she hastily snaps a photo of a handsome stranger, whom her friends recognize as the popular and kind-hearted Kyouya Sata.\n\nTrapped in her own web of lies and desperately trying to avoid humiliation, Erika explains her predicament to Kyouya, hoping he will pretend to be her boyfriend. But Kyouya is not the angel he appears to be: he is actually a mean-spirited sadist who forces Erika to become his \"dog\" in exchange for keeping her secret.\n\nBegrudgingly accepting his deal, Erika soon begins to see glimpses of the real Kyouya beneath the multiple layers of his outer persona. As she finds herself falling for him, she can't help but question if he will ever feel the same way about her. Will Kyouya finally make an honest woman out of Erika, or is she destined to be a \"wolf girl\" forever?\n\n[Written by MAL Rewrite]",
+    "background": "Ookami Shoujo to Kuro Ouji covers the storyline of 21 chapters of the manga adaptation, ending with events from volume 6. The anime has been licensed by Madman Entertainment in Australia and by Sentai Filmworks in the United States.",
     "episodes": 12,
     "score": 6.99,
-    "scored_by": 266662,
+    "scored_by": 266688,
+    "rank": 4590,
+    "popularity": 505,
+    "members": 496368,
+    "favorites": 1998,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "TYO Animations"
@@ -402,6 +630,9 @@
       "Shueisha",
       "Yomiuri TV Enterprise"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy",
       "Romance"
@@ -409,8 +640,12 @@
     "themes": [
       "School"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2014-10-05T00:00:00+00:00",
     "aired_to": "2014-12-21T00:00:00+00:00",
+    "broadcast": "Sundays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/23673/Ookami_Shoujo_to_Kuro_Ouji",
     "year": 2014,
     "season": "fall",
@@ -421,12 +656,27 @@
     "mal_id": 25835,
     "title": "Shirobako",
     "title_english": "Shirobako",
+    "title_japanese": "SHIROBAKO",
+    "title_synonyms": [
+      "White Box"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1460/141897l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/fpp0mfi6HmY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "It all started in Kaminoyama High School, when five best friends—Aoi Miyamori, Ema Yasuhara, Midori Imai, Shizuka Sakaki, and Misa Toudou—discovered their collective love for all things anime and formed the animation club. After making their first amateur anime together and showcasing it at the culture festival, the group vows to pursue careers in the industry, aiming to one day work together and create their own mainstream show.\n\nTwo and a half years later, Aoi and Ema have managed to land jobs at the illustrious Musashino Animation production company. The others, however, are finding it difficult to get their dream jobs. Shizuka is feeling the weight of not being recognized as a capable voice actor, Misa has a secure yet unsatisfying career designing 3D models for a car company, and Midori is a university student intent on pursuing her dream as a story writer. These five girls will learn that the path to success is one with many diversions, but dreams can still be achieved through perseverance and a touch of eccentric creativity.\n\n[Written by MAL Rewrite]",
+    "background": "Shirobako won the Animation Kobe Television Award in 2015. It also won the Animation of the Year award in the Television category at the Tokyo Anime Award Festival in 2016.",
     "episodes": 24,
     "score": 8.26,
-    "scored_by": 148195,
+    "scored_by": 148197,
+    "rank": 342,
+    "popularity": 540,
+    "members": 465984,
+    "favorites": 6251,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "P.A. Works"
@@ -440,6 +690,9 @@
       "Infinite",
       "Imagine"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Award Winning",
       "Comedy",
@@ -450,8 +703,10 @@
       "Otaku Culture",
       "Workplace"
     ],
+    "demographics": [],
     "aired_from": "2014-10-09T00:00:00+00:00",
     "aired_to": "2015-03-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/25835/Shirobako",
     "year": 2014,
     "season": "fall",
@@ -462,12 +717,25 @@
     "mal_id": 24405,
     "title": "World Trigger",
     "title_english": "World Trigger",
+    "title_japanese": "ワールドトリガー",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1783/106843l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/2oui7JLlBpk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "When a gate to another world suddenly opens on Earth, Mikado City is invaded by strange creatures known as \"Neighbors,\" malicious beings impervious to traditional weaponry. In response to their arrival, an organization called the Border Defense Agency has been established to combat the Neighbor menace through special weapons called \"Triggers.\" Even though several years have passed after the gate first opened, Neighbors are still a threat and members of Border remain on guard to ensure the safety of the planet.\n\nDespite this delicate situation, members-in-training, such as Osamu Mikumo, are not permitted to use their Triggers outside of headquarters. But when the mysterious new student in his class is dragged into a forbidden area by bullies, they are attacked by Neighbors, and Osamu has no choice but to do what he believes is right. Much to his surprise, however, the transfer student Yuuma Kuga makes short work of the aliens, revealing that he is a humanoid Neighbor in disguise.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 73,
     "score": 7.58,
-    "scored_by": 157922,
+    "scored_by": 157960,
+    "rank": 1720,
+    "popularity": 548,
+    "members": 459377,
+    "favorites": 3109,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Toei Animation"
@@ -475,13 +743,20 @@
     "producers": [
       "TV Asahi"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-05T00:00:00+00:00",
     "aired_to": "2016-04-03T00:00:00+00:00",
+    "broadcast": "Sundays at 06:30 (JST)",
     "url": "https://myanimelist.net/anime/24405/World_Trigger",
     "year": 2014,
     "season": "fall",
@@ -492,12 +767,29 @@
     "mal_id": 25159,
     "title": "Inou-Battle wa Nichijou-kei no Naka de",
     "title_english": "When Supernatural Battles Became Commonplace",
+    "title_japanese": "異能バトルは日常系のなかで",
+    "title_synonyms": [
+      "InoBato",
+      "Inou-Battle in the Usually Daze.",
+      "Inou Battle Within Everyday Life"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/67047l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/fIEeVqJjjIQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "During a Literature Club meeting, the four club members—along with their faculty adviser's niece—suddenly find themselves with supernatural powers. Now capable of fabricating black flames, resident chuunibyou Jurai Andou is the most ecstatic about their new abilities; unfortunately, his own is only for show and unable to accomplish anything of substance. Moreover, he is completely outclassed by those around him: fellow club member Tomoyo Kanzaki manipulates time, Jurai's childhood friend Hatoko Kushikawa wields control over the five elements, club president Sayumi Takanashi can repair both inanimate objects and living things, and their adviser's niece Chifuyu Himeki is able to create objects out of thin air.\n\nHowever, while the mystery of why they received these powers looms overhead, very little has changed for the Literature Club. The everyday lives of these five superpowered students continue on, albeit now tinged with the supernatural.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.04,
-    "scored_by": 205774,
+    "scored_by": 205783,
+    "rank": 4362,
+    "popularity": 571,
+    "members": 448006,
+    "favorites": 964,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Trigger"
@@ -510,6 +802,9 @@
       "DIVE II Entertainment",
       "Avex Pictures"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy"
     ],
@@ -518,8 +813,10 @@
       "School",
       "Super Power"
     ],
+    "demographics": [],
     "aired_from": "2014-10-07T00:00:00+00:00",
     "aired_to": "2014-12-23T00:00:00+00:00",
+    "broadcast": "Tuesdays at 02:05 (JST)",
     "url": "https://myanimelist.net/anime/25159/Inou-Battle_wa_Nichijou-kei_no_Naka_de",
     "year": 2014,
     "season": "fall",
@@ -530,12 +827,25 @@
     "mal_id": 21843,
     "title": "Shingeki no Bahamut: Genesis",
     "title_english": "Rage of Bahamut: Genesis",
+    "title_japanese": "神撃のバハムート GENESIS",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/67513l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/-meX7dpotzA?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Thousands of years ago, the ancient dragon Bahamut wrought havoc upon the land of Mistarcia, a world where both gods and demons live amongst mankind. Working together to prevent the world's destruction, the rival deities barely managed to seal Bahamut, agreeing to split the key between them so that the dragon would remain eternally imprisoned.\n\nWith the world safe from the destruction of Bahamut, it is business as usual for bounty hunters like Favaro Leone. Living a laid-back, self-serving lifestyle, the amoral Favaro goes about his work while on the run from fellow bounty hunter Kaisar Lidfard, a righteous man who swears vengeance upon Favaro. However, Favaro's carefree life is thrown into chaos when he meets Amira, a mysterious woman who holds half of the key to the world's fragile peace.\n\nShingeki no Bahamut: Genesis tells the story of a group of unlikely heroes who find themselves caught in the middle of an epic clash between gods and demons, forced to carve their own path in the face of the imminent storm.\n\n[Written by MAL Rewrite]",
+    "background": "Shingeki no Bahamut: Genesis is the anime adaptation of Shingeki no Bahamut, a social collectible card game created by Cygames and published by DeNA for Android and iOS platforms, which launched in 2012 and has earned the number one title for the Top Grossing Charts for both Google Play (US) and App Store (US). Shingeki no Bahamut: Genesis is licensed for streaming in North America by Funimation.",
     "episodes": 12,
     "score": 7.61,
-    "scored_by": 186013,
+    "scored_by": 186018,
+    "rank": 1606,
+    "popularity": 593,
+    "members": 433715,
+    "favorites": 1715,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Card game",
     "studios": [
       "MAPPA"
@@ -544,14 +854,19 @@
       "NBCUniversal Entertainment Japan",
       "Cygames"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-10-06T00:00:00+00:00",
     "aired_to": "2014-12-29T00:00:00+00:00",
+    "broadcast": "Mondays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/21843/Shingeki_no_Bahamut__Genesis",
     "year": 2014,
     "season": "fall",
@@ -562,12 +877,28 @@
     "mal_id": 24455,
     "title": "Madan no Ou to Vanadis",
     "title_english": "Lord Marksman and Vanadis",
+    "title_japanese": "魔弾の王と戦姫 (ヴァナディース)",
+    "title_synonyms": [
+      "Madan no Ou to Senki",
+      "The King of the Magic Bullet and Vanadis"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/64911l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/TWhNpVbkdo0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In a fantasy version of Europe, a war between enemy countries is brewing. One of these countries, Zhcted, has its seven regions ruled by War Maidens, known as Vanadis. Equipped with powerful dragon-carved weapons, Eleonora \"Elen\" Viltaria, one of the Vanadis, launches an invasion against their neighboring rival country of Brune. Eventually, Tigrevurmud \"Tigre\" Vorn, a young archer and an earl for Brune's region of Alsace, has his entire army decimated at Elen's hands. In a strange twist of events, Elen spares Tigre, and gives him the order, \"Become mine!\" What could be the meaning behind this new alliance?\n\nAdapted from the light novel written by Tsukasa Kawaguchi, Madan no Ou to Vanadis is an epic adventure filled with complex war tactics and beautiful women. Trapped in a multinational conflict, Tigre and Elen are swept up in a war filled with dark secrets, conspiracies, and corruption.\n\n[Written by MAL Rewrite]",
+    "background": "Madan no Ou to Vanadis adapts the first 5 novels of Tsukasa Kawaguchi's light novel series of the same title.",
     "episodes": 13,
     "score": 7.09,
-    "scored_by": 189945,
+    "scored_by": 189978,
+    "rank": 4089,
+    "popularity": 681,
+    "members": 386297,
+    "favorites": 1086,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "Satelight"
@@ -575,6 +906,9 @@
     "producers": [
       "Media Factory",
       "Movic"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Action",
@@ -586,8 +920,10 @@
       "Harem",
       "Military"
     ],
+    "demographics": [],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2014-12-27T00:00:00+00:00",
+    "broadcast": "Saturdays at 20:00 (JST)",
     "url": "https://myanimelist.net/anime/24455/Madan_no_Ou_to_Vanadis",
     "year": 2014,
     "season": "fall",
@@ -598,12 +934,27 @@
     "mal_id": 26349,
     "title": "Danna ga Nani wo Itteiru ka Wakaranai Ken",
     "title_english": "I Can't Understand What My Husband Is Saying",
+    "title_japanese": "旦那が何を言っているかわからない件",
+    "title_synonyms": [
+      "Danna ga Nani wo Itteiru ka Wakaranai Ken"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/7/75287l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/UZhI7a2j9mk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Though they couldn't be any more different, love has managed to blossom between Hajime Tsunashi, a hardcore otaku who shuts himself in at home while making a living off his blog, and his wife Kaoru—a hard-working office lady who, in contrast, is fairly ordinary, albeit somewhat of a crazy drunk. As this unlikely couple discovers, love is much more than just a first kiss or a wedding; the years that come afterward in the journey of marriage brings with it many joys as well as challenges.\n\nWhether due to their quirky personalities or the peculiar people surrounding them, Hajime and Kaoru find themselves caught up in a variety of baffling and ridiculous antics. But despite the struggles they face, the love that ties them together spurs them to move forward and strive to become better people in order to bring their partner happiness.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.27,
-    "scored_by": 192024,
+    "scored_by": 192032,
+    "rank": 3107,
+    "popularity": 720,
+    "members": 368552,
+    "favorites": 836,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "4-koma manga",
     "studios": [
       "Seven"
@@ -612,6 +963,7 @@
       "DAX Production",
       "Dream Creation"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
@@ -620,8 +972,10 @@
       "Adult Cast",
       "Otaku Culture"
     ],
+    "demographics": [],
     "aired_from": "2014-10-03T00:00:00+00:00",
     "aired_to": "2014-12-26T00:00:00+00:00",
+    "broadcast": "Fridays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/26349/Danna_ga_Nani_wo_Itteiru_ka_Wakaranai_Ken",
     "year": 2014,
     "season": "fall",
@@ -632,12 +986,27 @@
     "mal_id": 24701,
     "title": "Mushishi Zoku Shou 2nd Season",
     "title_english": "Mushi-shi: Next Passage Part 2",
+    "title_japanese": "蟲師 続章",
+    "title_synonyms": [
+      "Mushishi Zoku Shou 2nd Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/68095l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/zuX3P6ynAgc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Ghostly, primordial beings known as Mushi continue to cause mysterious changes in the lives of humans. The travelling Mushishi, Ginko, persists in trying to set right the strange and unsettling situations he encounters. Time loops, living shadows, and telepathy are among the overt effects of interference from Mushi, but more subtle symptoms that take years to be noticed also rouse Ginko's concern as he passes from village to village.\n\nThrough circumstance, Ginko has become an arbiter, determining which Mushi are blessings and which are curses. But the lines that he seeks to draw are subjective. Some of his patients would rather exercise their new powers until they are utterly consumed by them; others desperately strive to rid themselves of afflictions which are in fact protecting their lives from devastation. Those who cross paths with Mushi must learn to accept seemingly impossible consequences for their actions, and heal wounds they did not know they had. Otherwise, they risk meeting with fates beyond their comprehension.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 10,
     "score": 8.72,
-    "scored_by": 114467,
+    "scored_by": 114487,
+    "rank": 60,
+    "popularity": 938,
+    "members": 287468,
+    "favorites": 1571,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Artland"
@@ -646,6 +1015,9 @@
       "Aniplex",
       "Kodansha",
       "Delfi Sound"
+    ],
+    "licensors": [
+      "Aniplex of America"
     ],
     "genres": [
       "Adventure",
@@ -658,8 +1030,12 @@
       "Historical",
       "Iyashikei"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2014-10-19T00:00:00+00:00",
     "aired_to": "2014-12-21T00:00:00+00:00",
+    "broadcast": "Sundays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/24701/Mushishi_Zoku_Shou_2nd_Season",
     "year": 2014,
     "season": "fall",
@@ -670,12 +1046,25 @@
     "mal_id": 22687,
     "title": "Terra Formars",
     "title_english": null,
+    "title_japanese": "TERRA FORMARS [テラフォーマーズ]",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/67117l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/KVx9GrpN5lU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "During the 21st century, humanity attempted to colonize Mars by sending two species which could endure the harsh environment of the planet to terraform it—algae and cockroaches. However, they did not anticipate the species' remarkable ability to adapt. Now in the 26th century, a lethal disease known as the Alien Engine Virus has arrived on Earth, and the cure is suspected to be found only on Mars. The problem is, Mars in the present is overrun by creatures known as \"Terraformars,\" incredibly powerful and intelligent humanoid cockroaches that mutated from those originally sent to the planet. \n\nThe Annex I team, consisting of a hundred men and women genetically enhanced with characteristics of powerful organisms from earth, has been sent to Mars on a mission to find the cause of the Alien Engine Virus and to help cure humanity—signalling the start of the crew's fight for survival.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.98,
-    "scored_by": 121672,
+    "scored_by": 121689,
+    "rank": 4614,
+    "popularity": 1129,
+    "members": 242549,
+    "favorites": 648,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "LIDENFILMS"
@@ -689,6 +1078,9 @@
       "Shueisha",
       "Animatic"
     ],
+    "licensors": [
+      "VIZ Media"
+    ],
     "genres": [
       "Action",
       "Horror",
@@ -700,8 +1092,12 @@
       "Space",
       "Survival"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2014-09-27T00:00:00+00:00",
     "aired_to": "2014-12-20T00:00:00+00:00",
+    "broadcast": "Saturdays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/22687/Terra_Formars",
     "year": 2014,
     "season": "fall",
@@ -712,12 +1108,25 @@
     "mal_id": 25731,
     "title": "Cross Ange: Tenshi to Ryuu no Rondo",
     "title_english": "Cross Ange: Rondo of Angel and Dragon",
+    "title_japanese": "クロスアンジュ 天使と竜の輪舞〈ロンド〉",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1780/145951l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/_aQF5kye0kg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Angelise Ikaruga Misurugi is the first princess of the noble Misurugi Empire. The kingdom has seen great power and prosperity due to the advancement of the revolutionary technology known as \"Mana,\" an abstract bending of light that has reduced the world's problems of war and pollution to a timeless peace. \n\nHowever, not all are blessed with the ability to wield Mana. Those who cannot are labeled \"Norma,\" outcasts of society who are considered a threat to civilization and live under constant persecution, and Angelise herself is one of many who want the Norma exterminated. But as Angelise's sixteenth birthday commences, it is discovered in a shocking revelation that she is actually a Norma. Chaos ensues, the public is outraged, and the once adored princess is exiled to Arzenal: a remote military base where Normas are forced into conscription.\n\nNow, the former royal must adapt to a harsh and vastly different lifestyle; piloting mechanical robots known as \"Paramail\" to fend off large, devastating beasts referred to as DRAGONs. However, a sinister truth about these savage creatures threatens to change everything.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 25,
     "score": 7.38,
-    "scored_by": 89369,
+    "scored_by": 89376,
+    "rank": 2532,
+    "popularity": 1225,
+    "members": 221438,
+    "favorites": 1808,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "Sunrise"
@@ -730,6 +1139,9 @@
       "Fields",
       "Bandai Channel"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Fantasy",
       "Sci-Fi"
@@ -739,8 +1151,10 @@
       "Mecha",
       "Military"
     ],
+    "demographics": [],
     "aired_from": "2014-10-05T00:00:00+00:00",
     "aired_to": "2015-03-29T00:00:00+00:00",
+    "broadcast": "Sundays at 01:30 (JST)",
     "url": "https://myanimelist.net/anime/25731/Cross_Ange__Tenshi_to_Ryuu_no_Rondo",
     "year": 2014,
     "season": "fall",
@@ -751,12 +1165,28 @@
     "mal_id": 24231,
     "title": "Hitsugi no Chaika: Avenging Battle",
     "title_english": "Chaika -The Coffin Princess- Avenging Battle",
+    "title_japanese": "棺姫のチャイカ AVENGING BATTLE",
+    "title_synonyms": [
+      "Hitsugi no Chaika 2nd Season",
+      "Hitsugi no Chaika Second Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/67797l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/coQHwcwW8Ao?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The search for the remains of Emperor Gaz continues. Chaika still in search of knowing who she really is and what her purpose is. Similarly, the Red Chaika continues the search for the rest of Emperor Gaz's remains. The Gillette corporation continues the mission to catch every last Chaika. In their adventure they give a revealing account kept secret by the Emperor, which Chaika, Fredrica, Toru, and Akari decide to uncover.\n\n(Source: ANN, edited)",
+    "background": "Hitsugi no Chaika: Avenging Battle mostly tells an anime-exclusive story that utilizes content from novels 8 to 11 of the original novel series. Episodes 4 and 5 adapt the 7th novel.",
     "episodes": 10,
     "score": 7.16,
-    "scored_by": 114297,
+    "scored_by": 114314,
+    "rank": 3733,
+    "popularity": 1253,
+    "members": 217243,
+    "favorites": 215,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "Bones"
@@ -766,6 +1196,9 @@
       "flying DOG",
       "Fujimi Shobo"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -773,8 +1206,10 @@
       "Romance"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-10-09T00:00:00+00:00",
     "aired_to": "2014-12-11T00:00:00+00:00",
+    "broadcast": "Thursdays at 01:05 (JST)",
     "url": "https://myanimelist.net/anime/24231/Hitsugi_no_Chaika__Avenging_Battle",
     "year": 2014,
     "season": "fall",
@@ -785,12 +1220,27 @@
     "mal_id": 23251,
     "title": "Gugure! Kokkuri-san",
     "title_english": null,
+    "title_japanese": "繰繰れ！コックリさん",
+    "title_synonyms": [
+      "GuguKoku"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/65665l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/d1_QEl12Qc8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Gugure! Kokkuri-san is an eccentric comedy centered around the self-proclaimed doll, Kohina Ichimatsu. Her uneventful life goes from plain to absurd when she summons a fox spirit by the name of Kokkuri-san. But contrary to popular belief, he is not the omniscient, answer-granting spirit from the legend anymore. The loss of believers in modern society has rendered him powerless.\n\nUpon meeting the bizarre girl who summoned him, Kokkuri-san is shocked to discover that Kohina not only lives alone, but survives on just cup ramen! Filled with concern for the young girl, he takes it upon himself to ensure that Kohina has proper meals and lives a decent life. Thus begin Kokkuri-san's less-than-hopeful endeavors and their peculiar life together.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.55,
-    "scored_by": 82397,
+    "scored_by": 82404,
+    "rank": 1851,
+    "popularity": 1406,
+    "members": 191698,
+    "favorites": 1077,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "4-koma manga",
     "studios": [
       "TMS Entertainment"
@@ -802,6 +1252,9 @@
       "Nihon Ad Systems",
       "Sony Music Communications"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy",
       "Supernatural"
@@ -809,8 +1262,12 @@
     "themes": [
       "Gag Humor"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-06T00:00:00+00:00",
     "aired_to": "2014-12-22T00:00:00+00:00",
+    "broadcast": "Mondays at 01:05 (JST)",
     "url": "https://myanimelist.net/anime/23251/Gugure_Kokkuri-san",
     "year": 2014,
     "season": "fall",
@@ -821,12 +1278,28 @@
     "mal_id": 24705,
     "title": "Ore, Twintail ni Narimasu.",
     "title_english": "Gonna be the Twin-Tail!!",
+    "title_japanese": "俺、ツインテールになります。",
+    "title_synonyms": [
+      "Ore",
+      "Twin tails ni Narimasu."
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/11/75057l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/SRHGrTieWL4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Twintails: the glory of all mankind—or at least that is what first-year high school student Souji Mitsuka believes. At school, Souji spends most of his time daydreaming and rating girls' twintails, even going as far as creating a club dedicated to the hairstyle. His obsession does not go unnoticed, however; when monsters from outer space attack Earth and claim the world's twintails for themselves, a strange woman named Twoearle enlists Souji to fight back using twintails of his own!\n\nBy transforming into the twin-tailed warrior Tail Red, Souji combats the vicious alien organization known as Ultimegil, whose main goal is to colonize Earth and steal everyone's spiritual energy, or \"attribute power.\" Alongside fellow twin-tailed fighters Aika Tsube and Erina Shindou, Souji must find a way to defeat the invading army and defend the twintails he holds so dear.\n\n[Written by MAL Rewrite]",
+    "background": "Ore, Twintail ni Narimasu. adapts the first 4 novels of Yume Mizusawa's light novel series of the same title.",
     "episodes": 12,
     "score": 6.42,
-    "scored_by": 68802,
+    "scored_by": 68813,
+    "rank": 7827,
+    "popularity": 1585,
+    "members": 167704,
+    "favorites": 566,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Production IMS"
@@ -837,6 +1310,9 @@
       "DAX Production",
       "Daiichikosho",
       "Shogakukan"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Action",
@@ -849,8 +1325,10 @@
       "Parody",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2014-10-10T00:00:00+00:00",
     "aired_to": "2014-12-26T00:00:00+00:00",
+    "broadcast": "Fridays at 01:46 (JST)",
     "url": "https://myanimelist.net/anime/24705/Ore_Twintail_ni_Narimasu",
     "year": 2014,
     "season": "fall",
@@ -861,12 +1339,29 @@
     "mal_id": 25519,
     "title": "Yuuki Yuuna wa Yuusha de Aru",
     "title_english": "Yuki Yuna is a Hero",
+    "title_japanese": "結城友奈は勇者である",
+    "title_synonyms": [
+      "Yuki Yuna wa Yusha de Aru",
+      "Yuuki Yuuna is a Hero",
+      "YuYuYu"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/77057l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/lKCTBiIS8RQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In her everyday life, Yuuna Yuuki is a hero. As proof, she is in her middle school's Hero Club, where she does her best to help others and bring a smile to everyone's face.\n\nBut Yuuna, always up to any task, is about to become an even bigger hero. Mysterious destructive forces called Vertexes begin threatening the world she loves, and the Hero Club is called upon by a strange phone app to save it. Along with her best friend Mimori Tougou, as well as sisters Fuu and Itsuki Inubouzaki, they must transform into magical girls in order to battle the Vertexes.\n\nIn between studying and putting on shows for kids, Yuuna and the Hero Club must fight for the very existence of their world and face the harsh truths behind their own powers, all the while discovering what it truly means to be a hero.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.36,
-    "scored_by": 59683,
+    "scored_by": 59687,
+    "rank": 2638,
+    "popularity": 1613,
+    "members": 163106,
+    "favorites": 1370,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Studio Gokumi"
@@ -878,14 +1373,20 @@
       "Movic",
       "KlockWorx"
     ],
+    "licensors": [
+      "Sentai Filmworks",
+      "Ponycan USA"
+    ],
     "genres": [
       "Drama"
     ],
     "themes": [
       "Mahou Shoujo"
     ],
+    "demographics": [],
     "aired_from": "2014-10-17T00:00:00+00:00",
     "aired_to": "2014-12-26T00:00:00+00:00",
+    "broadcast": "Fridays at 02:19 (JST)",
     "url": "https://myanimelist.net/anime/25519/Yuuki_Yuuna_wa_Yuusha_de_Aru",
     "year": 2014,
     "season": "fall",
@@ -896,12 +1397,27 @@
     "mal_id": 23311,
     "title": "Garo: Honoo no Kokuin",
     "title_english": "GARO: THE ANIMATION",
+    "title_japanese": "牙狼〈GARO〉-炎の刻印-",
+    "title_synonyms": [
+      "Garo Project"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/63667l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/TOXWJybZnco?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In the name of the king, the Valiante Kingdom launched hunts to exterminate users of witchcraft. Seventeen years later, their pursuit is still growing in both size and brutality. Unbeknownst to the citizens, the targets of these witch hunts are the secret protectors of humanity. Known as the Makai Knights and Alchemists, they have a strong will to protect people from Horrors, demons who possess souls plagued by sadness and pain.\n\nOne such Makai Knight is 17-year-old Leon Luis who inherits the legendary armor of the Golden Knight Garo from his mother. Though he possesses great power, he struggles to overcome the hatred he bears from his mother's death at the hands of the kingdom. His father German, known as Zoro the Shadow Cutting Knight, is still training Leon when he is called to investigate the upsurge of Horrors in the kingdom's capital. Although German knows Leon's will is wavering, he decides to bring Leon along to continue his training.\n\nAs German and Leon head to the capital, the king's amiable son Alfonso San Valiante struggles to find a solution to the growing Horror threat. But before he can do so, he is double-crossed and banished from his own kingdom. To return home, Alfonso sets out to find the help and strength he needs to reclaim the throne. During his search, he comes across Leon, whose interactions with the prince will forever change both of their fates.\n\n[Written by MAL Rewrite]",
+    "background": "Garo: Honoo no Kokuin is inspired by Garo Tokusatsu and is one of the few Tokusatsu franchises adapted into an animated work.",
     "episodes": 24,
     "score": 7.33,
-    "scored_by": 52715,
+    "scored_by": 52719,
+    "rank": 2796,
+    "popularity": 1716,
+    "members": 150450,
+    "favorites": 445,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Original",
     "studios": [
       "MAPPA"
@@ -909,13 +1425,18 @@
     "producers": [
       "Tohokushinsha Film Corporation"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2015-03-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:23 (JST)",
     "url": "https://myanimelist.net/anime/23311/Garo__Honoo_no_Kokuin",
     "year": 2014,
     "season": "fall",
@@ -926,12 +1447,28 @@
     "mal_id": 24277,
     "title": "Yowamushi Pedal: Grande Road",
     "title_english": null,
+    "title_japanese": "弱虫ペダル GRANDE ROAD",
+    "title_synonyms": [
+      "Yowamushi Pedal 2nd Season",
+      "Yowapeda 2nd Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/67799l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/_PVuAbhIJa8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Second season of the Yowamushi Pedal series.",
+    "background": "",
     "episodes": 24,
     "score": 8.04,
-    "scored_by": 82858,
+    "scored_by": 82861,
+    "rank": 654,
+    "popularity": 1729,
+    "members": 148782,
+    "favorites": 511,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "TMS Entertainment"
@@ -942,14 +1479,21 @@
       "TOHO animation",
       "Akita Shoten"
     ],
+    "licensors": [
+      "Discotek Media"
+    ],
     "genres": [
       "Sports"
     ],
     "themes": [
       "Racing"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-07T00:00:00+00:00",
     "aired_to": "2015-03-31T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:35 (JST)",
     "url": "https://myanimelist.net/anime/24277/Yowamushi_Pedal__Grande_Road",
     "year": 2014,
     "season": "fall",
@@ -960,12 +1504,25 @@
     "mal_id": 17827,
     "title": "Daitoshokan no Hitsujikai",
     "title_english": "A Good Librarian Like a Good Shepherd",
+    "title_japanese": "大図書館の羊飼い",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/9/75230l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/CPRMH7bapwY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "\"The Shepherd,\" an urban legend of Shiomi Academy, is said to appear before hardworking students to grant them a wish. \n\nWhile engrossed in a book inside the school's renowned Great Library, Kyoutarou Kakei, a second year student and the Library Club's de facto president, receives an email from the Shepherd foretelling an event that will change his fate. Worried by the message, Kyoutarou rushes over to a nearby train station and encounters fellow student Tsugumi Shirasaki, whom he saves from being hit by a derailing train. Grateful for his heroic actions, Tsugumi joins the Library Club and invites Kyoutarou to participate in her mysterious \"Shiomi Happy Project.\" Together with other new members of the club, they strive to make the academy a better place and uncover the identity of the enigmatic Shepherd.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.83,
-    "scored_by": 59764,
+    "scored_by": 59767,
+    "rank": 5374,
+    "popularity": 1778,
+    "members": 143924,
+    "favorites": 249,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "Hoods Entertainment"
@@ -975,6 +1532,9 @@
       "DMM.com Labo",
       "TIS"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Romance"
     ],
@@ -982,8 +1542,10 @@
       "Harem",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2014-10-09T00:00:00+00:00",
     "aired_to": "2014-12-25T00:00:00+00:00",
+    "broadcast": "Thursdays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/17827/Daitoshokan_no_Hitsujikai",
     "year": 2014,
     "season": "fall",
@@ -994,12 +1556,27 @@
     "mal_id": 21743,
     "title": "Donten ni Warau",
     "title_english": "Laughing Under the Clouds",
+    "title_japanese": "曇天に笑う",
+    "title_synonyms": [
+      "Cloudy Laugh"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1661/114954l.jpg",
+    "trailer_url": null,
     "synopsis": "In the 11th year of the Meiji Era, the end of the samurai shogunate and the prohibition of swords has left Japan with lasting scars. Displeased by these recent changes, many former samurai plot against the new government, inciting a wave of bloodshed. To counter this movement, the government constructs a colossal prison in the middle of Lake Biwa. \n\nUnofficially assigned to help the police arrest criminals, Tenka Kumou also serves as a ferryman to the Lake Biwa prison with the help of his two younger siblings: the ambitious Soramaru and the enthusiastic Chuutarou. Together with the former Fuma ninja Shirasu Kinjou, the Kumou brothers live a frugal and joyful life mostly dedicated to studying and training.\n\nHowever, behind this relatively uneventful daily routine, the specter of the \"Orochi\" curse is starting to spread its shadow over the city of Oumi. According to legend, every three hundred years, Orochi reincarnates in a human vessel—and it is believed that this is the harbinger of an imminent catastrophe. As various groups clash in search of Orochi's vessel, some aim to seal the curse, while others have darker plans in motion.\n\n[Written by MAL Rewrite]",
+    "background": "Donten ni Warau was released on Blu-ray and DVD as Laughing Under the Clouds by Funimation Entertainment on August 23, 2016.",
     "episodes": 12,
-    "score": 7.46,
-    "scored_by": 49359,
+    "score": 7.45,
+    "scored_by": 49368,
+    "rank": 2254,
+    "popularity": 1855,
+    "members": 136922,
+    "favorites": 783,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Doga Kobo"
@@ -1008,6 +1585,9 @@
       "VAP",
       "Nippon Television Network"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Supernatural"
@@ -1015,8 +1595,12 @@
     "themes": [
       "Historical"
     ],
+    "demographics": [
+      "Shoujo"
+    ],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2014-12-20T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:58 (JST)",
     "url": "https://myanimelist.net/anime/21743/Donten_ni_Warau",
     "year": 2014,
     "season": "fall",
@@ -1027,12 +1611,28 @@
     "mal_id": 24031,
     "title": "Denki-gai no Honya-san",
     "title_english": "Denki-gai",
+    "title_japanese": "デンキ街の本屋さん",
+    "title_synonyms": [
+      "Denki Machi no Honya-san",
+      "Denkigai no Honya-san"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/13/68705l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/7s6xbdecjaI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Umio is a shy kid who just started his part time job at a manga store smack dab in the middle of the city. But his lifestyle isn't as glamorous as the neon lights that illuminate the city. Umio's closest friends are his co-workers who are all unique characters, to say the least, and although they're nice people, they have their quirks. They are a tight knit group of friends, have nicknames for each other and spend their weekends inside, sheltered from the extravagant scene happening on the outside.\n\n(Source: MU)",
+    "background": "The first half of Episode 1 was streamed in advance as a preview on September 23, 2014. on Niconico Live. Regular broadcasting began on October 2, 2014.",
     "episodes": 12,
     "score": 7.18,
-    "scored_by": 54655,
+    "scored_by": 54659,
+    "rank": 3627,
+    "popularity": 1861,
+    "members": 136567,
+    "favorites": 279,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Shin-Ei Animation"
@@ -1044,6 +1644,9 @@
       "Comic Umenohone",
       "Mobcast"
     ],
+    "licensors": [
+      "Ponycan USA"
+    ],
     "genres": [
       "Comedy"
     ],
@@ -1051,8 +1654,12 @@
       "Otaku Culture",
       "Workplace"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2014-10-02T00:00:00+00:00",
     "aired_to": "2014-12-18T00:00:00+00:00",
+    "broadcast": "Thursdays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/24031/Denki-gai_no_Honya-san",
     "year": 2014,
     "season": "fall",
@@ -1063,12 +1670,27 @@
     "mal_id": 25517,
     "title": "Magic Kaito 1412",
     "title_english": null,
+    "title_japanese": "まじっく快斗1412",
+    "title_synonyms": [
+      "Magic Kaito 2014"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/3/67807l.jpg",
+    "trailer_url": null,
     "synopsis": "Eight years after the mysterious death of his father, Kaito Kuroba, a slightly mischievous but otherwise ordinary teenager, discovers a shocking secret: the Phantom Thief Kaito Kid—also known as \"The Magician Under the Moonlight\"—was none other than his own father. The former thief was murdered by a criminal organization seeking a mythical stone called the Pandora Gem, said to shed a tear with the passing of the Valley Comet that comes every ten thousand years. When the tear is consumed, the gem supposedly grants immortality.\n\nVowing to bring those responsible for his father's death to justice, Kaito dons the Phantom Thief's disguise, stealing priceless jewels night after night to find the Pandora Gem before his enemies can use the power for themselves.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.86,
-    "scored_by": 60607,
+    "scored_by": 60613,
+    "rank": 957,
+    "popularity": 1889,
+    "members": 133775,
+    "favorites": 1138,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "A-1 Pictures"
@@ -1078,14 +1700,19 @@
       "Yomiuri Telecasting",
       "DAX Production"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
       "Romance"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2015-03-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 17:30 (JST)",
     "url": "https://myanimelist.net/anime/25517/Magic_Kaito_1412",
     "year": 2014,
     "season": "fall",
@@ -1096,12 +1723,27 @@
     "mal_id": 24211,
     "title": "Orenchi no Furo Jijou",
     "title_english": "Merman in my Tub",
+    "title_japanese": "オレん家のフロ事情",
+    "title_synonyms": [
+      "Orefuro"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/67085l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/UwNPQwkSSvY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "On his way home from school, Tatsumi sees a man collapsed near a lake. When he approaches him, Tatsumi notices something strange: the person in need of help is actually a beautiful merman named Wakasa! Because Wakasa's home has become too polluted to live in, Tatsumi graciously offers his bathtub as a refuge.\n\nWith a boisterous merman as his new roommate, Tatsumi's normal life won't be returning anytime soon, not to mention Wakasa's aquatic friends—Takasu, Mikuni, and Maki—often show up uninvited, making them all quite a handful for the high school student. As he humors their curiosity for human life, Tatsumi sometimes finds himself enjoying their childish antics, but he will have to keep his cool if he intends to keep up with his daily life and newfound friendship.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
-    "score": 6.93,
-    "scored_by": 61156,
+    "score": 6.92,
+    "scored_by": 61168,
+    "rank": 4920,
+    "popularity": 2055,
+    "members": 119862,
+    "favorites": 415,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "4-koma manga",
     "studios": [
       "Asahi Production"
@@ -1109,13 +1751,18 @@
     "producers": [
       "Media Factory"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Josei"
+    ],
     "aired_from": "2014-10-06T00:00:00+00:00",
     "aired_to": "2014-12-29T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/24211/Orenchi_no_Furo_Jijou",
     "year": 2014,
     "season": "fall",
@@ -1126,12 +1773,25 @@
     "mal_id": 23209,
     "title": "Sora no Method",
     "title_english": "Celestial Method",
+    "title_japanese": "天体のメソッド",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1112/130966l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/9LU-LhLn-IQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A group of friends—Nonoka Komiya, Koharu Shiihara, Shione Togawa, and twins Yuzuki and Souta Mizusaka—once attempted to summon a flying saucer to grant their wishes. After thinking that they failed, they called it a day. However, soon afterward, Nonoka abruptly moved out of Kiriya City, breaking the bond of their circle. Little did the group know, they were successful and the saucer has been floating in the sky since then, waiting to fulfill its purpose.\n\nSeven years later, Nonoka returns to Kiriya, all but forgetting everything regarding her life there. She meets Noel, a little girl wearing strange clothes, and through her, Nonoka begins to remember the past and the friends she left behind. From there, she strives to reforge her severed relationship with the others as she uncovers the mysteries connecting Noel, the saucer, and the wishes they once cherished together.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.76,
     "scored_by": 36253,
+    "rank": 5730,
+    "popularity": 2156,
+    "members": 112331,
+    "favorites": 322,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Studio 3Hz"
@@ -1144,6 +1804,9 @@
       "Good Smile Company",
       "Infinite"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Fantasy"
@@ -1151,8 +1814,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2014-10-05T00:00:00+00:00",
     "aired_to": "2014-12-28T00:00:00+00:00",
+    "broadcast": "Sundays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/23209/Sora_no_Method",
     "year": 2014,
     "season": "fall",
@@ -1163,12 +1828,29 @@
     "mal_id": 21845,
     "title": "Ushinawareta Mirai wo Motomete",
     "title_english": "In Search of the Lost Future",
+    "title_japanese": "失われた未来を求めて",
+    "title_synonyms": [
+      "Ushinawareta Mirai o Motomete",
+      "À la recherche du futur perdu",
+      "Waremete"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1414/112510l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/mghBYKjGngQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Kaori Sasaki—a member of Uchihama Academy's Astronomy Club—confesses to Sou Akiyama, but later that evening, she dies in a tragic road accident. Her friends and fellow club members mourn her death in a local hospital. Yet she shows up to school the following day, and no one senses anything amiss.\n\nThe day finishes without any unusual incidents, and the group of friends plans for the upcoming cultural festival. Suddenly, the room is shaken by an unnatural earthquake. Everyone splits up to investigate—except for Nagisa Hanamiya, who stays behind. As everyone leaves, Nagisa notices that the odd relic-like cube that she was toying with starts emitting a strange blue light. Meanwhile, Sou stumbles upon an unconscious, naked girl lying in a pool of water.\n\nUshinawareta Mirai wo Motomete follows the Astronomy Club's increasingly bizarre adventures—from dealing with ghosts to quelling unrests between student clubs. All the while, they unravel the circumstances behind the sudden appearance of a new transfer student.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.72,
-    "scored_by": 35280,
+    "scored_by": 35278,
+    "rank": 5996,
+    "popularity": 2368,
+    "members": 96943,
+    "favorites": 209,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Visual novel",
     "studios": [
       "feel."
@@ -1177,6 +1859,9 @@
       "Starchild Records",
       "Studio Mausu",
       "GANSIS"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Drama",
@@ -1187,8 +1872,10 @@
       "School",
       "Time Travel"
     ],
+    "demographics": [],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2014-12-20T00:00:00+00:00",
+    "broadcast": "Saturdays at 20:30 (JST)",
     "url": "https://myanimelist.net/anime/21845/Ushinawareta_Mirai_wo_Motomete",
     "year": 2014,
     "season": "fall",
@@ -1199,12 +1886,25 @@
     "mal_id": 24037,
     "title": "Selector Spread WIXOSS",
     "title_english": "selector spread WIXOSS",
+    "title_japanese": "selector spread WIXOSS",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/75495l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/xpy8joNsPcg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The unforeseen outcome of Iona Urazoe's fan gathering continues to weigh heavily on Ruuko Kominato. Having uncovered the truth behind being a Selector, Ruuko and her friends Yuzuki Kurebayashi and Hitoe Uemura hesitate to partake in the battles that may ruin the lives they have come to cherish. The same cannot be said for Chiyori, a fellow Selector who remains oblivious to the consequences of losing despite all warnings. As she tries to convince Chiyori out of her cruel fate, Ruuko learns more about a WIXOSS novel—which may reveal the secrets of LRIGs and the Selector battles' very existence.\n\nMeanwhile, Akira Aoi and her model career have rebounded thanks to Iona, who is now possessed by Ulith. With her life back on track, Akira pledges to assist Ulith in any way she can. Unbeknownst to her, Ulith is scheming to utilize a familiar LRIG to not only torment Ruuko but also prevent the latter's wish from ever being fulfilled.\n\n[Written by MAL Rewrite]",
+    "background": "Selector Spread WIXOSS was released on Blu-ray and DVD in Japan from February 25, 2015 to June 24, 2015, and in North America by Funimation Entertainment on June 28, 2016.",
     "episodes": 12,
     "score": 7.34,
-    "scored_by": 41026,
+    "scored_by": 41028,
+    "rank": 2714,
+    "popularity": 2644,
+    "members": 81281,
+    "favorites": 244,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Card game",
     "studios": [
       "J.C.Staff"
@@ -1214,6 +1914,9 @@
       "Warner Bros. Japan",
       "Showgate"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Suspense"
     ],
@@ -1222,8 +1925,10 @@
       "Psychological",
       "Strategy Game"
     ],
+    "demographics": [],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2014-12-20T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:05 (JST)",
     "url": "https://myanimelist.net/anime/24037/Selector_Spread_WIXOSS",
     "year": 2014,
     "season": "fall",
@@ -1234,12 +1939,25 @@
     "mal_id": 24625,
     "title": "Gundam Build Fighters Try",
     "title_english": "Gundam Build Fighters Try",
+    "title_japanese": "ガンダムビルドファイターズトライ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/6/67511l.jpg",
+    "trailer_url": null,
     "synopsis": "The story of Gundam Build Fighters Try is set 7 years after the end of the 1st series. Now Seiho Academy's Gunpla Battle Club has only one member, Hoshino Fumina, who is a third grade student in junior high. As the president of the club, she needs two more members to participate in the upcoming All-Japan Gunpla Battle Championships. One day she encounters a transfer student named Kamiki Sekai, who has traveled around for Kenpo training with his master. Then joining by a young Gunpla builder Kousaka Yuuma, their challenge to the Gunpla Battle begins....\n\n(Source: Crunchyroll)",
+    "background": "",
     "episodes": 25,
     "score": 7.21,
-    "scored_by": 26792,
+    "scored_by": 26797,
+    "rank": 3459,
+    "popularity": 3572,
+    "members": 47821,
+    "favorites": 118,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "Sunrise"
@@ -1248,14 +1966,19 @@
       "TV Tokyo",
       "Sotsu"
     ],
+    "licensors": [
+      "Nozomi Entertainment"
+    ],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [],
     "aired_from": "2014-10-08T00:00:00+00:00",
     "aired_to": "2015-04-01T00:00:00+00:00",
+    "broadcast": "Wednesdays at 18:00 (JST)",
     "url": "https://myanimelist.net/anime/24625/Gundam_Build_Fighters_Try",
     "year": 2014,
     "season": "fall",
@@ -1266,12 +1989,29 @@
     "mal_id": 24855,
     "title": "Girlfriend (Kari)",
     "title_english": "Girl Friend Beta",
+    "title_japanese": "ガールフレンド(仮)",
+    "title_synonyms": [
+      "GF Kari",
+      "Girlfriend Beta",
+      "Girlfriend Kakko Kari"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/67045l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/fS29q-Fcbo4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A TV anime adaptation of the Girlfriend (Kari) a mobile game where players can have girlfriends through playing the game. \n\nShiina Kokomi is a hard working but even tempered high school girl who is the lead performer in her school's rhythmic gymnastics club. The story follows her and her growing circle of friends as they support each other through the various trials and situations that comprise high school life.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 12,
     "score": 5.91,
     "scored_by": 13698,
+    "rank": 10739,
+    "popularity": 3682,
+    "members": 45368,
+    "favorites": 71,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Game",
     "studios": [
       "SILVER LINK."
@@ -1281,14 +2021,17 @@
       "VAP",
       "Age Global Networks"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2014-10-13T00:00:00+00:00",
     "aired_to": "2014-12-29T00:00:00+00:00",
+    "broadcast": "Mondays at 01:35 (JST)",
     "url": "https://myanimelist.net/anime/24855/Girlfriend_Kari",
     "year": 2014,
     "season": "fall",
@@ -1299,12 +2042,27 @@
     "mal_id": 24699,
     "title": "Ai Tenchi Muyou!",
     "title_english": null,
+    "title_japanese": "愛・天地無用!",
+    "title_synonyms": [
+      "Tenchi Muyo! Love"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/67801l.jpg",
+    "trailer_url": null,
     "synopsis": "The franchise is celebrating its 20th anniversary with this new project.\n\nNote: The recap episodes are not included in the main episode count and are now included here.",
+    "background": "",
     "episodes": 50,
     "score": 6.14,
-    "scored_by": 11679,
+    "scored_by": 11681,
+    "rank": 9467,
+    "popularity": 4007,
+    "members": 38706,
+    "favorites": 44,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "AIC PLUS+"
@@ -1313,13 +2071,18 @@
       "VAP",
       "AIC"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Comedy",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-10-06T00:00:00+00:00",
     "aired_to": "2014-12-26T00:00:00+00:00",
+    "broadcast": "Not scheduled once per week",
     "url": "https://myanimelist.net/anime/24699/Ai_Tenchi_Muyou",
     "year": 2014,
     "season": "fall",
@@ -1330,12 +2093,27 @@
     "mal_id": 23259,
     "title": "Gundam: G no Reconguista",
     "title_english": "Gundam Reconguista in G",
+    "title_japanese": "ガンダム Gのレコンギスタ",
+    "title_synonyms": [
+      "G-Reco"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/63753l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/arJ2s4VnOxU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In the year Regild Century 1014, an entire millennium has passed since the end of the fabled Universal Century, where legends like Amuro Ray and Char Aznable ruled the battlefield as ace mobile suit pilots. The Earth's surface that was once hotly contested is now mostly abandoned, with humanity preferring to live in space colonies and the surface of the moon.\n\nCapital Guard Academy student Bellri Zenam lives a peaceful academic life, but his normal days are brought to an end with the capture of pirate pilot Aida Surugan and her mobile suit G-Self. Bellri feels a strong mental connection with the G-Self and discovers that he is able to pilot it. He soon finds himself in contention with the \"Capital Guard,\" a radical faction that follows its own secret agenda despite the wishes of the Amerian Army, who still hold power on Earth. Joining the crew of the Amerian spaceship Megafauna, Bellri and Aida must pilot the G-Self to victory against the Capital Guard and its leaders, the charismatic Colonel Kunpa Rushita and the enigmatic Captain Mask.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 26,
     "score": 5.8,
-    "scored_by": 13809,
+    "scored_by": 13810,
+    "rank": 11365,
+    "popularity": 4227,
+    "members": 34625,
+    "favorites": 65,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Sunrise"
@@ -1345,6 +2123,9 @@
       "Mainichi Broadcasting System",
       "Tohokushinsha Film Corporation"
     ],
+    "licensors": [
+      "Nozomi Entertainment"
+    ],
     "genres": [
       "Sci-Fi"
     ],
@@ -1352,8 +2133,10 @@
       "Mecha",
       "Space"
     ],
+    "demographics": [],
     "aired_from": "2014-10-03T00:00:00+00:00",
     "aired_to": "2015-03-27T00:00:00+00:00",
+    "broadcast": "Fridays at 01:44 (JST)",
     "url": "https://myanimelist.net/anime/23259/Gundam__G_no_Reconguista",
     "year": 2014,
     "season": "fall",
@@ -1364,12 +2147,28 @@
     "mal_id": 22359,
     "title": "Sanzoku no Musume Ronja",
     "title_english": "Ronja the Robber's Daughter",
+    "title_japanese": "山賊の娘ローニャ",
+    "title_synonyms": [
+      "Sanzoku no Musume Ronia",
+      "Ronja Rövardotter"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/11/68125l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/BsYWw0AzMAs?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The story is about a girl named Ronja who is the daughter of a chief from a tribe of bandits, she lives in a huge castle inside the forest with the bandits. The story follows Ronja as she encounters mystical creatures, making friends with another young child such as herself and experiencing what it is like to live in the forest.",
+    "background": "Sanzoku no Musume Ronja is based on the Swedish children's fantasy book Ronja Rövardotter (Ronia, the Robber's Daughter) by Astrid Lindgren.",
     "episodes": 26,
     "score": 7.06,
     "scored_by": 7584,
+    "rank": 4239,
+    "popularity": 4337,
+    "members": 32802,
+    "favorites": 81,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "25 min per ep",
+    "rating": "PG - Children",
     "source": "Book",
     "studios": [
       "Studio Ghibli",
@@ -1379,12 +2178,17 @@
       "NHK",
       "Dwango"
     ],
+    "licensors": [
+      "GKIDS"
+    ],
     "genres": [
       "Adventure"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-10-11T00:00:00+00:00",
     "aired_to": "2015-03-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/22359/Sanzoku_no_Musume_Ronja",
     "year": 2014,
     "season": "fall",
@@ -1395,12 +2199,25 @@
     "mal_id": 27815,
     "title": "Cardfight!! Vanguard G",
     "title_english": "Cardfight!! Vanguard G",
+    "title_japanese": "カードファイト!! ヴァンガードG",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1330/125016l.jpg",
+    "trailer_url": null,
     "synopsis": "Taking place after a three-year time skip, the series will follow Shindou Kurono, Kiba Shion, and Anjou Tokoha as the new protagonists of G.\n\nKurono uses the never-before-seen clan Gear Chronicle, which brings together the destinies of these three toward an \"impossible future, an impossible self signifying 'Generation.'\"\n\n(Source: vanguardus.blogspot.com, edited)",
+    "background": "",
     "episodes": 48,
     "score": 6.53,
-    "scored_by": 8686,
+    "scored_by": 8690,
+    "rank": 7123,
+    "popularity": 5635,
+    "members": 17562,
+    "favorites": 52,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Card game",
     "studios": [
       "TMS Entertainment"
@@ -1411,14 +2228,17 @@
       "Sotsu",
       "Bushiroad"
     ],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [],
     "aired_from": "2014-10-26T00:00:00+00:00",
     "aired_to": "2015-10-04T00:00:00+00:00",
+    "broadcast": "Sundays at 10:00 (JST)",
     "url": "https://myanimelist.net/anime/27815/Cardfight_Vanguard_G",
     "year": 2014,
     "season": "fall",
@@ -1429,12 +2249,27 @@
     "mal_id": 24909,
     "title": "Kaitou Joker",
     "title_english": "JOKER",
+    "title_japanese": "怪盗ジョーカー",
+    "title_synonyms": [
+      "Mysterious Joker"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/64975l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/iUO5fBbD1ZU?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Under the veil of the shining night, the mysterious phantom thief Joker performs daring heists on one valuable treasure to the next. Although often backed into a corner by persistent police investigator Dokusaburou Oniyama, the self-proclaimed \"Miracle Maker\" uses his arsenal of flashy tricks to escape, straddling the line between science and magic. \n\nIn the middle of a heist to steal the \"Dragon Gem\" from the mansion of a haughty multimillionaire, Joker meets Hachi, a clumsy but earnest ninja. Hachi is after the same treasure but idolizes Joker, who in return merely sees him as a nuisance. Still, the two are able to work together to perform a successful heist. Seeing Hachi's wit and courage, as well as his convenient ability to perform housework, Joker reluctantly accepts him as a disciple.\n\nAs they set off with their eyes set on the next prize, Joker and Hachi butt heads with other phantom thieves. Facing both old friends and new foes alike, Joker competes to become the best \"magician\" of the shining night.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.98,
     "scored_by": 6092,
+    "rank": 4638,
+    "popularity": 5857,
+    "members": 15767,
+    "favorites": 132,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "G - All Ages",
     "source": "Manga",
     "studios": [
       "Shin-Ei Animation"
@@ -1443,14 +2278,19 @@
       "Asatsu DK",
       "Tokyo MX"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
       "Mystery"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-06T00:00:00+00:00",
     "aired_to": "2015-01-05T00:00:00+00:00",
+    "broadcast": "Mondays at 19:00 (JST)",
     "url": "https://myanimelist.net/anime/24909/Kaitou_Joker",
     "year": 2014,
     "season": "fall",
@@ -1461,18 +2301,37 @@
     "mal_id": 23787,
     "title": "Hi☆sCoool! SeHa Girls",
     "title_english": "Hi☆sCoool! SeHa Girls",
+    "title_japanese": "Hi☆sCoool! セハガール",
+    "title_synonyms": [
+      "Sega Hard Girls",
+      "Hi-sCool! Seha Girls"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/5/66173l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/nWbuw-BxF2A?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The story of the anime will revolve around Dreamcast, Sega Saturn, and Mega Drive, who have just enrolled in SeHaGaga Academy at Tokyo's Haneda Ōtorii station. They are given an assignment needed to graduate by a suspicious teacher, and to clear this assignment, the girls need to enter the world of Sega games. The girls must try their best to graduate without incident.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 13,
     "score": 6.49,
     "scored_by": 5396,
+    "rank": 7399,
+    "popularity": 6420,
+    "members": 12527,
+    "favorites": 52,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Other",
     "studios": [
       "TMS Entertainment"
     ],
     "producers": [
       "Sega"
+    ],
+    "licensors": [
+      "Discotek Media"
     ],
     "genres": [
       "Comedy"
@@ -1481,8 +2340,10 @@
       "Parody",
       "Video Game"
     ],
+    "demographics": [],
     "aired_from": "2014-10-08T00:00:00+00:00",
     "aired_to": "2014-12-24T00:00:00+00:00",
+    "broadcast": "Wednesdays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/23787/Hi☆sCoool_SeHa_Girls",
     "year": 2014,
     "season": "fall",
@@ -1493,12 +2354,25 @@
     "mal_id": 26453,
     "title": "Tribe Cool Crew",
     "title_english": null,
+    "title_japanese": "トライブクルクル",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/67523l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/QYsvsn6jiFI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Haneru Tobitatsu is a hyperactive middle schooler with a passion for dancing. Inspired by his idol Jey El, the hottest star in the world of dancing, Haneru practices outside Memorial Hall every day after school. Unbeknownst to him, his \"secret\" practice sessions are being watched by Kanon Otosaki—her true identity being the famous online dancer, Rhythm—who also frequents the same location for practice. When Haneru finds out about this, he shows an immediate interest in teaming up with her.\n \nSlowly realizing the joy of performing with others, the duo makes their way into the world of street dancing, where they meet Kumonosuke, Mizuki, and Yuzuru, ultimately forming the dance group \"Tribe Cool Crew.\" As they face off against tough competition, they strive to one day realize their dream of sharing the stage with Jey El.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 50,
     "score": 6.87,
     "scored_by": 2232,
+    "rank": 5172,
+    "popularity": 8900,
+    "members": 5618,
+    "favorites": 33,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "20 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Sunrise",
@@ -1512,6 +2386,9 @@
       "Avex Pictures",
       "Nagoya Broadcasting Network"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Sports"
     ],
@@ -1520,8 +2397,10 @@
       "Performing Arts",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2014-09-28T00:00:00+00:00",
     "aired_to": "2015-10-04T00:00:00+00:00",
+    "broadcast": "Sundays at 07:00 (JST)",
     "url": "https://myanimelist.net/anime/26453/Tribe_Cool_Crew",
     "year": 2014,
     "season": "fall",
@@ -1532,12 +2411,28 @@
     "mal_id": 34613,
     "title": "Garo: Honoo no Kokuin - Yurugaro",
     "title_english": null,
+    "title_japanese": "牙狼〈GARO〉-炎の刻印- ゆるがろ",
+    "title_synonyms": [
+      "Garo the Animation Specials",
+      "Garo Omake"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/83505l.jpg",
+    "trailer_url": null,
     "synopsis": "Comedic omake specials that aired after Garo: Honoo no Kokuin.",
+    "background": "The specials aired on the Family Gekijo cable channel directly after episodes of Garo: Honoo no Kokuin, starting on October 17, 2014. The episodes were later included on the first volume of the series' home release, released February 28, 2015.",
     "episodes": 23,
-    "score": 5.51,
+    "score": 5.5,
     "scored_by": 385,
+    "rank": 12597,
+    "popularity": 12207,
+    "members": 2107,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "1 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "DLE"
@@ -1545,6 +2440,7 @@
     "producers": [
       "Pony Canyon"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy"
@@ -1552,8 +2448,10 @@
     "themes": [
       "Parody"
     ],
+    "demographics": [],
     "aired_from": "2014-10-17T00:00:00+00:00",
     "aired_to": "2015-02-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/34613/Garo__Honoo_no_Kokuin_-_Yurugaro",
     "year": 2014,
     "season": "fall",
@@ -1564,17 +2462,33 @@
     "mal_id": 27943,
     "title": "Nano Invaders",
     "title_english": null,
+    "title_japanese": "ナノ・インベーダーズ",
+    "title_synonyms": [
+      "Nami Shen Bing"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1903/146738l.jpg",
+    "trailer_url": null,
     "synopsis": "Nano Invaders follows the eye-popping adventures of Hikaru, 11, who is dragged into a series of battles between two rival alien clans. One day Hikaru tries on a bracelet that belongs to his classmate Mimi and he turns into a monster. Mimi’s family is a special scouting unit from planet Anima. When alien invaders from a rival planet Damon attack the city, Hikaru joins force with Mimi’s family to fight back. The battle gets on the TV, making Hikaru and the aliens instant heroes. Simple-minded Hikaru is happy to see his dream come true, not knowing that Mimi’s family is plotting to take over the earth too!\n\n(Source: Mondo TV)",
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 18998,
+    "popularity": 13438,
+    "members": 1444,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [
       "TV Tokyo"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure"
@@ -1582,8 +2496,10 @@
     "themes": [
       "Super Power"
     ],
+    "demographics": [],
     "aired_from": "2014-10-10T00:00:00+00:00",
     "aired_to": "2015-10-04T00:00:00+00:00",
+    "broadcast": "Sundays at 06:30 (JST)",
     "url": "https://myanimelist.net/anime/27943/Nano_Invaders",
     "year": 2014,
     "season": "fall",
@@ -1594,23 +2510,42 @@
     "mal_id": 27519,
     "title": "Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www (TV)",
     "title_english": null,
+    "title_japanese": "こんな私たちがなりゆきでヒロインになった結果www",
+    "title_synonyms": [
+      "Nari Hero www (TV)",
+      "Narihero www (TV)"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/2/66697l.jpg",
+    "trailer_url": null,
     "synopsis": "TV series of Konna Watashitachi ga Nariyuki de Heroine ni Natta Kekka www",
+    "background": "",
     "episodes": 12,
-    "score": 5.68,
+    "score": 5.67,
     "scored_by": 166,
+    "rank": 11948,
+    "popularity": 15389,
+    "members": 867,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [
       "Tokyo MX"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-10-07T00:00:00+00:00",
     "aired_to": "2014-12-23T00:00:00+00:00",
+    "broadcast": "Tuesdays at 01:05 (JST)",
     "url": "https://myanimelist.net/anime/27519/Konna_Watashitachi_ga_Nariyuki_de_Heroine_ni_Natta_Kekka_www_TV",
     "year": 2014,
     "season": "fall",
@@ -1621,15 +2556,29 @@
     "mal_id": 36429,
     "title": "Zhen Gyi Hong Shi",
     "title_english": "World Peacekeepers",
+    "title_japanese": "正义红师",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/4/87897l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/2WjmLHbIBJ0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "This series, which is set in the future, is about several events that break out after troops successfully rescued a teenager who was kidnapped by the mysterious Black Armors.\nEver since Marty had his first contact with the Black Armors and was subsequently rescued, he has been found to possess mysterious prophetic abilities as he is able to see the future in fragmented visions portraying an avalanche, a tsunami, a storm and other catastrophes. These disasters will always come true after Marty experiences the prophetic visions, but he is unable to predict accurately when and where they will occur.\nWhen the government learns about this, a unit is sent to protect Marty, and World Peacekeepers, abbreviated as WPK, is established to fight against the Black Armors. In order to defeat the Black Armors, the government grants permission for World Peacekeepers to use Ammobots – mechanical armors which have been developed over many years.\n\nAfter several battles with the Black Armors, the World Peacekeepers realizes that they are actually linked to the unusual natural disasters and discovers that they originate from a small planet called Mirzam, which is outside the solar system.\n\nTheir real intention is to seize the abundant ecological resources on Earth and when these resources are seized, the ecosystem will lose its balance, thus leading to natural disasters.\n\n(Source: Official Site)",
+    "background": "",
     "episodes": 52,
     "score": 6.07,
     "scored_by": 166,
+    "rank": 9886,
+    "popularity": 15498,
+    "members": 842,
+    "favorites": 7,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": null,
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Sci-Fi"
@@ -1638,8 +2587,10 @@
       "Mecha",
       "Military"
     ],
+    "demographics": [],
     "aired_from": "2014-10-04T00:00:00+00:00",
     "aired_to": "2014-11-01T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/36429/Zhen_Gyi_Hong_Shi",
     "year": 2014,
     "season": "fall",
@@ -1650,23 +2601,41 @@
     "mal_id": 27687,
     "title": "Oshiri Kajiri Mushi (TV) 3rd Season",
     "title_english": "Bottom Biting Bug 3",
+    "title_japanese": "おしりかじり虫　第３シリーズ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/67051l.jpg",
+    "trailer_url": null,
     "synopsis": "A gag comedy about Oshiri Kajiri Mushi XVIII, a 10-year-old insect who goes to Biting School to inherit his family's Biting Shop business. \n\n(Source: ANN)",
+    "background": "",
     "episodes": 10,
-    "score": 5.11,
+    "score": 5.1,
     "scored_by": 302,
+    "rank": 13613,
+    "popularity": 15638,
+    "members": 808,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Music",
     "studios": [
       "Kinema Citrus"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-06T00:00:00+00:00",
     "aired_to": "2014-12-08T00:00:00+00:00",
+    "broadcast": "Mondays at 18:25 (JST)",
     "url": "https://myanimelist.net/anime/27687/Oshiri_Kajiri_Mushi_TV_3rd_Season",
     "year": 2014,
     "season": "fall",
@@ -1677,25 +2646,43 @@
     "mal_id": 35643,
     "title": "Huoli Shaonian Wang zhi Chuanqi Zaixian",
     "title_english": "Blazing Teens 5: Legendary Warriors",
+    "title_japanese": "火力少年王之传奇再现",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1882/93045l.jpg",
+    "trailer_url": null,
     "synopsis": "The 3rd Huoli Shaonian Wang animated season. It follows an entirely new story and new characters unrelated to the previous seasons. The previous seasons metaphorical usage of magic/spirit/chi to visualize yoyo battles has now become literal. The yoyo toys have spirit animals within them and the cast tries to return them to their world before the villains use them for evil purposes.\n\nLeon has an argument with his classmate Gurido for trifle. At the advice of Catherine, Leon and Gurido decide to judge the victory or defeat through yoyo competition. The Daemon Tiger appears when Leon and Gurido begin to fight in the woods. Leon follows Daemon Tiger and work with it. With Daemon Tiger’s help, Leon defeats Gurido.\n\n(Source: Official YouTube channel)",
+    "background": "",
     "episodes": 40,
-    "score": 6.07,
+    "score": 6.06,
     "scored_by": 216,
+    "rank": 9921,
+    "popularity": 16915,
+    "members": 599,
+    "favorites": 4,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [],
     "producers": [
       "Alpha Group"
     ],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-09T00:00:00+00:00",
     "aired_to": "2014-10-18T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/35643/Huoli_Shaonian_Wang_zhi_Chuanqi_Zaixian",
     "year": 2014,
     "season": "fall",
@@ -1706,12 +2693,28 @@
     "mal_id": 27521,
     "title": "Gra-P & Rodeo",
     "title_english": null,
+    "title_japanese": "ぐらＰ＆ろで夫",
+    "title_synonyms": [
+      "GuraP & Rodeo",
+      "GraP & RodeO"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/10/67831l.jpg",
+    "trailer_url": null,
     "synopsis": "Rodeo is a normal high school boy who aims to be like GRANRODEO. Gra-P, a self-proclaimed music producer who comes from the future, tries to help him.",
+    "background": "",
     "episodes": 61,
     "score": null,
     "scored_by": null,
+    "rank": 21616,
+    "popularity": 17168,
+    "members": 574,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Pie in the sky"
@@ -1719,14 +2722,17 @@
     "producers": [
       "Lantis"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [
       "Music"
     ],
+    "demographics": [],
     "aired_from": "2014-10-19T00:00:00+00:00",
     "aired_to": "2015-12-29T00:00:00+00:00",
+    "broadcast": "Not scheduled once per week",
     "url": "https://myanimelist.net/anime/27521/Gra-P___Rodeo",
     "year": 2014,
     "season": "fall",
@@ -1737,12 +2743,28 @@
     "mal_id": 25503,
     "title": "Fuusen Inu Tinny",
     "title_english": null,
+    "title_japanese": "ふうせんいぬティニー",
+    "title_synonyms": [
+      "Tinny the Balloon Dog",
+      "Balloon Dog Tinny"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1236/149927l.jpg",
+    "trailer_url": null,
     "synopsis": "Based on a picture book series, it follows a dog who flies above the clouds with a balloon.",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 21425,
+    "popularity": 17494,
+    "members": 538,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [
       "Steve N' Steven"
@@ -1750,12 +2772,17 @@
     "producers": [
       "NHK"
     ],
+    "licensors": [],
     "genres": [
       "Adventure"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-26T00:00:00+00:00",
     "aired_to": "2015-03-27T00:00:00+00:00",
+    "broadcast": "Fridays at 17:25 (JST)",
     "url": "https://myanimelist.net/anime/25503/Fuusen_Inu_Tinny",
     "year": 2014,
     "season": "fall",
@@ -1766,24 +2793,44 @@
     "mal_id": 32820,
     "title": "Xiong Chumo: Chunri Dui Dui Peng",
     "title_english": "Boonie Bears: Spring into Action",
+    "title_japanese": "熊出没之春日对对碰",
+    "title_synonyms": [
+      "Spring into Action of Boonie Bears"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/10/78684l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/DbSRD_ghgiE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Fourth season of Boonie Bears.\n\nNow that spring is in the air, the forest animals are back to frolicking amongst the freshly blooming flowers and busy at work planting new trees to add even more color to their luscious home. The bear brothers—Briar and Bramble, and all their friends are having a jolly great time basking in this colorful season; however, from time to time, they stumble across Logger Vick who will not give up. The bears, along with their little friends make it their mission to protect the forest. This always results in a lot of laughter, tears and of course, adventures aplenty!\n\n(Source: Official website)",
+    "background": "",
     "episodes": 52,
     "score": 5.69,
     "scored_by": 177,
+    "rank": 11832,
+    "popularity": 17843,
+    "members": 505,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Fantawild Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-11-27T00:00:00+00:00",
     "aired_to": "2015-01-15T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/32820/Xiong_Chumo__Chunri_Dui_Dui_Peng",
     "year": 2014,
     "season": "fall",
@@ -1794,12 +2841,25 @@
     "mal_id": 26163,
     "title": "Ganbare! Lulu Lolo 2nd Season",
     "title_english": "TINY★TWIN★BEARS 2nd Season",
+    "title_japanese": "がんばれ！ルルロロ　第２シリーズ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/12/66095l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/vcwEMiBlrPY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The anime centers around the daily life of two twin bear sisters: the orange-colored Lulu and the yellow-colored Lolo. The two take on new jobs and, despite the occasional failure and tears, give their best efforts.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 21474,
+    "popularity": 18961,
+    "members": 420,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "PG - Children",
     "source": "Picture book",
     "studios": [
       "Fanworks"
@@ -1807,12 +2867,17 @@
     "producers": [
       "NHK"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-25T00:00:00+00:00",
     "aired_to": "2015-03-26T00:00:00+00:00",
+    "broadcast": "Thursdays at 17:25 (JST)",
     "url": "https://myanimelist.net/anime/26163/Ganbare_Lulu_Lolo_2nd_Season",
     "year": 2014,
     "season": "fall",
@@ -1823,24 +2888,48 @@
     "mal_id": 35799,
     "title": "Miniforce",
     "title_english": "Miniforce",
+    "title_japanese": "최강전사 미니특공대",
+    "title_synonyms": [
+      "Mini Force",
+      "miniteuggongdae",
+      "Choegang Jeonsa Mini Teuggongdae",
+      "Strongest Warriors Mini Commando Squad",
+      "Zui Qiang Zhanshi Mini Tegong Dui"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1526/96881l.jpg",
+    "trailer_url": null,
     "synopsis": "Cute yet mighty! Mini animal rangers transform into super power Force-Bot to save endangered friends!\n\nIn the ruthless world of animals, big strong animals dominate and feed on the small and weak. To buck this natural system, small animals form a secret organization \"MINIFORCE.\" Rigidly selected mutants with special powers: Volt, Sammy, Lucy and Max become top secret rangers to save their small village Bluebell from the hand of human villain Nein and his underling lizard Pascal.\n\nAnimals in danger? No problem! When Force-Gem alerts, it's time to get suit on! With Mini Force and their transforming mechanics, it’s time to sweep! \n\n(Source: Samg Animation)",
+    "background": "This show was given two English dubs. The first English dub was shared on (the first season) while the second English dub was made available on Netflix (all episodes). The studio used for the first English dub is also the same studio who dubbed Armor Hero, Armor Hero XT and various other English dubs for Alpha Animation's own animated shows. MiniForce marks the very first time that a ​blue ranger is used under the leadership role within a \"sentai\" (task force) series. It was co-produced between EBS and Choirock Contents Factory. It aired on EBS in 2 seasons, starting on August 2014. In 2015 it was awarded the Korea Content Award and the Ministry of Culture & Sports Award.",
     "episodes": 26,
-    "score": 5.69,
+    "score": 5.68,
     "scored_by": 114,
+    "rank": 11880,
+    "popularity": 19788,
+    "members": 357,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "SAMG Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Anthropomorphic",
       "Mecha"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-03T00:00:00+00:00",
     "aired_to": "2014-11-26T00:00:00+00:00",
+    "broadcast": "Wednesdays at 14:30 (JST)",
     "url": "https://myanimelist.net/anime/35799/Miniforce",
     "year": 2014,
     "season": "fall",
@@ -1851,23 +2940,41 @@
     "mal_id": 28887,
     "title": "Setsuzoku Muyou",
     "title_english": null,
+    "title_japanese": "接続無用",
+    "title_synonyms": [
+      "Connection Useless"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/8/69699l.jpg",
+    "trailer_url": null,
     "synopsis": "Short stories with no excitement, no punchline, and no connection.",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 14774,
+    "popularity": 21637,
+    "members": 251,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [],
     "producers": [
       "Tokyo MX"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-12-03T00:00:00+00:00",
     "aired_to": "2015-01-01T00:00:00+00:00",
+    "broadcast": "Wednesdays at 17:57 (JST)",
     "url": "https://myanimelist.net/anime/28887/Setsuzoku_Muyou",
     "year": null,
     "season": null,
@@ -1878,21 +2985,39 @@
     "mal_id": 37944,
     "title": "Hello Cocomong 2",
     "title_english": "Hello Cocomong 2",
+    "title_japanese": "헬로 코코몽2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1830/93098l.jpg",
+    "trailer_url": null,
     "synopsis": "The second season of Hello Cocomong.",
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 21902,
+    "popularity": 21662,
+    "members": 250,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "9 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Music"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-05T00:00:00+00:00",
     "aired_to": "2014-11-28T00:00:00+00:00",
+    "broadcast": "Fridays at Unknown",
     "url": "https://myanimelist.net/anime/37944/Hello_Cocomong_2",
     "year": 2014,
     "season": "fall",
@@ -1903,19 +3028,37 @@
     "mal_id": 44489,
     "title": "Shen Ji Bao Meili",
     "title_english": null,
+    "title_japanese": "神鸡包美丽",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1475/122327l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 40,
     "score": null,
     "scored_by": null,
+    "rank": 14864,
+    "popularity": 22418,
+    "members": 210,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-30T00:00:00+00:00",
     "aired_to": "2014-01-01T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44489/Shen_Ji_Bao_Meili",
     "year": null,
     "season": null,
@@ -1926,22 +3069,45 @@
     "mal_id": 48325,
     "title": "G Fighters",
     "title_english": null,
+    "title_japanese": "지파이터스",
+    "title_synonyms": [
+      "Jipaiteoseu",
+      "Wudi Jiguang Xia",
+      "无敌极光侠",
+      "Invincible Aurora Man"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1848/115253l.jpg",
+    "trailer_url": null,
     "synopsis": "In the peaceful city of Metroplis, a high-rise building, the WP Center freezes and explodes. A red fog permeates the city and space vilians invade to plunge the city into chaos.\nThe main character Lynn, becomes a superhero after finding a strange cat, and combines forces with out super powered kids to take down the evil space invaders. \n\n(Source: Amazon Prime Video)",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 21441,
+    "popularity": 22728,
+    "members": 195,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-01T00:00:00+00:00",
     "aired_to": "2015-02-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/48325/G_Fighters",
     "year": 2014,
     "season": "fall",
@@ -1952,22 +3118,40 @@
     "mal_id": 47023,
     "title": "Fan Kai Zhe Yi Ye",
     "title_english": "Story in the Book",
+    "title_japanese": "翻开这一页",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1304/114514l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 49,
     "score": null,
     "scored_by": null,
+    "rank": 21283,
+    "popularity": 23057,
+    "members": 182,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Historical",
       "School"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-03T00:00:00+00:00",
     "aired_to": "2017-09-13T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47023/Fan_Kai_Zhe_Yi_Ye",
     "year": 2014,
     "season": "fall",
@@ -1978,19 +3162,37 @@
     "mal_id": 39139,
     "title": "Hong Mao Lan Tu: Kuaile Shizi",
     "title_english": null,
+    "title_japanese": "虹猫蓝兔快乐识字",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1710/98710l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 80,
     "score": null,
     "scored_by": null,
+    "rank": 22006,
+    "popularity": 23553,
+    "members": 164,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "17 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-11-26T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/39139/Hong_Mao_Lan_Tu__Kuaile_Shizi",
     "year": null,
     "season": null,
@@ -2001,19 +3203,37 @@
     "mal_id": 47998,
     "title": "Budai Xiao Heshang",
     "title_english": "The Legend of Little Buddha",
+    "title_japanese": "布袋小和尚",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1699/118257l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 20402,
+    "popularity": 23746,
+    "members": 157,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-17T00:00:00+00:00",
     "aired_to": "2014-11-21T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47998/Budai_Xiao_Heshang",
     "year": 2014,
     "season": "fall",
@@ -2024,22 +3244,38 @@
     "mal_id": 45780,
     "title": "Jinxiu Shenzhou: Xingshi Wangguo",
     "title_english": null,
+    "title_japanese": "锦绣神州之姓氏王国",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1718/114945l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 17482,
+    "popularity": 24770,
+    "members": 131,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2014-11-29T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/45780/Jinxiu_Shenzhou__Xingshi_Wangguo",
     "year": null,
     "season": null,
@@ -2050,25 +3286,46 @@
     "mal_id": 48311,
     "title": "Iyab! Space Jungle",
     "title_english": "Space Jungle",
+    "title_japanese": "이얍! 스페이스 정글",
+    "title_synonyms": [
+      "Iyab! Seupeiseu Jeong-geul",
+      "来自奇星的小伙伴"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1385/130271l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 17316,
+    "popularity": 24855,
+    "members": 129,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Oyster"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-09-05T00:00:00+00:00",
     "aired_to": "2014-11-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/48311/Iyab_Space_Jungle",
     "year": 2014,
     "season": "fall",
@@ -2079,23 +3336,43 @@
     "mal_id": 45820,
     "title": "Qi Jiguang",
     "title_english": null,
+    "title_japanese": "戚继光",
+    "title_synonyms": [
+      "Qijiguang"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1964/115458l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 19618,
+    "popularity": 25295,
+    "members": 120,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "G - All Ages",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [
       "Historical"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-10T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/45820/Qi_Jiguang",
     "year": null,
     "season": null,
@@ -2106,19 +3383,37 @@
     "mal_id": 46903,
     "title": "Yingxiong Fengzicai",
     "title_english": "General Feng",
+    "title_japanese": "英雄冯子材",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1590/127848l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 10,
     "score": null,
     "scored_by": null,
+    "rank": 16865,
+    "popularity": 25724,
+    "members": 113,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "10 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-11-02T00:00:00+00:00",
     "aired_to": "2014-11-06T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/46903/Yingxiong_Fengzicai",
     "year": 2014,
     "season": "fall",
@@ -2129,23 +3424,44 @@
     "mal_id": 44465,
     "title": "Pili Yongshi: Yuanqi Yongzhe",
     "title_english": null,
+    "title_japanese": "霹雳勇士之元气勇者",
+    "title_synonyms": [
+      "Robovalor",
+      "Variety Machine Beasts 3"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1172/122288l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 19465,
+    "popularity": 26267,
+    "members": 105,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-12-01T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44465/Pili_Yongshi__Yuanqi_Yongzhe",
     "year": null,
     "season": null,
@@ -2156,22 +3472,40 @@
     "mal_id": 59948,
     "title": "Biklonz 2nd Season",
     "title_english": null,
+    "title_japanese": "바이클론즈 2기",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1236/145756l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 21,
     "score": null,
     "scored_by": null,
+    "rank": 20291,
+    "popularity": 26965,
+    "members": 94,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "8 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-08T00:00:00+00:00",
     "aired_to": "2014-11-26T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/59948/Biklonz_2nd_Season",
     "year": 2014,
     "season": "fall",
@@ -2182,23 +3516,41 @@
     "mal_id": 45805,
     "title": "Daji Chengzhang Ji",
     "title_english": null,
+    "title_japanese": "大吉成长记",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1793/129553l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 108,
     "score": null,
     "scored_by": null,
+    "rank": 20883,
+    "popularity": 27473,
+    "members": 88,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "9 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-12-19T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/45805/Daji_Chengzhang_Ji",
     "year": null,
     "season": null,
@@ -2209,21 +3561,41 @@
     "mal_id": 47835,
     "title": "Wudang Hong Shaonian",
     "title_english": null,
+    "title_japanese": "武当虹少年",
+    "title_synonyms": [
+      "Rainbow Teenage"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1952/129320l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 16186,
+    "popularity": 27877,
+    "members": 85,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "2:10 Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-12-23T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47835/Wudang_Hong_Shaonian",
     "year": null,
     "season": null,
@@ -2234,15 +3606,29 @@
     "mal_id": 62182,
     "title": "Guriri's Anime!",
     "title_english": null,
+    "title_japanese": "ぐりり～ずアニメ！",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1173/151337l.jpg",
+    "trailer_url": null,
     "synopsis": "Short mini-anime with KHB's mascot character Guriri.",
+    "background": "",
     "episodes": 21,
     "score": null,
     "scored_by": null,
+    "rank": 21696,
+    "popularity": 29158,
+    "members": 46,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy"
@@ -2251,8 +3637,12 @@
       "Anthropomorphic",
       "Educational"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-10-02T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Not scheduled once per week",
     "url": "https://myanimelist.net/anime/62182/Guriris_Anime",
     "year": null,
     "season": null,
@@ -2263,23 +3653,41 @@
     "mal_id": 62772,
     "title": "Byeonsinjadongcha Tobot 16th Season",
     "title_english": null,
+    "title_japanese": "변신자동차 또봇 16기",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1049/152629l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 30,
     "score": null,
     "scored_by": null,
+    "rank": 20438,
+    "popularity": 29244,
+    "members": 35,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2014-11-01T00:00:00+00:00",
     "aired_to": "2014-01-01T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/62772/Byeonsinjadongcha_Tobot_16th_Season",
     "year": null,
     "season": null,

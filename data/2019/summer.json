@@ -3,12 +3,25 @@
     "mal_id": 38691,
     "title": "Dr. Stone",
     "title_english": "Dr. Stone",
+    "title_japanese": "ドクターストーン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1613/102576l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/2ei4KpfCOAI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After five years of harboring unspoken feelings, high-schooler Taiju Ooki is finally ready to confess his love to Yuzuriha Ogawa. Just when Taiju begins his confession however, a blinding green light strikes the Earth and petrifies mankind around the world—turning every single human into stone.\n\nSeveral millennia later, Taiju awakens to find the modern world completely nonexistent, as nature has flourished in the years humanity stood still. Among a stone world of statues, Taiju encounters one other living human: his science-loving friend Senkuu, who has been active for a few months. Taiju learns that Senkuu has developed a grand scheme—to launch the complete revival of civilization with science. Taiju's brawn and Senkuu's brains combine to forge a formidable partnership, and they soon uncover a method to revive those petrified.\n\nHowever, Senkuu's master plan is threatened when his ideologies are challenged by those who awaken. All the while, the reason for mankind's petrification remains unknown.\n\n[Written by MAL Rewrite]",
+    "background": "Dr. Stone adapts chapters 1-60 of the manga.",
     "episodes": 24,
     "score": 8.26,
-    "scored_by": 1149869,
+    "scored_by": 1149983,
+    "rank": 337,
+    "popularity": 49,
+    "members": 1904420,
+    "favorites": 30667,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "TMS Entertainment"
@@ -18,14 +31,22 @@
       "Shueisha",
       "8PAN"
     ],
+    "licensors": [
+      "Funimation",
+      "Crunchyroll"
+    ],
     "genres": [
       "Adventure",
       "Comedy",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-07-05T00:00:00+00:00",
     "aired_to": "2019-12-13T00:00:00+00:00",
+    "broadcast": "Fridays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/38691/Dr_Stone",
     "year": 2019,
     "season": "summer",
@@ -36,12 +57,25 @@
     "mal_id": 37521,
     "title": "Vinland Saga",
     "title_english": null,
+    "title_japanese": "ヴィンランド・サガ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1500/103005l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/f8JrZ7Q_p-8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Young Thorfinn grew up listening to the stories of old sailors that had traveled the ocean and reached the place of legend, Vinland. It's said to be warm and fertile, a place where there would be no need for fighting—not at all like the frozen village in Iceland where he was born, and certainly not like his current life as a mercenary. War is his home now. Though his father once told him, \"You have no enemies, nobody does. There is nobody who it's okay to hurt,\" as he grew, Thorfinn knew that nothing was further from the truth.\n\nThe war between England and the Danes grows worse with each passing year. Death has become commonplace, and the viking mercenaries are loving every moment of it. Allying with either side will cause a massive swing in the balance of power, and the vikings are happy to make names for themselves and take any spoils they earn along the way. Among the chaos, Thorfinn must take his revenge and kill Askeladd, the man who murdered his father. The only paradise for the vikings, it seems, is the era of war and death that rages on.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 8.77,
-    "scored_by": 1012769,
+    "scored_by": 1012960,
+    "rank": 46,
+    "popularity": 63,
+    "members": 1742273,
+    "favorites": 54844,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "Wit Studio"
@@ -52,6 +86,9 @@
       "Kodansha",
       "Twin Engine"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -61,8 +98,12 @@
       "Gore",
       "Historical"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-12-30T00:00:00+00:00",
+    "broadcast": "Mondays at 00:10 (JST)",
     "url": "https://myanimelist.net/anime/37521/Vinland_Saga",
     "year": 2019,
     "season": "summer",
@@ -73,12 +114,27 @@
     "mal_id": 38671,
     "title": "Enen no Shouboutai",
     "title_english": "Fire Force",
+    "title_japanese": "炎炎ノ消防隊",
+    "title_synonyms": [
+      "Fire Brigade of Flames"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1664/103275l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/9uT5Iw2d0q4?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Spontaneous Human Combustion: a chaotic phenomenon that has plagued humanity for years, randomly transforming ordinary people into flaming, violent creatures known as Infernals. While Infernals make up the first-generation accounts of Human Combustion, the second and third generations became known as pyrokinetics—people gifted with the ability to manipulate and control their flames while remaining human. To combat the Infernal threat and discover the cause, the Tokyo Armed Forces, Fire Defense Agency, and Holy Church of Sol produced their answer: the Special Fire Force.\n\nYoung and eager third-generation pyrokinetic Shinra Kusakabe, nicknamed Devil's Footprints for his explosive ability to ignite his feet at will, becomes a member of the lively Special Fire Force Company 8. Upholding the brigade's duty to extinguish the blazing Infernals and lay their souls to rest, Shinra is determined to become a hero who will save the lives of those threatened by the flame terror.\n\nHowever, this is not the hero's game Shinra imagined. The Fire Force is a fractured mess of feuding brigades, abnormal Infernal sightings are increasing all over Tokyo, and a shadowy group is claiming to have answers to the strange fire that caused the death of Shinra's family 12 years ago. Faced with many obstacles within and outside the Fire Force, Shinra fights to uncover the truth behind the burning mysteries that have kept him in the dark.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 7.72,
-    "scored_by": 805538,
+    "scored_by": 805610,
+    "rank": 1306,
+    "popularity": 94,
+    "members": 1493094,
+    "favorites": 10356,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "David Production"
@@ -90,6 +146,9 @@
       "DMM pictures",
       "DMM Music"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Fantasy",
@@ -98,8 +157,12 @@
     "themes": [
       "Urban Fantasy"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-07-06T00:00:00+00:00",
     "aired_to": "2019-12-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:25 (JST)",
     "url": "https://myanimelist.net/anime/38671/Enen_no_Shouboutai",
     "year": 2019,
     "season": "summer",
@@ -110,12 +173,28 @@
     "mal_id": 37347,
     "title": "Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II",
     "title_english": "Is It Wrong to Try to Pick Up Girls in a Dungeon? II",
+    "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうかII",
+    "title_synonyms": [
+      "DanMachi 2nd Season",
+      "Is It Wrong That I Want to Meet You in a Dungeon 2nd Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1730/101329l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/SSgtBDgvIzc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "It is business as usual in the massive city of Orario, where legions of adventurers gather to explore the monster-infested \"Dungeon.\" Among them is the easily flustered yet brave Bell Cranel, the sole member of the Hestia Familia. With the help of his demi-human supporter Liliruca Arde and competent blacksmith Welf Crozzo, Bell has earned the title of Little Rookie by becoming Orario's fastest-growing adventurer thanks to his endeavors within the deeper levels of the Dungeon.\n\nDungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka II continues Bell's adventures as he tries to bring glory to his goddess and protect those he cares about. However, various familias and gods across the city begin to take notice of his achievements and attempt to add him to their ranks.\n\n[Written by MAL Rewrite]",
+    "background": "The series adapts the volumes 6, 7 and 8 of the light novel of Fujino Omori's series of the same title.",
     "episodes": 12,
     "score": 7.24,
-    "scored_by": 509085,
+    "scored_by": 509129,
+    "rank": 3289,
+    "popularity": 224,
+    "members": 888126,
+    "favorites": 2140,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "J.C.Staff"
@@ -131,14 +210,19 @@
       "FuRyu",
       "GREE"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Action",
       "Adventure",
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2019-07-13T00:00:00+00:00",
     "aired_to": "2019-09-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 00:30 (JST)",
     "url": "https://myanimelist.net/anime/37347/Dungeon_ni_Deai_wo_Motomeru_no_wa_Machigatteiru_Darou_ka_II",
     "year": 2019,
     "season": "summer",
@@ -149,12 +233,27 @@
     "mal_id": 36882,
     "title": "Arifureta Shokugyou de Sekai Saikyou",
     "title_english": "Arifureta: From Commonplace to World's Strongest",
+    "title_japanese": "ありふれた職業で世界最強",
+    "title_synonyms": [
+      "From Common Job Class to the Strongest in the World"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1776/97682l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/xoIaPNWLxy0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The ordinary life of 17-year-old otaku Hajime Nagumo is disrupted when he and his classmates are summoned to a fantasy world and tasked with saving mankind. While his classmates are gifted with impressive abilities useful in combat, Hajime is belittled for only gaining an inferior transmutation skill that lacks any real offensive power. \n\nDuring an expedition in the Great Orcus Labyrinth, Hajime is betrayed by one of his classmates, plummeting him to the bottom of an abyss. Though he survives the fall, Hajime is faced with menacing monsters and misfortunes that send him spiraling into a grim nightmare. Desperate to live and return home one day, he resolves to fight for his survival—only to meet an imprisoned vampire he names Yue, who is also seeking to escape the labyrinth. Taking an interest in him, Yue and a few others along the way accompany Hajime on his journey to find a way back home, while steadily transforming from commonplace to the world's strongest. \n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.72,
-    "scored_by": 448241,
+    "scored_by": 448343,
+    "rank": 5944,
+    "popularity": 277,
+    "members": 794035,
+    "favorites": 6862,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "asread.",
@@ -170,6 +269,9 @@
       "FuRyu",
       "Bandai Namco Arts"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -179,8 +281,10 @@
       "Harem",
       "Isekai"
     ],
+    "demographics": [],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-10-07T00:00:00+00:00",
+    "broadcast": "Mondays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/36882/Arifureta_Shokugyou_de_Sekai_Saikyou",
     "year": 2019,
     "season": "summer",
@@ -191,12 +295,25 @@
     "mal_id": 39533,
     "title": "Given",
     "title_english": "given",
+    "title_japanese": "ギヴン",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1666/102238l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Dwv4MiB08TY?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Tightly clutching his Gibson guitar, Mafuyu Satou steps out of his dark apartment to begin another day of his high school life. While taking a nap in a quiet spot on the gymnasium staircase, he has a chance encounter with fellow student Ritsuka Uenoyama, who berates him for letting his guitar's strings rust and break. Noticing Uenoyama's knowledge of the instrument, Satou pleads for him to fix it and to teach him how to play. Uenoyama eventually agrees and invites him to sit in on a jam session with his two band mates: bassist Haruki Nakayama and drummer Akihiko Kaji.\n    \nSatou's voice is strikingly beautiful, filling Uenoyama with the determination to make Satou the lead singer of the band. Though reticent at first, Satou takes the offer after an emotional meeting with an old friend. With the support of his new friends, Satou must not only learn how to play guitar, but also come to terms with the mysterious circumstances that led him to be its owner.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 11,
     "score": 8.29,
-    "scored_by": 339106,
+    "scored_by": 339159,
+    "rank": 307,
+    "popularity": 388,
+    "members": 622327,
+    "favorites": 17964,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Lerche"
@@ -208,6 +325,9 @@
       "Fuji TV",
       "Shinshokan"
     ],
+    "licensors": [
+      "Crunchyroll"
+    ],
     "genres": [
       "Boys Love",
       "Drama"
@@ -216,8 +336,10 @@
       "Music",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-12T00:00:00+00:00",
     "aired_to": "2019-09-20T00:00:00+00:00",
+    "broadcast": "Fridays at 00:55 (JST)",
     "url": "https://myanimelist.net/anime/39533/Given",
     "year": 2019,
     "season": "summer",
@@ -228,12 +350,27 @@
     "mal_id": 39026,
     "title": "Dumbbell Nan Kilo Moteru?",
     "title_english": "How Heavy Are the Dumbbells You Lift?",
+    "title_japanese": "ダンベル何キロ持てる？",
+    "title_synonyms": [
+      "How Many Kilograms are the Dumbbells You Lift?"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1385/101060l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/2YPtn01c66M?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "During a regular after-school grub crawl, gluttonous high schooler Hibiki Sakura is confronted about her ever-expanding waistline by her best friend, Ayaka Uehara. With her attempts at solitary exercise failing miserably, Hibiki decides to join the newly opened Silverman Gym. At her orientation, Hibiki runs into student council president and school idol Akemi Souryuuin.\n\nHowever, it soon turns out that Hibiki is in for a lot more than she bargained for. Not only is Silverman Gym full of world-renowned bodybuilders and athletes, but to make matters worse, Akemi turns out to be a total muscle fetishist! Grossed out by the scene unfolding before her eyes, Hibiki begins to leave, only to be stopped by trainer Naruzou Machio. Completely enthralled with her newfound Prince Charming, Hibiki signs up as a gym member. Now, as a result of her spur-of-the-moment decision, Hibiki must adapt to her new lifestyle.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.22,
-    "scored_by": 196056,
+    "scored_by": 196083,
+    "rank": 3371,
+    "popularity": 609,
+    "members": 424102,
+    "favorites": 1349,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Doga Kobo"
@@ -246,6 +383,9 @@
       "NTT Plala",
       "Kadokawa"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Comedy",
       "Ecchi"
@@ -253,8 +393,10 @@
     "themes": [
       "CGDCT"
     ],
+    "demographics": [],
     "aired_from": "2019-07-03T00:00:00+00:00",
     "aired_to": "2019-09-18T00:00:00+00:00",
+    "broadcast": "Wednesdays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/39026/Dumbbell_Nan_Kilo_Moteru",
     "year": 2019,
     "season": "summer",
@@ -265,12 +407,27 @@
     "mal_id": 38753,
     "title": "Araburu Kisetsu no Otome-domo yo.",
     "title_english": "O Maidens in Your Savage Season",
+    "title_japanese": "荒ぶる季節の乙女どもよ。",
+    "title_synonyms": [
+      "Maidens of the Savage Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1622/111483l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/f-lS_fWGUZE?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "When they were little kids laughing and playing together, Izumi Norimoto and Kazusa Onodera were like siblings. But as their bodies matured into middle school, Kazusa began seeing him as something different; unfortunately for her, so did the other girls. Ostracized, Kazusa had no choice but to distance herself from him going into high school. After joining the literature club, however, she finds friends that keep her mind occupied. Known throughout the school for reading aloud sex scenes in literature novels, the club's reputation has kept all teachers from accepting the task of being their adviser.\n    \nDuring a discussion about what they would put on their bucket list, one of the girls says one thing: sex. This single word sends ripples throughout the five girls, as the thought of sex begins taking over their daily lives. And, after walking in on Izumi during a very private moment, Kazusa is sent into a spiral of emotion that forces her to face her true feelings for him. Now, with their hearts racing and the literature club facing immediate disbandment, the five girls must work hard to keep both their sanities and their club alive.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.29,
-    "scored_by": 162475,
+    "scored_by": 162488,
+    "rank": 2955,
+    "popularity": 718,
+    "members": 368711,
+    "favorites": 1667,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Lay-duce"
@@ -280,6 +437,9 @@
       "Kodansha",
       "DMM pictures"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Drama",
       "Romance"
@@ -287,8 +447,12 @@
     "themes": [
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-07-06T00:00:00+00:00",
     "aired_to": "2019-09-21T00:00:00+00:00",
+    "broadcast": "Saturdays at 02:25 (JST)",
     "url": "https://myanimelist.net/anime/38753/Araburu_Kisetsu_no_Otome-domo_yo",
     "year": 2019,
     "season": "summer",
@@ -299,12 +463,27 @@
     "mal_id": 37744,
     "title": "Isekai Cheat Magician",
     "title_english": "Isekai Cheat Magician",
+    "title_japanese": "異世界チート魔術師〈マジシャン〉",
+    "title_synonyms": [
+      "Isekai Cheat Majutsushi"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1282/102248l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/qMSJKQEAAtw?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Regular high schooler Taichi Nishimura and his childhood friend, Rin Azuma, are on their way to school one ordinary morning. Suddenly, a glowing light envelops them, transporting them to a fantasy world full of magical creatures.\n\nUpon their arrival, Taichi and Rin are threatened by a beast. They are promptly saved by a group of adventurers, who advise the pair that traveling unarmed and inexperienced makes them vulnerable to the recently increasing monster attacks. Taichi and Rin are directed to the Guild, where they can determine their magical aptitude and register as adventurers. However, the test they take reveals an unprecedented result: Taichi and Rin possess extraordinary powers that far surpass the standard mage, instantly transforming them from typical high school students to the ultimate cheat magicians.\n\nTaichi and Rin learn to grasp the full extent of their powers and familiarize themselves with their new world. However, while the duo seeks to uncover the reason behind their transportation and a possible way back to their original world, unexpected trouble lurks in the shadows.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 5.48,
-    "scored_by": 185825,
+    "scored_by": 185843,
+    "rank": 12643,
+    "popularity": 743,
+    "members": 358770,
+    "favorites": 568,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Encourage Films"
@@ -315,6 +494,7 @@
       "Kadokawa",
       "Shufunotomo"
     ],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
@@ -323,8 +503,10 @@
     "themes": [
       "Isekai"
     ],
+    "demographics": [],
     "aired_from": "2019-07-10T00:00:00+00:00",
     "aired_to": "2019-09-25T00:00:00+00:00",
+    "broadcast": "Wednesdays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/37744/Isekai_Cheat_Magician",
     "year": 2019,
     "season": "summer",
@@ -335,12 +517,28 @@
     "mal_id": 38993,
     "title": "Karakai Jouzu no Takagi-san 2",
     "title_english": "Teasing Master Takagi-san 2",
+    "title_japanese": "からかい上手の高木さん2",
+    "title_synonyms": [
+      "Skilled Teaser Takagi-san 2nd Season",
+      "Karakai Jouzu no Takagi-san Second Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1393/107033l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Z_iXQH8Bxog?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Even after spending a considerable amount of time with Takagi, Nishikata is still struggling to find a perfect plan to defeat the expert teaser. A battle of wits, a contest of physical prowess, a test of courage—any strategy he employs to expose her weaknesses is to no avail. On the contrary, Nishikata's pitiful attempts only reveal more of his own flaws, which Takagi takes advantage of to become increasingly daring in her teasing attempts. To make things worse for Nishikata, rumors about him and Takagi may have spread in class due to the frequent interactions between them.\n\nHowever, the optimistic Nishikata believes that wisdom comes with age and that as the days go by, his experience with her constant teasing will eventually bear fruit, leading him to the awaited moment of victory. Thus, Nishikata continues to strive for the seemingly impossible—to outsmart Takagi and make her blush with embarrassment.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 8.02,
-    "scored_by": 193643,
+    "scored_by": 193670,
+    "rank": 664,
+    "popularity": 748,
+    "members": 355618,
+    "favorites": 2301,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Shin-Ei Animation"
@@ -353,6 +551,7 @@
       "Shogakukan",
       "Sumitomo"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance"
@@ -361,8 +560,12 @@
       "Love Status Quo",
       "School"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-09-22T00:00:00+00:00",
+    "broadcast": "Sundays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/38993/Karakai_Jouzu_no_Takagi-san_2",
     "year": 2019,
     "season": "summer",
@@ -373,12 +576,27 @@
     "mal_id": 39326,
     "title": "Kawaikereba Hentai demo Suki ni Natte Kuremasu ka?",
     "title_english": "Hensuki: Are you willing to Fall in Love with a Pervert, as long as she's a Cutie?",
+    "title_japanese": "可愛ければ変態でも好きになってくれますか？",
+    "title_synonyms": [
+      "Would you love a pervert as long as she's cute?"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1430/102439l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/LHx7lkoQ8Cc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As far as it goes, many boys, especially in their teenage years, want to have a girlfriend. Keiki Kiryuu is no exception. One eventful afternoon, his days of yearning for a lover seem to come to an end when he receives a love letter from an anonymous sender—along with a pair of white panties. \n\nTo determine the identity of his secret admirer, referred to as Cinderella, he proceeds to investigate several possible candidates including his senior Sayuki Tokihara, his underclassman Yuika Koga, and his classmate Mao Nanjou. However, as Keiki seeks to uncover who this mystery girl might be, he comes to know about the perverted fetishes hidden behind each candidate's innocent exteriors...\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.46,
-    "scored_by": 169953,
+    "scored_by": 169966,
+    "rank": 7546,
+    "popularity": 751,
+    "members": 353000,
+    "favorites": 976,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Geek Toys"
@@ -391,6 +609,9 @@
       "INCS toenter",
       "Bandai Namco Arts"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Comedy",
       "Romance",
@@ -400,8 +621,10 @@
       "Harem",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-09-23T00:00:00+00:00",
+    "broadcast": "Mondays at 20:00 (JST)",
     "url": "https://myanimelist.net/anime/39326/Kawaikereba_Hentai_demo_Suki_ni_Natte_Kuremasu_ka",
     "year": 2019,
     "season": "summer",
@@ -412,12 +635,27 @@
     "mal_id": 39198,
     "title": "Kanata no Astra",
     "title_english": "Astra Lost in Space",
+    "title_japanese": "彼方のアストラ",
+    "title_synonyms": [
+      "Astra Lost in Space"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1784/106428l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/wD9o_8UjOvg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "In the year 2063, space travel is feasible and commercially available. As the cheerful Aries Spring arrives at the spaceport to attend a camp on the distant planet McPa, her purse is suddenly snatched by a reckless thief. Luckily, the athletic Kanata Hoshijima is able to retrieve it for her, and Aries soon discovers that he is among the group of teenagers who will be traveling with her on the excursion as team B-5.\n\nUpon arriving at their campsite, the group's trip takes a turn for the worse when a strange sphere of black light sucks them into the vast reaches of outer space. Stranded with seemingly no hope, they find an abandoned ship nearby that provides them with the means to return home. However, they soon discover that they are not as close to their campsite as they initially thought, but are in fact thousands of light-years away from home.\n\nWith this realization, the nine members must cautiously manage their resources, maintain their strength, and unite as one to conquer the darkness of space together. While the reason behind their trip's sudden obstruction remains unknown, they nevertheless embark on the treacherous voyage back home aboard their new ship, the Astra.\n\n[Written by MAL Rewrite]",
+    "background": "The series won the 51st Seiun Award for Best Dramatic Presentation in 2020.",
     "episodes": 12,
     "score": 8.07,
-    "scored_by": 158483,
+    "scored_by": 158516,
+    "rank": 599,
+    "popularity": 801,
+    "members": 336142,
+    "favorites": 3398,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "28 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Lerche"
@@ -428,6 +666,9 @@
       "Shueisha",
       "Kadokawa Media House",
       "Kadokawa"
+    ],
+    "licensors": [
+      "Funimation"
     ],
     "genres": [
       "Adventure",
@@ -440,8 +681,12 @@
       "Space",
       "Survival"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-07-03T00:00:00+00:00",
     "aired_to": "2019-09-18T00:00:00+00:00",
+    "broadcast": "Wednesdays at 21:00 (JST)",
     "url": "https://myanimelist.net/anime/39198/Kanata_no_Astra",
     "year": 2019,
     "season": "summer",
@@ -452,12 +697,28 @@
     "mal_id": 38573,
     "title": "Tsuujou Kougeki ga Zentai Kougeki de Ni-kai Kougeki no Okaasan wa Suki desu ka?",
     "title_english": "Do You Love Your Mom and Her Two-Hit Multi-Target Attacks?",
+    "title_japanese": "通常攻撃が全体攻撃で二回攻撃のお母さんは好きですか？",
+    "title_synonyms": [
+      "Do You Like Your Mom? Her Normal Attack is Two Attacks at Full Power",
+      "Okaa-san Online"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1225/102250l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/3LY0_8QRhm0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Forming a party with one's mother in an online game seems not only unlikely but also uncomfortable to most teenage gamers. \n\nUnfortunately, Masato Oosuki finds himself in that exact scenario. After completing a seemingly meaningless survey, he is thrown into the world of a fantasy MMORPG—and his mother Mamako actually tagged along with him! On top of all of that, Mamako turns out to be an overpowered swordswoman, possessing the power of two-hit multi-target attacks! After minor tension between the two, they search for party members, meeting the merchant Porta and the sage Wise, starting their journey to clear the game.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 5.54,
-    "scored_by": 132951,
+    "scored_by": 132976,
+    "rank": 12436,
+    "popularity": 897,
+    "members": 305083,
+    "favorites": 513,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R+ - Mild Nudity",
     "source": "Light novel",
     "studios": [
       "J.C.Staff"
@@ -472,6 +733,9 @@
       "Kadokawa",
       "KLab"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Adventure",
       "Comedy",
@@ -479,8 +743,10 @@
       "Ecchi"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2019-07-13T00:00:00+00:00",
     "aired_to": "2019-09-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/38573/Tsuujou_Kougeki_ga_Zentai_Kougeki_de_Ni-kai_Kougeki_no_Okaasan_wa_Suki_desu_ka",
     "year": 2019,
     "season": "summer",
@@ -491,12 +757,25 @@
     "mal_id": 38610,
     "title": "Tejina-senpai",
     "title_english": "Magical Sempai",
+    "title_japanese": "手品先輩",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1510/99891l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/kfKLC2Hdh1Q?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Starting his new term at Tanenashi High School, an unmotivated freshman searches for a club that requires minimal participation to suit his needs. He then comes across the magic clubroom, and inside is a cute upperclassman practicing her magic tricks. Suffering from stage fright that causes her to slip up in her acts, she has a tendency to end up in the most embarrassing situations. Despite having little interest in a club run by an incapable magician, the freshman finds himself involved as a new member, experiencing all sorts of awkward moments with his eccentric mentor.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.38,
-    "scored_by": 135897,
+    "scored_by": 135913,
+    "rank": 8037,
+    "popularity": 920,
+    "members": 294693,
+    "favorites": 483,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "LIDENFILMS"
@@ -513,6 +792,7 @@
       "BS NTV",
       "Marui Group"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Romance",
@@ -522,8 +802,12 @@
       "Performing Arts",
       "School"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2019-07-02T00:00:00+00:00",
     "aired_to": "2019-09-17T00:00:00+00:00",
+    "broadcast": "Tuesdays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/38610/Tejina-senpai",
     "year": 2019,
     "season": "summer",
@@ -534,17 +818,33 @@
     "mal_id": 38297,
     "title": "Maou-sama, Retry!",
     "title_english": "Demon Lord, Retry!",
+    "title_japanese": "魔王様、リトライ！",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1754/113897l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/dfm4V4eHPRk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Akira Oono is an ordinary working adult who manages the MMORPG Infinity Game. Fifteen years after creating the game, Oono decides to shut the servers down once and for all. However, as the clock strikes midnight, he somehow finds himself in the body of middle-aged Hakuto Kunai, Infinity Game's Demon Lord!\n\nSoon after his mysterious transportation, he witnesses the demon Greole chasing after a little girl named Aku. Although he effortlessly dispatches the creature, Hakuto is still concerned; after all, he does not remember creating the girl or the demon! Doubting whether he truly is in the world of his creation, Hakuto decides to investigate. Bringing Aku along as his guide and companion, Hakuto sets out on a journey to find out exactly who or what summoned him to this fantasy world—all while leaving chaos and destruction in his wake.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.55,
-    "scored_by": 145142,
+    "scored_by": 145160,
+    "rank": 6993,
+    "popularity": 976,
+    "members": 277753,
+    "favorites": 670,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "EKACHI EPILKA"
     ],
     "producers": [],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Adventure",
@@ -553,8 +853,10 @@
     "themes": [
       "Isekai"
     ],
+    "demographics": [],
     "aired_from": "2019-07-04T00:00:00+00:00",
     "aired_to": "2019-09-19T00:00:00+00:00",
+    "broadcast": "Thursdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/38297/Maou-sama_Retry",
     "year": 2019,
     "season": "summer",
@@ -565,12 +867,28 @@
     "mal_id": 38480,
     "title": "Toaru Kagaku no Accelerator",
     "title_english": "A Certain Scientific Accelerator",
+    "title_japanese": "とある科学の一方通行〈アクセラレータ〉",
+    "title_synonyms": [
+      "To Aru Majutsu no Index Gaiden",
+      "Toaru Kagaku no Ippou Tsuukou"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1160/99995l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/1En9K5B1jNg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Academy City stands at the forefront of scientific and technological progress, best known for their development of espers: those capable of wielding superhuman abilities that alter the rules of reality. The most powerful among them are the Level 5s, and the one known as Accelerator reigns supreme, even after being weakened by a severe brain injury. By his side is the young girl known as Last Order, whom despite his cold demeanor, he holds closely and vows to protect at all costs.\n\nThough Accelerator may be recovering from his injury, the dark side of Academy City never rests, and so he finds himself unwillingly caught up in the midst of a new conflict. When a mysterious young woman approaches Accelerator in pursuit of Last Order, the highest-ranked esper is confronted by a venomous organization that has taken root in Anti-Skill, Academy City's peacekeeping organization. With dangerous forces on the move that threaten to put Last Order and her sisters at risk, the self-proclaimed villain prepares to step into the darkness once again.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.21,
-    "scored_by": 106003,
+    "scored_by": 106024,
+    "rank": 3435,
+    "popularity": 1066,
+    "members": 254076,
+    "favorites": 970,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "J.C.Staff"
@@ -583,6 +901,9 @@
       "NBCUniversal Entertainment Japan",
       "Kadokawa"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Fantasy",
@@ -592,8 +913,10 @@
       "Super Power",
       "Urban Fantasy"
     ],
+    "demographics": [],
     "aired_from": "2019-07-12T00:00:00+00:00",
     "aired_to": "2019-09-27T00:00:00+00:00",
+    "broadcast": "Fridays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/38480/Toaru_Kagaku_no_Accelerator",
     "year": 2019,
     "season": "summer",
@@ -604,12 +927,29 @@
     "mal_id": 39324,
     "title": "Uchi no Ko no Tame naraba, Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
     "title_english": "If It's for My Daughter, I'd Even Defeat a Demon Lord",
+    "title_japanese": "うちの娘の為ならば、俺はもしかしたら魔王も倒せるかもしれない。",
+    "title_synonyms": [
+      "Uchi no Musume no Tame naraba",
+      "Ore wa Moshikashitara Maou mo Taoseru kamo Shirenai.",
+      "UchiMusume"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1568/101203l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/aJT6_qQBYs8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Eighteen-year-old Dale Reki is a skilled, kind, and respected traveler, acknowledged as one of the leading adventurers in the city of Kreuz. One day while on the hunt for magical beasts, he comes across a sweet devil girl named Latina. She is alone, dressed in rags, and bears the devils' symbol of a criminal: a broken horn. Concerned for her wellbeing, Dale decides to ensure Latina's safety by bringing her to his home, eventually leading to him adopting her.\n\nLatina is sweet, innocent and compassionate, charming Dale beyond his expectations. He begins to enjoy the life of parenthood— experiencing the trials that come with raising a child and coping with the heartache he feels whenever his busy lifestyle as an adventurer parts him from her.\n\nAlthough work and life as a new parent become reassuring constants for Dale, the mysteries surrounding the girl remain. Why was Latina alone in the forest, and why does she harbor the symbol of a criminal? At the same time, Latina also begins to learn about the world and herself as she adjusts to her new life with Dale.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.08,
-    "scored_by": 113748,
+    "scored_by": 113762,
+    "rank": 4189,
+    "popularity": 1157,
+    "members": 236338,
+    "favorites": 778,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Maho Film"
@@ -622,6 +962,7 @@
       "BS11",
       "Muse Communication"
     ],
+    "licensors": [],
     "genres": [
       "Fantasy",
       "Slice of Life"
@@ -629,8 +970,10 @@
     "themes": [
       "Childcare"
     ],
+    "demographics": [],
     "aired_from": "2019-07-04T00:00:00+00:00",
     "aired_to": "2019-09-19T00:00:00+00:00",
+    "broadcast": "Thursdays at 23:30 (JST)",
     "url": "https://myanimelist.net/anime/39324/Uchi_no_Ko_no_Tame_naraba_Ore_wa_Moshikashitara_Maou_mo_Taoseru_kamo_Shirenai",
     "year": 2019,
     "season": "summer",
@@ -641,12 +984,27 @@
     "mal_id": 39071,
     "title": "Machikado Mazoku",
     "title_english": "The Demon Girl Next Door",
+    "title_japanese": "まちカドまぞく",
+    "title_synonyms": [
+      "Street Corner Demon"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1633/111518l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/ESNhhG3QQBQ?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After a strange dream of a mysterious ancestor, high school student Yuuko Yoshida wakes to see that she has grown demonic horns and a tail. Dazed and confused, her mother reveals to her a dark family secret: her family is descended from a Dark Clan that was banished to live powerless and destitute by their mortal enemies, the magical girls of the Light Clan. The only way to lift their ancestry's curse is for Yuuko to find a magical girl, murder her, and splatter her blood all over her ancestor's Demon God statue.\n\nFortunately for \"Shadow Mistress Yuuko,\" a magical girl saves her from being run over by an oncoming truck. Unfortunately, Momo Chiyoda happens to be Yuuko's classmate at Sakuragaoka High and is much stronger than her in both strength and endurance. Taking pity on her wimpy assailant, the magical girl agrees to train Yuuko and help her unlock her dormant powers. Now, Yuuko must rise up and defeat her generous frenemy to save her family from the terrible grip of poverty.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.63,
-    "scored_by": 67640,
+    "scored_by": 67643,
+    "rank": 1544,
+    "popularity": 1502,
+    "members": 178229,
+    "favorites": 1252,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "4-koma manga",
     "studios": [
       "J.C.Staff"
@@ -658,6 +1016,9 @@
       "Medicos Entertainment",
       "RAY"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy"
     ],
@@ -666,8 +1027,10 @@
       "Mahou Shoujo",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-12T00:00:00+00:00",
     "aired_to": "2019-09-27T00:00:00+00:00",
+    "broadcast": "Fridays at 01:28 (JST)",
     "url": "https://myanimelist.net/anime/39071/Machikado_Mazoku",
     "year": 2019,
     "season": "summer",
@@ -678,12 +1041,25 @@
     "mal_id": 39456,
     "title": "Sounan desu ka?",
     "title_english": "Are You Lost?",
+    "title_japanese": "ソウナンですか?",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1741/102237l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/wwP8TQE2P0c?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "After a school trip goes terribly wrong, Homare Onishima, Shion Kujou, Asuka Suzumori, and Mutsu Amatani are left stranded on a deserted island. While Shion, Asuka, and Mutsu are frightened and desperate, Homare seems strangely calm. Fortunately for the group, this isn't the first time she's been stranded! Homare spent her childhood training with her survivalist father all over the world, climbing cliffs, trapping prey, building shelters, and obtaining valuable nutrition from moose testicles. To Homare, surviving on an uninhabited island with a slim chance of rescue is child's play. The only problem is the other three.\n\nAs Homare shamelessly guides her classmates through the finer points of survival, including drinking fish blood and eating cicadas, the girls start to realize that being stranded might not be as bad as they had imagined.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.59,
-    "scored_by": 79684,
+    "scored_by": 79691,
+    "rank": 6737,
+    "popularity": 1572,
+    "members": 169817,
+    "favorites": 269,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Ezόla"
@@ -699,6 +1075,7 @@
       "BS NTV",
       "Marui Group"
     ],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy",
@@ -708,8 +1085,12 @@
       "CGDCT",
       "Survival"
     ],
+    "demographics": [
+      "Seinen"
+    ],
     "aired_from": "2019-07-02T00:00:00+00:00",
     "aired_to": "2019-09-17T00:00:00+00:00",
+    "broadcast": "Tuesdays at 23:15 (JST)",
     "url": "https://myanimelist.net/anime/39456/Sounan_desu_ka",
     "year": 2019,
     "season": "summer",
@@ -720,12 +1101,25 @@
     "mal_id": 38959,
     "title": "Lord El-Melloi II-sei no Jikenbo: Rail Zeppelin Grace Note",
     "title_english": "Lord El-Melloi II's Case Files: Rail Zeppelin Grace Note",
+    "title_japanese": "ロード・エルメロイⅡ世の事件簿 -魔眼蒐集列車 Grace note-",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1107/111530l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/n5lCZwNpYdg?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Ten years after facing defeat in the Fourth Holy Grail War, Waver Velvet, now Lord El-Melloi II, teaches classes at the Clock Tower—the center of education for mages. However, his new status as Lord comes with a caveat: obey the orders of Reines, the younger sister of the deceased Kayneth El-Melloi, until she is old enough to rule the House of El-Melloi.\n\nWaver, along with his mysterious apprentice Gray, takes on a series of cases assigned by Reines and the Mages Association. With each case proving to be more complex than the last, could there be more to the Clock Tower than meets the eye, and what secrets does Reines hide?\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 7.38,
-    "scored_by": 68481,
+    "scored_by": 68494,
+    "rank": 2545,
+    "popularity": 1619,
+    "members": 162115,
+    "favorites": 444,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "TROYCA"
@@ -734,6 +1128,9 @@
       "Aniplex",
       "Notes"
     ],
+    "licensors": [
+      "Aniplex of America"
+    ],
     "genres": [
       "Fantasy",
       "Mystery"
@@ -741,8 +1138,10 @@
     "themes": [
       "Urban Fantasy"
     ],
+    "demographics": [],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-09-29T00:00:00+00:00",
+    "broadcast": "Sundays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/38959/Lord_El-Melloi_II-sei_no_Jikenbo__Rail_Zeppelin_Grace_Note",
     "year": 2019,
     "season": "summer",
@@ -753,12 +1152,27 @@
     "mal_id": 39199,
     "title": "Katsute Kami Datta Kemono-tachi e",
     "title_english": "To the Abandoned Sacred Beasts",
+    "title_japanese": "かつて神だった獣たちへ",
+    "title_synonyms": [
+      "To the Abandoned Sacred Beasts"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1109/101230l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/tLW3eGfaG6I?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "With the initiation of the Patrian civil war came the creation of half-beast, half-human soldiers—a development of the outnumbered Northerners in a desperate attempt to counter the overwhelming Southern forces. Able to quickly dominate battlefields and achieve victory with ease, the soldiers' godlike abilities earned them the name \"Incarnates.\" However, as the war raged on, the Incarnates encountered a problem involving the beasts inside them that they were unable to rectify by ordinary means. \n\nOnce the war was over, mysteries and accounts of the Incarnates submitting to the misfortune of their war days surfaced. Aware of the horrors they faced during the war, Special Sergeant Major and former captain of the Incarnates Hank Henriette becomes a Beast Hunter—those who take the lives of Incarnates who have succumbed to the issues they experienced on the battlefields. \n\nAfter witnessing her father, a former Incarnate soldier, meet his end at the hands of one such Beast Hunter, Nancy Schaal Bancroft resolves to hunt the man who took her father's life. However, Nancy's eye-opening encounter with the Beast Hunter influences her to instead seek the reason behind her father's death and the Incarnates' problematic existence in society.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.41,
-    "scored_by": 57570,
+    "scored_by": 57580,
+    "rank": 7895,
+    "popularity": 1749,
+    "members": 147312,
+    "favorites": 252,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Manga",
     "studios": [
       "MAPPA"
@@ -772,6 +1186,9 @@
       "Cygames",
       "A-Sketch"
     ],
+    "licensors": [
+      "Anime Limited"
+    ],
     "genres": [
       "Action",
       "Drama",
@@ -780,8 +1197,12 @@
     "themes": [
       "Military"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-07-01T00:00:00+00:00",
     "aired_to": "2019-09-16T00:00:00+00:00",
+    "broadcast": "Mondays at 23:00 (JST)",
     "url": "https://myanimelist.net/anime/39199/Katsute_Kami_Datta_Kemono-tachi_e",
     "year": 2019,
     "season": "summer",
@@ -792,12 +1213,27 @@
     "mal_id": 37926,
     "title": "Nakanohito Genome [Jikkyouchuu]",
     "title_english": "The Ones Within",
+    "title_japanese": "ナカノヒトゲノム【実況中】",
+    "title_synonyms": [
+      "Naka no Hito Genome [Jikkyouchuu]"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1725/102251l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/inuhrp9tBYM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Iride Akatsuki has unlocked hidden content in the game he's playing, 'Nakanohito Genome,' and it turns out that this content is a real-life game!\n\nHe soon wakes up to find that he has been kidnapped and taken to a strange place, along with a number of other teammates. Each of them specializes in a certain sort of game, like cultivation games, fighting games, puzzle games, etc.\n\nA llama-headed 'teacher' gathers them after level 1 is cleared to explain how the game will proceed.\n\nWill this group of gamers succeed, and make it back to their real lives?\n\n(Source: MangaHelpers)",
+    "background": "",
     "episodes": 12,
     "score": 6.86,
-    "scored_by": 58948,
+    "scored_by": 58954,
+    "rank": 5227,
+    "popularity": 1794,
+    "members": 142647,
+    "favorites": 608,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "SILVER LINK."
@@ -812,6 +1248,9 @@
       "Bandai Namco Arts",
       "Bit Promotion"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Adventure",
       "Drama",
@@ -820,8 +1259,10 @@
     "themes": [
       "Video Game"
     ],
+    "demographics": [],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-09-22T00:00:00+00:00",
+    "broadcast": "Sundays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/37926/Nakanohito_Genome_Jikkyouchuu",
     "year": 2019,
     "season": "summer",
@@ -832,12 +1273,27 @@
     "mal_id": 38619,
     "title": "Joshikousei no Mudazukai",
     "title_english": "Wasteful Days of High School Girls",
+    "title_japanese": "女子高生の無駄づかい",
+    "title_synonyms": [
+      "Joshimuda"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1343/111356l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/mx_aGPftB-o?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "As she heads off to her entrance ceremony at Sainotama Girls' High School, Akane Kikuchi muses over her grade school dream of becoming a manga artist and the lack of progress that she has made. When she finally arrives at school, she is surprised to learn that she is once again in the same class as her two best friends: the deadpan and emotionless Shiori Saginomiya and the hyperactive and ridiculous Nozomu Tanaka. Tanaka then comes to the obvious realization that she can't achieve her grade school dream of being popular with the boys and getting a boyfriend by going to an all-girls high school.\n\nIn desperation, she begins asking the girls in her class to introduce her to their guy friends. Her classmates, however, are anything but ordinary. From a grandmother-loving loli to a reclusive chuunibyou to an overly analytical stalker, each one is given a fitting nickname by Tanaka to accentuate their weirdness. And so begin the wasteful days of these high school girls, each day kicked off with a simple question: \"Hey, wanna hear something amazing?\"\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 7.7,
-    "scored_by": 52124,
+    "scored_by": 52134,
+    "rank": 1356,
+    "popularity": 1892,
+    "members": 133615,
+    "favorites": 764,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Web manga",
     "studios": [
       "Passione"
@@ -847,6 +1303,9 @@
       "Kadokawa Media House",
       "Kadokawa"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Comedy"
     ],
@@ -855,8 +1314,10 @@
       "Gag Humor",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-05T00:00:00+00:00",
     "aired_to": "2019-09-20T00:00:00+00:00",
+    "broadcast": "Fridays at 21:30 (JST)",
     "url": "https://myanimelist.net/anime/38619/Joshikousei_no_Mudazukai",
     "year": 2019,
     "season": "summer",
@@ -867,12 +1328,25 @@
     "mal_id": 38940,
     "title": "Cop Craft",
     "title_english": null,
+    "title_japanese": "COP CRAFT [コップクラフト]",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1365/103219l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/C3Fy8iYOQ7A?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Fifteen years ago, a hyperspace gate appeared in the middle of the Pacific Ocean, connecting Earth to a strange world filled with fairies and monsters. The city of San-Teresa became a home for over two million of these otherworldly visitors. Unfortunately, the population boom also brought its fair share of problems—drugs, prostitution, and trafficking. To combat the rampant crime lurking in the city's shadows, a new department was established in the San-Teresa Metropolitan Police.\n\nFormer JSDF soldier Kei Matoba is one of the best cops that the department has to offer, despite his inclination to occasionally bend the rules. After a fairy trafficking case goes wrong, Kei loses Rick Fury, his friend and partner of four years, setting him on a quest for vengeance. To help him with the case, the department pairs him with Tilarna Exedilika, a noble of the Farbani Kingdom. As one of the Knights of Mirvor, her duty is to rescue the noble fairy that Kei encountered during his last case. Despite his distaste for non-humans, he accepts the arrangement at the request of his superiors. Now, the unlikely duo must come together and overcome their differences in order to return the missing fairy to her country and avenge the death of Kei's partner.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.71,
-    "scored_by": 54550,
+    "scored_by": 54554,
+    "rank": 6030,
+    "popularity": 1973,
+    "members": 126561,
+    "favorites": 233,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "R - 17+ (violence & profanity)",
     "source": "Light novel",
     "studios": [
       "Millepensee"
@@ -883,6 +1357,9 @@
       "Hakuhodo DY Music & Pictures",
       "Good Smile Film"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Fantasy",
@@ -892,8 +1369,10 @@
       "Detective",
       "Urban Fantasy"
     ],
+    "demographics": [],
     "aired_from": "2019-07-09T00:00:00+00:00",
     "aired_to": "2019-10-01T00:00:00+00:00",
+    "broadcast": "Tuesdays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/38940/Cop_Craft",
     "year": 2019,
     "season": "summer",
@@ -904,12 +1383,25 @@
     "mal_id": 39221,
     "title": "Bem",
     "title_english": null,
+    "title_japanese": "BEM",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1127/99941l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/5pTZNygIoT8?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Young detective Sonia Summers has been transferred to the outskirts of the port city Libra after stirring up trouble with her superiors. Libra is separated into two sectors—\"the Upper,\" the center of wealth and politics, and \"the Outside.\" The Outside is home to crime, corruption, and curious incidents involving monstrosities or youkai. Each case that Sonia works on seems to implicate the involvement of these mysterious creatures.\n\nSonia crosses paths with three peculiar humanoid youkai—Bem, Bela and Belo—who seek to protect humans and fight against the evil youkai that terrorize them. Living as \"Youkai-Ningen,\" they are excluded by other youkai for their human-like lifestyles, and rejected and hurt by humans when they reveal their true forms.\n\nDespite the hardships they face, these three Youkai-Ningen secretly live among humans, continuing to pursue their dreams of one day becoming human as well.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.08,
-    "scored_by": 23431,
+    "scored_by": 23433,
+    "rank": 9817,
+    "popularity": 2696,
+    "members": 78663,
+    "favorites": 106,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "LandQ studios"
@@ -921,6 +1413,9 @@
       "KlockWorx",
       "flying DOG"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Supernatural"
@@ -928,8 +1423,10 @@
     "themes": [
       "Mythology"
     ],
+    "demographics": [],
     "aired_from": "2019-07-15T00:00:00+00:00",
     "aired_to": "2019-10-14T00:00:00+00:00",
+    "broadcast": "Mondays at 01:35 (JST)",
     "url": "https://myanimelist.net/anime/39221/Bem",
     "year": 2019,
     "season": "summer",
@@ -940,12 +1437,25 @@
     "mal_id": 39417,
     "title": "Granbelm",
     "title_english": null,
+    "title_japanese": "グランベルム",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1035/101330l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/VqW-YbHugT0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Long ago, magic was abundant and enriched the lives of all people until its usage in war. To end the chaos, seven of the most powerful mages gave up their lives in order to seal all magic. Now, almost one thousand years later, their magic seal Magiaconatus hosts Granbelm, a monthly series of battles meant to determine who among its participants is worthy of the title of Princeps, the one true mage.\n\nOn the night of a full moon, high school student Mangetsu Kohinata is suddenly transported to an illusionary world where six mages are participating in Granbelm. Mistaken for an enemy mage, Mangetsu is attacked by two mages until she is rescued by Shingetsu Ernesta Fukami and her Armanox Viola Katze. However, when Shingetsu is ambushed for protecting her, Magiaconatus grants Mangetsu the Armanox White Lily, allowing her to fight off Shingetsu's assailant. Overwhelmed by the revelations presented to her, Mangetsu decides to help her new friend fight in Granbelm and make her wish come true.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.66,
-    "scored_by": 20289,
+    "scored_by": 20291,
+    "rank": 6342,
+    "popularity": 3232,
+    "members": 56758,
+    "favorites": 135,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Nexus"
@@ -955,6 +1465,9 @@
       "Infinite",
       "DMM pictures"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Sci-Fi"
     ],
@@ -962,8 +1475,10 @@
       "Mahou Shoujo",
       "Mecha"
     ],
+    "demographics": [],
     "aired_from": "2019-07-06T00:00:00+00:00",
     "aired_to": "2019-09-27T00:00:00+00:00",
+    "broadcast": "Saturdays at 01:55 (JST)",
     "url": "https://myanimelist.net/anime/39417/Granbelm",
     "year": 2019,
     "season": "summer",
@@ -974,12 +1489,27 @@
     "mal_id": 32212,
     "title": "Ensemble Stars!",
     "title_english": null,
+    "title_japanese": "あんさんぶるスターズ！",
+    "title_synonyms": [
+      "Enstars"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1804/107203l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/cOG0gLHhOUM?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Yumenosaki Academy has been home to the best boy idols of different generations. Holding immense influence over the school, its student council maintains the status quo by enforcing old traditions with an iron fist. Transfer student Anzu winds up attending as the very first member in the production course, making her the sole female student in the entire school. There, she meets Subaru Akehoshi, Hokuto Hidaka, Mao Isara, and Makoto Yuuki—her classmates and members of the idol unit \"Trickstar.\" \n\nThe academy holds Dream Idol Festivals—stage battles that put its students' singing and dancing skills against each other, with the audience voting on the winner. Winning these \"DreFes\" guarantees the members of the idol unit various privileges and prestige. However, with the student council intervening and punishing everyone involved in an unsanctioned DreFes, the members of Trickstar find that they can no longer sit around and let it continue. Alongside Anzu as their producer, they plot to become the revolutionaries of the academy.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 24,
     "score": 6.93,
-    "scored_by": 14127,
+    "scored_by": 14133,
+    "rank": 4828,
+    "popularity": 3413,
+    "members": 51935,
+    "favorites": 682,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Game",
     "studios": [
       "David Production"
@@ -990,14 +1520,19 @@
       "Happy Elements",
       "Bandai Namco Arts"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [],
     "themes": [
       "Idols (Male)",
       "Music",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-12-22T00:00:00+00:00",
+    "broadcast": "Sundays at 22:30 (JST)",
     "url": "https://myanimelist.net/anime/32212/Ensemble_Stars",
     "year": 2019,
     "season": "summer",
@@ -1008,12 +1543,25 @@
     "mal_id": 32843,
     "title": "Senki Zesshou Symphogear XV",
     "title_english": "Symphogear XV",
+    "title_japanese": "戦姫絶唱シンフォギアXV",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1899/101966l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Gl3vAScd2sk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Humanity is finally confronted with the threat of the Custodians—the ancient, sentient species held responsible for cursing humanity to speak different languages thousands of years ago. The Symphogear wielders—Hibiki Tachibana, Tsubasa Kazanari, Chris Yukine, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi—are sent to the Antarctic in order to retrieve an ancient relic. After securing it and rescuing the scientific staff present there from a Coffin, the automated defense mechanism protecting it, the relic is given to American researchers due to international agreements.\n\nThe criminal organization Noble Red, a remnant of the previously fought Bavarian Illuminati, starts targeting the relic. Will the Symphogear wielders and their supporting organization S.O.N.G. be able to foil the plans of the organizations conspiring against them?\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 8.19,
-    "scored_by": 15556,
+    "scored_by": 15560,
+    "rank": 425,
+    "popularity": 3777,
+    "members": 43398,
+    "favorites": 911,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Satelight"
@@ -1025,6 +1573,9 @@
       "King Records",
       "Kinyosha"
     ],
+    "licensors": [
+      "Discotek Media"
+    ],
     "genres": [
       "Action",
       "Sci-Fi"
@@ -1033,8 +1584,10 @@
       "Idols (Female)",
       "Music"
     ],
+    "demographics": [],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-09-29T00:00:00+00:00",
+    "broadcast": "Sundays at 01:00 (JST)",
     "url": "https://myanimelist.net/anime/32843/Senki_Zesshou_Symphogear_XV",
     "year": 2019,
     "season": "summer",
@@ -1045,12 +1598,27 @@
     "mal_id": 38920,
     "title": "Kochouki: Wakaki Nobunaga",
     "title_english": "Kochoki",
+    "title_japanese": "胡蝶綺 ～若き信長～",
+    "title_synonyms": [
+      "Gorgeous Butterfly: Young Nobunaga"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1934/111399l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/WoUVEFxra7w?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The fearsome warlord, the demonic king—Oda Nobunaga! Before he was trying to rule over Japan, he was a teenager who began his path to greatness with his younger brother and faithful followers. Through succession, betrayal, battles, and bonds between one another, the struggles these boys face promise a future where they can blossom into powerful men.\n\n(Source: Funimation)",
+    "background": "",
     "episodes": 12,
     "score": 6.51,
-    "scored_by": 9541,
+    "scored_by": 9544,
+    "rank": 7244,
+    "popularity": 4483,
+    "members": 30537,
+    "favorites": 58,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "Studio Deen"
@@ -1068,6 +1636,9 @@
       "Docomo Anime Store",
       "Happinet"
     ],
+    "licensors": [
+      "Funimation"
+    ],
     "genres": [
       "Action",
       "Drama"
@@ -1076,8 +1647,10 @@
       "Historical",
       "Samurai"
     ],
+    "demographics": [],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-09-23T00:00:00+00:00",
+    "broadcast": "Mondays at 21:30 (JST)",
     "url": "https://myanimelist.net/anime/38920/Kochouki__Wakaki_Nobunaga",
     "year": 2019,
     "season": "summer",
@@ -1088,12 +1661,29 @@
     "mal_id": 39836,
     "title": "Yami Shibai 7",
     "title_english": "Theatre of Darkness: Yamishibai 7",
+    "title_japanese": "闇芝居 7期",
+    "title_synonyms": [
+      "Yamishibai: Japanese Ghost Stories Seventh Season",
+      "Theater of Darkness 7th Season",
+      "Japanese Ghost Stories 7"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1154/101895l.jpg",
+    "trailer_url": null,
     "synopsis": "A rusted door opens to a decrepit apartment filled with darkness. Inside, the masked Storyteller waits to spin more twisted tales of horror, inviting all to listen.\n\nIn one story, a woman is tormented by her past sins; in another, a man visits a chilling art exhibit, where things quickly go awry when he ignores the warnings regarding taking photographs. That is not all, though—an unsuspecting woman hears strange noises from her veranda, but when her boyfriend investigates, he receives the shock of his life; a lady receives a frantic call from her sister, who begs her to come to a phone booth, but when she arrives, she realizes that things are not as they appear; and a man looks for one of his belongings in his little sister's room, only to soon discover that a malevolent presence lives there. The Storyteller is all too eager to share these tales, which will no doubt shock and terrify his audience.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 13,
     "score": 6.04,
-    "scored_by": 9824,
+    "scored_by": 9828,
+    "rank": 10048,
+    "popularity": 5099,
+    "members": 22566,
+    "favorites": 13,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "DRAWIZ",
@@ -1103,14 +1693,17 @@
       "TV Tokyo",
       "Toho Interactive Animation"
     ],
+    "licensors": [],
     "genres": [
       "Avant Garde",
       "Horror",
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-09-30T00:00:00+00:00",
+    "broadcast": "Mondays at 03:13 (JST)",
     "url": "https://myanimelist.net/anime/39836/Yami_Shibai_7",
     "year": 2019,
     "season": "summer",
@@ -1121,18 +1714,34 @@
     "mal_id": 39527,
     "title": "Try Knights",
     "title_english": null,
+    "title_japanese": "トライナイツ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1803/102385l.jpg",
+    "trailer_url": null,
     "synopsis": "Riku Haruma enters high school without a future in sight. He sees people playing like monsters on the ground, jumping higher than anyone else, running fast, deciding to try their best. There, he sees Akira Kariya playing rugby, a sport he was once passionate about but gave up due to his physique. While Akira is running roughly, Riku gives him a piece of advice without thinking. From that, Riku feels his dying passion for the sport set ablaze, and his future starts to brighten up...\n\n(Source: MAL News)",
+    "background": "",
     "episodes": 12,
     "score": 4.8,
     "scored_by": 6240,
+    "rank": 13968,
+    "popularity": 5223,
+    "members": 21370,
+    "favorites": 27,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Manga",
     "studios": [
       "Gonzo"
     ],
     "producers": [
       "Nippon Television Network"
+    ],
+    "licensors": [
+      "Sentai Filmworks"
     ],
     "genres": [
       "Sports"
@@ -1141,8 +1750,12 @@
       "School",
       "Team Sports"
     ],
+    "demographics": [
+      "Josei"
+    ],
     "aired_from": "2019-07-31T00:00:00+00:00",
     "aired_to": "2019-10-16T00:00:00+00:00",
+    "broadcast": "Wednesdays at 01:29 (JST)",
     "url": "https://myanimelist.net/anime/39527/Try_Knights",
     "year": 2019,
     "season": "summer",
@@ -1153,12 +1766,25 @@
     "mal_id": 38009,
     "title": "Re:Stage! Dream Days♪",
     "title_english": null,
+    "title_japanese": "Re:ステージ! ドリームデイズ♪",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1002/111617l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/Qp-6akSlDAA?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Mana Shikimiya has just transferred into Marehoshi Academy, a school which requires each of its students to join one of the many sports or cultural clubs. After a quick tour of most of the clubs by the Student Council Vice President Minori Hasegawa, Mana stumbles upon the Lyrical Tradition Dance Club. There she meets its sole members: Mizuha Ichikishima and Sayu Tsukisaka. Drawn to their singing and dancing, Mana joins the club and together they work towards their dream of winning the Prism Stage—a national competition to determine the top idols of the country.\n\nHowever, before Mana and her new friends can worry about the Prism Stage, there is a more immediate problem at hand: the club is about to be disbanded by the student council! Without enough members or any notable achievements, the club will be shut down and the members' dreams will be over before they've begun to pursue them. It's up to the three of them to find the additional club members they need and become an idol group strong enough to qualify for the Prism Stage and to win it as well.\n\n[Written by MAL Rewrite]",
+    "background": "",
     "episodes": 12,
     "score": 6.7,
-    "scored_by": 4594,
+    "scored_by": 4595,
+    "rank": 6083,
+    "popularity": 6463,
+    "members": 12323,
+    "favorites": 41,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Mixed media",
     "studios": [
       "Yumeta Company",
@@ -1169,6 +1795,9 @@
       "Yomiuri TV Enterprise",
       "Bit Promotion"
     ],
+    "licensors": [
+      "Sentai Filmworks"
+    ],
     "genres": [
       "Slice of Life"
     ],
@@ -1177,8 +1806,10 @@
       "Music",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-09-29T00:00:00+00:00",
+    "broadcast": "Sundays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/38009/Re_Stage_Dream_Days♪",
     "year": 2019,
     "season": "summer",
@@ -1189,12 +1820,29 @@
     "mal_id": 36536,
     "title": "Starmyu 3rd Season",
     "title_english": null,
+    "title_japanese": "高校星歌劇[スタミュ] 3rdシーズン",
+    "title_synonyms": [
+      "Koukou Hoshi Kageki 3rd Season",
+      "High School Star Musical 3rd Season",
+      "Starmu"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1663/99834l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/3xwabIKTHRk?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "Following a successful graduation performance, Yuuta Hoshitani and the rest of the second years begin preparations for the upcoming Ayanagi Festival. This year's festival is the first time the students will be without their Kao Council mentors, giving them the creative freedom to do what they want. Hoping to perform alongside each other for once, the second years decide to put on a joint production together. The festival’s opening ceremony will also serve another purpose—to reveal next year's Kao Council candidates. \n\nThe Kao Council announces that Team Hiiragi was selected for the opening ceremony performance, preventing them from participating in the collaboration. This shocks and enrages Hoshitani and the others, driving a rift between them and the Kao Council. In an effort to realize their dreams, the students begin to hatch a plan to ensure that all of the second years can perform together on stage.\n\n[Written by MAL Rewrite]",
+    "background": "Starmyu 3rd Season was released on six limited first-edition Blu-ray and DVD sets from August 21, 2019 to December 24, 2019.",
     "episodes": 12,
     "score": 6.94,
-    "scored_by": 3490,
+    "scored_by": 3491,
+    "rank": 4798,
+    "popularity": 6751,
+    "members": 11106,
+    "favorites": 35,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "C-Station"
@@ -1202,6 +1850,7 @@
     "producers": [
       "NBCUniversal Entertainment Japan"
     ],
+    "licensors": [],
     "genres": [
       "Slice of Life"
     ],
@@ -1210,8 +1859,10 @@
       "Performing Arts",
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-01T00:00:00+00:00",
     "aired_to": "2019-09-16T00:00:00+00:00",
+    "broadcast": "Mondays at 22:00 (JST)",
     "url": "https://myanimelist.net/anime/36536/Starmyu_3rd_Season",
     "year": 2019,
     "season": "summer",
@@ -1222,25 +1873,43 @@
     "mal_id": 40167,
     "title": "Cardfight!! Vanguard: Shinemon-hen",
     "title_english": "Cardfight!! Vanguard: Shinemon Arc",
+    "title_japanese": "カードファイト!! ヴァンガード 新右衛門編",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1197/113438l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/t1gA2bjlIRI?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "This is the story of \"Shinemon Nitta\", the future manager of Card Capital.\n\n10 years before the reunion of Aichi Sendou and Toshiki Kai, the card shop run by the Tokura family \"Card Capital\" was going out of business. Then came the attempt to take over the store by Esuka Hibino, the owner of a major card shop.\n\nIn order to protect Card Capital, Shinemon Nitta stands up as the \"Self-proclaimed Manager!\"\n\n(Source: Cardfight!! Vanguard Wiki)",
+    "background": "",
     "episodes": 31,
     "score": 6.65,
     "scored_by": 2208,
+    "rank": 6400,
+    "popularity": 8912,
+    "members": 5607,
+    "favorites": 8,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "23 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "OLM"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [
       "Strategy Game"
     ],
+    "demographics": [
+      "Shounen"
+    ],
     "aired_from": "2019-08-24T00:00:00+00:00",
     "aired_to": "2020-03-28T00:00:00+00:00",
+    "broadcast": "Saturdays at Unknown",
     "url": "https://myanimelist.net/anime/40167/Cardfight_Vanguard__Shinemon-hen",
     "year": 2019,
     "season": "summer",
@@ -1251,18 +1920,32 @@
     "mal_id": 49871,
     "title": "Hensuki▽",
     "title_english": null,
+    "title_japanese": "変好き▽",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1973/122533l.jpg",
+    "trailer_url": null,
     "synopsis": "Short specials broadcast on AT-X and Gyao! at the end of each episode of Kawaiikereba Hentai demo Suki ni Natte Kuremasu ka?. Later included on Blu-ray/DVD volumes.",
+    "background": "",
     "episodes": 12,
-    "score": 6.31,
-    "scored_by": 1210,
+    "score": 6.3,
+    "scored_by": 1211,
+    "rank": 8522,
+    "popularity": 9141,
+    "members": 5235,
+    "favorites": 12,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "1 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Light novel",
     "studios": [
       "Seven",
       "Geek Toys"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Ecchi"
@@ -1270,8 +1953,10 @@
     "themes": [
       "School"
     ],
+    "demographics": [],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-09-23T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/49871/Hensuki▽",
     "year": 2019,
     "season": "summer",
@@ -1282,12 +1967,25 @@
     "mal_id": 39979,
     "title": "Business Fish",
     "title_english": null,
+    "title_japanese": "ビジネスフィッシュ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1834/112939l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/npuelS1PcOc?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "The anime features characters with human bodies and fish heads as office workers at an IT firm.",
+    "background": "",
     "episodes": 6,
     "score": 5.31,
     "scored_by": 745,
+    "rank": 13149,
+    "popularity": 9850,
+    "members": 4200,
+    "favorites": 10,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "24 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "I & A"
@@ -1295,6 +1993,7 @@
     "producers": [
       "TOHO animation"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Slice of Life"
@@ -1302,8 +2001,10 @@
     "themes": [
       "Workplace"
     ],
+    "demographics": [],
     "aired_from": "2019-07-08T00:00:00+00:00",
     "aired_to": "2019-08-12T00:00:00+00:00",
+    "broadcast": "Mondays at 00:00 (JST)",
     "url": "https://myanimelist.net/anime/39979/Business_Fish",
     "year": 2019,
     "season": "summer",
@@ -1314,25 +2015,41 @@
     "mal_id": 39620,
     "title": "Hakata Mentai! Pirikarako-chan",
     "title_english": null,
+    "title_japanese": "博多明太！ぴりからこちゃん",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1562/113861l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/qYfXbWxQho0?enablejsapi=1&wmode=opaque&autoplay=1",
     "synopsis": "A daily eating life happening at a street that seems like Hakata but not Hakata!?  Fairy of Mentaiko \"Pirikarako-chan\" goes around the street to solve (?)!",
+    "background": "Summary screening via between April 18 and April 21. Regular broadcast via KBC Kyushu Asahi Broadcasting on Summer 2019.",
     "episodes": 12,
     "score": 5.12,
     "scored_by": 1507,
+    "rank": 13568,
+    "popularity": 10325,
+    "members": 3611,
+    "favorites": 2,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "4 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "G-angle"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Gourmet",
       "Slice of Life"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2019-07-07T00:00:00+00:00",
     "aired_to": "2019-09-22T00:00:00+00:00",
+    "broadcast": "Sundays at 06:15 (JST)",
     "url": "https://myanimelist.net/anime/39620/Hakata_Mentai_Pirikarako-chan",
     "year": 2019,
     "season": "summer",
@@ -1343,23 +2060,39 @@
     "mal_id": 39978,
     "title": "Waresho! Warera! Shodobutsu Aigo Iinkai",
     "title_english": null,
+    "title_japanese": "われしょ!～我ら!小動物愛護委員会～",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1901/101621l.jpg",
+    "trailer_url": null,
     "synopsis": "Three girls come from another planet to save the mistreated animals of planet Earth. Black cat Amiru, squirrel Rumi, and rabbit Rie all make their way to Earth but Rie crashes her UFO! Lucky Amiru and Rumi run into Earth girl Minami and together set out to conquer the world!\n\n(Source: Tokyo Otaku Mode)",
+    "background": "The anime airs within the late night Chiba TV program \"Muse9.\"",
     "episodes": 6,
     "score": null,
     "scored_by": null,
+    "rank": 16060,
+    "popularity": 14660,
+    "members": 1058,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [],
     "producers": [
       "AT-X"
     ],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2019-07-02T00:00:00+00:00",
     "aired_to": "2019-07-30T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/39978/Waresho_Warera_Shodobutsu_Aigo_Iinkai",
     "year": 2019,
     "season": "summer",
@@ -1370,23 +2103,41 @@
     "mal_id": 40040,
     "title": "Odoru Mowai-kun",
     "title_english": null,
+    "title_japanese": "おどるモワイくん",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1123/102544l.jpg",
+    "trailer_url": null,
     "synopsis": "The anime centers on a Moai statue named Mowai-kun who is gloomy every day because it lives a dull life where it just watches the beach and the sun from atop a hill on an island. But one day Mowai-kun grows arms, and starts to dance. The anime will air within the Oha-Suta program's \"Kyara-Suta\" corner.\n\n(Source: ANN)",
+    "background": "",
     "episodes": 26,
     "score": 5.12,
     "scored_by": 281,
+    "rank": 13573,
+    "popularity": 14789,
+    "members": 1022,
+    "favorites": 3,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "2 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [
       "Monster's Egg"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-02T00:00:00+00:00",
     "aired_to": "2019-12-24T00:00:00+00:00",
+    "broadcast": "Tuesdays at 07:05 (JST)",
     "url": "https://myanimelist.net/anime/40040/Odoru_Mowai-kun",
     "year": 2019,
     "season": "summer",
@@ -1397,12 +2148,27 @@
     "mal_id": 44026,
     "title": "Zannen na Ikimono Jiten (2019)",
     "title_english": null,
+    "title_japanese": "ざんねんないきもの事典 (2019)",
+    "title_synonyms": [
+      "Encyclopedia of Pitiful Creatures (2019)"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1957/110202l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 8,
     "score": null,
     "scored_by": null,
+    "rank": 17037,
+    "popularity": 18119,
+    "members": 483,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [
       "NHK Enterprises"
@@ -1411,6 +2177,7 @@
       "NHK",
       "Fanworks"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Slice of Life"
@@ -1418,8 +2185,10 @@
     "themes": [
       "Educational"
     ],
+    "demographics": [],
     "aired_from": "2019-07-29T00:00:00+00:00",
     "aired_to": "2019-08-07T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44026/Zannen_na_Ikimono_Jiten_2019",
     "year": 2019,
     "season": "summer",
@@ -1430,12 +2199,27 @@
     "mal_id": 41777,
     "title": "Oshiri Tantei 3rd Season",
     "title_english": null,
+    "title_japanese": "おしりたんてい",
+    "title_synonyms": [
+      "Butt Detective"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1268/107370l.jpg",
+    "trailer_url": null,
     "synopsis": "Third season of Oshiri Tantei.",
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 19309,
+    "popularity": 19059,
+    "members": 412,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "19 min per ep",
+    "rating": "PG - Children",
     "source": "Picture book",
     "studios": [
       "Toei Animation"
@@ -1443,14 +2227,19 @@
     "producers": [
       "NHK"
     ],
+    "licensors": [],
     "genres": [
       "Comedy",
       "Fantasy",
       "Mystery"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-06T00:00:00+00:00",
     "aired_to": "2019-09-28T00:00:00+00:00",
+    "broadcast": "Saturdays at 09:00 (JST)",
     "url": "https://myanimelist.net/anime/41777/Oshiri_Tantei_3rd_Season",
     "year": 2019,
     "season": "summer",
@@ -1461,12 +2250,25 @@
     "mal_id": 51754,
     "title": "Titipo Titipo 2",
     "title_english": "Titipo Titipo Season 2",
+    "title_japanese": "띠띠뽀 띠띠뽀 2",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1279/123606l.jpg",
+    "trailer_url": null,
     "synopsis": "The second season of Titipo Titipo.",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 15697,
+    "popularity": 21303,
+    "members": 268,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [
       "Iconix Entertainment",
@@ -1475,12 +2277,17 @@
     "producers": [
       "EBS"
     ],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Racing"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-26T00:00:00+00:00",
     "aired_to": "2020-06-26T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/51754/Titipo_Titipo_2",
     "year": 2019,
     "season": "summer",
@@ -1491,12 +2298,25 @@
     "mal_id": 56468,
     "title": "Oni Sara",
     "title_english": null,
+    "title_japanese": "オニサラ",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1170/138108l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 3,
     "score": null,
     "scored_by": null,
+    "rank": 19266,
+    "popularity": 21465,
+    "members": 260,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "5 min per ep",
+    "rating": "G - All Ages",
     "source": "Picture book",
     "studios": [
       "qmotri"
@@ -1504,12 +2324,15 @@
     "producers": [
       "NHK"
     ],
+    "licensors": [],
     "genres": [
       "Supernatural"
     ],
     "themes": [],
+    "demographics": [],
     "aired_from": "2019-08-12T00:00:00+00:00",
     "aired_to": "2019-08-26T00:00:00+00:00",
+    "broadcast": "Mondays at 23:15 (JST)",
     "url": "https://myanimelist.net/anime/56468/Oni_Sara",
     "year": 2019,
     "season": "summer",
@@ -1520,25 +2343,43 @@
     "mal_id": 47809,
     "title": "Lanqiu Xuanfeng",
     "title_english": "Basketball Whirlwind",
+    "title_japanese": "篮球旋风",
+    "title_synonyms": [
+      "Dream for Rim"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1044/150164l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 18150,
+    "popularity": 21992,
+    "members": 231,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "19 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
     "source": "Original",
     "studios": [
       "CCTV Animation Group"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Sports"
     ],
     "themes": [
       "Team Sports"
     ],
+    "demographics": [],
     "aired_from": "2019-09-02T00:00:00+00:00",
     "aired_to": "2019-09-28T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47809/Lanqiu_Xuanfeng",
     "year": 2019,
     "season": "summer",
@@ -1549,23 +2390,44 @@
     "mal_id": 46846,
     "title": "Miniforce: Super Dino Power",
     "title_english": null,
+    "title_japanese": "미니특공대 슈퍼공룡파워",
+    "title_synonyms": [
+      "迷你特工队之超级恐龙力量",
+      "Mini Tegong Dui: Chaoji Konglong Liliang"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1516/130804l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 18701,
+    "popularity": 22200,
+    "members": 219,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "SAMG Entertainment"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-29T00:00:00+00:00",
     "aired_to": "2019-11-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/46846/Miniforce__Super_Dino_Power",
     "year": 2019,
     "season": "summer",
@@ -1576,25 +2438,45 @@
     "mal_id": 48214,
     "title": "Bugsbot Ignition",
     "title_english": "Bugsbot Ignition",
+    "title_japanese": "벅스봇 이그니션",
+    "title_synonyms": [
+      "Beogseubos Igeunisyeon"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1784/126939l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 20413,
+    "popularity": 22325,
+    "members": 214,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "22 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Cocktail Media"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Action",
       "Adventure",
       "Sci-Fi"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-09T00:00:00+00:00",
     "aired_to": "2020-01-06T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/48214/Bugsbot_Ignition",
     "year": 2019,
     "season": "summer",
@@ -1605,23 +2487,41 @@
     "mal_id": 54291,
     "title": "Pinkfong Wonderstar",
     "title_english": "Pinkfong Wonderstar",
+    "title_japanese": "핑크퐁 원더스타",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1012/132878l.jpg",
+    "trailer_url": null,
     "synopsis": "Pinkfong and Hogi's epic journey begins now! After accidentally crashing into the roof of Hogi's house, Pinkfong meets a new best friend and problem-solving partner.\n\n(Source: Official YouTube Channel)",
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 19474,
+    "popularity": 22435,
+    "members": 209,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [
       "Pinkfong"
     ],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-06-27T00:00:00+00:00",
     "aired_to": "2020-01-09T00:00:00+00:00",
+    "broadcast": "Thursdays at 17:15 (JST)",
     "url": "https://myanimelist.net/anime/54291/Pinkfong_Wonderstar",
     "year": 2019,
     "season": "summer",
@@ -1632,22 +2532,40 @@
     "mal_id": 44000,
     "title": "Xi Yangyang Yu Hui Tailang: Kua Shikong Jiu Bing",
     "title_english": "Pleasant Goat and Big Big Wolf: Rescue Across Time",
+    "title_japanese": "喜羊羊與灰太狼之跨時空救兵",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1325/115289l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 60,
     "score": null,
     "scored_by": null,
+    "rank": 16243,
+    "popularity": 22788,
+    "members": 192,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Comedy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-12T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44000/Xi_Yangyang_Yu_Hui_Tailang__Kua_Shikong_Jiu_Bing",
     "year": null,
     "season": null,
@@ -1658,21 +2576,41 @@
     "mal_id": 57336,
     "title": "Mythteria",
     "title_english": "Mythteria",
+    "title_japanese": "미스테리야",
+    "title_synonyms": [
+      "Miseuteliya"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1687/139977l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 18927,
+    "popularity": 23565,
+    "members": 163,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-30T00:00:00+00:00",
     "aired_to": "2020-02-22T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/57336/Mythteria",
     "year": 2019,
     "season": "summer",
@@ -1683,23 +2621,43 @@
     "mal_id": 59141,
     "title": "Tobot V: Swag's Secret",
     "title_english": "Tobot: Galaxy Detectives - Swag's Secret",
+    "title_japanese": "또봇 V 시즌 1.5: 갤럭시웨폰 4호의 비밀!",
+    "title_synonyms": [
+      "Tobot V Season 1.5: Galaxy Weapon 4Houi Bimil!"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1781/143730l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 20,
     "score": null,
     "scored_by": null,
+    "rank": 15709,
+    "popularity": 24083,
+    "members": 148,
+    "favorites": 1,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Sci-Fi"
     ],
     "themes": [
       "Mecha"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-22T00:00:00+00:00",
     "aired_to": "2020-01-16T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/59141/Tobot_V__Swags_Secret",
     "year": 2019,
     "season": "summer",
@@ -1710,21 +2668,39 @@
     "mal_id": 59585,
     "title": "Jyulagi Cops: Jura King",
     "title_english": null,
+    "title_japanese": "쥬라기 캅스 쥬라킹",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1799/144839l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 22,
     "score": null,
     "scored_by": null,
+    "rank": 17566,
+    "popularity": 24768,
+    "members": 131,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Mecha"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-13T00:00:00+00:00",
     "aired_to": "2020-01-02T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/59585/Jyulagi_Cops__Jura_King",
     "year": 2019,
     "season": "summer",
@@ -1735,23 +2711,41 @@
     "mal_id": 44140,
     "title": "Xiong Chumo: Xiongxiong Huanle Song",
     "title_english": "Boonie Cub Tune Club",
+    "title_japanese": "熊出没之熊熊欢乐颂",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1650/122986l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 16694,
+    "popularity": 24835,
+    "members": 130,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [
       "Fantawild Animation"
     ],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [
       "Music"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-10T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/44140/Xiong_Chumo__Xiongxiong_Huanle_Song",
     "year": null,
     "season": null,
@@ -1762,12 +2756,28 @@
     "mal_id": 58959,
     "title": "Pipilu Anquan Tegong Dui Part 2",
     "title_english": "Pipilu Rangers Part 2",
+    "title_japanese": "피피루 안전특공대 2부",
+    "title_synonyms": [
+      "Pipilu Anjeonteukgongdae Part 2",
+      "皮皮鲁安全特工队"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1909/143369l.jpg",
+    "trailer_url": null,
     "synopsis": "Second part of the first season of Pipilu Anquan Tegong Dui.",
+    "background": "",
     "episodes": 13,
     "score": null,
     "scored_by": null,
+    "rank": 19486,
+    "popularity": 24940,
+    "members": 127,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "14 min per ep",
+    "rating": "PG - Children",
     "source": "Novel",
     "studios": [
       "Studio Gale"
@@ -1776,14 +2786,19 @@
       "CCTV Animation Group",
       "EBS"
     ],
+    "licensors": [],
     "genres": [
       "Action"
     ],
     "themes": [
       "Super Power"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-12T00:00:00+00:00",
     "aired_to": "2019-08-23T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/58959/Pipilu_Anquan_Tegong_Dui_Part_2",
     "year": 2019,
     "season": "summer",
@@ -1794,19 +2809,37 @@
     "mal_id": 45080,
     "title": "Shuke Beita",
     "title_english": null,
+    "title_japanese": "舒克贝塔",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1137/118624l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 15150,
+    "popularity": 25613,
+    "members": 115,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-09-27T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/45080/Shuke_Beita",
     "year": null,
     "season": null,
@@ -1817,19 +2850,37 @@
     "mal_id": 48061,
     "title": "Pai Le Meng Qi",
     "title_english": "PalaMonki",
+    "title_japanese": "派乐萌奇",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1624/118333l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 19367,
+    "popularity": 25786,
+    "members": 112,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "7 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-01T00:00:00+00:00",
     "aired_to": "2019-01-01T00:00:00+00:00",
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/48061/Pai_Le_Meng_Qi",
     "year": null,
     "season": null,
@@ -1840,23 +2891,43 @@
     "mal_id": 47820,
     "title": "Bai Bian Xiao Ba",
     "title_english": null,
+    "title_japanese": "百变校巴",
+    "title_synonyms": [
+      "GoGoBus"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1585/129304l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 20064,
+    "popularity": 26298,
+    "members": 104,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-05T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47820/Bai_Bian_Xiao_Ba",
     "year": null,
     "season": null,
@@ -1867,15 +2938,31 @@
     "mal_id": 47642,
     "title": "Yuzhou Huwei Dui 2",
     "title_english": "Cosmicrew S2",
+    "title_japanese": "宇宙护卫队2",
+    "title_synonyms": [
+      "Yuzhou Huwei Dui Second Season"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1538/123390l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 17029,
+    "popularity": 26537,
+    "members": 101,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Adventure",
       "Sci-Fi"
@@ -1883,8 +2970,12 @@
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-09-27T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47642/Yuzhou_Huwei_Dui_2",
     "year": null,
     "season": null,
@@ -1895,21 +2986,41 @@
     "mal_id": 47842,
     "title": "Mofa Cheng",
     "title_english": null,
+    "title_japanese": "魔法城",
+    "title_synonyms": [
+      "Magic City"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1994/129327l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 45,
     "score": null,
     "scored_by": null,
+    "rank": 18778,
+    "popularity": 26980,
+    "members": 94,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "18 min per ep",
+    "rating": "G - All Ages",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-06T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47842/Mofa_Cheng",
     "year": null,
     "season": null,
@@ -1920,21 +3031,41 @@
     "mal_id": 47860,
     "title": "Ben Ben Xiao Feiche",
     "title_english": null,
+    "title_japanese": "奔奔小飞车",
+    "title_synonyms": [
+      "Egg Car"
+    ],
     "image_url": "https://cdn.myanimelist.net/images/anime/1038/130388l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 20242,
+    "popularity": 27111,
+    "members": 92,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "11 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-07-01T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47860/Ben_Ben_Xiao_Feiche",
     "year": null,
     "season": null,
@@ -1945,21 +3076,39 @@
     "mal_id": 47830,
     "title": "Sanxingdui Rongyao Juexing",
     "title_english": null,
+    "title_japanese": "三星堆荣耀觉醒",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1855/129317l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 14696,
+    "popularity": 27319,
+    "members": 90,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-19T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47830/Sanxingdui_Rongyao_Juexing",
     "year": null,
     "season": null,
@@ -1970,47 +3119,42 @@
     "mal_id": 47855,
     "title": "Jiling Chongwu Che",
     "title_english": null,
+    "title_japanese": "机灵宠物车",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1029/129339l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 52,
     "score": null,
     "scored_by": null,
+    "rank": 17415,
+    "popularity": 27396,
+    "members": 89,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "13 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [
       "Anthropomorphic"
     ],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-09-16T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47855/Jiling_Chongwu_Che",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47454,
-    "title": "Tiaoyue Zhanshi 2",
-    "title_english": null,
-    "image_url": "https://cdn.myanimelist.net/images/anime/1660/129447l.jpg",
-    "synopsis": null,
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "type": "TV",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "genres": [],
-    "themes": [],
-    "aired_from": "2019-08-01T00:00:00+00:00",
-    "aired_to": null,
-    "url": "https://myanimelist.net/anime/47454/Tiaoyue_Zhanshi_2",
     "year": null,
     "season": null,
     "is_hentai": false,
@@ -2020,22 +3164,83 @@
     "mal_id": 47869,
     "title": "Tianmi Tegong Dui",
     "title_english": null,
+    "title_japanese": "甜蜜特攻队",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1722/130372l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 26,
     "score": null,
     "scored_by": null,
+    "rank": 15655,
+    "popularity": 27874,
+    "members": 85,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG - Children",
     "source": "Original",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [
       "Fantasy"
     ],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-12T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/47869/Tianmi_Tegong_Dui",
+    "year": null,
+    "season": null,
+    "is_hentai": false,
+    "is_japanese": true
+  },
+  {
+    "mal_id": 47454,
+    "title": "Tiaoyue Zhanshi 2",
+    "title_english": null,
+    "title_japanese": "跳跃战士2",
+    "title_synonyms": [
+      "Tiaoyue Zhanshi 2nd Season"
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1660/129447l.jpg",
+    "trailer_url": null,
+    "synopsis": null,
+    "background": "",
+    "episodes": 32,
+    "score": null,
+    "scored_by": null,
+    "rank": 15675,
+    "popularity": 28058,
+    "members": 83,
+    "favorites": 0,
+    "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "15 min per ep",
+    "rating": "PG - Children",
+    "source": "Unknown",
+    "studios": [],
+    "producers": [],
+    "licensors": [],
+    "genres": [],
+    "themes": [],
+    "demographics": [
+      "Kids"
+    ],
+    "aired_from": "2019-08-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/47454/Tiaoyue_Zhanshi_2",
     "year": null,
     "season": null,
     "is_hentai": false,
@@ -2045,19 +3250,37 @@
     "mal_id": 45881,
     "title": "Konglong Shijie",
     "title_english": null,
+    "title_japanese": "恐龙世界",
+    "title_synonyms": [],
     "image_url": "https://cdn.myanimelist.net/images/anime/1691/129060l.jpg",
+    "trailer_url": null,
     "synopsis": null,
+    "background": "",
     "episodes": 152,
     "score": null,
     "scored_by": null,
+    "rank": 17952,
+    "popularity": 28208,
+    "members": 82,
+    "favorites": 0,
     "type": "TV",
+    "status": "Finished Airing",
+    "airing": false,
+    "approved": true,
+    "duration": "3 min per ep",
+    "rating": "PG - Children",
     "source": "Unknown",
     "studios": [],
     "producers": [],
+    "licensors": [],
     "genres": [],
     "themes": [],
+    "demographics": [
+      "Kids"
+    ],
     "aired_from": "2019-08-22T00:00:00+00:00",
     "aired_to": null,
+    "broadcast": "Unknown",
     "url": "https://myanimelist.net/anime/45881/Konglong_Shijie",
     "year": null,
     "season": null,

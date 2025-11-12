@@ -1,1 +1,45 @@
-[]
+[
+  {
+    "mal_id": 61048,
+    "title": "Neko to Ryuu",
+    "title_english": "The Cat and the Dragon",
+    "title_japanese": "猫と竜",
+    "title_synonyms": [],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1991/153521l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/nZJgFx-1tfs?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "Deep in the forest where ferocious beasts and magical creatures dwell, a cat takes in an orphaned baby dragon as one of her own.\n\n(Source: MU)",
+    "background": "",
+    "episodes": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 11780,
+    "members": 2385,
+    "favorites": 6,
+    "type": "TV",
+    "status": "Not yet aired",
+    "airing": false,
+    "approved": true,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Light novel",
+    "studios": [
+      "OLM"
+    ],
+    "producers": [],
+    "licensors": [],
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [],
+    "demographics": [],
+    "aired_from": "2026-07-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/61048/Neko_to_Ryuu",
+    "year": 2026,
+    "season": "summer",
+    "is_hentai": false,
+    "is_japanese": true
+  }
+]
