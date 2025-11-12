@@ -12,9 +12,6 @@
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
     
-    <!-- Chart.js CDN -->
-    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-    
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
@@ -251,8 +248,20 @@
     <!-- Header -->
     <header class="bg-white border-b border-gray-200 animate-fade-in">
         <div class="max-w-7xl mx-auto px-4 py-6">
-            <h1 class="text-3xl font-bold text-gray-900">🎬 Anime Season Tracker</h1>
-            <p class="text-gray-600 mt-1">Discover TV anime by year and season • Auto-updated weekly</p>
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold text-gray-900">🎬 Anime Season Tracker</h1>
+                    <p class="text-gray-600 mt-1">Discover TV anime by year and season • Auto-updated weekly</p>
+                </div>
+                <nav class="flex gap-4">
+                    <a href="index.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                        Home
+                    </a>
+                    <a href="data.html" class="px-4 py-2 bg-gray-200 text-gray-900 rounded-lg hover:bg-gray-300 transition-colors">
+                        📊 Data
+                    </a>
+                </nav>
+            </div>
         </div>
     </header>
 
@@ -260,29 +269,6 @@
     <main class="max-w-7xl mx-auto px-4 py-8">
         <!-- Home Page -->
         <div id="home-page">
-            <!-- Rating Trend Graph -->
-            <div id="rating-trend-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-                <h2 class="text-2xl font-bold text-gray-900 mb-4">📈 Average Rating Trend</h2>
-                <p class="text-gray-600 mb-6">How anime ratings have evolved over time (based on MyAnimeList scores)</p>
-                <div class="relative" style="height: 400px;">
-                    <canvas id="rating-trend-chart"></canvas>
-                </div>
-                <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                    <div class="bg-gray-50 rounded-lg p-3">
-                        <div class="text-2xl font-bold text-gray-900" id="overall-avg">-</div>
-                        <div class="text-sm text-gray-600">Overall Average</div>
-                    </div>
-                    <div class="bg-gray-50 rounded-lg p-3">
-                        <div class="text-2xl font-bold text-green-600" id="highest-avg">-</div>
-                        <div class="text-sm text-gray-600">Highest Season</div>
-                    </div>
-                    <div class="bg-gray-50 rounded-lg p-3">
-                        <div class="text-2xl font-bold text-red-600" id="lowest-avg">-</div>
-                        <div class="text-sm text-gray-600">Lowest Season</div>
-                    </div>
-                </div>
-            </div>
-            
             <!-- Years Container -->
             <div id="years-container" class="space-y-8">
                 <!-- Year sections will be dynamically inserted here -->

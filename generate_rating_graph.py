@@ -136,8 +136,18 @@ def generate_rating_trend_graph():
     plt.close()
     
     # Also save the data as JSON for web visualization
+    # Create simplified labels showing only year (once per year)
+    labels = []
+    prev_year = None
+    for d in season_data:
+        if d['year'] != prev_year:
+            labels.append(str(d['year']))
+            prev_year = d['year']
+        else:
+            labels.append('')  # Empty label for other seasons in the same year
+    
     web_data = {
-        'labels': [f"{d['season'].capitalize()} {d['year']}" for d in season_data],
+        'labels': labels,
         'dates': [d['date'].strftime('%Y-%m-%d') for d in season_data],
         'ratings': [round(d['avg_rating'], 2) for d in season_data],
         'counts': [d['count'] for d in season_data],

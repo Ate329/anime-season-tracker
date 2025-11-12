@@ -1,0 +1,276 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interesting Data - Anime Season Tracker</title>
+    <meta name="description" content="Explore interesting anime data, trends, and statistics.">
+    
+    <!-- Favicon -->
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📊</text></svg>">
+    
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    
+    <!-- Chart.js CDN -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
+    
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+        
+        /* Keyframe Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+        
+        .animate-fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+        
+        /* Smooth scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+<body class="bg-gray-50">
+    <!-- Header -->
+    <header class="bg-white border-b border-gray-200 animate-fade-in">
+        <div class="max-w-7xl mx-auto px-4 py-6">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold text-gray-900">📊 Interesting Data</h1>
+                    <p class="text-gray-600 mt-1">Explore anime trends, statistics, and insights</p>
+                </div>
+                <nav class="flex gap-4">
+                    <a href="index.html" class="px-4 py-2 bg-gray-200 text-gray-900 rounded-lg hover:bg-gray-300 transition-colors">
+                        Home
+                    </a>
+                    <a href="data.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                        📊 Data
+                    </a>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="max-w-7xl mx-auto px-4 py-8">
+        <!-- Rating Trend Graph -->
+        <div id="rating-trend-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">📈 Average Rating Trend</h2>
+            <p class="text-gray-600 mb-6">How anime ratings have evolved over time (based on MyAnimeList scores)</p>
+            <div class="relative" style="height: 400px;">
+                <canvas id="rating-trend-chart"></canvas>
+            </div>
+            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                <div class="bg-gray-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-gray-900" id="overall-avg">-</div>
+                    <div class="text-sm text-gray-600">Overall Average</div>
+                </div>
+                <div class="bg-gray-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-green-600" id="highest-avg">-</div>
+                    <div class="text-sm text-gray-600">Highest Season</div>
+                </div>
+                <div class="bg-gray-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-red-600" id="lowest-avg">-</div>
+                    <div class="text-sm text-gray-600">Lowest Season</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- More data sections can be added here in the future -->
+        <div class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">🔮 More Data Coming Soon</h2>
+            <p class="text-gray-600">We're working on adding more interesting insights and statistics about anime trends. Stay tuned!</p>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="bg-white border-t border-gray-200 mt-12 animate-fade-in">
+        <div class="max-w-7xl mx-auto px-4 py-6">
+            <div class="text-center text-gray-600 text-sm">
+                <p>Data sourced from <a href="https://jikan.moe/" class="text-blue-600 hover:underline" target="_blank" rel="noopener">Jikan API</a> (MyAnimeList)</p>
+                <p class="mt-2">Made with ❤️ for anime fans • <a href="https://github.com" class="text-blue-600 hover:underline">View on GitHub</a></p>
+            </div>
+        </div>
+    </footer>
+
+    <!-- Script -->
+    <script>
+        let ratingTrendChart = null;
+
+        /**
+         * Load and display rating trend
+         */
+        async function loadRatingTrend() {
+            try {
+                const response = await fetch('data/rating-trend.json');
+                if (!response.ok) {
+                    console.log('Rating trend data not available');
+                    document.getElementById('rating-trend-section').style.display = 'none';
+                    return;
+                }
+                
+                const trendData = await response.json();
+                
+                // Update statistics
+                document.getElementById('overall-avg').textContent = trendData.overall_average.toFixed(2);
+                document.getElementById('highest-avg').textContent = trendData.max_rating.toFixed(2);
+                document.getElementById('lowest-avg').textContent = trendData.min_rating.toFixed(2);
+                
+                // Create the chart
+                const ctx = document.getElementById('rating-trend-chart').getContext('2d');
+                
+                // Calculate moving average
+                const movingAvg = calculateMovingAverage(trendData.ratings, 4);
+                
+                ratingTrendChart = new Chart(ctx, {
+                    type: 'line',
+                    data: {
+                        labels: trendData.labels,
+                        datasets: [
+                            {
+                                label: 'Average Rating',
+                                data: trendData.ratings,
+                                borderColor: '#1f2937',
+                                backgroundColor: 'rgba(31, 41, 55, 0.1)',
+                                borderWidth: 2,
+                                pointRadius: 3,
+                                pointHoverRadius: 5,
+                                tension: 0.1,
+                                fill: true
+                            },
+                            {
+                                label: 'Moving Average (4 seasons)',
+                                data: movingAvg,
+                                borderColor: '#ef4444',
+                                backgroundColor: 'transparent',
+                                borderWidth: 3,
+                                borderDash: [5, 5],
+                                pointRadius: 0,
+                                tension: 0.1
+                            }
+                        ]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: true,
+                                position: 'top',
+                                labels: {
+                                    font: {
+                                        size: 12,
+                                        weight: '600'
+                                    }
+                                }
+                            },
+                            tooltip: {
+                                mode: 'index',
+                                intersect: false,
+                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                padding: 12,
+                                titleFont: {
+                                    size: 14,
+                                    weight: 'bold'
+                                },
+                                bodyFont: {
+                                    size: 13
+                                },
+                                callbacks: {
+                                    label: function(context) {
+                                        let label = context.dataset.label || '';
+                                        if (label) {
+                                            label += ': ';
+                                        }
+                                        if (context.parsed.y !== null) {
+                                            label += context.parsed.y.toFixed(2);
+                                        }
+                                        return label;
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Year',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    maxRotation: 0,
+                                    minRotation: 0,
+                                    autoSkip: false
+                                }
+                            },
+                            y: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Average Rating',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                min: Math.floor(trendData.min_rating - 0.3),
+                                max: Math.ceil(trendData.max_rating + 0.3),
+                                ticks: {
+                                    stepSize: 0.2
+                                }
+                            }
+                        },
+                        interaction: {
+                            mode: 'nearest',
+                            axis: 'x',
+                            intersect: false
+                        }
+                    }
+                });
+                
+            } catch (error) {
+                console.error('Error loading rating trend:', error);
+                document.getElementById('rating-trend-section').style.display = 'none';
+            }
+        }
+
+        /**
+         * Calculate moving average
+         */
+        function calculateMovingAverage(data, windowSize) {
+            const result = [];
+            for (let i = 0; i < data.length; i++) {
+                if (i < windowSize - 1) {
+                    result.push(null);
+                } else {
+                    const sum = data.slice(i - windowSize + 1, i + 1).reduce((a, b) => a + b, 0);
+                    result.push(sum / windowSize);
+                }
+            }
+            return result;
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            loadRatingTrend();
+        });
+    </script>
+</body>
+</html>
+
