@@ -88,12 +88,6 @@ Watch how anime ratings have evolved over time! This graph shows the average MyA
 
 ![Anime Rating Trend](assets/rating-trend.png)
 
-**Key Insights:**
-- **Overall Average**: ~6.86 ⭐
-- Ratings have remained relatively stable over the years
-- Recent seasons (2022-2024) show a slight upward trend
-- The moving average helps identify long-term patterns
-
 ---
 
 ## 🎯 What's Included
