@@ -766,6 +766,366 @@ def generate_studio_rankings():
         json.dump(web_data, f, indent=2)
     print(f"[OK] Saved studio rankings data to {web_data_path}")
 
+def generate_studio_scatter():
+    """Generate scatter plot of studio average rating vs production volume."""
+    print("\nGenerating studio scatter plot...")
+    all_anime, _ = load_all_anime_data()
+    
+    current_year = datetime.now().year
+    
+    # Collect studio data
+    studio_anime_data = defaultdict(list)
+    
+    for anime in all_anime:
+        year = anime.get('year')
+        if not year or year < 2006 or year > current_year:
+            continue
+        
+        studios = anime.get('studios', [])
+        score = anime.get('score')
+        
+        for studio in studios:
+            if studio:  # Only if studio name exists
+                studio_anime_data[studio].append({
+                    'score': score,
+                    'title': anime.get('title', '')
+                })
+    
+    # Calculate average rating and count for each studio
+    studio_stats = []
+    for studio, anime_list in studio_anime_data.items():
+        total_count = len(anime_list)
+        scores = [a['score'] for a in anime_list if a['score'] is not None]
+        
+        if scores:  # Only include studios with at least one rated anime
+            avg_score = statistics.mean(scores)
+            studio_stats.append({
+                'studio': studio,
+                'avg_rating': avg_score,
+                'anime_count': total_count,
+                'rated_count': len(scores)
+            })
+    
+    # Extract data for plotting
+    avg_ratings = [s['avg_rating'] for s in studio_stats]
+    anime_counts = [s['anime_count'] for s in studio_stats]
+    studio_names = [s['studio'] for s in studio_stats]
+    
+    # Calculate means
+    mean_rating = statistics.mean(avg_ratings)
+    mean_count = statistics.mean(anime_counts)
+    
+    print(f"  Total studios: {len(studio_stats)}")
+    print(f"  Mean rating: {mean_rating:.2f}")
+    print(f"  Mean production count: {mean_count:.1f}")
+    
+    # Create scatter plot
+    fig, ax = plt.subplots(figsize=(14, 10))
+    
+    # Plot scatter points
+    scatter = ax.scatter(avg_ratings, anime_counts, alpha=0.6, s=50, c='#3b82f6', edgecolors='white', linewidth=0.5)
+    
+    # Add mean lines
+    ax.axvline(x=mean_rating, color='#ef4444', linestyle='--', linewidth=2.5, 
+               label=f'Mean Rating: {mean_rating:.2f}', alpha=0.8)
+    ax.axhline(y=mean_count, color='#22c55e', linestyle='--', linewidth=2.5, 
+               label=f'Mean Production Count: {mean_count:.1f}', alpha=0.8)
+    
+    # Label notable studios (high volume or high rating)
+    # Top 5 by volume and top 5 by rating
+    top_by_volume = sorted(studio_stats, key=lambda x: x['anime_count'], reverse=True)[:5]
+    top_by_rating = sorted([s for s in studio_stats if s['rated_count'] >= 10], 
+                          key=lambda x: x['avg_rating'], reverse=True)[:5]
+    
+    notable_studios = set([s['studio'] for s in top_by_volume] + [s['studio'] for s in top_by_rating])
+    
+    for stats in studio_stats:
+        if stats['studio'] in notable_studios:
+            ax.annotate(stats['studio'], 
+                       xy=(stats['avg_rating'], stats['anime_count']),
+                       xytext=(5, 5), textcoords='offset points',
+                       fontsize=8, alpha=0.7, fontweight='bold')
+    
+    # Labels and title
+    ax.set_xlabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
+    ax.set_ylabel('Number of Anime Produced', fontsize=12, fontweight='bold')
+    ax.set_title('Studio Performance: Average Rating vs Production Volume', fontsize=14, fontweight='bold', pad=20)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
+    
+    plt.tight_layout()
+    
+    # Save PNG
+    output_path = ASSETS_DIR / "studio-scatter.png"
+    plt.savefig(output_path, dpi=150, bbox_inches='tight')
+    plt.close()
+    print(f"[OK] Saved studio scatter plot to {output_path}")
+    
+    # Save JSON data
+    web_data = {
+        'studios': [
+            {
+                'name': s['studio'],
+                'avg_rating': round(s['avg_rating'], 2),
+                'anime_count': s['anime_count'],
+                'rated_count': s['rated_count']
+            }
+            for s in studio_stats
+        ],
+        'mean_rating': round(mean_rating, 2),
+        'mean_count': round(mean_count, 1),
+        'total_studios': len(studio_stats)
+    }
+    
+    web_data_path = DATA_DIR / "studio-scatter.json"
+    with open(web_data_path, 'w', encoding='utf-8') as f:
+        json.dump(web_data, f, indent=2)
+    print(f"[OK] Saved studio scatter data to {web_data_path}")
+
+def generate_studio_scatter_filtered():
+    """Generate scatter plot of studio average rating vs production volume (filtered: 5+ anime)."""
+    print("\nGenerating studio scatter plot (filtered: 5+ anime)...")
+    all_anime, _ = load_all_anime_data()
+    
+    current_year = datetime.now().year
+    
+    # Collect studio data
+    studio_anime_data = defaultdict(list)
+    
+    for anime in all_anime:
+        year = anime.get('year')
+        if not year or year < 2006 or year > current_year:
+            continue
+        
+        studios = anime.get('studios', [])
+        score = anime.get('score')
+        
+        for studio in studios:
+            if studio:  # Only if studio name exists
+                studio_anime_data[studio].append({
+                    'score': score,
+                    'title': anime.get('title', '')
+                })
+    
+    # Calculate average rating and count for each studio, FILTER for 5+ anime
+    studio_stats = []
+    for studio, anime_list in studio_anime_data.items():
+        total_count = len(anime_list)
+        
+        # Filter: only include studios with 5 or more anime
+        if total_count < 5:
+            continue
+            
+        scores = [a['score'] for a in anime_list if a['score'] is not None]
+        
+        if scores:  # Only include studios with at least one rated anime
+            avg_score = statistics.mean(scores)
+            studio_stats.append({
+                'studio': studio,
+                'avg_rating': avg_score,
+                'anime_count': total_count,
+                'rated_count': len(scores)
+            })
+    
+    # Extract data for plotting
+    avg_ratings = [s['avg_rating'] for s in studio_stats]
+    anime_counts = [s['anime_count'] for s in studio_stats]
+    studio_names = [s['studio'] for s in studio_stats]
+    
+    # Calculate means
+    mean_rating = statistics.mean(avg_ratings)
+    mean_count = statistics.mean(anime_counts)
+    
+    print(f"  Total studios (5+ anime): {len(studio_stats)}")
+    print(f"  Mean rating: {mean_rating:.2f}")
+    print(f"  Mean production count: {mean_count:.1f}")
+    
+    # Create scatter plot
+    fig, ax = plt.subplots(figsize=(14, 10))
+    
+    # Plot scatter points
+    scatter = ax.scatter(avg_ratings, anime_counts, alpha=0.6, s=50, c='#3b82f6', edgecolors='white', linewidth=0.5)
+    
+    # Add mean lines
+    ax.axvline(x=mean_rating, color='#ef4444', linestyle='--', linewidth=2.5, 
+               label=f'Mean Rating: {mean_rating:.2f}', alpha=0.8)
+    ax.axhline(y=mean_count, color='#22c55e', linestyle='--', linewidth=2.5, 
+               label=f'Mean Production Count: {mean_count:.1f}', alpha=0.8)
+    
+    # Label notable studios (high volume or high rating)
+    # Top 5 by volume and top 5 by rating
+    top_by_volume = sorted(studio_stats, key=lambda x: x['anime_count'], reverse=True)[:5]
+    top_by_rating = sorted([s for s in studio_stats if s['rated_count'] >= 10], 
+                          key=lambda x: x['avg_rating'], reverse=True)[:5]
+    
+    notable_studios = set([s['studio'] for s in top_by_volume] + [s['studio'] for s in top_by_rating])
+    
+    for stats in studio_stats:
+        if stats['studio'] in notable_studios:
+            ax.annotate(stats['studio'], 
+                       xy=(stats['avg_rating'], stats['anime_count']),
+                       xytext=(5, 5), textcoords='offset points',
+                       fontsize=8, alpha=0.7, fontweight='bold')
+    
+    # Labels and title
+    ax.set_xlabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
+    ax.set_ylabel('Number of Anime Produced', fontsize=12, fontweight='bold')
+    ax.set_title('Studio Performance: Average Rating vs Production Volume (5+ Anime)', fontsize=14, fontweight='bold', pad=20)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
+    
+    plt.tight_layout()
+    
+    # Save PNG
+    output_path = ASSETS_DIR / "studio-scatter-filtered.png"
+    plt.savefig(output_path, dpi=150, bbox_inches='tight')
+    plt.close()
+    print(f"[OK] Saved filtered studio scatter plot to {output_path}")
+    
+    # Save JSON data
+    web_data = {
+        'studios': [
+            {
+                'name': s['studio'],
+                'avg_rating': round(s['avg_rating'], 2),
+                'anime_count': s['anime_count'],
+                'rated_count': s['rated_count']
+            }
+            for s in studio_stats
+        ],
+        'mean_rating': round(mean_rating, 2),
+        'mean_count': round(mean_count, 1),
+        'total_studios': len(studio_stats),
+        'min_anime_count': 5
+    }
+    
+    web_data_path = DATA_DIR / "studio-scatter-filtered.json"
+    with open(web_data_path, 'w', encoding='utf-8') as f:
+        json.dump(web_data, f, indent=2)
+    print(f"[OK] Saved filtered studio scatter data to {web_data_path}")
+
+def generate_studio_scatter_filtered_10():
+    """Generate scatter plot of studio average rating vs production volume (filtered: 10+ anime)."""
+    print("\nGenerating studio scatter plot (filtered: 10+ anime)...")
+    all_anime, _ = load_all_anime_data()
+    
+    current_year = datetime.now().year
+    
+    # Collect studio data
+    studio_anime_data = defaultdict(list)
+    
+    for anime in all_anime:
+        year = anime.get('year')
+        if not year or year < 2006 or year > current_year:
+            continue
+        
+        studios = anime.get('studios', [])
+        score = anime.get('score')
+        
+        for studio in studios:
+            if studio:  # Only if studio name exists
+                studio_anime_data[studio].append({
+                    'score': score,
+                    'title': anime.get('title', '')
+                })
+    
+    # Calculate average rating and count for each studio, FILTER for 10+ anime
+    studio_stats = []
+    for studio, anime_list in studio_anime_data.items():
+        total_count = len(anime_list)
+        
+        # Filter: only include studios with 10 or more anime
+        if total_count < 10:
+            continue
+            
+        scores = [a['score'] for a in anime_list if a['score'] is not None]
+        
+        if scores:  # Only include studios with at least one rated anime
+            avg_score = statistics.mean(scores)
+            studio_stats.append({
+                'studio': studio,
+                'avg_rating': avg_score,
+                'anime_count': total_count,
+                'rated_count': len(scores)
+            })
+    
+    # Extract data for plotting
+    avg_ratings = [s['avg_rating'] for s in studio_stats]
+    anime_counts = [s['anime_count'] for s in studio_stats]
+    studio_names = [s['studio'] for s in studio_stats]
+    
+    # Calculate means
+    mean_rating = statistics.mean(avg_ratings)
+    mean_count = statistics.mean(anime_counts)
+    
+    print(f"  Total studios (10+ anime): {len(studio_stats)}")
+    print(f"  Mean rating: {mean_rating:.2f}")
+    print(f"  Mean production count: {mean_count:.1f}")
+    
+    # Create scatter plot
+    fig, ax = plt.subplots(figsize=(14, 10))
+    
+    # Plot scatter points
+    scatter = ax.scatter(avg_ratings, anime_counts, alpha=0.6, s=50, c='#3b82f6', edgecolors='white', linewidth=0.5)
+    
+    # Add mean lines
+    ax.axvline(x=mean_rating, color='#ef4444', linestyle='--', linewidth=2.5, 
+               label=f'Mean Rating: {mean_rating:.2f}', alpha=0.8)
+    ax.axhline(y=mean_count, color='#22c55e', linestyle='--', linewidth=2.5, 
+               label=f'Mean Production Count: {mean_count:.1f}', alpha=0.8)
+    
+    # Label notable studios (high volume or high rating)
+    # Top 5 by volume and top 5 by rating
+    top_by_volume = sorted(studio_stats, key=lambda x: x['anime_count'], reverse=True)[:5]
+    top_by_rating = sorted([s for s in studio_stats if s['rated_count'] >= 10], 
+                          key=lambda x: x['avg_rating'], reverse=True)[:5]
+    
+    notable_studios = set([s['studio'] for s in top_by_volume] + [s['studio'] for s in top_by_rating])
+    
+    for stats in studio_stats:
+        if stats['studio'] in notable_studios:
+            ax.annotate(stats['studio'], 
+                       xy=(stats['avg_rating'], stats['anime_count']),
+                       xytext=(5, 5), textcoords='offset points',
+                       fontsize=8, alpha=0.7, fontweight='bold')
+    
+    # Labels and title
+    ax.set_xlabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
+    ax.set_ylabel('Number of Anime Produced', fontsize=12, fontweight='bold')
+    ax.set_title('Studio Performance: Average Rating vs Production Volume (10+ Anime)', fontsize=14, fontweight='bold', pad=20)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
+    
+    plt.tight_layout()
+    
+    # Save PNG
+    output_path = ASSETS_DIR / "studio-scatter-filtered-10.png"
+    plt.savefig(output_path, dpi=150, bbox_inches='tight')
+    plt.close()
+    print(f"[OK] Saved filtered studio scatter plot (10+) to {output_path}")
+    
+    # Save JSON data
+    web_data = {
+        'studios': [
+            {
+                'name': s['studio'],
+                'avg_rating': round(s['avg_rating'], 2),
+                'anime_count': s['anime_count'],
+                'rated_count': s['rated_count']
+            }
+            for s in studio_stats
+        ],
+        'mean_rating': round(mean_rating, 2),
+        'mean_count': round(mean_count, 1),
+        'total_studios': len(studio_stats),
+        'min_anime_count': 10
+    }
+    
+    web_data_path = DATA_DIR / "studio-scatter-filtered-10.json"
+    with open(web_data_path, 'w', encoding='utf-8') as f:
+        json.dump(web_data, f, indent=2)
+    print(f"[OK] Saved filtered studio scatter data (10+) to {web_data_path}")
+
 def generate_collection_stats():
     """Generate overall collection statistics."""
     print("\nGenerating collection statistics...")
@@ -855,6 +1215,9 @@ def main():
     generate_production_volume()
     generate_seasonal_patterns()
     generate_studio_rankings()
+    generate_studio_scatter()
+    generate_studio_scatter_filtered()
+    generate_studio_scatter_filtered_10()
     generate_collection_stats()
     
     print("\n" + "=" * 60)

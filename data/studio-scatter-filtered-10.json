@@ -1,0 +1,680 @@
+{
+  "studios": [
+    {
+      "name": "Studio Deen",
+      "avg_rating": 6.88,
+      "anime_count": 123,
+      "rated_count": 114
+    },
+    {
+      "name": "Manglobe",
+      "avg_rating": 7.37,
+      "anime_count": 15,
+      "rated_count": 15
+    },
+    {
+      "name": "Shaft",
+      "avg_rating": 7.47,
+      "anime_count": 42,
+      "rated_count": 42
+    },
+    {
+      "name": "Group TAC",
+      "avg_rating": 6.68,
+      "anime_count": 12,
+      "rated_count": 9
+    },
+    {
+      "name": "Toei Animation",
+      "avg_rating": 7.03,
+      "anime_count": 93,
+      "rated_count": 81
+    },
+    {
+      "name": "Studio Hibari",
+      "avg_rating": 6.83,
+      "anime_count": 22,
+      "rated_count": 22
+    },
+    {
+      "name": "J.C.Staff",
+      "avg_rating": 7.21,
+      "anime_count": 148,
+      "rated_count": 148
+    },
+    {
+      "name": "Actas",
+      "avg_rating": 6.83,
+      "anime_count": 10,
+      "rated_count": 9
+    },
+    {
+      "name": "Bee Train",
+      "avg_rating": 7.15,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
+      "name": "Xebec",
+      "avg_rating": 6.79,
+      "anime_count": 45,
+      "rated_count": 45
+    },
+    {
+      "name": "Studio Comet",
+      "avg_rating": 6.81,
+      "anime_count": 28,
+      "rated_count": 24
+    },
+    {
+      "name": "TNK",
+      "avg_rating": 6.41,
+      "anime_count": 18,
+      "rated_count": 18
+    },
+    {
+      "name": "Bones",
+      "avg_rating": 7.61,
+      "anime_count": 59,
+      "rated_count": 59
+    },
+    {
+      "name": "Sunrise",
+      "avg_rating": 7.24,
+      "anime_count": 79,
+      "rated_count": 79
+    },
+    {
+      "name": "Madhouse",
+      "avg_rating": 7.4,
+      "anime_count": 101,
+      "rated_count": 101
+    },
+    {
+      "name": "Kyoto Animation",
+      "avg_rating": 7.87,
+      "anime_count": 29,
+      "rated_count": 29
+    },
+    {
+      "name": "Production I.G",
+      "avg_rating": 7.51,
+      "anime_count": 68,
+      "rated_count": 68
+    },
+    {
+      "name": "OLM",
+      "avg_rating": 6.76,
+      "anime_count": 116,
+      "rated_count": 109
+    },
+    {
+      "name": "Gonzo",
+      "avg_rating": 6.78,
+      "anime_count": 44,
+      "rated_count": 44
+    },
+    {
+      "name": "HAL Film Maker",
+      "avg_rating": 7.32,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "Seven Arcs",
+      "avg_rating": 7.09,
+      "anime_count": 17,
+      "rated_count": 17
+    },
+    {
+      "name": "AIC",
+      "avg_rating": 6.98,
+      "anime_count": 15,
+      "rated_count": 15
+    },
+    {
+      "name": "AIC Spirits",
+      "avg_rating": 6.64,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Arms",
+      "avg_rating": 6.49,
+      "anime_count": 19,
+      "rated_count": 19
+    },
+    {
+      "name": "SynergySP",
+      "avg_rating": 6.92,
+      "anime_count": 33,
+      "rated_count": 33
+    },
+    {
+      "name": "Tezuka Productions",
+      "avg_rating": 7.06,
+      "anime_count": 24,
+      "rated_count": 22
+    },
+    {
+      "name": "Satelight",
+      "avg_rating": 6.91,
+      "anime_count": 55,
+      "rated_count": 55
+    },
+    {
+      "name": "TMS Entertainment",
+      "avg_rating": 7.05,
+      "anime_count": 95,
+      "rated_count": 83
+    },
+    {
+      "name": "Nomad",
+      "avg_rating": 6.76,
+      "anime_count": 20,
+      "rated_count": 20
+    },
+    {
+      "name": "DLE",
+      "avg_rating": 5.78,
+      "anime_count": 85,
+      "rated_count": 47
+    },
+    {
+      "name": "Asahi Production",
+      "avg_rating": 6.26,
+      "anime_count": 30,
+      "rated_count": 26
+    },
+    {
+      "name": "Tatsunoko Production",
+      "avg_rating": 6.7,
+      "anime_count": 39,
+      "rated_count": 36
+    },
+    {
+      "name": "A-1 Pictures",
+      "avg_rating": 7.38,
+      "anime_count": 109,
+      "rated_count": 108
+    },
+    {
+      "name": "Nippon Animation",
+      "avg_rating": 6.7,
+      "anime_count": 25,
+      "rated_count": 18
+    },
+    {
+      "name": "Dongwoo A&E",
+      "avg_rating": 7.01,
+      "anime_count": 13,
+      "rated_count": 10
+    },
+    {
+      "name": "Artland",
+      "avg_rating": 7.04,
+      "anime_count": 16,
+      "rated_count": 16
+    },
+    {
+      "name": "Brain's Base",
+      "avg_rating": 7.12,
+      "anime_count": 52,
+      "rated_count": 49
+    },
+    {
+      "name": "ufotable",
+      "avg_rating": 7.82,
+      "anime_count": 15,
+      "rated_count": 15
+    },
+    {
+      "name": "Telecom Animation Film",
+      "avg_rating": 7.09,
+      "anime_count": 21,
+      "rated_count": 21
+    },
+    {
+      "name": "A.C.G.T.",
+      "avg_rating": 6.59,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "Yumeta Company",
+      "avg_rating": 6.72,
+      "anime_count": 14,
+      "rated_count": 13
+    },
+    {
+      "name": "feel.",
+      "avg_rating": 6.86,
+      "anime_count": 42,
+      "rated_count": 42
+    },
+    {
+      "name": "Zexcs",
+      "avg_rating": 6.74,
+      "anime_count": 32,
+      "rated_count": 32
+    },
+    {
+      "name": "Gallop",
+      "avg_rating": 6.82,
+      "anime_count": 12,
+      "rated_count": 9
+    },
+    {
+      "name": "Ajia-do",
+      "avg_rating": 7.15,
+      "anime_count": 19,
+      "rated_count": 17
+    },
+    {
+      "name": "Polygon Pictures",
+      "avg_rating": 6.77,
+      "anime_count": 14,
+      "rated_count": 13
+    },
+    {
+      "name": "Studio Pierrot",
+      "avg_rating": 7.32,
+      "anime_count": 42,
+      "rated_count": 42
+    },
+    {
+      "name": "asread.",
+      "avg_rating": 6.76,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Gainax",
+      "avg_rating": 7.15,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "Doga Kobo",
+      "avg_rating": 7.09,
+      "anime_count": 63,
+      "rated_count": 61
+    },
+    {
+      "name": "Shirogumi",
+      "avg_rating": 6.49,
+      "anime_count": 12,
+      "rated_count": 11
+    },
+    {
+      "name": "Shogakukan Music & Digital Entertainment",
+      "avg_rating": 5.96,
+      "anime_count": 28,
+      "rated_count": 15
+    },
+    {
+      "name": "P.A. Works",
+      "avg_rating": 7.29,
+      "anime_count": 36,
+      "rated_count": 36
+    },
+    {
+      "name": "Pierrot Plus",
+      "avg_rating": 6.7,
+      "anime_count": 14,
+      "rated_count": 13
+    },
+    {
+      "name": "Diomed\u00e9a",
+      "avg_rating": 6.88,
+      "anime_count": 35,
+      "rated_count": 35
+    },
+    {
+      "name": "White Fox",
+      "avg_rating": 7.61,
+      "anime_count": 26,
+      "rated_count": 26
+    },
+    {
+      "name": "SILVER LINK.",
+      "avg_rating": 6.93,
+      "anime_count": 70,
+      "rated_count": 70
+    },
+    {
+      "name": "David Production",
+      "avg_rating": 7.46,
+      "anime_count": 26,
+      "rated_count": 26
+    },
+    {
+      "name": "Kinema Citrus",
+      "avg_rating": 6.9,
+      "anime_count": 35,
+      "rated_count": 35
+    },
+    {
+      "name": "TYO Animations",
+      "avg_rating": 7.11,
+      "anime_count": 12,
+      "rated_count": 10
+    },
+    {
+      "name": "Kachidoki Studio",
+      "avg_rating": 5.55,
+      "anime_count": 43,
+      "rated_count": 10
+    },
+    {
+      "name": "GoHands",
+      "avg_rating": 6.7,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "Hoods Entertainment",
+      "avg_rating": 6.47,
+      "anime_count": 14,
+      "rated_count": 14
+    },
+    {
+      "name": "Bridge",
+      "avg_rating": 6.56,
+      "anime_count": 22,
+      "rated_count": 22
+    },
+    {
+      "name": "Gathering",
+      "avg_rating": 6.24,
+      "anime_count": 14,
+      "rated_count": 14
+    },
+    {
+      "name": "Shin-Ei Animation",
+      "avg_rating": 7.0,
+      "anime_count": 35,
+      "rated_count": 32
+    },
+    {
+      "name": "Iconix Entertainment",
+      "avg_rating": 5.72,
+      "anime_count": 13,
+      "rated_count": 5
+    },
+    {
+      "name": "Studio Gale",
+      "avg_rating": 5.72,
+      "anime_count": 17,
+      "rated_count": 5
+    },
+    {
+      "name": "8bit",
+      "avg_rating": 7.24,
+      "anime_count": 35,
+      "rated_count": 35
+    },
+    {
+      "name": "Studio Gokumi",
+      "avg_rating": 6.86,
+      "anime_count": 32,
+      "rated_count": 32
+    },
+    {
+      "name": "Alpha Animation",
+      "avg_rating": 6.15,
+      "anime_count": 10,
+      "rated_count": 7
+    },
+    {
+      "name": "Project No.9",
+      "avg_rating": 6.55,
+      "anime_count": 31,
+      "rated_count": 31
+    },
+    {
+      "name": "Seven",
+      "avg_rating": 6.14,
+      "anime_count": 24,
+      "rated_count": 24
+    },
+    {
+      "name": "Lerche",
+      "avg_rating": 7.37,
+      "anime_count": 35,
+      "rated_count": 35
+    },
+    {
+      "name": "SANZIGEN",
+      "avg_rating": 6.87,
+      "anime_count": 23,
+      "rated_count": 23
+    },
+    {
+      "name": "Encourage Films",
+      "avg_rating": 6.5,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
+      "name": "MAPPA",
+      "avg_rating": 7.49,
+      "anime_count": 53,
+      "rated_count": 53
+    },
+    {
+      "name": "C2C",
+      "avg_rating": 6.98,
+      "anime_count": 17,
+      "rated_count": 17
+    },
+    {
+      "name": "Bandai Namco Pictures",
+      "avg_rating": 7.33,
+      "anime_count": 35,
+      "rated_count": 33
+    },
+    {
+      "name": "Passione",
+      "avg_rating": 6.81,
+      "anime_count": 23,
+      "rated_count": 23
+    },
+    {
+      "name": "LIDENFILMS",
+      "avg_rating": 6.83,
+      "anime_count": 70,
+      "rated_count": 70
+    },
+    {
+      "name": "Fanworks",
+      "avg_rating": 6.5,
+      "anime_count": 40,
+      "rated_count": 19
+    },
+    {
+      "name": "Wit Studio",
+      "avg_rating": 7.58,
+      "anime_count": 28,
+      "rated_count": 27
+    },
+    {
+      "name": "Graphinica",
+      "avg_rating": 6.41,
+      "anime_count": 10,
+      "rated_count": 9
+    },
+    {
+      "name": "ILCA",
+      "avg_rating": 5.69,
+      "anime_count": 24,
+      "rated_count": 24
+    },
+    {
+      "name": "Trigger",
+      "avg_rating": 7.58,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "Connect",
+      "avg_rating": 6.76,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "Funny Flux",
+      "avg_rating": 5.85,
+      "anime_count": 15,
+      "rated_count": 2
+    },
+    {
+      "name": "Production IMS",
+      "avg_rating": 6.64,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Lay-duce",
+      "avg_rating": 6.96,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "C-Station",
+      "avg_rating": 6.96,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
+      "name": "TROYCA",
+      "avg_rating": 7.49,
+      "anime_count": 14,
+      "rated_count": 14
+    },
+    {
+      "name": "Studio 3Hz",
+      "avg_rating": 6.91,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Pie in the sky",
+      "avg_rating": 6.55,
+      "anime_count": 11,
+      "rated_count": 7
+    },
+    {
+      "name": "SAMG Entertainment",
+      "avg_rating": 6.03,
+      "anime_count": 21,
+      "rated_count": 5
+    },
+    {
+      "name": "Creators in Pack",
+      "avg_rating": 5.99,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "EMT Squared",
+      "avg_rating": 6.2,
+      "anime_count": 28,
+      "rated_count": 28
+    },
+    {
+      "name": "Millepensee",
+      "avg_rating": 6.61,
+      "anime_count": 16,
+      "rated_count": 16
+    },
+    {
+      "name": "Signal.MD",
+      "avg_rating": 6.33,
+      "anime_count": 15,
+      "rated_count": 13
+    },
+    {
+      "name": "AXsiZ",
+      "avg_rating": 6.26,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "PINE JAM",
+      "avg_rating": 6.97,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
+      "name": "Zero-G",
+      "avg_rating": 6.84,
+      "anime_count": 26,
+      "rated_count": 26
+    },
+    {
+      "name": "Studio A-CAT",
+      "avg_rating": 6.06,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "Lesprit",
+      "avg_rating": 6.47,
+      "anime_count": 14,
+      "rated_count": 11
+    },
+    {
+      "name": "CloverWorks",
+      "avg_rating": 7.65,
+      "anime_count": 37,
+      "rated_count": 36
+    },
+    {
+      "name": "Geek Toys",
+      "avg_rating": 6.73,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "Maho Film",
+      "avg_rating": 6.83,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "ENGI",
+      "avg_rating": 6.91,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Felix Film",
+      "avg_rating": 7.12,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
+      "name": "Yokohama Animation Lab",
+      "avg_rating": 6.62,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "Studio KAI",
+      "avg_rating": 7.35,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "Imageworks Studio",
+      "avg_rating": 6.01,
+      "anime_count": 11,
+      "rated_count": 8
+    }
+  ],
+  "mean_rating": 6.82,
+  "mean_count": 30.4,
+  "total_studios": 112,
+  "min_anime_count": 10
+}

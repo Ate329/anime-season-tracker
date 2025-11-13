@@ -64,6 +64,9 @@ anime-season-tracker/
 │   ├── production-volume.json             # Production volume data for web
 │   ├── seasonal-patterns.json             # Seasonal patterns data for web
 │   ├── studio-rankings.json               # Studio rankings data for web
+│   ├── studio-scatter.json                # Studio scatter plot data for web
+│   ├── studio-scatter-filtered.json       # Studio scatter plot (5+ anime) for web
+│   ├── studio-scatter-filtered-10.json    # Studio scatter plot (10+ anime) for web
 │   ├── collection-stats.json              # Overall collection statistics
 │   ├── csv/               # CSV exports for data analysis
 │   │   ├── all_anime.csv                  # All anime with complete details
@@ -86,7 +89,10 @@ anime-season-tracker/
 │   ├── genre-trends-by-season-percentage.png # Genre trends by season (%) for README
 │   ├── production-volume.png # Production volume graph for README
 │   ├── seasonal-patterns.png # Seasonal patterns graph for README
-│   └── studio-rankings.png # Studio rankings graph for README
+│   ├── studio-rankings.png # Studio rankings graph for README
+│   ├── studio-scatter.png # Studio scatter plot graph for README
+│   ├── studio-scatter-filtered.png # Studio scatter plot (5+ anime) for README
+│   └── studio-scatter-filtered-10.png # Studio scatter plot (10+ anime) for README
 └── .github/
     └── workflows/         # GitHub Actions
         ├── update-current-years.yml  # Weekly updates + graph
@@ -180,6 +186,19 @@ Which season historically has the best ratings and most anime? Find out the patt
 Compare the most prolific studios vs. the highest quality studios. Who makes the most anime? Who makes the best?
 
 ![Studio Rankings](assets/studio-rankings.png)
+
+### 🎯 Studio Performance Analysis
+Scatter plot showing the relationship between studios' average ratings and their production volume, with mean reference lines for both axes.
+
+![Studio Scatter](assets/studio-scatter.png)
+
+**Filtered View (5+ Anime):** More focused view showing only established studios:
+
+![Studio Scatter Filtered](assets/studio-scatter-filtered.png)
+
+**Filtered View (10+ Anime):** Even more focused on major studios:
+
+![Studio Scatter Filtered 10](assets/studio-scatter-filtered-10.png)
 
 > 💡 **Interactive versions** of all these graphs are available on the [Data page](https://anime.ate329.com/data.html)
 

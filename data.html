@@ -194,6 +194,75 @@
                 </div>
             </div>
         </div>
+
+        <!-- Studio Scatter Plot -->
+        <div id="studio-scatter-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎯 Studio Performance Analysis</h2>
+            <p class="text-gray-600 mb-6">Studio average rating vs. production volume - with mean reference lines</p>
+            <div class="relative" style="height: 600px;">
+                <canvas id="studio-scatter-chart"></canvas>
+            </div>
+            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                <div class="bg-gray-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-gray-900" id="total-studios">-</div>
+                    <div class="text-sm text-gray-600">Total Studios</div>
+                </div>
+                <div class="bg-red-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-red-600" id="mean-rating">-</div>
+                    <div class="text-sm text-gray-600">Mean Rating</div>
+                </div>
+                <div class="bg-green-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-green-600" id="mean-count">-</div>
+                    <div class="text-sm text-gray-600">Mean Production Count</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Studio Scatter Plot (Filtered 5+ Anime) -->
+        <div id="studio-scatter-filtered-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎯 Studio Performance Analysis (5+ Anime)</h2>
+            <p class="text-gray-600 mb-6">Filtered view showing only studios with 5 or more anime - with mean reference lines</p>
+            <div class="relative" style="height: 600px;">
+                <canvas id="studio-scatter-filtered-chart"></canvas>
+            </div>
+            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                <div class="bg-gray-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-gray-900" id="total-studios-filtered">-</div>
+                    <div class="text-sm text-gray-600">Total Studios (5+ Anime)</div>
+                </div>
+                <div class="bg-red-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered">-</div>
+                    <div class="text-sm text-gray-600">Mean Rating</div>
+                </div>
+                <div class="bg-green-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-green-600" id="mean-count-filtered">-</div>
+                    <div class="text-sm text-gray-600">Mean Production Count</div>
+                </div>
+            </div>
+        </div>
+
+        <!-- Studio Scatter Plot (Filtered 10+ Anime) -->
+        <div id="studio-scatter-filtered-10-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
+            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎯 Studio Performance Analysis (10+ Anime)</h2>
+            <p class="text-gray-600 mb-6">Focused view showing only major studios with 10 or more anime - with mean reference lines</p>
+            <div class="relative" style="height: 600px;">
+                <canvas id="studio-scatter-filtered-10-chart"></canvas>
+            </div>
+            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                <div class="bg-gray-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-gray-900" id="total-studios-filtered-10">-</div>
+                    <div class="text-sm text-gray-600">Total Studios (10+ Anime)</div>
+                </div>
+                <div class="bg-red-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered-10">-</div>
+                    <div class="text-sm text-gray-600">Mean Rating</div>
+                </div>
+                <div class="bg-green-50 rounded-lg p-3">
+                    <div class="text-2xl font-bold text-green-600" id="mean-count-filtered-10">-</div>
+                    <div class="text-sm text-gray-600">Mean Production Count</div>
+                </div>
+            </div>
+        </div>
     </main>
 
     <!-- Footer -->
@@ -218,6 +287,9 @@
         let seasonalCountsChart = null;
         let studioQuantityChart = null;
         let studioQualityChart = null;
+        let studioScatterChart = null;
+        let studioScatterFilteredChart = null;
+        let studioScatterFiltered10Chart = null;
 
         /**
          * Load and display rating trend
@@ -1189,6 +1261,402 @@
             }
         }
 
+        /**
+         * Load and display studio scatter plot
+         */
+        async function loadStudioScatter() {
+            try {
+                const response = await fetch('data/studio-scatter.json');
+                if (!response.ok) {
+                    console.log('Studio scatter data not available');
+                    document.getElementById('studio-scatter-section').style.display = 'none';
+                    return;
+                }
+                
+                const scatterData = await response.json();
+                
+                // Update statistics
+                document.getElementById('total-studios').textContent = scatterData.total_studios.toLocaleString();
+                document.getElementById('mean-rating').textContent = scatterData.mean_rating.toFixed(2);
+                document.getElementById('mean-count').textContent = scatterData.mean_count.toFixed(1);
+                
+                // Prepare data for Chart.js
+                const chartData = scatterData.studios.map(studio => ({
+                    x: studio.avg_rating,
+                    y: studio.anime_count,
+                    label: studio.name
+                }));
+                
+                // Create the scatter plot
+                const ctx = document.getElementById('studio-scatter-chart').getContext('2d');
+                
+                studioScatterChart = new Chart(ctx, {
+                    type: 'scatter',
+                    data: {
+                        datasets: [{
+                            label: 'Studios',
+                            data: chartData,
+                            backgroundColor: 'rgba(59, 130, 246, 0.6)',
+                            borderColor: 'rgba(59, 130, 246, 1)',
+                            borderWidth: 1,
+                            pointRadius: 5,
+                            pointHoverRadius: 7
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                padding: 12,
+                                callbacks: {
+                                    label: function(context) {
+                                        const studio = scatterData.studios[context.dataIndex];
+                                        return [
+                                            'Studio: ' + studio.name,
+                                            'Average Rating: ' + studio.avg_rating.toFixed(2),
+                                            'Anime Produced: ' + studio.anime_count,
+                                            'Rated Anime: ' + studio.rated_count
+                                        ];
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Average Rating (MAL Score)',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    stepSize: 0.5
+                                }
+                            },
+                            y: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Number of Anime Produced',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                beginAtZero: true
+                            }
+                        }
+                    },
+                    plugins: [{
+                        afterDraw: function(chart) {
+                            const ctx = chart.ctx;
+                            const xAxis = chart.scales.x;
+                            const yAxis = chart.scales.y;
+                            
+                            // Draw mean rating line
+                            const meanRatingX = xAxis.getPixelForValue(scatterData.mean_rating);
+                            ctx.save();
+                            ctx.strokeStyle = '#ef4444';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(meanRatingX, yAxis.top);
+                            ctx.lineTo(meanRatingX, yAxis.bottom);
+                            ctx.stroke();
+                            ctx.restore();
+                            
+                            // Draw mean count line
+                            const meanCountY = yAxis.getPixelForValue(scatterData.mean_count);
+                            ctx.save();
+                            ctx.strokeStyle = '#22c55e';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(xAxis.left, meanCountY);
+                            ctx.lineTo(xAxis.right, meanCountY);
+                            ctx.stroke();
+                            ctx.restore();
+                        }
+                    }]
+                });
+            } catch (error) {
+                console.error('Error loading studio scatter:', error);
+                document.getElementById('studio-scatter-section').style.display = 'none';
+            }
+        }
+
+        /**
+         * Load and display studio scatter plot (filtered 5+ anime)
+         */
+        async function loadStudioScatterFiltered() {
+            try {
+                const response = await fetch('data/studio-scatter-filtered.json');
+                if (!response.ok) {
+                    console.log('Studio scatter filtered data not available');
+                    document.getElementById('studio-scatter-filtered-section').style.display = 'none';
+                    return;
+                }
+                
+                const scatterData = await response.json();
+                
+                // Update statistics
+                document.getElementById('total-studios-filtered').textContent = scatterData.total_studios.toLocaleString();
+                document.getElementById('mean-rating-filtered').textContent = scatterData.mean_rating.toFixed(2);
+                document.getElementById('mean-count-filtered').textContent = scatterData.mean_count.toFixed(1);
+                
+                // Prepare data for Chart.js
+                const chartData = scatterData.studios.map(studio => ({
+                    x: studio.avg_rating,
+                    y: studio.anime_count,
+                    label: studio.name
+                }));
+                
+                // Create the scatter plot
+                const ctx = document.getElementById('studio-scatter-filtered-chart').getContext('2d');
+                
+                studioScatterFilteredChart = new Chart(ctx, {
+                    type: 'scatter',
+                    data: {
+                        datasets: [{
+                            label: 'Studios',
+                            data: chartData,
+                            backgroundColor: 'rgba(59, 130, 246, 0.6)',
+                            borderColor: 'rgba(59, 130, 246, 1)',
+                            borderWidth: 1,
+                            pointRadius: 5,
+                            pointHoverRadius: 7
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                padding: 12,
+                                callbacks: {
+                                    label: function(context) {
+                                        const studio = scatterData.studios[context.dataIndex];
+                                        return [
+                                            'Studio: ' + studio.name,
+                                            'Average Rating: ' + studio.avg_rating.toFixed(2),
+                                            'Anime Produced: ' + studio.anime_count,
+                                            'Rated Anime: ' + studio.rated_count
+                                        ];
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Average Rating (MAL Score)',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    stepSize: 0.5
+                                }
+                            },
+                            y: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Number of Anime Produced',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                beginAtZero: true
+                            }
+                        }
+                    },
+                    plugins: [{
+                        afterDraw: function(chart) {
+                            const ctx = chart.ctx;
+                            const xAxis = chart.scales.x;
+                            const yAxis = chart.scales.y;
+                            
+                            // Draw mean rating line
+                            const meanRatingX = xAxis.getPixelForValue(scatterData.mean_rating);
+                            ctx.save();
+                            ctx.strokeStyle = '#ef4444';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(meanRatingX, yAxis.top);
+                            ctx.lineTo(meanRatingX, yAxis.bottom);
+                            ctx.stroke();
+                            ctx.restore();
+                            
+                            // Draw mean count line
+                            const meanCountY = yAxis.getPixelForValue(scatterData.mean_count);
+                            ctx.save();
+                            ctx.strokeStyle = '#22c55e';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(xAxis.left, meanCountY);
+                            ctx.lineTo(xAxis.right, meanCountY);
+                            ctx.stroke();
+                            ctx.restore();
+                        }
+                    }]
+                });
+            } catch (error) {
+                console.error('Error loading studio scatter filtered:', error);
+                document.getElementById('studio-scatter-filtered-section').style.display = 'none';
+            }
+        }
+
+        /**
+         * Load and display studio scatter plot (filtered 10+ anime)
+         */
+        async function loadStudioScatterFiltered10() {
+            try {
+                const response = await fetch('data/studio-scatter-filtered-10.json');
+                if (!response.ok) {
+                    console.log('Studio scatter filtered 10+ data not available');
+                    document.getElementById('studio-scatter-filtered-10-section').style.display = 'none';
+                    return;
+                }
+                
+                const scatterData = await response.json();
+                
+                // Update statistics
+                document.getElementById('total-studios-filtered-10').textContent = scatterData.total_studios.toLocaleString();
+                document.getElementById('mean-rating-filtered-10').textContent = scatterData.mean_rating.toFixed(2);
+                document.getElementById('mean-count-filtered-10').textContent = scatterData.mean_count.toFixed(1);
+                
+                // Prepare data for Chart.js
+                const chartData = scatterData.studios.map(studio => ({
+                    x: studio.avg_rating,
+                    y: studio.anime_count,
+                    label: studio.name
+                }));
+                
+                // Create the scatter plot
+                const ctx = document.getElementById('studio-scatter-filtered-10-chart').getContext('2d');
+                
+                studioScatterFiltered10Chart = new Chart(ctx, {
+                    type: 'scatter',
+                    data: {
+                        datasets: [{
+                            label: 'Studios',
+                            data: chartData,
+                            backgroundColor: 'rgba(59, 130, 246, 0.6)',
+                            borderColor: 'rgba(59, 130, 246, 1)',
+                            borderWidth: 1,
+                            pointRadius: 5,
+                            pointHoverRadius: 7
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                padding: 12,
+                                callbacks: {
+                                    label: function(context) {
+                                        const studio = scatterData.studios[context.dataIndex];
+                                        return [
+                                            'Studio: ' + studio.name,
+                                            'Average Rating: ' + studio.avg_rating.toFixed(2),
+                                            'Anime Produced: ' + studio.anime_count,
+                                            'Rated Anime: ' + studio.rated_count
+                                        ];
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Average Rating (MAL Score)',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    stepSize: 0.5
+                                }
+                            },
+                            y: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Number of Anime Produced',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                beginAtZero: true
+                            }
+                        }
+                    },
+                    plugins: [{
+                        afterDraw: function(chart) {
+                            const ctx = chart.ctx;
+                            const xAxis = chart.scales.x;
+                            const yAxis = chart.scales.y;
+                            
+                            // Draw mean rating line
+                            const meanRatingX = xAxis.getPixelForValue(scatterData.mean_rating);
+                            ctx.save();
+                            ctx.strokeStyle = '#ef4444';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(meanRatingX, yAxis.top);
+                            ctx.lineTo(meanRatingX, yAxis.bottom);
+                            ctx.stroke();
+                            ctx.restore();
+                            
+                            // Draw mean count line
+                            const meanCountY = yAxis.getPixelForValue(scatterData.mean_count);
+                            ctx.save();
+                            ctx.strokeStyle = '#22c55e';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(xAxis.left, meanCountY);
+                            ctx.lineTo(xAxis.right, meanCountY);
+                            ctx.stroke();
+                            ctx.restore();
+                        }
+                    }]
+                });
+            } catch (error) {
+                console.error('Error loading studio scatter filtered 10+:', error);
+                document.getElementById('studio-scatter-filtered-10-section').style.display = 'none';
+            }
+        }
+
         // Initialize on page load
         document.addEventListener('DOMContentLoaded', () => {
             loadRatingTrend();
@@ -1199,6 +1667,9 @@
             loadProductionVolume();
             loadSeasonalPatterns();
             loadStudioRankings();
+            loadStudioScatter();
+            loadStudioScatterFiltered();
+            loadStudioScatterFiltered10();
         });
     </script>
 </body>
