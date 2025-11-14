@@ -103,21 +103,24 @@
         }
     </style>
 </head>
-<body style="background-color: var(--bg-primary);">
+<body class="min-h-screen flex flex-col" style="background-color: var(--bg-primary);">
     <!-- Header -->
-    <header style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);" class="animate-fade-in">
+    <header class="sticky top-0 z-50 shadow-md animate-fade-in" style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);">
         <div class="max-w-7xl mx-auto px-4 py-6">
             <div class="flex items-center justify-between">
                 <div>
                     <h1 class="text-3xl font-bold" style="color: var(--text-primary);">📊 Interesting Data</h1>
                     <p class="mt-1" style="color: var(--text-secondary);">Explore anime trends, statistics, and insights</p>
                 </div>
-                <nav class="flex gap-4 items-center">
+                <nav class="flex gap-3 items-center">
                     <a href="index.html" class="px-4 py-2 rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         Home
                     </a>
                     <a href="data.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
                         Data
+                    </a>
+                    <a href="random.html" class="px-4 py-2 rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                        Random
                     </a>
                     <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
                         <div class="theme-toggle-slider">
@@ -130,7 +133,7 @@
     </header>
 
     <!-- Main Content -->
-    <main class="max-w-7xl mx-auto px-4 py-8">
+    <main class="max-w-7xl mx-auto px-4 py-8 flex-grow">
         <!-- Rating Trend Graph -->
         <div id="rating-trend-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">📈 Average Rating Trend</h2>
@@ -330,10 +333,10 @@
             </div>
         </div>
     </main>
-
+    
     <!-- Footer -->
-    <footer class="mt-12 animate-fade-in" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
-        <div class="max-w-7xl mx-auto px-4 py-6">
+    <footer class="mt-auto py-6" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
+        <div class="max-w-7xl mx-auto px-4 text-center">
             <div class="text-center text-sm" style="color: var(--text-secondary);">
                 <p>Data sourced from <a href="https://jikan.moe/" class="hover:underline" style="color: var(--text-primary);" target="_blank" rel="noopener">Jikan API</a> (MyAnimeList)</p>
                 <p class="mt-2">Made with ❤️ for anime fans • <a href="https://github.com" class="hover:underline" style="color: var(--text-primary);">View on GitHub</a></p>
