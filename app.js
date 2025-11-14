@@ -138,7 +138,9 @@ function displayYears() {
  */
 function createYearSection(year, seasons) {
     const section = document.createElement('div');
-    section.className = 'year-section bg-white rounded-lg border border-gray-200 p-6';
+    section.className = 'year-section rounded-lg p-6';
+    section.style.backgroundColor = 'var(--bg-secondary)';
+    section.style.border = '1px solid var(--border-color)';
     
     // Sort seasons
     const seasonOrder = ['winter', 'spring', 'summer', 'fall'];
@@ -155,15 +157,16 @@ function createYearSection(year, seasons) {
     };
     
     section.innerHTML = `
-        <h2 class="text-2xl font-bold text-gray-900 mb-4">${year}</h2>
+        <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">${year}</h2>
         <div class="flex flex-wrap gap-2">
             ${sortedSeasons.map(s => `
                 <button 
-                    class="season-btn px-4 py-2 border border-gray-300 rounded-lg text-gray-700 font-medium"
+                    class="season-btn px-4 py-2 rounded-lg font-medium"
+                    style="border: 1px solid var(--border-color); color: var(--text-primary);"
                     data-year="${year}"
                     data-season="${s.season}">
                     ${seasonIcons[s.season]} ${capitalize(s.season)} 
-                    <span class="text-sm text-gray-500">(${s.count})</span>
+                    <span class="text-sm" style="color: var(--text-secondary);">(${s.count})</span>
                 </button>
             `).join('')}
         </div>
@@ -321,17 +324,25 @@ function renderGenreFilters() {
     container.innerHTML = '';
     
     if (allGenres.length === 0) {
-        container.innerHTML = '<p class="text-sm text-gray-500">No genres available</p>';
+        const p = document.createElement('p');
+        p.className = 'text-sm';
+        p.style.color = 'var(--text-secondary)';
+        p.textContent = 'No genres available';
+        container.appendChild(p);
         return;
     }
     
     // Add "All" button
     const allBtn = document.createElement('button');
-    allBtn.className = `genre-btn px-3 py-1 rounded-lg border text-sm font-medium ${
-        selectedGenres.size === 0 
-            ? 'bg-gray-900 text-white border-gray-900' 
-            : 'bg-white text-gray-700 border-gray-300 hover:bg-gray-50'
-    }`;
+    allBtn.className = 'genre-btn px-3 py-1 rounded-lg text-sm font-medium';
+    if (selectedGenres.size === 0) {
+        allBtn.className += ' bg-gray-900 text-white';
+        allBtn.style.border = '1px solid #111827';
+    } else {
+        allBtn.style.backgroundColor = 'var(--bg-secondary)';
+        allBtn.style.color = 'var(--text-primary)';
+        allBtn.style.border = '1px solid var(--border-color)';
+    }
     allBtn.textContent = 'All';
     allBtn.addEventListener('click', () => {
         selectedGenres.clear();
@@ -344,11 +355,15 @@ function renderGenreFilters() {
     allGenres.forEach(genre => {
         const btn = document.createElement('button');
         const isSelected = selectedGenres.has(genre);
-        btn.className = `genre-btn px-3 py-1 rounded-lg border text-sm font-medium ${
-            isSelected
-                ? 'bg-gray-900 text-white border-gray-900'
-                : 'bg-white text-gray-700 border-gray-300 hover:bg-gray-50'
-        }`;
+        btn.className = 'genre-btn px-3 py-1 rounded-lg text-sm font-medium';
+        if (isSelected) {
+            btn.className += ' bg-gray-900 text-white';
+            btn.style.border = '1px solid #111827';
+        } else {
+            btn.style.backgroundColor = 'var(--bg-secondary)';
+            btn.style.color = 'var(--text-primary)';
+            btn.style.border = '1px solid var(--border-color)';
+        }
         btn.textContent = genre;
         btn.addEventListener('click', () => {
             if (isSelected) {
@@ -373,7 +388,11 @@ function renderAnime() {
     const filtered = filterAnime(allAnimeData);
     
     if (filtered.length === 0) {
-        gridEl.innerHTML = '<div class="col-span-full text-center text-gray-600 py-8">No anime found with current filters.</div>';
+        const div = document.createElement('div');
+        div.className = 'col-span-full text-center py-8';
+        div.style.color = 'var(--text-secondary)';
+        div.textContent = 'No anime found with current filters.';
+        gridEl.appendChild(div);
         return;
     }
     
@@ -388,7 +407,9 @@ function renderAnime() {
  */
 function createAnimeCard(anime) {
     const card = document.createElement('div');
-    card.className = 'anime-card bg-white rounded-lg border border-gray-200 overflow-hidden hover:shadow-lg transition-shadow flex flex-col';
+    card.className = 'anime-card rounded-lg overflow-hidden hover:shadow-lg transition-shadow flex flex-col';
+    card.style.backgroundColor = 'var(--bg-secondary)';
+    card.style.border = '1px solid var(--border-color)';
     
     // Prepare data
     const synopsis = anime.synopsis || 'No synopsis available.';
@@ -431,50 +452,50 @@ function createAnimeCard(anime) {
         </div>
         <div class="p-3 space-y-2 flex flex-col flex-grow">
             <div>
-                <h3 class="font-semibold text-sm text-gray-900 line-clamp-2 mb-0.5" title="${anime.title}">
+                <h3 class="font-semibold text-sm line-clamp-2 mb-0.5" style="color: var(--text-primary);" title="${anime.title}">
                     ${anime.title}
                 </h3>
                 ${englishTitle ? 
-                    `<p class="text-xs text-gray-500 line-clamp-1" title="${englishTitle}">${englishTitle}</p>` 
+                    `<p class="text-xs line-clamp-1" style="color: var(--text-secondary);" title="${englishTitle}">${englishTitle}</p>` 
                     : ''}
             </div>
             
             <div class="flex items-center justify-between text-xs">
-                <span class="font-medium text-gray-900">${score}</span>
-                ${scoredBy ? `<span class="text-gray-500">${scoredBy}</span>` : ''}
+                <span class="font-medium" style="color: var(--text-primary);">${score}</span>
+                ${scoredBy ? `<span style="color: var(--text-secondary);">${scoredBy}</span>` : ''}
             </div>
             
             <div class="space-y-1 text-xs">
                 <div class="flex">
-                    <span class="text-gray-500 min-w-[60px]">Studio:</span>
-                    <span class="text-gray-900 font-medium line-clamp-1">${studios}</span>
+                    <span style="color: var(--text-secondary);" class="min-w-[60px]">Studio:</span>
+                    <span style="color: var(--text-primary);" class="font-medium line-clamp-1">${studios}</span>
                 </div>
                 <div class="flex">
-                    <span class="text-gray-500 min-w-[60px]">Source:</span>
-                    <span class="text-gray-700">${source}</span>
+                    <span style="color: var(--text-secondary);" class="min-w-[60px]">Source:</span>
+                    <span style="color: var(--text-primary);">${source}</span>
                 </div>
                 <div class="flex">
-                    <span class="text-gray-500 min-w-[60px]">Aired:</span>
-                    <span class="text-gray-700">${airedFrom}</span>
+                    <span style="color: var(--text-secondary);" class="min-w-[60px]">Aired:</span>
+                    <span style="color: var(--text-primary);">${airedFrom}</span>
                 </div>
             </div>
             
             <div class="text-xs">
-                <div class="text-gray-500 mb-1">Genres:</div>
-                <div class="text-gray-700 line-clamp-2">${genres}</div>
+                <div style="color: var(--text-secondary);" class="mb-1">Genres:</div>
+                <div style="color: var(--text-primary);" class="line-clamp-2">${genres}</div>
             </div>
             
             ${themes ? `
                 <div class="text-xs">
-                    <div class="text-gray-500 mb-1">Themes:</div>
-                    <div class="text-gray-700 line-clamp-2">${themes}</div>
+                    <div style="color: var(--text-secondary);" class="mb-1">Themes:</div>
+                    <div style="color: var(--text-primary);" class="line-clamp-2">${themes}</div>
                 </div>
             ` : ''}
             
             <div class="synopsis-container">
-                <p class="synopsis-text text-xs text-gray-600 leading-relaxed ${showReadMore ? 'line-clamp-3' : ''}" data-full-text="${synopsis.replace(/"/g, '&quot;')}">${synopsisPreview}</p>
+                <p class="synopsis-text text-xs leading-relaxed ${showReadMore ? 'line-clamp-3' : ''}" style="color: var(--text-secondary);" data-full-text="${synopsis.replace(/"/g, '&quot;')}">${synopsisPreview}</p>
                 ${showReadMore ? 
-                    `<button class="read-more-btn text-xs text-gray-900 font-medium mt-1 hover:underline">
+                    `<button class="read-more-btn text-xs font-medium mt-1 hover:underline" style="color: var(--text-primary);">
                         Read more
                     </button>` 
                     : ''}
@@ -661,11 +682,14 @@ function setupBackButton() {
  */
 function showError(message) {
     const container = document.getElementById('years-container');
-    container.innerHTML = `
-        <div class="bg-red-50 border border-red-200 rounded-lg p-6 text-center">
-            <p class="text-red-800 font-semibold">${message}</p>
-        </div>
-    `;
+    const div = document.createElement('div');
+    div.className = 'bg-red-50 border border-red-200 rounded-lg p-6 text-center';
+    const p = document.createElement('p');
+    p.className = 'text-red-800 font-semibold';
+    p.textContent = message;
+    div.appendChild(p);
+    container.innerHTML = '';
+    container.appendChild(div);
 }
 
 /**

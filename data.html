@@ -20,6 +20,67 @@
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
         }
         
+        /* Dark Mode Variables and Styles */
+        :root {
+            --bg-primary: #f9fafb;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f3f4f6;
+            --text-primary: #111827;
+            --text-secondary: #6b7280;
+            --border-color: #e5e7eb;
+            --border-color-light: #d1d5db;
+            --shadow: rgba(0, 0, 0, 0.1);
+            --shadow-hover: rgba(0, 0, 0, 0.15);
+        }
+        
+        .dark {
+            --bg-primary: #111827;
+            --bg-secondary: #1f2937;
+            --bg-tertiary: #374151;
+            --text-primary: #f9fafb;
+            --text-secondary: #d1d5db;
+            --border-color: #374151;
+            --border-color-light: #4b5563;
+            --shadow: rgba(0, 0, 0, 0.3);
+            --shadow-hover: rgba(0, 0, 0, 0.5);
+        }
+        
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+        }
+        
+        /* Dark Mode Toggle Button */
+        .theme-toggle {
+            position: relative;
+            width: 60px;
+            height: 30px;
+            background-color: var(--bg-tertiary);
+            border-radius: 15px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            border: 2px solid var(--border-color);
+        }
+        
+        .theme-toggle-slider {
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 22px;
+            height: 22px;
+            background-color: var(--bg-secondary);
+            border-radius: 50%;
+            transition: transform 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+        
+        .dark .theme-toggle-slider {
+            transform: translateX(30px);
+        }
+        
         /* Keyframe Animations */
         @keyframes fadeIn {
             from {
@@ -42,22 +103,27 @@
         }
     </style>
 </head>
-<body class="bg-gray-50">
+<body style="background-color: var(--bg-primary);">
     <!-- Header -->
-    <header class="bg-white border-b border-gray-200 animate-fade-in">
+    <header style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);" class="animate-fade-in">
         <div class="max-w-7xl mx-auto px-4 py-6">
             <div class="flex items-center justify-between">
                 <div>
-                    <h1 class="text-3xl font-bold text-gray-900">📊 Interesting Data</h1>
-                    <p class="text-gray-600 mt-1">Explore anime trends, statistics, and insights</p>
+                    <h1 class="text-3xl font-bold" style="color: var(--text-primary);">📊 Interesting Data</h1>
+                    <p class="mt-1" style="color: var(--text-secondary);">Explore anime trends, statistics, and insights</p>
                 </div>
-                <nav class="flex gap-4">
-                    <a href="index.html" class="px-4 py-2 bg-gray-200 text-gray-900 rounded-lg hover:bg-gray-300 transition-colors">
+                <nav class="flex gap-4 items-center">
+                    <a href="index.html" class="px-4 py-2 rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         Home
                     </a>
                     <a href="data.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
                         📊 Data
                     </a>
+                    <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
+                        <div class="theme-toggle-slider">
+                            <span id="theme-icon">☀️</span>
+                        </div>
+                    </div>
                 </nav>
             </div>
         </div>
@@ -66,41 +132,41 @@
     <!-- Main Content -->
     <main class="max-w-7xl mx-auto px-4 py-8">
         <!-- Rating Trend Graph -->
-        <div id="rating-trend-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">📈 Average Rating Trend</h2>
-            <p class="text-gray-600 mb-6">How anime ratings have evolved over time (based on MyAnimeList scores)</p>
+        <div id="rating-trend-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">📈 Average Rating Trend</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">How anime ratings have evolved over time (based on MyAnimeList scores)</p>
             <div class="relative" style="height: 400px;">
                 <canvas id="rating-trend-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                <div class="bg-gray-50 rounded-lg p-3">
-                    <div class="text-2xl font-bold text-gray-900" id="overall-avg">-</div>
-                    <div class="text-sm text-gray-600">Overall Average</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="overall-avg">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Overall Average</div>
                 </div>
-                <div class="bg-gray-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-green-600" id="highest-avg">-</div>
-                    <div class="text-sm text-gray-600">Highest Season</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Highest Season</div>
                 </div>
-                <div class="bg-gray-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-red-600" id="lowest-avg">-</div>
-                    <div class="text-sm text-gray-600">Lowest Season</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Lowest Season</div>
                 </div>
             </div>
         </div>
 
         <!-- Genre Trends -->
-        <div id="genre-trends-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎭 Genre Trends Over Time (By Year)</h2>
-            <p class="text-gray-600 mb-6">Top 10 most popular anime genres - comparing absolute numbers vs. percentage of production</p>
+        <div id="genre-trends-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By Year)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Top 10 most popular anime genres - comparing absolute numbers vs. percentage of production</p>
             <div class="grid grid-cols-1 gap-6">
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">Absolute Numbers</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Absolute Numbers</h3>
                     <div class="relative" style="height: 450px;">
                         <canvas id="genre-trends-chart"></canvas>
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">Percentage of Total Production</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Percentage of Total Production</h3>
                     <div class="relative" style="height: 450px;">
                         <canvas id="genre-trends-percentage-chart"></canvas>
                     </div>
@@ -109,18 +175,18 @@
         </div>
 
         <!-- Genre Trends By Season -->
-        <div id="genre-trends-by-season-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎭 Genre Trends Over Time (By Season)</h2>
-            <p class="text-gray-600 mb-6">Top 10 most popular anime genres tracked seasonally for more granular trend analysis</p>
+        <div id="genre-trends-by-season-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By Season)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Top 10 most popular anime genres tracked seasonally for more granular trend analysis</p>
             <div class="grid grid-cols-1 gap-6">
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">Absolute Numbers</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Absolute Numbers</h3>
                     <div class="relative" style="height: 450px;">
                         <canvas id="genre-trends-by-season-chart"></canvas>
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">Percentage of Total Production</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Percentage of Total Production</h3>
                     <div class="relative" style="height: 450px;">
                         <canvas id="genre-trends-by-season-percentage-chart"></canvas>
                     </div>
@@ -129,32 +195,32 @@
         </div>
 
         <!-- Production Volume -->
-        <div id="production-volume-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">📈 Anime Production Volume</h2>
-            <p class="text-gray-600 mb-6">Total number of TV anime produced each year - tracking industry growth</p>
+        <div id="production-volume-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">📈 Anime Production Volume</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Total number of TV anime produced each year - tracking industry growth</p>
             <div class="relative" style="height: 400px;">
                 <canvas id="production-volume-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                <div class="bg-gray-50 rounded-lg p-3">
-                    <div class="text-2xl font-bold text-gray-900" id="total-anime">-</div>
-                    <div class="text-sm text-gray-600">Total Anime (2006-2026)</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-anime">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Total Anime (2006-2026)</div>
                 </div>
-                <div class="bg-gray-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-blue-600" id="avg-per-year">-</div>
-                    <div class="text-sm text-gray-600">Average Per Year</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Average Per Year</div>
                 </div>
-                <div class="bg-gray-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-green-600" id="peak-year">-</div>
-                    <div class="text-sm text-gray-600">Peak Year</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Peak Year</div>
                 </div>
             </div>
         </div>
 
         <!-- Seasonal Patterns -->
-        <div id="seasonal-patterns-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🗓️ Seasonal Patterns</h2>
-            <p class="text-gray-600 mb-6">Which season historically has the best ratings and most anime?</p>
+        <div id="seasonal-patterns-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🗓️ Seasonal Patterns</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Which season historically has the best ratings and most anime?</p>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <div class="relative" style="height: 350px;">
                     <canvas id="seasonal-ratings-chart"></canvas>
@@ -164,30 +230,30 @@
                 </div>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 text-center">
-                <div class="bg-blue-50 rounded-lg p-3">
-                    <div class="text-xl font-bold text-blue-900" id="highest-rated-season">-</div>
-                    <div class="text-sm text-gray-600">Highest Rated Season</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-xl font-bold text-blue-600" id="highest-rated-season">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Highest Rated Season</div>
                 </div>
-                <div class="bg-green-50 rounded-lg p-3">
-                    <div class="text-xl font-bold text-green-900" id="most-productive-season">-</div>
-                    <div class="text-sm text-gray-600">Most Productive Season</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-xl font-bold text-green-600" id="most-productive-season">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Most Productive Season</div>
                 </div>
             </div>
         </div>
 
         <!-- Studio Rankings -->
-        <div id="studio-rankings-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🏢 Studio Rankings</h2>
-            <p class="text-gray-600 mb-6">Compare the most prolific studios vs. the highest quality studios</p>
+        <div id="studio-rankings-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🏢 Studio Rankings</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Compare the most prolific studios vs. the highest quality studios</p>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">Top 15 by Production Volume</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Top 15 by Production Volume</h3>
                     <div class="relative" style="height: 500px;">
                         <canvas id="studio-quantity-chart"></canvas>
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold text-gray-800 mb-3">Top 15 by Average Quality</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Top 15 by Average Quality</h3>
                     <div class="relative" style="height: 500px;">
                         <canvas id="studio-quality-chart"></canvas>
                     </div>
@@ -196,86 +262,109 @@
         </div>
 
         <!-- Studio Scatter Plot -->
-        <div id="studio-scatter-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎯 Studio Performance Analysis</h2>
-            <p class="text-gray-600 mb-6">Studio average rating vs. production volume - with mean reference lines</p>
+        <div id="studio-scatter-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Studio average rating vs. production volume - with mean reference lines</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                <div class="bg-gray-50 rounded-lg p-3">
-                    <div class="text-2xl font-bold text-gray-900" id="total-studios">-</div>
-                    <div class="text-sm text-gray-600">Total Studios</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Total Studios</div>
                 </div>
-                <div class="bg-red-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-red-600" id="mean-rating">-</div>
-                    <div class="text-sm text-gray-600">Mean Rating</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Rating</div>
                 </div>
-                <div class="bg-green-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-green-600" id="mean-count">-</div>
-                    <div class="text-sm text-gray-600">Mean Production Count</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Production Count</div>
                 </div>
             </div>
         </div>
 
         <!-- Studio Scatter Plot (Filtered 5+ Anime) -->
-        <div id="studio-scatter-filtered-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎯 Studio Performance Analysis (5+ Anime)</h2>
-            <p class="text-gray-600 mb-6">Filtered view showing only studios with 5 or more anime - with mean reference lines</p>
+        <div id="studio-scatter-filtered-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis (5+ Anime)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Filtered view showing only studios with 5 or more anime - with mean reference lines</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-filtered-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                <div class="bg-gray-50 rounded-lg p-3">
-                    <div class="text-2xl font-bold text-gray-900" id="total-studios-filtered">-</div>
-                    <div class="text-sm text-gray-600">Total Studios (5+ Anime)</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Total Studios (5+ Anime)</div>
                 </div>
-                <div class="bg-red-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered">-</div>
-                    <div class="text-sm text-gray-600">Mean Rating</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Rating</div>
                 </div>
-                <div class="bg-green-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-green-600" id="mean-count-filtered">-</div>
-                    <div class="text-sm text-gray-600">Mean Production Count</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Production Count</div>
                 </div>
             </div>
         </div>
 
         <!-- Studio Scatter Plot (Filtered 10+ Anime) -->
-        <div id="studio-scatter-filtered-10-section" class="bg-white rounded-lg border border-gray-200 p-6 mb-8 animate-fade-in">
-            <h2 class="text-2xl font-bold text-gray-900 mb-4">🎯 Studio Performance Analysis (10+ Anime)</h2>
-            <p class="text-gray-600 mb-6">Focused view showing only major studios with 10 or more anime - with mean reference lines</p>
+        <div id="studio-scatter-filtered-10-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis (10+ Anime)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Focused view showing only major studios with 10 or more anime - with mean reference lines</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-filtered-10-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                <div class="bg-gray-50 rounded-lg p-3">
-                    <div class="text-2xl font-bold text-gray-900" id="total-studios-filtered-10">-</div>
-                    <div class="text-sm text-gray-600">Total Studios (10+ Anime)</div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered-10">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Total Studios (10+ Anime)</div>
                 </div>
-                <div class="bg-red-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered-10">-</div>
-                    <div class="text-sm text-gray-600">Mean Rating</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Rating</div>
                 </div>
-                <div class="bg-green-50 rounded-lg p-3">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-green-600" id="mean-count-filtered-10">-</div>
-                    <div class="text-sm text-gray-600">Mean Production Count</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Production Count</div>
                 </div>
             </div>
         </div>
     </main>
 
     <!-- Footer -->
-    <footer class="bg-white border-t border-gray-200 mt-12 animate-fade-in">
+    <footer class="mt-12 animate-fade-in" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
         <div class="max-w-7xl mx-auto px-4 py-6">
-            <div class="text-center text-gray-600 text-sm">
-                <p>Data sourced from <a href="https://jikan.moe/" class="text-blue-600 hover:underline" target="_blank" rel="noopener">Jikan API</a> (MyAnimeList)</p>
-                <p class="mt-2">Made with ❤️ for anime fans • <a href="https://github.com" class="text-blue-600 hover:underline">View on GitHub</a></p>
+            <div class="text-center text-sm" style="color: var(--text-secondary);">
+                <p>Data sourced from <a href="https://jikan.moe/" class="hover:underline" style="color: var(--text-primary);" target="_blank" rel="noopener">Jikan API</a> (MyAnimeList)</p>
+                <p class="mt-2">Made with ❤️ for anime fans • <a href="https://github.com" class="hover:underline" style="color: var(--text-primary);">View on GitHub</a></p>
             </div>
         </div>
     </footer>
 
     <!-- Script -->
+    <script>
+        // Dark mode toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+        const html = document.documentElement;
+        
+        // Check for saved theme preference or default to light mode
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        if (currentTheme === 'dark') {
+            html.classList.add('dark');
+            themeIcon.textContent = '🌙';
+        }
+        
+        themeToggle.addEventListener('click', () => {
+            html.classList.toggle('dark');
+            const isDark = html.classList.contains('dark');
+            themeIcon.textContent = isDark ? '🌙' : '☀️';
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+            
+            // Reload all charts with new theme colors
+            reloadAllCharts();
+        });
+    </script>
     <script>
         let ratingTrendChart = null;
         let genreTrendsChart = null;
@@ -290,6 +379,69 @@
         let studioScatterChart = null;
         let studioScatterFilteredChart = null;
         let studioScatterFiltered10Chart = null;
+
+        /**
+         * Get theme-aware colors for charts
+         */
+        function getChartColors() {
+            const isDark = document.documentElement.classList.contains('dark');
+            return {
+                textColor: isDark ? '#f9fafb' : '#111827',
+                gridColor: isDark ? '#374151' : '#e5e7eb',
+                borderColor: isDark ? '#6b7280' : '#9ca3af',
+                tooltipBg: isDark ? 'rgba(31, 41, 55, 0.95)' : 'rgba(0, 0, 0, 0.8)'
+            };
+        }
+
+        /**
+         * Configure Chart.js global defaults for theme
+         */
+        function configureChartDefaults() {
+            const colors = getChartColors();
+            
+            // Set Chart.js defaults
+            Chart.defaults.color = colors.textColor;
+            Chart.defaults.borderColor = colors.gridColor;
+            Chart.defaults.backgroundColor = colors.gridColor;
+            
+            // Plugin defaults
+            Chart.defaults.plugins.legend.labels.color = colors.textColor;
+            Chart.defaults.plugins.tooltip.backgroundColor = colors.tooltipBg;
+            
+            // Scale defaults
+            Chart.defaults.scale.grid.color = colors.gridColor;
+            Chart.defaults.scale.ticks.color = colors.textColor;
+            Chart.defaults.scale.title.color = colors.textColor;
+        }
+
+        // Apply defaults on load
+        configureChartDefaults();
+
+        /**
+         * Reload all charts with current theme colors
+         */
+        function reloadAllCharts() {
+            // Reconfigure Chart.js defaults for new theme
+            configureChartDefaults();
+            
+            // Destroy existing charts
+            if (ratingTrendChart) ratingTrendChart.destroy();
+            if (genreTrendsChart) genreTrendsChart.destroy();
+            if (genreTrendsPercentageChart) genreTrendsPercentageChart.destroy();
+            if (genreTrendsBySeasonChart) genreTrendsBySeasonChart.destroy();
+            if (genreTrendsBySeasonPercentageChart) genreTrendsBySeasonPercentageChart.destroy();
+            if (productionVolumeChart) productionVolumeChart.destroy();
+            if (seasonalRatingsChart) seasonalRatingsChart.destroy();
+            if (seasonalCountsChart) seasonalCountsChart.destroy();
+            if (studioQuantityChart) studioQuantityChart.destroy();
+            if (studioQualityChart) studioQualityChart.destroy();
+            if (studioScatterChart) studioScatterChart.destroy();
+            if (studioScatterFilteredChart) studioScatterFilteredChart.destroy();
+            if (studioScatterFiltered10Chart) studioScatterFiltered10Chart.destroy();
+            
+            // Reload all data and recreate charts
+            loadAllData();
+        }
 
         /**
          * Load and display rating trend
@@ -312,9 +464,14 @@
                 
                 // Create the chart
                 const ctx = document.getElementById('rating-trend-chart').getContext('2d');
+                const colors = getChartColors();
                 
                 // Calculate moving average
                 const movingAvg = calculateMovingAverage(trendData.ratings, 4);
+                
+                const isDark = document.documentElement.classList.contains('dark');
+                const mainLineColor = isDark ? '#60a5fa' : '#1f2937';
+                const mainLineBg = isDark ? 'rgba(96, 165, 250, 0.1)' : 'rgba(31, 41, 55, 0.1)';
                 
                 ratingTrendChart = new Chart(ctx, {
                     type: 'line',
@@ -324,8 +481,8 @@
                             {
                                 label: 'Average Rating',
                                 data: trendData.ratings,
-                                borderColor: '#1f2937',
-                                backgroundColor: 'rgba(31, 41, 55, 0.1)',
+                                borderColor: mainLineColor,
+                                backgroundColor: mainLineBg,
                                 borderWidth: 2,
                                 pointRadius: 3,
                                 pointHoverRadius: 5,
@@ -352,6 +509,7 @@
                                 display: true,
                                 position: 'top',
                                 labels: {
+                                    color: colors.textColor,
                                     font: {
                                         size: 12,
                                         weight: '600'
@@ -361,7 +519,7 @@
                             tooltip: {
                                 mode: 'index',
                                 intersect: false,
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: colors.tooltipBg,
                                 padding: 12,
                                 titleFont: {
                                     size: 14,
@@ -387,15 +545,20 @@
                         scales: {
                             x: {
                                 display: true,
+                                grid: {
+                                    color: colors.gridColor
+                                },
                                 title: {
                                     display: true,
                                     text: 'Year',
+                                    color: colors.textColor,
                                     font: {
                                         size: 14,
                                         weight: 'bold'
                                     }
                                 },
                                 ticks: {
+                                    color: colors.textColor,
                                     maxRotation: 0,
                                     minRotation: 0,
                                     autoSkip: false
@@ -403,9 +566,13 @@
                             },
                             y: {
                                 display: true,
+                                grid: {
+                                    color: colors.gridColor
+                                },
                                 title: {
                                     display: true,
                                     text: 'Average Rating',
+                                    color: colors.textColor,
                                     font: {
                                         size: 14,
                                         weight: 'bold'
@@ -414,6 +581,7 @@
                                 min: Math.floor(trendData.min_rating - 0.3),
                                 max: Math.ceil(trendData.max_rating + 0.3),
                                 ticks: {
+                                    color: colors.textColor,
                                     stepSize: 0.2
                                 }
                             }
@@ -462,6 +630,7 @@
                 
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-chart').getContext('2d');
+                const chartColors = getChartColors();
                 
                 // Create datasets for each genre
                 const colors = [
@@ -505,7 +674,7 @@
                             tooltip: {
                                 mode: 'index',
                                 intersect: false,
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -577,6 +746,7 @@
                 
                 // Create the chart
                 const ctx = document.getElementById('production-volume-chart').getContext('2d');
+                const chartColors = getChartColors();
                 
                 productionVolumeChart = new Chart(ctx, {
                     type: 'bar',
@@ -599,7 +769,7 @@
                                 display: false
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -654,6 +824,7 @@
                 }
                 
                 const patternData = await response.json();
+                const chartColors = getChartColors();
                 
                 // Update statistics
                 document.getElementById('highest-rated-season').textContent = 
@@ -694,7 +865,7 @@
                                 }
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -752,7 +923,7 @@
                                 }
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -796,6 +967,7 @@
                 }
                 
                 const rankingData = await response.json();
+                const chartColors = getChartColors();
                 
                 // Chart 1: Top Studios by Quantity
                 const ctx1 = document.getElementById('studio-quantity-chart').getContext('2d');
@@ -823,7 +995,7 @@
                                 display: false
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -883,7 +1055,7 @@
                                 display: false
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -942,6 +1114,7 @@
                 
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-percentage-chart').getContext('2d');
+                const chartColors = getChartColors();
                 
                 // Create datasets for each genre
                 const colors = [
@@ -985,7 +1158,7 @@
                             tooltip: {
                                 mode: 'index',
                                 intersect: false,
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -1049,6 +1222,7 @@
                 
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-by-season-chart').getContext('2d');
+                const chartColors = getChartColors();
                 
                 // Create datasets for each genre
                 const colors = [
@@ -1157,6 +1331,7 @@
                 
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-by-season-percentage-chart').getContext('2d');
+                const chartColors = getChartColors();
                 
                 // Create datasets for each genre
                 const colors = [
@@ -1274,6 +1449,7 @@
                 }
                 
                 const scatterData = await response.json();
+                const chartColors = getChartColors();
                 
                 // Update statistics
                 document.getElementById('total-studios').textContent = scatterData.total_studios.toLocaleString();
@@ -1311,7 +1487,7 @@
                                 display: false
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -1406,6 +1582,7 @@
                 }
                 
                 const scatterData = await response.json();
+                const chartColors = getChartColors();
                 
                 // Update statistics
                 document.getElementById('total-studios-filtered').textContent = scatterData.total_studios.toLocaleString();
@@ -1443,7 +1620,7 @@
                                 display: false
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -1538,6 +1715,7 @@
                 }
                 
                 const scatterData = await response.json();
+                const chartColors = getChartColors();
                 
                 // Update statistics
                 document.getElementById('total-studios-filtered-10').textContent = scatterData.total_studios.toLocaleString();
@@ -1575,7 +1753,7 @@
                                 display: false
                             },
                             tooltip: {
-                                backgroundColor: 'rgba(0, 0, 0, 0.8)',
+                                backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
                                     label: function(context) {
@@ -1657,8 +1835,10 @@
             }
         }
 
-        // Initialize on page load
-        document.addEventListener('DOMContentLoaded', () => {
+        /**
+         * Load all data and create charts
+         */
+        function loadAllData() {
             loadRatingTrend();
             loadGenreTrends();
             loadGenreTrendsPercentage();
@@ -1670,6 +1850,11 @@
             loadStudioScatter();
             loadStudioScatterFiltered();
             loadStudioScatterFiltered10();
+        }
+
+        // Initialize on page load
+        document.addEventListener('DOMContentLoaded', () => {
+            loadAllData();
         });
     </script>
 </body>
