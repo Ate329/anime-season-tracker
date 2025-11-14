@@ -10,6 +10,8 @@ let filterMode = 'OR'; // 'OR' or 'AND' - default is OR
 let sortMode = 'default'; // 'default', 'rating', 'popularity'
 let currentYear = null;
 let currentSeason = null;
+let searchResults = []; // Store search results
+let isSearching = false; // Track if in search mode
 /**
  * Load and display collection statistics
  */
@@ -47,6 +49,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setupFilterModeToggle();
     setupSortButtons();
     setupBackButton();
+    setupSearch();
     handleHashNavigation();
     
     // Listen for hash changes (back/forward browser buttons)
@@ -781,4 +784,156 @@ function showError(message) {
  */
 function capitalize(str) {
     return str.charAt(0).toUpperCase() + str.slice(1);
+}
+
+/**
+ * Setup search functionality
+ */
+function setupSearch() {
+    const searchInput = document.getElementById('search-input');
+    const searchButton = document.getElementById('search-button');
+    const clearButton = document.getElementById('clear-search');
+    
+    // Search on Enter key
+    searchInput.addEventListener('keypress', (e) => {
+        if (e.key === 'Enter') {
+            performSearch();
+        }
+    });
+    
+    // Search on button click
+    searchButton.addEventListener('click', () => {
+        performSearch();
+    });
+    
+    // Clear search
+    clearButton.addEventListener('click', () => {
+        clearSearch();
+    });
+}
+
+/**
+ * Perform search across all seasons
+ */
+async function performSearch() {
+    const searchInput = document.getElementById('search-input');
+    const query = searchInput.value.trim();
+    
+    if (!query) {
+        return;
+    }
+    
+    // Show loading
+    const resultsSection = document.getElementById('search-results-section');
+    const loadingEl = document.getElementById('search-loading');
+    const resultsGrid = document.getElementById('search-results-grid');
+    const queryDisplay = document.getElementById('search-query-display');
+    const countEl = document.getElementById('search-results-count');
+    
+    resultsSection.classList.remove('hidden');
+    loadingEl.classList.remove('hidden');
+    resultsGrid.innerHTML = '';
+    queryDisplay.textContent = `"${query}"`;
+    
+    // Hide home content
+    document.getElementById('collection-stats').classList.add('hidden');
+    document.getElementById('years-container').classList.add('hidden');
+    
+    isSearching = true;
+    searchResults = [];
+    
+    try {
+        // Search through all seasons
+        const searchPromises = manifest.map(async (item) => {
+            try {
+                const response = await fetch(`data/${item.year}/${item.season}.json`);
+                if (!response.ok) return [];
+                
+                const seasonData = await response.json();
+                const queryLower = query.toLowerCase();
+                
+                // Filter anime that match the search query
+                return seasonData.filter(anime => {
+                    const titleMatch = anime.title && anime.title.toLowerCase().includes(queryLower);
+                    const englishMatch = anime.title_english && anime.title_english.toLowerCase().includes(queryLower);
+                    const japaneseMatch = anime.title_japanese && anime.title_japanese.toLowerCase().includes(queryLower);
+                    return titleMatch || englishMatch || japaneseMatch;
+                }).map(anime => ({
+                    ...anime,
+                    searchYear: item.year,
+                    searchSeason: item.season
+                }));
+            } catch (error) {
+                console.error(`Error searching ${item.year} ${item.season}:`, error);
+                return [];
+            }
+        });
+        
+        const results = await Promise.all(searchPromises);
+        searchResults = results.flat();
+        
+        // Hide loading
+        loadingEl.classList.add('hidden');
+        
+        // Display results
+        if (searchResults.length === 0) {
+            countEl.textContent = 'No results found';
+            resultsGrid.innerHTML = `
+                <div class="col-span-full text-center py-12">
+                    <p class="text-lg mb-2" style="color: var(--text-primary);">No anime found matching "${query}"</p>
+                    <p class="text-sm" style="color: var(--text-secondary);">Try a different search term</p>
+                </div>
+            `;
+        } else {
+            countEl.textContent = `Found ${searchResults.length} anime matching your search`;
+            
+            // Sort by popularity by default
+            searchResults.sort((a, b) => {
+                const popA = a.popularity || 999999;
+                const popB = b.popularity || 999999;
+                return popA - popB;
+            });
+            
+            // Display results
+            searchResults.forEach(anime => {
+                const card = createAnimeCard(anime);
+                
+                // Add season info badge
+                const seasonBadge = document.createElement('div');
+                seasonBadge.className = 'absolute top-2 left-2 bg-blue-600 text-white px-2 py-1 rounded text-xs font-medium';
+                seasonBadge.textContent = `${capitalize(anime.searchSeason)} ${anime.searchYear}`;
+                card.querySelector('.aspect-\\[2\\/3\\]').appendChild(seasonBadge);
+                
+                resultsGrid.appendChild(card);
+            });
+        }
+        
+    } catch (error) {
+        console.error('Error performing search:', error);
+        loadingEl.classList.add('hidden');
+        countEl.textContent = 'An error occurred while searching';
+        resultsGrid.innerHTML = `
+            <div class="col-span-full text-center py-12">
+                <p style="color: var(--text-primary);">An error occurred while searching. Please try again.</p>
+            </div>
+        `;
+    }
+}
+
+/**
+ * Clear search and return to home
+ */
+function clearSearch() {
+    const searchInput = document.getElementById('search-input');
+    const resultsSection = document.getElementById('search-results-section');
+    
+    searchInput.value = '';
+    resultsSection.classList.add('hidden');
+    
+    // Show home content
+    document.getElementById('collection-stats').classList.remove('hidden');
+    document.getElementById('years-container').classList.remove('hidden');
+    
+    isSearching = false;
+    searchResults = [];
 }

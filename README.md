@@ -234,9 +234,9 @@ All data comes from [MyAnimeList](https://myanimelist.net/) via the [Jikan API](
 - [ ] **📡 RSS Support** - Subscribe to new anime releases
 - [x] **Minor bug fixes** - Keep the button to MAL always at the bottom of the box
 - [ ] **⭐ My Personal Recommendations** - :)
-- [ ] **🔍 Search Functionality** - Search anime by title across all seasons
+- [x] **🔍 Search Functionality** - Search anime by title across all seasons
 - [x] **🌙 Dark Mode** - Toggle between light and dark themes
-- [ ] **📈 Trending** - See what's popular this season
+- [x] **📈 Trending** - See what's popular this season
 - [ ] **🎲 Random Anime** - Discover new anime with random picker
 - [ ] **📝 Notes** - Add personal notes to anime entries (maybe)
 
