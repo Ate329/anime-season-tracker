@@ -471,6 +471,27 @@
                     </div>
                 </div>
             </div>
+
+            <!-- Sort Control -->
+            <div class="mb-6 rounded-lg p-4 animate-slide-in-up" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+                <div class="flex items-center justify-between flex-wrap gap-3">
+                    <div>
+                        <h3 class="font-semibold" style="color: var(--text-primary);">Sort By</h3>
+                        <p class="text-xs" style="color: var(--text-secondary);">Change the order of anime displayed</p>
+                    </div>
+                    <div class="flex gap-2">
+                        <button id="sort-default" class="sort-btn px-4 py-2 text-sm font-medium rounded-lg bg-gray-900 text-white transition-colors">
+                            Default
+                        </button>
+                        <button id="sort-rating" class="sort-btn px-4 py-2 text-sm font-medium rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary); border: 1px solid var(--border-color);">
+                            Rating ⭐
+                        </button>
+                        <button id="sort-popularity" class="sort-btn px-4 py-2 text-sm font-medium rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary); border: 1px solid var(--border-color);">
+                            Popularity 🔥
+                        </button>
+                    </div>
+                </div>
+            </div>
             
             <!-- Loading -->
             <div id="anime-loading" class="hidden text-center py-12 rounded-lg" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">

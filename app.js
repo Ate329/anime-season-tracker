@@ -7,6 +7,7 @@ let japaneseOnly = false; // Default: OFF (matching adult content filter style)
 let selectedGenres = new Set(); // Selected genres for filtering
 let allGenres = []; // All available genres for current season
 let filterMode = 'OR'; // 'OR' or 'AND' - default is OR
+let sortMode = 'default'; // 'default', 'rating', 'popularity'
 let currentYear = null;
 let currentSeason = null;
 /**
@@ -44,6 +45,7 @@ document.addEventListener('DOMContentLoaded', () => {
     setupNotRatedToggle();
     setupJapaneseOnlyToggle();
     setupFilterModeToggle();
+    setupSortButtons();
     setupBackButton();
     handleHashNavigation();
     
@@ -385,7 +387,10 @@ function renderAnime() {
     const gridEl = document.getElementById('anime-grid');
     gridEl.innerHTML = '';
     
-    const filtered = filterAnime(allAnimeData);
+    let filtered = filterAnime(allAnimeData);
+    
+    // Sort based on sortMode
+    filtered = sortAnime(filtered);
     
     if (filtered.length === 0) {
         const div = document.createElement('div');
@@ -418,6 +423,7 @@ function createAnimeCard(anime) {
     
     const score = anime.score ? `⭐ ${anime.score}` : '❓ Not rated';
     const scoredBy = anime.scored_by ? `${(anime.scored_by / 1000).toFixed(1)}K ratings` : '';
+    const popularity = anime.popularity ? `#${anime.popularity.toLocaleString()}` : 'N/A';
     
     const genres = anime.genres && anime.genres.length > 0 ? 
         anime.genres.join(', ') : 'N/A';
@@ -464,6 +470,11 @@ function createAnimeCard(anime) {
                 <div class="flex items-center justify-between text-xs">
                     <span class="font-medium" style="color: var(--text-primary);">${score}</span>
                     ${scoredBy ? `<span style="color: var(--text-secondary);">${scoredBy}</span>` : ''}
+                </div>
+                
+                <div class="flex items-center justify-between text-xs">
+                    <span style="color: var(--text-secondary);">Popularity:</span>
+                    <span class="font-medium" style="color: var(--text-primary);">${popularity}</span>
                 </div>
                 
                 <div class="space-y-1 text-xs">
@@ -586,6 +597,36 @@ function filterAnime(animeList) {
 }
 
 /**
+ * Sort anime based on selected sort mode
+ */
+function sortAnime(animeList) {
+    const sorted = [...animeList]; // Create a copy to avoid mutating original
+    
+    if (sortMode === 'rating') {
+        // Sort by score (highest first), then by scored_by for tie-breaking
+        sorted.sort((a, b) => {
+            const scoreA = a.score || 0;
+            const scoreB = b.score || 0;
+            if (scoreB !== scoreA) {
+                return scoreB - scoreA;
+            }
+            // Tie-breaker: more ratings first
+            return (b.scored_by || 0) - (a.scored_by || 0);
+        });
+    } else if (sortMode === 'popularity') {
+        // Sort by popularity (lower number = more popular)
+        sorted.sort((a, b) => {
+            const popA = a.popularity || 999999;
+            const popB = b.popularity || 999999;
+            return popA - popB;
+        });
+    }
+    // 'default' mode: keep original order (as returned by MAL API)
+    
+    return sorted;
+}
+
+/**
  * Setup hentai toggle (anime page only)
  */
 function setupHentaiToggles() {
@@ -668,6 +709,47 @@ function setupFilterModeToggle() {
     
     orBtn.addEventListener('click', () => updateFilterMode('OR'));
     andBtn.addEventListener('click', () => updateFilterMode('AND'));
+}
+
+/**
+ * Setup sort buttons
+ */
+function setupSortButtons() {
+    const defaultBtn = document.getElementById('sort-default');
+    const ratingBtn = document.getElementById('sort-rating');
+    const popularityBtn = document.getElementById('sort-popularity');
+    
+    const updateSortMode = (mode) => {
+        sortMode = mode;
+        
+        // Update button styles
+        const buttons = [defaultBtn, ratingBtn, popularityBtn];
+        const modes = ['default', 'rating', 'popularity'];
+        
+        buttons.forEach((btn, index) => {
+            if (modes[index] === mode) {
+                btn.className = 'sort-btn px-4 py-2 text-sm font-medium rounded-lg bg-gray-900 text-white transition-colors';
+                // Clear inline styles so CSS class takes effect
+                btn.style.backgroundColor = '';
+                btn.style.color = '';
+                btn.style.border = '';
+            } else {
+                btn.className = 'sort-btn px-4 py-2 text-sm font-medium rounded-lg transition-colors';
+                btn.style.backgroundColor = 'var(--bg-tertiary)';
+                btn.style.color = 'var(--text-primary)';
+                btn.style.border = '1px solid var(--border-color)';
+            }
+        });
+        
+        // Re-render anime with new sort mode
+        if (allAnimeData.length > 0) {
+            renderAnime();
+        }
+    };
+    
+    defaultBtn.addEventListener('click', () => updateSortMode('default'));
+    ratingBtn.addEventListener('click', () => updateSortMode('rating'));
+    popularityBtn.addEventListener('click', () => updateSortMode('popularity'));
 }
 
 /**
