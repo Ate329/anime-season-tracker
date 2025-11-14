@@ -33,6 +33,9 @@ jobs:
       - name: Run anime fetch script (current years only)
         run: python fetch_anime.py --current-years-only
       
+      - name: Clean duplicates from data
+        run: python fetch_anime.py --clean
+      
       - name: Generate all graphs
         run: python generate_graphs.py
       

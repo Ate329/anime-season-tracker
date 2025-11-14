@@ -5,6 +5,109 @@ import datetime
 import time
 import sys
 
+def validate_and_deduplicate(anime_list, year, season):
+    """
+    Validates and removes duplicate anime from a list based on mal_id.
+    Returns the deduplicated list and reports any duplicates found.
+    
+    Args:
+        anime_list: List of anime dictionaries
+        year: Year for logging purposes
+        season: Season for logging purposes
+    
+    Returns:
+        Deduplicated list of anime
+    """
+    if not anime_list:
+        return anime_list
+    
+    seen_ids = {}
+    unique_anime = []
+    duplicates_found = []
+    
+    for anime in anime_list:
+        mal_id = anime.get('mal_id')
+        if mal_id is None:
+            print(f"  [WARNING] Anime without mal_id found: {anime.get('title', 'Unknown')}")
+            continue
+        
+        if mal_id in seen_ids:
+            duplicates_found.append({
+                'mal_id': mal_id,
+                'title': anime.get('title', 'Unknown')
+            })
+        else:
+            seen_ids[mal_id] = True
+            unique_anime.append(anime)
+    
+    if duplicates_found:
+        print(f"  [VALIDATION] Found and removed {len(duplicates_found)} duplicate(s) for {year} {season}:")
+        for dup in duplicates_found[:5]:  # Show first 5 duplicates
+            print(f"    - {dup['title']} (MAL ID: {dup['mal_id']})")
+        if len(duplicates_found) > 5:
+            print(f"    ... and {len(duplicates_found) - 5} more")
+    else:
+        print(f"  [VALIDATION] No duplicates found for {year} {season} - {len(unique_anime)} unique anime")
+    
+    return unique_anime
+
+def clean_existing_data():
+    """
+    Scans all existing data files and removes duplicates.
+    Creates a backup before cleaning.
+    """
+    print("\n" + "="*60)
+    print("CLEANING EXISTING DATA FILES")
+    print("="*60)
+    
+    data_dir = pathlib.Path("data")
+    if not data_dir.exists():
+        print("[INFO] No data directory found, nothing to clean")
+        return
+    
+    seasons = ["winter", "spring", "summer", "fall"]
+    total_duplicates = 0
+    files_cleaned = 0
+    
+    # Find all year directories
+    year_dirs = [d for d in data_dir.iterdir() if d.is_dir() and d.name.isdigit()]
+    
+    for year_dir in sorted(year_dirs):
+        year = year_dir.name
+        
+        for season in seasons:
+            file_path = year_dir / f"{season}.json"
+            
+            if not file_path.exists():
+                continue
+            
+            try:
+                # Read existing data
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    anime_list = json.load(f)
+                
+                original_count = len(anime_list)
+                
+                # Validate and deduplicate
+                cleaned_list = validate_and_deduplicate(anime_list, year, season)
+                
+                duplicates = original_count - len(cleaned_list)
+                
+                # Only save if we found duplicates
+                if duplicates > 0:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        json.dump(cleaned_list, f, ensure_ascii=False, indent=2)
+                    
+                    print(f"  [CLEANED] {file_path}: Removed {duplicates} duplicate(s)")
+                    total_duplicates += duplicates
+                    files_cleaned += 1
+                
+            except Exception as e:
+                print(f"  [ERROR] Failed to clean {file_path}: {e}")
+    
+    print(f"\n[SUMMARY] Cleaned {files_cleaned} file(s), removed {total_duplicates} total duplicate(s)")
+    print("="*60)
+
 def fetch_anime_data(current_years_only=False):
     """
     Fetches anime data from Jikan API and organizes it by year and season.
@@ -71,6 +174,7 @@ def fetch_anime_data(current_years_only=False):
                 
                 # Fetch all pages for this season
                 anime_list = []
+                seen_mal_ids = set()  # Track unique anime by mal_id to prevent duplicates
                 page = 1
                 has_next_page = True
                 
@@ -91,6 +195,12 @@ def fetch_anime_data(current_years_only=False):
                             
                             # Extract and process anime data from this page
                             for anime in data['data']:
+                                # Check for duplicate mal_id first (before any processing)
+                                mal_id = anime.get('mal_id')
+                                if mal_id in seen_mal_ids:
+                                    print(f"  [SKIP] Duplicate anime detected (MAL ID: {mal_id})")
+                                    continue
+                                
                                 # Filter: Only include TV series (no movies, OVAs, etc.)
                                 anime_type = anime.get('type', '')
                                 if anime_type != 'TV':
@@ -202,6 +312,7 @@ def fetch_anime_data(current_years_only=False):
                                     'is_japanese': is_likely_japanese
                                 }
                                 anime_list.append(anime_info)
+                                seen_mal_ids.add(mal_id)  # Mark this anime as seen
                             
                             # Check pagination info
                             pagination = data.get('pagination', {})
@@ -226,6 +337,9 @@ def fetch_anime_data(current_years_only=False):
                 file_path = data_path / f"{season}.json"
                 
                 if anime_list:
+                    # Validate and deduplicate before saving (extra safety check)
+                    anime_list = validate_and_deduplicate(anime_list, year, season)
+                    
                     # We got data from API - save it
                     with open(file_path, 'w', encoding='utf-8') as f:
                         json.dump(anime_list, f, ensure_ascii=False, indent=2)
@@ -280,6 +394,12 @@ if __name__ == "__main__":
     # Check for command-line arguments
     current_years_only = '--current-years-only' in sys.argv
     all_years = '--all-years' in sys.argv
+    clean_data = '--clean' in sys.argv
+    
+    # If --clean is specified, run the cleanup function and exit
+    if clean_data:
+        clean_existing_data()
+        sys.exit(0)
     
     # If --all-years is specified, explicitly set current_years_only to False
     if all_years:
