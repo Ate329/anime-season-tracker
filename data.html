@@ -332,6 +332,29 @@
                 </div>
             </div>
         </div>
+
+        <!-- Anime Rating vs Popularity Scatter Plot -->
+        <div id="anime-rating-popularity-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">⭐ Anime Rating vs Popularity</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Relationship between anime ratings and popularity - discover hidden gems and mainstream hits</p>
+            <div class="relative" style="height: 600px;">
+                <canvas id="anime-rating-popularity-chart"></canvas>
+            </div>
+            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-rated-anime">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Total Rated Anime</div>
+                </div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold text-red-600" id="mean-anime-rating">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Rating</div>
+                </div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold text-green-600" id="mean-anime-popularity">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Popularity Rank</div>
+                </div>
+            </div>
+        </div>
     </main>
     
     <!-- Footer -->
@@ -382,6 +405,7 @@
         let studioScatterChart = null;
         let studioScatterFilteredChart = null;
         let studioScatterFiltered10Chart = null;
+        let animeRatingPopularityChart = null;
 
         /**
          * Get theme-aware colors for charts
@@ -441,6 +465,7 @@
             if (studioScatterChart) studioScatterChart.destroy();
             if (studioScatterFilteredChart) studioScatterFilteredChart.destroy();
             if (studioScatterFiltered10Chart) studioScatterFiltered10Chart.destroy();
+            if (animeRatingPopularityChart) animeRatingPopularityChart.destroy();
             
             // Reload all data and recreate charts
             loadAllData();
@@ -1839,6 +1864,140 @@
         }
 
         /**
+         * Load and display anime rating vs popularity scatter plot
+         */
+        async function loadAnimeRatingPopularity() {
+            try {
+                const response = await fetch('data/anime-rating-popularity-scatter.json');
+                if (!response.ok) {
+                    console.log('Anime rating popularity data not available');
+                    document.getElementById('anime-rating-popularity-section').style.display = 'none';
+                    return;
+                }
+                
+                const scatterData = await response.json();
+                const chartColors = getChartColors();
+                
+                // Update statistics
+                document.getElementById('total-rated-anime').textContent = scatterData.total_anime.toLocaleString();
+                document.getElementById('mean-anime-rating').textContent = scatterData.mean_score.toFixed(2);
+                document.getElementById('mean-anime-popularity').textContent = scatterData.mean_popularity.toFixed(0);
+                
+                // Prepare data for Chart.js
+                const chartData = scatterData.anime.map(anime => ({
+                    x: anime.score,
+                    y: anime.popularity,
+                    label: anime.title
+                }));
+                
+                // Create the scatter plot
+                const ctx = document.getElementById('anime-rating-popularity-chart').getContext('2d');
+                
+                animeRatingPopularityChart = new Chart(ctx, {
+                    type: 'scatter',
+                    data: {
+                        datasets: [{
+                            label: 'Anime',
+                            data: chartData,
+                            backgroundColor: 'rgba(59, 130, 246, 0.5)',
+                            borderColor: 'rgba(59, 130, 246, 1)',
+                            borderWidth: 1,
+                            pointRadius: 4,
+                            pointHoverRadius: 6
+                        }]
+                    },
+                    options: {
+                        responsive: true,
+                        maintainAspectRatio: false,
+                        plugins: {
+                            legend: {
+                                display: false
+                            },
+                            tooltip: {
+                                backgroundColor: chartColors.tooltipBg,
+                                padding: 12,
+                                callbacks: {
+                                    label: function(context) {
+                                        const anime = scatterData.anime[context.dataIndex];
+                                        return [
+                                            'Title: ' + anime.title,
+                                            'Rating: ' + anime.score.toFixed(2),
+                                            'Popularity Rank: ' + anime.popularity,
+                                            'Members: ' + anime.members.toLocaleString()
+                                        ];
+                                    }
+                                }
+                            }
+                        },
+                        scales: {
+                            x: {
+                                display: true,
+                                title: {
+                                    display: true,
+                                    text: 'Rating (MAL Score)',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                ticks: {
+                                    stepSize: 0.5
+                                }
+                            },
+                            y: {
+                                display: true,
+                                reverse: true,
+                                title: {
+                                    display: true,
+                                    text: 'Popularity Rank (lower = more popular)',
+                                    font: {
+                                        size: 14,
+                                        weight: 'bold'
+                                    }
+                                },
+                                beginAtZero: false
+                            }
+                        }
+                    },
+                    plugins: [{
+                        afterDraw: function(chart) {
+                            const ctx = chart.ctx;
+                            const xAxis = chart.scales.x;
+                            const yAxis = chart.scales.y;
+                            
+                            // Draw mean rating line
+                            const meanRatingX = xAxis.getPixelForValue(scatterData.mean_score);
+                            ctx.save();
+                            ctx.strokeStyle = '#ef4444';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(meanRatingX, yAxis.top);
+                            ctx.lineTo(meanRatingX, yAxis.bottom);
+                            ctx.stroke();
+                            ctx.restore();
+                            
+                            // Draw mean popularity line
+                            const meanPopularityY = yAxis.getPixelForValue(scatterData.mean_popularity);
+                            ctx.save();
+                            ctx.strokeStyle = '#22c55e';
+                            ctx.lineWidth = 2.5;
+                            ctx.setLineDash([5, 5]);
+                            ctx.beginPath();
+                            ctx.moveTo(xAxis.left, meanPopularityY);
+                            ctx.lineTo(xAxis.right, meanPopularityY);
+                            ctx.stroke();
+                            ctx.restore();
+                        }
+                    }]
+                });
+            } catch (error) {
+                console.error('Error loading anime rating popularity scatter:', error);
+                document.getElementById('anime-rating-popularity-section').style.display = 'none';
+            }
+        }
+
+        /**
          * Load all data and create charts
          */
         function loadAllData() {
@@ -1853,6 +2012,7 @@
             loadStudioScatter();
             loadStudioScatterFiltered();
             loadStudioScatterFiltered10();
+            loadAnimeRatingPopularity();
         }
 
         // Initialize on page load

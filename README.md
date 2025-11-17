@@ -67,6 +67,7 @@ anime-season-tracker/
 │   ├── studio-scatter.json                # Studio scatter plot data for web
 │   ├── studio-scatter-filtered.json       # Studio scatter plot (5+ anime) for web
 │   ├── studio-scatter-filtered-10.json    # Studio scatter plot (10+ anime) for web
+│   ├── anime-rating-popularity-scatter.json # Anime rating vs popularity scatter plot for web
 │   ├── collection-stats.json              # Overall collection statistics
 │   ├── csv/               # CSV exports for data analysis
 │   │   ├── all_anime.csv                  # All anime with complete details
@@ -92,7 +93,8 @@ anime-season-tracker/
 │   ├── studio-rankings.png # Studio rankings graph for README
 │   ├── studio-scatter.png # Studio scatter plot graph for README
 │   ├── studio-scatter-filtered.png # Studio scatter plot (5+ anime) for README
-│   └── studio-scatter-filtered-10.png # Studio scatter plot (10+ anime) for README
+│   ├── studio-scatter-filtered-10.png # Studio scatter plot (10+ anime) for README
+│   └── anime-rating-popularity-scatter.png # Anime rating vs popularity scatter plot for README
 └── .github/
     └── workflows/         # GitHub Actions
         ├── update-current-years.yml  # Weekly updates + graph
@@ -199,6 +201,19 @@ Scatter plot showing the relationship between studios' average ratings and their
 **Filtered View (10+ Anime):** Even more focused on major studios:
 
 ![Studio Scatter Filtered 10](assets/studio-scatter-filtered-10.png)
+
+### ⭐ Anime Rating vs Popularity
+Discover the relationship between anime ratings and popularity. Find hidden gems (high rating, low popularity) and mainstream hits (high rating, high popularity)!
+
+![Anime Rating vs Popularity](assets/anime-rating-popularity-scatter.png)
+
+**What the quadrants reveal:**
+- **Top-Left**: Hidden gems - highly rated but less known
+- **Top-Right**: Mainstream hits - highly rated and very popular  
+- **Bottom-Right**: Popular but lower-rated anime
+- **Bottom-Left**: Less popular, lower-rated anime
+
+The red line shows the mean rating, and the green line shows the mean popularity rank.
 
 > 💡 **Interactive versions** of all these graphs are available on the [Data page](https://anime.ate329.com/data.html)
 

@@ -1,171 +1,80 @@
 {
   "by_quantity": [
     {
-      "studio": "J.C.Staff",
-      "count": 148,
-      "avg_score": 7.21
-    },
-    {
-      "studio": "Studio Deen",
-      "count": 123,
-      "avg_score": 6.88
+      "studio": "CloverWorks",
+      "count": 8,
+      "avg_score": 7.8
     },
     {
       "studio": "OLM",
-      "count": 116,
-      "avg_score": 6.76
+      "count": 7,
+      "avg_score": 7.0
     },
     {
-      "studio": "A-1 Pictures",
-      "count": 109,
-      "avg_score": 7.38
-    },
-    {
-      "studio": "Madhouse",
-      "count": 101,
-      "avg_score": 7.4
-    },
-    {
-      "studio": "TMS Entertainment",
-      "count": 95,
-      "avg_score": 7.05
-    },
-    {
-      "studio": "Toei Animation",
-      "count": 93,
-      "avg_score": 7.03
-    },
-    {
-      "studio": "DLE",
-      "count": 85,
-      "avg_score": 5.78
-    },
-    {
-      "studio": "Sunrise",
-      "count": 79,
-      "avg_score": 7.24
-    },
-    {
-      "studio": "SILVER LINK.",
-      "count": 70,
-      "avg_score": 6.93
+      "studio": "Studio Deen",
+      "count": 7,
+      "avg_score": 6.44
     },
     {
       "studio": "LIDENFILMS",
-      "count": 70,
-      "avg_score": 6.83
+      "count": 7,
+      "avg_score": 6.98
     },
     {
-      "studio": "Production I.G",
-      "count": 68,
-      "avg_score": 7.51
+      "studio": "Imagica Infos",
+      "count": 7,
+      "avg_score": 5.97
     },
     {
-      "studio": "Doga Kobo",
-      "count": 63,
-      "avg_score": 7.09
+      "studio": "Imageworks Studio",
+      "count": 7,
+      "avg_score": 5.97
     },
     {
-      "studio": "Bones",
-      "count": 59,
-      "avg_score": 7.61
+      "studio": "Fanworks",
+      "count": 7,
+      "avg_score": 6.92
     },
     {
-      "studio": "Satelight",
-      "count": 55,
-      "avg_score": 6.91
-    }
-  ],
-  "by_quality": [
-    {
-      "studio": "Kyoto Animation",
-      "avg_score": 7.87,
-      "count": 29,
-      "rated_count": 29
+      "studio": "TMS Entertainment",
+      "count": 5,
+      "avg_score": 7.69
     },
     {
-      "studio": "ufotable",
-      "avg_score": 7.82,
-      "count": 15,
-      "rated_count": 15
+      "studio": "J.C.Staff",
+      "count": 5,
+      "avg_score": 6.54
     },
     {
-      "studio": "CloverWorks",
-      "avg_score": 7.65,
-      "count": 37,
-      "rated_count": 36
+      "studio": "Bandai Namco Pictures",
+      "count": 5,
+      "avg_score": 7.02
     },
     {
-      "studio": "White Fox",
-      "avg_score": 7.61,
-      "count": 26,
-      "rated_count": 26
+      "studio": "Zero-G",
+      "count": 5,
+      "avg_score": 7.13
     },
     {
-      "studio": "Bones",
-      "avg_score": 7.61,
-      "count": 59,
-      "rated_count": 59
-    },
-    {
-      "studio": "Trigger",
-      "avg_score": 7.58,
-      "count": 11,
-      "rated_count": 11
-    },
-    {
-      "studio": "Wit Studio",
-      "avg_score": 7.58,
-      "count": 28,
-      "rated_count": 27
-    },
-    {
-      "studio": "Production I.G",
-      "avg_score": 7.51,
-      "count": 68,
-      "rated_count": 68
-    },
-    {
-      "studio": "TROYCA",
-      "avg_score": 7.49,
-      "count": 14,
-      "rated_count": 14
+      "studio": "TOHO animation STUDIO",
+      "count": 4,
+      "avg_score": 8.06
     },
     {
       "studio": "MAPPA",
-      "avg_score": 7.49,
-      "count": 53,
-      "rated_count": 53
+      "count": 4,
+      "avg_score": 7.64
     },
     {
-      "studio": "Shaft",
-      "avg_score": 7.47,
-      "count": 42,
-      "rated_count": 42
+      "studio": "Studio Gokumi",
+      "count": 4,
+      "avg_score": 6.88
     },
     {
-      "studio": "David Production",
-      "avg_score": 7.46,
-      "count": 26,
-      "rated_count": 26
-    },
-    {
-      "studio": "Madhouse",
-      "avg_score": 7.4,
-      "count": 101,
-      "rated_count": 101
-    },
-    {
-      "studio": "A-1 Pictures",
-      "avg_score": 7.38,
-      "count": 109,
-      "rated_count": 108
-    },
-    {
-      "studio": "Manglobe",
-      "avg_score": 7.37,
-      "count": 15,
-      "rated_count": 15
+      "studio": "Kinema Citrus",
+      "count": 4,
+      "avg_score": 7.0
     }
-  ]
+  ],
+  "by_quality": []
 }

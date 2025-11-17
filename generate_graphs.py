@@ -1054,6 +1054,11 @@ def generate_studio_scatter_filtered_10():
     anime_counts = [s['anime_count'] for s in studio_stats]
     studio_names = [s['studio'] for s in studio_stats]
     
+    # Check if we have enough data
+    if not studio_stats:
+        print(f"  [SKIP] No studios found with 10+ anime")
+        return
+    
     # Calculate means
     mean_rating = statistics.mean(avg_ratings)
     mean_count = statistics.mean(anime_counts)
@@ -1125,6 +1130,117 @@ def generate_studio_scatter_filtered_10():
     with open(web_data_path, 'w', encoding='utf-8') as f:
         json.dump(web_data, f, indent=2)
     print(f"[OK] Saved filtered studio scatter data (10+) to {web_data_path}")
+
+def generate_anime_rating_popularity_scatter():
+    """Generate scatter plot of anime rating vs popularity."""
+    print("\nGenerating anime rating vs popularity scatter plot...")
+    all_anime, _ = load_all_anime_data()
+    
+    current_year = datetime.now().year
+    
+    # Collect anime data with both score and popularity
+    anime_data = []
+    
+    for anime in all_anime:
+        year = anime.get('year')
+        if not year or year < 2006 or year > current_year:
+            continue
+        
+        score = anime.get('score')
+        popularity = anime.get('popularity')
+        
+        # Only include anime that have both score and popularity
+        if score is not None and popularity is not None:
+            anime_data.append({
+                'title': anime.get('title', 'Unknown'),
+                'score': score,
+                'popularity': popularity,
+                'members': anime.get('members', 0),
+                'mal_id': anime.get('mal_id')
+            })
+    
+    if not anime_data:
+        print("  [WARNING] No anime with both score and popularity found")
+        return
+    
+    # Extract data for plotting
+    scores = [a['score'] for a in anime_data]
+    popularities = [a['popularity'] for a in anime_data]
+    
+    # Calculate statistics
+    mean_score = statistics.mean(scores)
+    mean_popularity = statistics.mean(popularities)
+    
+    print(f"  Total anime with ratings and popularity: {len(anime_data)}")
+    print(f"  Mean score: {mean_score:.2f}")
+    print(f"  Mean popularity rank: {mean_popularity:.1f}")
+    
+    # Create scatter plot
+    fig, ax = plt.subplots(figsize=(14, 10))
+    
+    # Plot scatter points with alpha for overlapping points
+    scatter = ax.scatter(scores, popularities, alpha=0.5, s=30, c='#3b82f6', edgecolors='white', linewidth=0.5)
+    
+    # Add mean lines
+    ax.axvline(x=mean_score, color='#ef4444', linestyle='--', linewidth=2.5, 
+               label=f'Mean Score: {mean_score:.2f}', alpha=0.8)
+    ax.axhline(y=mean_popularity, color='#22c55e', linestyle='--', linewidth=2.5, 
+               label=f'Mean Popularity Rank: {mean_popularity:.1f}', alpha=0.8)
+    
+    # Find and label notable anime (top 10 most popular and highest rated with good popularity)
+    # Top 10 most popular (lowest popularity rank)
+    top_popular = sorted(anime_data, key=lambda x: x['popularity'])[:10]
+    # Top 10 highest rated with popularity < 1000
+    top_rated = sorted([a for a in anime_data if a['popularity'] < 1000], 
+                       key=lambda x: x['score'], reverse=True)[:10]
+    
+    notable_anime = {a['mal_id']: a for a in top_popular + top_rated}
+    
+    for anime_id, anime in notable_anime.items():
+        ax.annotate(anime['title'], 
+                   xy=(anime['score'], anime['popularity']),
+                   xytext=(5, 5), textcoords='offset points',
+                   fontsize=7, alpha=0.7, fontweight='bold')
+    
+    # Labels and title
+    ax.set_xlabel('Rating (MAL Score)', fontsize=12, fontweight='bold')
+    ax.set_ylabel('Popularity Rank (lower = more popular)', fontsize=12, fontweight='bold')
+    ax.set_title('Anime Rating vs Popularity', fontsize=14, fontweight='bold', pad=20)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    ax.legend(loc='lower right', fontsize=11, framealpha=0.9)
+    
+    # Invert y-axis so more popular anime (lower rank) appear at top
+    ax.invert_yaxis()
+    
+    plt.tight_layout()
+    
+    # Save PNG
+    output_path = ASSETS_DIR / "anime-rating-popularity-scatter.png"
+    plt.savefig(output_path, dpi=150, bbox_inches='tight')
+    plt.close()
+    print(f"[OK] Saved anime rating vs popularity scatter plot to {output_path}")
+    
+    # Save JSON data
+    web_data = {
+        'anime': [
+            {
+                'title': a['title'],
+                'score': round(a['score'], 2),
+                'popularity': a['popularity'],
+                'members': a['members'],
+                'mal_id': a['mal_id']
+            }
+            for a in anime_data
+        ],
+        'mean_score': round(mean_score, 2),
+        'mean_popularity': round(mean_popularity, 1),
+        'total_anime': len(anime_data)
+    }
+    
+    web_data_path = DATA_DIR / "anime-rating-popularity-scatter.json"
+    with open(web_data_path, 'w', encoding='utf-8') as f:
+        json.dump(web_data, f, indent=2)
+    print(f"[OK] Saved anime rating vs popularity scatter data to {web_data_path}")
 
 def generate_collection_stats():
     """Generate overall collection statistics."""
@@ -1218,6 +1334,7 @@ def main():
     generate_studio_scatter()
     generate_studio_scatter_filtered()
     generate_studio_scatter_filtered_10()
+    generate_anime_rating_popularity_scatter()
     generate_collection_stats()
     
     print("\n" + "=" * 60)

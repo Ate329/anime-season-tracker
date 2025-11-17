@@ -1,0 +1,1624 @@
+{
+  "anime": [
+    {
+      "title": "Ore dake Level Up na Ken Season 2: Arise from the Shadow",
+      "score": 8.62,
+      "popularity": 335,
+      "members": 692360,
+      "mal_id": 58567
+    },
+    {
+      "title": "Sakamoto Days",
+      "score": 7.59,
+      "popularity": 563,
+      "members": 450510,
+      "mal_id": 58939
+    },
+    {
+      "title": "Kusuriya no Hitorigoto 2nd Season",
+      "score": 8.91,
+      "popularity": 616,
+      "members": 421510,
+      "mal_id": 58514
+    },
+    {
+      "title": "Dr. Stone: Science Future",
+      "score": 8.25,
+      "popularity": 1012,
+      "members": 269007,
+      "mal_id": 57592
+    },
+    {
+      "title": "Kimi no Koto ga Daidaidaidaidaisuki na 100-nin no Kanojo 2nd Season",
+      "score": 7.92,
+      "popularity": 1654,
+      "members": 157880,
+      "mal_id": 57616
+    },
+    {
+      "title": "Zenshuu.",
+      "score": 7.58,
+      "popularity": 1680,
+      "members": 154589,
+      "mal_id": 58502
+    },
+    {
+      "title": "Class no Daikirai na Joshi to Kekkon suru Koto ni Natta.",
+      "score": 6.76,
+      "popularity": 1727,
+      "members": 149076,
+      "mal_id": 59135
+    },
+    {
+      "title": "Watashi no Shiawase na Kekkon 2nd Season",
+      "score": 7.41,
+      "popularity": 1815,
+      "members": 140177,
+      "mal_id": 56701
+    },
+    {
+      "title": "Guild no Uketsukejou desu ga, Zangyou wa Iya nanode Boss wo Solo Toubatsu Shiyou to Omoimasu",
+      "score": 6.65,
+      "popularity": 1863,
+      "members": 136538,
+      "mal_id": 55997
+    },
+    {
+      "title": "Kono Kaisha ni Suki na Hito ga Imasu",
+      "score": 7.51,
+      "popularity": 2020,
+      "members": 122417,
+      "mal_id": 59361
+    },
+    {
+      "title": "Honey Lemon Soda",
+      "score": 7.17,
+      "popularity": 2062,
+      "members": 119363,
+      "mal_id": 58271
+    },
+    {
+      "title": "Fuguushoku \"Kanteishi\" ga Jitsu wa Saikyou Datta",
+      "score": 6.34,
+      "popularity": 2114,
+      "members": 116007,
+      "mal_id": 59144
+    },
+    {
+      "title": "Kuroiwa Medaka ni Watashi no Kawaii ga Tsuujinai",
+      "score": 6.56,
+      "popularity": 2137,
+      "members": 113815,
+      "mal_id": 58853
+    },
+    {
+      "title": "Izure Saikyou no Renkinjutsushi?",
+      "score": 6.61,
+      "popularity": 2163,
+      "members": 111570,
+      "mal_id": 58822
+    },
+    {
+      "title": "Salaryman ga Isekai ni Ittara Shitennou ni Natta Hanashi",
+      "score": 6.59,
+      "popularity": 2175,
+      "members": 110215,
+      "mal_id": 59349
+    },
+    {
+      "title": "A-Rank Party wo Ridatsu shita Ore wa, Moto Oshiego-tachi to Meikyuu Shinbu wo Mezasu.",
+      "score": 6.56,
+      "popularity": 2325,
+      "members": 100325,
+      "mal_id": 59730
+    },
+    {
+      "title": "Akuyaku Reijou Tensei Ojisan",
+      "score": 7.37,
+      "popularity": 2429,
+      "members": 92583,
+      "mal_id": 57719
+    },
+    {
+      "title": "Ameku Takao no Suiri Karte",
+      "score": 7.14,
+      "popularity": 2436,
+      "members": 92345,
+      "mal_id": 58600
+    },
+    {
+      "title": "Jibaku Shounen Hanako-kun 2",
+      "score": 7.93,
+      "popularity": 2451,
+      "members": 91711,
+      "mal_id": 53924
+    },
+    {
+      "title": "Hazure Skill \"Kinomi Master\": Skill no Mi (Tabetara Shinu) wo Mugen ni Taberareru You ni Natta Ken ni Tsuite",
+      "score": 5.77,
+      "popularity": 2468,
+      "members": 90873,
+      "mal_id": 59002
+    },
+    {
+      "title": "Around 40 Otoko no Isekai Tsuuhan",
+      "score": 6.35,
+      "popularity": 2507,
+      "members": 88627,
+      "mal_id": 59561
+    },
+    {
+      "title": "Nihon e Youkoso Elf-san.",
+      "score": 7.29,
+      "popularity": 2542,
+      "members": 86404,
+      "mal_id": 57648
+    },
+    {
+      "title": "Botsuraku Yotei no Kizoku dakedo, Hima Datta kara Mahou wo Kiwametemita",
+      "score": 6.08,
+      "popularity": 2692,
+      "members": 78813,
+      "mal_id": 58437
+    },
+    {
+      "title": "Ao no Exorcist: Yosuga-hen",
+      "score": 8,
+      "popularity": 2740,
+      "members": 76887,
+      "mal_id": 59226
+    },
+    {
+      "title": "Medalist",
+      "score": 8.37,
+      "popularity": 2797,
+      "members": 74109,
+      "mal_id": 55318
+    },
+    {
+      "title": "S-Rank Monster no \"Behemoth\" dakedo, Neko to Machigawarete Elf Musume no Pet toshite Kurashitemasu",
+      "score": 5.78,
+      "popularity": 2807,
+      "members": 73755,
+      "mal_id": 58473
+    },
+    {
+      "title": "Magic Maker: Isekai Mahou no Tsukurikata",
+      "score": 6.81,
+      "popularity": 2831,
+      "members": 72559,
+      "mal_id": 59265
+    },
+    {
+      "title": "Okinawa de Suki ni Natta Ko ga Hougen Sugite Tsurasugiru",
+      "score": 7.09,
+      "popularity": 2969,
+      "members": 66760,
+      "mal_id": 55842
+    },
+    {
+      "title": "\u00dcbel Blatt",
+      "score": 6.31,
+      "popularity": 3006,
+      "members": 65128,
+      "mal_id": 58216
+    },
+    {
+      "title": "Sentai Red Isekai de Boukensha ni Naru",
+      "score": 6.78,
+      "popularity": 3104,
+      "members": 61680,
+      "mal_id": 59514
+    },
+    {
+      "title": "Unnamed Memory Act.2",
+      "score": 7.12,
+      "popularity": 3206,
+      "members": 57491,
+      "mal_id": 59142
+    },
+    {
+      "title": "NEET Kunoichi to Nazeka Dousei Hajimemashita",
+      "score": 6.13,
+      "popularity": 3421,
+      "members": 51767,
+      "mal_id": 58082
+    },
+    {
+      "title": "Ishura 2nd Season",
+      "score": 7.19,
+      "popularity": 3812,
+      "members": 42784,
+      "mal_id": 58484
+    },
+    {
+      "title": "Hana wa Saku, Shura no Gotoku",
+      "score": 7.11,
+      "popularity": 3980,
+      "members": 39243,
+      "mal_id": 59055
+    },
+    {
+      "title": "Douse, Koishite Shimaunda.",
+      "score": 6.1,
+      "popularity": 4109,
+      "members": 36618,
+      "mal_id": 58259
+    },
+    {
+      "title": "Kisaki Kyouiku kara Nigetai Watashi",
+      "score": 5.65,
+      "popularity": 4156,
+      "members": 35796,
+      "mal_id": 57050
+    },
+    {
+      "title": "Grisaia: Phantom Trigger",
+      "score": 6.39,
+      "popularity": 4285,
+      "members": 33845,
+      "mal_id": 51119
+    },
+    {
+      "title": "Tasokare Hotel",
+      "score": 7.2,
+      "popularity": 4349,
+      "members": 32633,
+      "mal_id": 59136
+    },
+    {
+      "title": "BanG Dream! Ave Mujica",
+      "score": 8.06,
+      "popularity": 4410,
+      "members": 31503,
+      "mal_id": 56653
+    },
+    {
+      "title": "Mahoutsukai no Yakusoku",
+      "score": 5.5,
+      "popularity": 4845,
+      "members": 25556,
+      "mal_id": 57152
+    },
+    {
+      "title": "Momentary Lily",
+      "score": 5.91,
+      "popularity": 4943,
+      "members": 24478,
+      "mal_id": 58739
+    },
+    {
+      "title": "Sorairo Utility (TV)",
+      "score": 7.12,
+      "popularity": 5258,
+      "members": 21045,
+      "mal_id": 58066
+    },
+    {
+      "title": "Babanbabanban Vampire",
+      "score": 6.57,
+      "popularity": 5423,
+      "members": 19408,
+      "mal_id": 58265
+    },
+    {
+      "title": "Farmagia",
+      "score": 5.63,
+      "popularity": 5745,
+      "members": 16680,
+      "mal_id": 59113
+    },
+    {
+      "title": "Kimi to Idol Precure\u266a",
+      "score": 7.36,
+      "popularity": 8563,
+      "members": 6160,
+      "mal_id": 60407
+    },
+    {
+      "title": "Mahoutsukai Precure!! Mirai Days",
+      "score": 7.17,
+      "popularity": 9171,
+      "members": 5196,
+      "mal_id": 54717
+    },
+    {
+      "title": "Sousei no Aquarion: Myth of Emotions",
+      "score": 5.4,
+      "popularity": 9172,
+      "members": 5190,
+      "mal_id": 54769
+    },
+    {
+      "title": "UniteUp! Uni:Birth",
+      "score": 6.72,
+      "popularity": 9523,
+      "members": 4644,
+      "mal_id": 56135
+    },
+    {
+      "title": "0-saiji Start Dash Monogatari Season 2",
+      "score": 5.64,
+      "popularity": 9553,
+      "members": 4591,
+      "mal_id": 60425
+    },
+    {
+      "title": "Yami Shibai 14",
+      "score": 5.81,
+      "popularity": 9777,
+      "members": 4306,
+      "mal_id": 60410
+    },
+    {
+      "title": "Kinnikuman: Kanpeki Choujin Shiso-hen Season 2",
+      "score": 6.86,
+      "popularity": 10511,
+      "members": 3430,
+      "mal_id": 59914
+    },
+    {
+      "title": "Cardfight!! Vanguard: Divinez Deluxe-hen",
+      "score": 7.02,
+      "popularity": 11429,
+      "members": 2637,
+      "mal_id": 54144
+    },
+    {
+      "title": "Kankin Kuiki Level X 2nd Season",
+      "score": 6.59,
+      "popularity": 11936,
+      "members": 2275,
+      "mal_id": 60094
+    },
+    {
+      "title": "Mashin Souzouden Wataru",
+      "score": 6.23,
+      "popularity": 13023,
+      "members": 1631,
+      "mal_id": 57827
+    },
+    {
+      "title": "Enen no Shouboutai: San no Shou",
+      "score": 7.7,
+      "popularity": 978,
+      "members": 276676,
+      "mal_id": 51818
+    },
+    {
+      "title": "Lazarus",
+      "score": 7.19,
+      "popularity": 1195,
+      "members": 229719,
+      "mal_id": 56038
+    },
+    {
+      "title": "Wind Breaker Season 2",
+      "score": 7.64,
+      "popularity": 1333,
+      "members": 202432,
+      "mal_id": 59160
+    },
+    {
+      "title": "Witch Watch",
+      "score": 7.39,
+      "popularity": 1468,
+      "members": 181506,
+      "mal_id": 59597
+    },
+    {
+      "title": "Katainaka no Ossan, Kensei ni Naru",
+      "score": 6.99,
+      "popularity": 1622,
+      "members": 161933,
+      "mal_id": 59452
+    },
+    {
+      "title": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru?",
+      "score": 6.19,
+      "popularity": 1626,
+      "members": 161706,
+      "mal_id": 60146
+    },
+    {
+      "title": "Vigilante: Boku no Hero Academia Illegals",
+      "score": 7.6,
+      "popularity": 1727,
+      "members": 149125,
+      "mal_id": 60593
+    },
+    {
+      "title": "Kowloon Generic Romance",
+      "score": 7.36,
+      "popularity": 1807,
+      "members": 141340,
+      "mal_id": 60083
+    },
+    {
+      "title": "Isshun de Chiryou shiteita noni Yakutatazu to Tsuihou sareta Tensai Chiyushi, Yami Healer toshite Tanoshiku Ikiru",
+      "score": 6.84,
+      "popularity": 1813,
+      "members": 140598,
+      "mal_id": 58359
+    },
+    {
+      "title": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!)",
+      "score": 6.57,
+      "popularity": 1858,
+      "members": 136767,
+      "mal_id": 52709
+    },
+    {
+      "title": "Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita: Sono Ni",
+      "score": 6.68,
+      "popularity": 2079,
+      "members": 118345,
+      "mal_id": 50738
+    },
+    {
+      "title": "Haite Kudasai, Takamine-san",
+      "score": 6.2,
+      "popularity": 2092,
+      "members": 117316,
+      "mal_id": 59457
+    },
+    {
+      "title": "Kijin Gentoushou",
+      "score": 7.31,
+      "popularity": 2177,
+      "members": 110100,
+      "mal_id": 49778
+    },
+    {
+      "title": "Shiunji-ke no Kodomotachi",
+      "score": 7.07,
+      "popularity": 2244,
+      "members": 105217,
+      "mal_id": 58131
+    },
+    {
+      "title": "Kanchigai no Atelier Meister: Eiyuu Party no Moto Zatsuyougakari ga, Jitsu wa Sentou Igai ga SSS Rank Datta to Iu Yoku Aru Hanashi",
+      "score": 6.43,
+      "popularity": 2525,
+      "members": 87456,
+      "mal_id": 60140
+    },
+    {
+      "title": "Ore wa Seikan Kokka no Akutoku Ryoushu!",
+      "score": 7.02,
+      "popularity": 2639,
+      "members": 81628,
+      "mal_id": 60154
+    },
+    {
+      "title": "Aharen-san wa Hakarenai Season 2",
+      "score": 7.48,
+      "popularity": 2649,
+      "members": 81070,
+      "mal_id": 59466
+    },
+    {
+      "title": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru",
+      "score": 7.26,
+      "popularity": 2677,
+      "members": 79909,
+      "mal_id": 60157
+    },
+    {
+      "title": "Sentai Daishikkaku 2nd Season",
+      "score": 7.08,
+      "popularity": 2751,
+      "members": 76199,
+      "mal_id": 59189
+    },
+    {
+      "title": "Rock wa Lady no Tashinami deshite",
+      "score": 7.9,
+      "popularity": 2837,
+      "members": 72164,
+      "mal_id": 59360
+    },
+    {
+      "title": "Summer Pockets",
+      "score": 7.36,
+      "popularity": 2849,
+      "members": 71731,
+      "mal_id": 50694
+    },
+    {
+      "title": "Uma Musume: Cinderella Gray",
+      "score": 8.57,
+      "popularity": 2906,
+      "members": 69458,
+      "mal_id": 59636
+    },
+    {
+      "title": "Kuroshitsuji: Midori no Majo-hen",
+      "score": 8.17,
+      "popularity": 3011,
+      "members": 64967,
+      "mal_id": 59228
+    },
+    {
+      "title": "Gorilla no Kami kara Kago sareta Reijou wa Ouritsu Kishidan de Kawaigarareru",
+      "score": 6.52,
+      "popularity": 3149,
+      "members": 59683,
+      "mal_id": 59935
+    },
+    {
+      "title": "Apocalypse Hotel",
+      "score": 8.01,
+      "popularity": 3168,
+      "members": 58702,
+      "mal_id": 59675
+    },
+    {
+      "title": "Kidou Senshi Gundam: GQuuuuuuX",
+      "score": 7,
+      "popularity": 3226,
+      "members": 56978,
+      "mal_id": 60449
+    },
+    {
+      "title": "Ninja to Koroshiya no Futarigurashi",
+      "score": 7.59,
+      "popularity": 3393,
+      "members": 52321,
+      "mal_id": 58725
+    },
+    {
+      "title": "Aru Majo ga Shinu Made",
+      "score": 7.35,
+      "popularity": 3411,
+      "members": 51959,
+      "mal_id": 59169
+    },
+    {
+      "title": "Shoushimin Series 2nd Season",
+      "score": 8.05,
+      "popularity": 3487,
+      "members": 49800,
+      "mal_id": 59828
+    },
+    {
+      "title": "Kakushite! Makina-san!!",
+      "score": 5.5,
+      "popularity": 3488,
+      "members": 49771,
+      "mal_id": 58833
+    },
+    {
+      "title": "Anne Shirley",
+      "score": 7.88,
+      "popularity": 3510,
+      "members": 49149,
+      "mal_id": 60334
+    },
+    {
+      "title": "Mono",
+      "score": 7.73,
+      "popularity": 3705,
+      "members": 44897,
+      "mal_id": 58492
+    },
+    {
+      "title": "Hibi wa Sugiredo Meshi Umashi",
+      "score": 7.75,
+      "popularity": 3770,
+      "members": 43549,
+      "mal_id": 60658
+    },
+    {
+      "title": "Ballpark de Tsukamaete!",
+      "score": 7.13,
+      "popularity": 3859,
+      "members": 41892,
+      "mal_id": 60293
+    },
+    {
+      "title": "Your Forma",
+      "score": 6.25,
+      "popularity": 3905,
+      "members": 40842,
+      "mal_id": 55995
+    },
+    {
+      "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita",
+      "score": 5.52,
+      "popularity": 3955,
+      "members": 39616,
+      "mal_id": 59745
+    },
+    {
+      "title": "Shin Samurai-den Yaiba",
+      "score": 7.2,
+      "popularity": 3962,
+      "members": 39547,
+      "mal_id": 58812
+    },
+    {
+      "title": "Zatsu Tabi: That's Journey",
+      "score": 6.92,
+      "popularity": 4131,
+      "members": 36230,
+      "mal_id": 55514
+    },
+    {
+      "title": "Teogonia",
+      "score": 6.91,
+      "popularity": 4140,
+      "members": 36109,
+      "mal_id": 58614
+    },
+    {
+      "title": "Nazotoki wa Dinner no Ato de",
+      "score": 6.47,
+      "popularity": 4616,
+      "members": 28544,
+      "mal_id": 60377
+    },
+    {
+      "title": "Guilty Gear Strive: Dual Rulers",
+      "score": 5.9,
+      "popularity": 5175,
+      "members": 21889,
+      "mal_id": 59070
+    },
+    {
+      "title": "Bye Bye, Earth 2nd Season",
+      "score": 6.17,
+      "popularity": 5176,
+      "members": 21876,
+      "mal_id": 59819
+    },
+    {
+      "title": "Chuuzenji-sensei Mononoke Kougiroku: Sensei ga Nazo wo Hodoite Shimau kara.",
+      "score": 6.52,
+      "popularity": 5906,
+      "members": 15491,
+      "mal_id": 60009
+    },
+    {
+      "title": "Maebashi Witches",
+      "score": 7.02,
+      "popularity": 6472,
+      "members": 12287,
+      "mal_id": 59744
+    },
+    {
+      "title": "Uchuujin MuuMuu",
+      "score": 6.87,
+      "popularity": 6664,
+      "members": 11506,
+      "mal_id": 60401
+    },
+    {
+      "title": "#Compass 2.0: Sentou Setsuri Kaiseki System",
+      "score": 5.83,
+      "popularity": 6772,
+      "members": 11003,
+      "mal_id": 53762
+    },
+    {
+      "title": "Everyday Host",
+      "score": 6.92,
+      "popularity": 7567,
+      "members": 8403,
+      "mal_id": 60535
+    },
+    {
+      "title": "Princession Orchestra",
+      "score": 6.68,
+      "popularity": 8401,
+      "members": 6481,
+      "mal_id": 59078
+    },
+    {
+      "title": "Classic\u2605Stars",
+      "score": 5.66,
+      "popularity": 8542,
+      "members": 6200,
+      "mal_id": 59199
+    },
+    {
+      "title": "Koupen-chan",
+      "score": 7.44,
+      "popularity": 8966,
+      "members": 5515,
+      "mal_id": 60534
+    },
+    {
+      "title": "Miru: Watashi no Mirai",
+      "score": 5.29,
+      "popularity": 9327,
+      "members": 4935,
+      "mal_id": 55727
+    },
+    {
+      "title": "Hana-Doll*: Reinterpretation of Flowering",
+      "score": 5.73,
+      "popularity": 9862,
+      "members": 4187,
+      "mal_id": 55710
+    },
+    {
+      "title": "Chotto dake Ai ga Omoi Dark Elf ga Isekai kara Oikaketekita Mini Anime Gekijou",
+      "score": 5.55,
+      "popularity": 10089,
+      "members": 3926,
+      "mal_id": 61410
+    },
+    {
+      "title": "Oide yo Mahou Shoujo Mura (Fuhou Senkyo)",
+      "score": 5.48,
+      "popularity": 12273,
+      "members": 2076,
+      "mal_id": 61206
+    },
+    {
+      "title": "Masuda Kousuke Gekijou: Gag Manga Biyori Go",
+      "score": 6.06,
+      "popularity": 12822,
+      "members": 1740,
+      "mal_id": 60446
+    },
+    {
+      "title": "Himitsu no AiPri: Ring-hen",
+      "score": 6.71,
+      "popularity": 12913,
+      "members": 1687,
+      "mal_id": 61092
+    },
+    {
+      "title": "Araiguma Calcal-dan",
+      "score": 6.01,
+      "popularity": 12956,
+      "members": 1666,
+      "mal_id": 60506
+    },
+    {
+      "title": "Dandadan 2nd Season",
+      "score": 8.47,
+      "popularity": 555,
+      "members": 454565,
+      "mal_id": 60543
+    },
+    {
+      "title": "Sono Bisque Doll wa Koi wo Suru Season 2",
+      "score": 8.22,
+      "popularity": 663,
+      "members": 396524,
+      "mal_id": 53065
+    },
+    {
+      "title": "Kaoru Hana wa Rin to Saku",
+      "score": 8.66,
+      "popularity": 771,
+      "members": 345425,
+      "mal_id": 59845
+    },
+    {
+      "title": "Gachiakuta",
+      "score": 8.06,
+      "popularity": 806,
+      "members": 332312,
+      "mal_id": 59062
+    },
+    {
+      "title": "Kaijuu 8-gou 2nd Season",
+      "score": 7.8,
+      "popularity": 891,
+      "members": 308048,
+      "mal_id": 59177
+    },
+    {
+      "title": "Hikaru ga Shinda Natsu",
+      "score": 8.06,
+      "popularity": 1153,
+      "members": 237403,
+      "mal_id": 58913
+    },
+    {
+      "title": "Sakamoto Days Part 2",
+      "score": 7.92,
+      "popularity": 1303,
+      "members": 207547,
+      "mal_id": 60285
+    },
+    {
+      "title": "Yofukashi no Uta Season 2",
+      "score": 8.35,
+      "popularity": 1328,
+      "members": 203838,
+      "mal_id": 58390
+    },
+    {
+      "title": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+      "score": 8.18,
+      "popularity": 1485,
+      "members": 180040,
+      "mal_id": 57433
+    },
+    {
+      "title": "Dr. Stone: Science Future Part 2",
+      "score": 8.52,
+      "popularity": 1507,
+      "members": 177843,
+      "mal_id": 61322
+    },
+    {
+      "title": "Grand Blue Season 2",
+      "score": 8.51,
+      "popularity": 1581,
+      "members": 168466,
+      "mal_id": 59986
+    },
+    {
+      "title": "Silent Witch: Chinmoku no Majo no Kakushigoto",
+      "score": 8.13,
+      "popularity": 1583,
+      "members": 168144,
+      "mal_id": 59459
+    },
+    {
+      "title": "Mizu Zokusei no Mahoutsukai",
+      "score": 7.08,
+      "popularity": 1650,
+      "members": 158253,
+      "mal_id": 60732
+    },
+    {
+      "title": "Tate no Yuusha no Nariagari Season 4",
+      "score": 6.91,
+      "popularity": 1676,
+      "members": 155489,
+      "mal_id": 57907
+    },
+    {
+      "title": "Clevatess: Majuu no Ou to Akago to Shikabane no Yuusha",
+      "score": 7.85,
+      "popularity": 1718,
+      "members": 150384,
+      "mal_id": 59205
+    },
+    {
+      "title": "Tougen Anki",
+      "score": 6.58,
+      "popularity": 2069,
+      "members": 118842,
+      "mal_id": 58811
+    },
+    {
+      "title": "Tensei shitara Dainana Ouji Datta node, Kimama ni Majutsu wo Kiwamemasu 2nd Season",
+      "score": 7.65,
+      "popularity": 2110,
+      "members": 116442,
+      "mal_id": 59095
+    },
+    {
+      "title": "Isekai Mokushiroku Mynoghra: Hametsu no Bunmei de Hajimeru Sekai Seifuku",
+      "score": 6.64,
+      "popularity": 2284,
+      "members": 102409,
+      "mal_id": 59130
+    },
+    {
+      "title": "Mikadono Sanshimai wa Angai, Choroi.",
+      "score": 7.66,
+      "popularity": 2569,
+      "members": 85204,
+      "mal_id": 59207
+    },
+    {
+      "title": "Kanojo, Okarishimasu 4th Season",
+      "score": 6.17,
+      "popularity": 2639,
+      "members": 81655,
+      "mal_id": 59277
+    },
+    {
+      "title": "Watashi ga Koibito ni Nareru Wake Nai jan, Muri Muri! (\u203bMuri ja Nakatta!?)",
+      "score": 7.67,
+      "popularity": 2683,
+      "members": 79491,
+      "mal_id": 60326
+    },
+    {
+      "title": "New Panty & Stocking with Garterbelt",
+      "score": 7.96,
+      "popularity": 2733,
+      "members": 77150,
+      "mal_id": 52293
+    },
+    {
+      "title": "City The Animation",
+      "score": 8.1,
+      "popularity": 2843,
+      "members": 71967,
+      "mal_id": 59898
+    },
+    {
+      "title": "Tsuyokute New Saga",
+      "score": 6.57,
+      "popularity": 2844,
+      "members": 71957,
+      "mal_id": 53397
+    },
+    {
+      "title": "Ruri no Houseki",
+      "score": 8,
+      "popularity": 2856,
+      "members": 71450,
+      "mal_id": 59791
+    },
+    {
+      "title": "Yuusha Party wo Tsuihou sareta Shiromadoushi, S-Rank Boukensha ni Hirowareru: Kono Shiromadoushi ga Kikakugai Sugiru",
+      "score": 6.11,
+      "popularity": 2885,
+      "members": 70483,
+      "mal_id": 59424
+    },
+    {
+      "title": "Kakkou no Iinazuke Season 2",
+      "score": 6.72,
+      "popularity": 3090,
+      "members": 62238,
+      "mal_id": 59402
+    },
+    {
+      "title": "Tsuihousha Shokudou e Youkoso!",
+      "score": 6.98,
+      "popularity": 3242,
+      "members": 56529,
+      "mal_id": 60523
+    },
+    {
+      "title": "Watari-kun no xx ga Houkai Sunzen",
+      "score": 6.15,
+      "popularity": 3315,
+      "members": 54368,
+      "mal_id": 56693
+    },
+    {
+      "title": "Jidou Hanbaiki ni Umarekawatta Ore wa Meikyuu wo Samayou 2nd Season",
+      "score": 6.51,
+      "popularity": 3331,
+      "members": 53978,
+      "mal_id": 56700
+    },
+    {
+      "title": "Zutaboro Reijou wa Ane no Moto Konyakusha ni Dekiai sareru",
+      "score": 7.36,
+      "popularity": 3363,
+      "members": 53202,
+      "mal_id": 59421
+    },
+    {
+      "title": "Ame to Kimi to",
+      "score": 7.53,
+      "popularity": 3458,
+      "members": 50542,
+      "mal_id": 59619
+    },
+    {
+      "title": "Kizetsu Yuusha to Ansatsu Hime",
+      "score": 6.62,
+      "popularity": 3512,
+      "members": 49125,
+      "mal_id": 60951
+    },
+    {
+      "title": "Koujo Denka no Kateikyoushi",
+      "score": 6.31,
+      "popularity": 3520,
+      "members": 48858,
+      "mal_id": 56907
+    },
+    {
+      "title": "Nukitashi the Animation",
+      "score": 7.03,
+      "popularity": 3535,
+      "members": 48436,
+      "mal_id": 57969
+    },
+    {
+      "title": "Jibaku Shounen Hanako-kun 2 Part 2",
+      "score": 8.03,
+      "popularity": 3644,
+      "members": 46271,
+      "mal_id": 61339
+    },
+    {
+      "title": "Busamen Gachi Fighter",
+      "score": 6.33,
+      "popularity": 3693,
+      "members": 45194,
+      "mal_id": 60316
+    },
+    {
+      "title": "Mattaku Saikin no Tantei to Kitara",
+      "score": 7.33,
+      "popularity": 3793,
+      "members": 43183,
+      "mal_id": 59632
+    },
+    {
+      "title": "Game Center Shoujo to Ibunka Kouryuu",
+      "score": 6.66,
+      "popularity": 4228,
+      "members": 34654,
+      "mal_id": 59689
+    },
+    {
+      "title": "Food Court de, Mata Ashita.",
+      "score": 7.48,
+      "popularity": 4338,
+      "members": 32826,
+      "mal_id": 60508
+    },
+    {
+      "title": "Busu ni Hanataba wo.",
+      "score": 7.16,
+      "popularity": 4354,
+      "members": 32542,
+      "mal_id": 53512
+    },
+    {
+      "title": "Futari Solo Camp",
+      "score": 6.61,
+      "popularity": 4376,
+      "members": 32054,
+      "mal_id": 60665
+    },
+    {
+      "title": "Bad Girl",
+      "score": 7.07,
+      "popularity": 4425,
+      "members": 31283,
+      "mal_id": 59161
+    },
+    {
+      "title": "Arknights: Rise from Ember",
+      "score": 7.78,
+      "popularity": 4469,
+      "members": 30686,
+      "mal_id": 58749
+    },
+    {
+      "title": "Nyaight of the Living Cat",
+      "score": 6.33,
+      "popularity": 4559,
+      "members": 29406,
+      "mal_id": 58197
+    },
+    {
+      "title": "Onmyou Kaiten Re:Birth",
+      "score": 6.5,
+      "popularity": 4779,
+      "members": 26389,
+      "mal_id": 61150
+    },
+    {
+      "title": "Jigoku Sensei Nube (2025)",
+      "score": 6.67,
+      "popularity": 5075,
+      "members": 22842,
+      "mal_id": 59342
+    },
+    {
+      "title": "Hotel Inhumans",
+      "score": 6.71,
+      "popularity": 5247,
+      "members": 21184,
+      "mal_id": 60260
+    },
+    {
+      "title": "Dekin no Mogura",
+      "score": 6.93,
+      "popularity": 5276,
+      "members": 20852,
+      "mal_id": 60315
+    },
+    {
+      "title": "Karaoke Iko!",
+      "score": 7.6,
+      "popularity": 5328,
+      "members": 20382,
+      "mal_id": 60131
+    },
+    {
+      "title": "Turkey!",
+      "score": 6.52,
+      "popularity": 5440,
+      "members": 19259,
+      "mal_id": 54028
+    },
+    {
+      "title": "Fermat no Ryouri",
+      "score": 6.95,
+      "popularity": 5528,
+      "members": 18412,
+      "mal_id": 60697
+    },
+    {
+      "title": "Kizu darake Seijo yori Houfuku wo Komete",
+      "score": 6.65,
+      "popularity": 5598,
+      "members": 17860,
+      "mal_id": 59961
+    },
+    {
+      "title": "Shirobuta Kizoku desu ga Zense no Kioku ga Haeta node Hiyoko na Otouto Sodatemasu",
+      "score": 6.74,
+      "popularity": 5956,
+      "members": 15112,
+      "mal_id": 59322
+    },
+    {
+      "title": "Muchuu sa, Kimi ni.",
+      "score": 7.25,
+      "popularity": 6046,
+      "members": 14524,
+      "mal_id": 60130
+    },
+    {
+      "title": "Ginga Tokkyuu Milky\u2606Subway",
+      "score": 7.81,
+      "popularity": 6575,
+      "members": 11829,
+      "mal_id": 61274
+    },
+    {
+      "title": "9: Ruler's Crown",
+      "score": 5.8,
+      "popularity": 6656,
+      "members": 11528,
+      "mal_id": 58957
+    },
+    {
+      "title": "Necronomico no Cosmic Horror Show",
+      "score": 6.11,
+      "popularity": 6746,
+      "members": 11135,
+      "mal_id": 60505
+    },
+    {
+      "title": "Kamitsubaki-shi Kensetsuchuu.",
+      "score": 5.77,
+      "popularity": 6799,
+      "members": 10883,
+      "mal_id": 57820
+    },
+    {
+      "title": "Utagoe wa Mille-Feuille",
+      "score": 6.55,
+      "popularity": 8352,
+      "members": 6565,
+      "mal_id": 55689
+    },
+    {
+      "title": "Osomatsu-san 4th Season",
+      "score": 6.17,
+      "popularity": 8560,
+      "members": 6164,
+      "mal_id": 58996
+    },
+    {
+      "title": "Puniru wa Kawaii Slime 2nd Season",
+      "score": 7.22,
+      "popularity": 9188,
+      "members": 5166,
+      "mal_id": 60603
+    },
+    {
+      "title": "Binan Koukou Chikyuu Bouei-bu Haikara!",
+      "score": 6.21,
+      "popularity": 9762,
+      "members": 4326,
+      "mal_id": 61239
+    },
+    {
+      "title": "Yami Shibai 15",
+      "score": 5.71,
+      "popularity": 11049,
+      "members": 2933,
+      "mal_id": 61793
+    },
+    {
+      "title": "Cardfight!! Vanguard: Divinez Deluxe Kesshou-hen",
+      "score": 6.65,
+      "popularity": 12524,
+      "members": 1914,
+      "mal_id": 54145
+    },
+    {
+      "title": "One Punch Man 3",
+      "score": 5.59,
+      "popularity": 690,
+      "members": 382501,
+      "mal_id": 52807
+    },
+    {
+      "title": "Spy x Family Season 3",
+      "score": 8.18,
+      "popularity": 1133,
+      "members": 241878,
+      "mal_id": 59027
+    },
+    {
+      "title": "Boku no Hero Academia: Final Season",
+      "score": 8.79,
+      "popularity": 1452,
+      "members": 184344,
+      "mal_id": 60098
+    },
+    {
+      "title": "Fumetsu no Anata e Season 3",
+      "score": 8.02,
+      "popularity": 2024,
+      "members": 122273,
+      "mal_id": 54703
+    },
+    {
+      "title": "Saigo ni Hitotsu dake Onegai shitemo Yoroshii deshou ka",
+      "score": 7.63,
+      "popularity": 2261,
+      "members": 104303,
+      "mal_id": 59846
+    },
+    {
+      "title": "Ansatsusha de Aru Ore no Status ga Yuusha yori mo Akiraka ni Tsuyoi no da ga",
+      "score": 7.1,
+      "popularity": 2418,
+      "members": 93470,
+      "mal_id": 61026
+    },
+    {
+      "title": "Tomodachi no Imouto ga Ore ni dake Uzai",
+      "score": 6.44,
+      "popularity": 2582,
+      "members": 84726,
+      "mal_id": 47158
+    },
+    {
+      "title": "Tondemo Skill de Isekai Hourou Meshi 2",
+      "score": 7.76,
+      "popularity": 2597,
+      "members": 84321,
+      "mal_id": 57025
+    },
+    {
+      "title": "Sanda",
+      "score": 7.46,
+      "popularity": 3000,
+      "members": 65434,
+      "mal_id": 59267
+    },
+    {
+      "title": "Ranma \u00bd (2024) 2nd Season",
+      "score": 8.02,
+      "popularity": 3278,
+      "members": 55466,
+      "mal_id": 60564
+    },
+    {
+      "title": "Yasei no Last Boss ga Arawareta!",
+      "score": 7.38,
+      "popularity": 3279,
+      "members": 55446,
+      "mal_id": 59644
+    },
+    {
+      "title": "Towa no Yuugure",
+      "score": 6.89,
+      "popularity": 3283,
+      "members": 55266,
+      "mal_id": 61917
+    },
+    {
+      "title": "Shinjiteita Nakama-tachi ni Dungeon Okuchi de Korosarekaketa ga Gift \"Mugen Gacha\" de Level 9999 no Nakama-tachi wo Te ni Irete Moto Party Member to Sekai ni Fukushuu & \"Zamaa!\" Shimasu!",
+      "score": 6.58,
+      "popularity": 3333,
+      "members": 53952,
+      "mal_id": 60303
+    },
+    {
+      "title": "Watashi wo Tabetai, Hitodenashi",
+      "score": 7.26,
+      "popularity": 3347,
+      "members": 53746,
+      "mal_id": 60168
+    },
+    {
+      "title": "Mushoku no Eiyuu: Betsu ni Skill Nanka Iranakatta n da ga",
+      "score": 6.35,
+      "popularity": 3470,
+      "members": 50239,
+      "mal_id": 56854
+    },
+    {
+      "title": "Nageki no Bourei wa Intai shitai Part 2",
+      "score": 7.37,
+      "popularity": 3512,
+      "members": 49119,
+      "mal_id": 60619
+    },
+    {
+      "title": "Chitose-kun wa Ramune Bin no Naka",
+      "score": 7.21,
+      "popularity": 3587,
+      "members": 47550,
+      "mal_id": 59517
+    },
+    {
+      "title": "Bukiyou na Senpai.",
+      "score": 6.85,
+      "popularity": 3609,
+      "members": 47010,
+      "mal_id": 60531
+    },
+    {
+      "title": "Akujiki Reijou to Kyouketsu Koushaku",
+      "score": 7.22,
+      "popularity": 3866,
+      "members": 41665,
+      "mal_id": 60162
+    },
+    {
+      "title": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu",
+      "score": 6.3,
+      "popularity": 3909,
+      "members": 40791,
+      "mal_id": 61276
+    },
+    {
+      "title": "Yano-kun no Futsuu no Hibi",
+      "score": 7.19,
+      "popularity": 3937,
+      "members": 40022,
+      "mal_id": 60254
+    },
+    {
+      "title": "Sozai Saishuka no Isekai Ryokouki",
+      "score": 6.01,
+      "popularity": 3975,
+      "members": 39367,
+      "mal_id": 61174
+    },
+    {
+      "title": "3-nen Z-gumi Ginpachi-sensei",
+      "score": 8.21,
+      "popularity": 4020,
+      "members": 38561,
+      "mal_id": 54757
+    },
+    {
+      "title": "Chichi wa Eiyuu, Haha wa Seirei, Musume no Watashi wa Tenseisha.",
+      "score": 6.81,
+      "popularity": 4142,
+      "members": 36082,
+      "mal_id": 57888
+    },
+    {
+      "title": "Isekai Quartet 3",
+      "score": 7.68,
+      "popularity": 4250,
+      "members": 34275,
+      "mal_id": 61851
+    },
+    {
+      "title": "Kekkon Yubiwa Monogatari II",
+      "score": 6.68,
+      "popularity": 4277,
+      "members": 33944,
+      "mal_id": 58515
+    },
+    {
+      "title": "Toujima Tanzaburou wa Kamen Rider ni Naritai",
+      "score": 7.68,
+      "popularity": 4324,
+      "members": 33110,
+      "mal_id": 61159
+    },
+    {
+      "title": "Kao ni Denai Kashiwada-san to Kao ni Deru Oota-kun",
+      "score": 6.74,
+      "popularity": 4380,
+      "members": 32014,
+      "mal_id": 61209
+    },
+    {
+      "title": "Uma Musume: Cinderella Gray Part 2",
+      "score": 8.47,
+      "popularity": 4459,
+      "members": 30825,
+      "mal_id": 61930
+    },
+    {
+      "title": "Kikaijikake no Marie",
+      "score": 6.68,
+      "popularity": 4538,
+      "members": 29757,
+      "mal_id": 59484
+    },
+    {
+      "title": "Taiyou yori mo Mabushii Hoshi",
+      "score": 7.08,
+      "popularity": 4680,
+      "members": 27813,
+      "mal_id": 60969
+    },
+    {
+      "title": "Wandance",
+      "score": 6.31,
+      "popularity": 4686,
+      "members": 27738,
+      "mal_id": 59623
+    },
+    {
+      "title": "Sawaranaide Kotesashi-kun",
+      "score": 6.27,
+      "popularity": 4745,
+      "members": 26950,
+      "mal_id": 61142
+    },
+    {
+      "title": "Tensei Akujo no Kuro Rekishi",
+      "score": 6.56,
+      "popularity": 4806,
+      "members": 26070,
+      "mal_id": 58146
+    },
+    {
+      "title": "Gnosia",
+      "score": 7.27,
+      "popularity": 4893,
+      "members": 24976,
+      "mal_id": 60427
+    },
+    {
+      "title": "Chanto Suenai Kyuuketsuki-chan",
+      "score": 6.72,
+      "popularity": 4945,
+      "members": 24466,
+      "mal_id": 60933
+    },
+    {
+      "title": "Kakuriyo no Yadomeshi Ni",
+      "score": 7.1,
+      "popularity": 4953,
+      "members": 24372,
+      "mal_id": 58772
+    },
+    {
+      "title": "Kimi to Koete Koi ni Naru",
+      "score": 6.92,
+      "popularity": 5022,
+      "members": 23429,
+      "mal_id": 60765
+    },
+    {
+      "title": "Kingdom 6th Season",
+      "score": 9.01,
+      "popularity": 5069,
+      "members": 22903,
+      "mal_id": 61517
+    },
+    {
+      "title": "Let's Play: Quest-darake no My Life",
+      "score": 6.2,
+      "popularity": 5248,
+      "members": 21153,
+      "mal_id": 61773
+    },
+    {
+      "title": "Alma-chan wa Kazoku ni Naritai",
+      "score": 7.12,
+      "popularity": 5441,
+      "members": 19248,
+      "mal_id": 60781
+    },
+    {
+      "title": "Digimon Beatbreak",
+      "score": 7.16,
+      "popularity": 5481,
+      "members": 18936,
+      "mal_id": 61269
+    },
+    {
+      "title": "Shuumatsu Touring",
+      "score": 6.82,
+      "popularity": 5609,
+      "members": 17757,
+      "mal_id": 61072
+    },
+    {
+      "title": "Egao no Taenai Shokuba desu.",
+      "score": 6.85,
+      "popularity": 5644,
+      "members": 17521,
+      "mal_id": 57859
+    },
+    {
+      "title": "Ao no Orchestra Season 2",
+      "score": 7.14,
+      "popularity": 6206,
+      "members": 13602,
+      "mal_id": 56877
+    },
+    {
+      "title": "Shabake",
+      "score": 6.22,
+      "popularity": 6671,
+      "members": 11469,
+      "mal_id": 60378
+    },
+    {
+      "title": "Debu to Love to Ayamachi to!",
+      "score": 6.23,
+      "popularity": 6765,
+      "members": 11033,
+      "mal_id": 57189
+    },
+    {
+      "title": "Ninja to Gokudou",
+      "score": 6.22,
+      "popularity": 6842,
+      "members": 10768,
+      "mal_id": 61067
+    },
+    {
+      "title": "Potion, Wagami wo Tasukeru",
+      "score": 5.31,
+      "popularity": 6957,
+      "members": 10380,
+      "mal_id": 62144
+    },
+    {
+      "title": "Heika Watashi wo Wasurete Kudasai",
+      "score": 5.74,
+      "popularity": 7735,
+      "members": 7917,
+      "mal_id": 62428
+    },
+    {
+      "title": "SI-VIS: The Sound of Heroes",
+      "score": 6.05,
+      "popularity": 8352,
+      "members": 6567,
+      "mal_id": 62126
+    },
+    {
+      "title": "Ganglion",
+      "score": 6,
+      "popularity": 8591,
+      "members": 6112,
+      "mal_id": 62378
+    },
+    {
+      "title": "Nohara Hiroshi: Hiru Meshi no Ryuugi",
+      "score": 6.18,
+      "popularity": 10799,
+      "members": 3165,
+      "mal_id": 61184
+    },
+    {
+      "title": "2200-nen Neko no Kuni Nippon",
+      "score": 5.55,
+      "popularity": 13369,
+      "members": 1476,
+      "mal_id": 62496
+    },
+    {
+      "title": "Hyakushou Kizoku 3rd Season",
+      "score": 6.49,
+      "popularity": 13633,
+      "members": 1374,
+      "mal_id": 60551
+    }
+  ],
+  "mean_score": 6.96,
+  "mean_popularity": 4399.3,
+  "total_anime": 231
+}
