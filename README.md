@@ -152,6 +152,17 @@ How anime ratings have evolved over time - the average MyAnimeList rating for ea
 
 ![Anime Rating Trend](assets/rating-trend.png)
 
+### ⭐ Anime Rating vs Popularity
+Discover the relationship between anime ratings and popularity. Find hidden gems (high rating, low popularity) and mainstream hits (high rating, high popularity)!
+
+![Anime Rating vs Popularity](assets/anime-rating-popularity-scatter.png)
+
+**What the quadrants reveal:**
+- **Top-Left**: Hidden gems - highly rated but less known
+- **Top-Right**: Mainstream hits - highly rated and very popular  
+- **Bottom-Right**: Popular but lower-rated anime
+- **Bottom-Left**: Less popular, lower-rated anime
+
 ### 🎭 Genre Trends Over Time (By Year)
 The top 10 most popular anime genres tracked annually - showing both absolute numbers and percentage of total production.
 
@@ -201,19 +212,6 @@ Scatter plot showing the relationship between studios' average ratings and their
 **Filtered View (10+ Anime):** Even more focused on major studios:
 
 ![Studio Scatter Filtered 10](assets/studio-scatter-filtered-10.png)
-
-### ⭐ Anime Rating vs Popularity
-Discover the relationship between anime ratings and popularity. Find hidden gems (high rating, low popularity) and mainstream hits (high rating, high popularity)!
-
-![Anime Rating vs Popularity](assets/anime-rating-popularity-scatter.png)
-
-**What the quadrants reveal:**
-- **Top-Left**: Hidden gems - highly rated but less known
-- **Top-Right**: Mainstream hits - highly rated and very popular  
-- **Bottom-Right**: Popular but lower-rated anime
-- **Bottom-Left**: Less popular, lower-rated anime
-
-The red line shows the mean rating, and the green line shows the mean popularity rank.
 
 > 💡 **Interactive versions** of all these graphs are available on the [Data page](https://anime.ate329.com/data.html)
 
