@@ -55,7 +55,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 790,
@@ -69,10 +70,10 @@
     "background": "",
     "episodes": 23,
     "score": 7.9,
-    "scored_by": 254093,
-    "rank": 878,
+    "scored_by": 254112,
+    "rank": 879,
     "popularity": 330,
-    "members": 700133,
+    "members": 700205,
     "favorites": 14588,
     "type": "TV",
     "status": "Finished Airing",
@@ -110,7 +111,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 710,
@@ -126,10 +128,10 @@
     "background": "The episodes of Rec are titled after movies featuring Audrey Hepburn, Onda's dream idol. The opening sequence also contains many glamour shots with Onda dunning Hepburn's famous costumes in various movies, such as the pipe-holding shot of Breakfast at Tiffany's and the afternoon dress with a flamboyant hat in My Fair Lady.",
     "episodes": 9,
     "score": 7.26,
-    "scored_by": 59273,
+    "scored_by": 59274,
     "rank": 3162,
-    "popularity": 2103,
-    "members": 116935,
+    "popularity": 2104,
+    "members": 116938,
     "favorites": 324,
     "type": "TV",
     "status": "Finished Airing",
@@ -167,7 +169,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 587,
@@ -183,11 +186,11 @@
     "background": "",
     "episodes": 6,
     "score": 7.44,
-    "scored_by": 49912,
-    "rank": 2268,
+    "scored_by": 49914,
+    "rank": 2269,
     "popularity": 2261,
-    "members": 104369,
-    "favorites": 494,
+    "members": 104368,
+    "favorites": 495,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -219,7 +222,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 586,
@@ -233,11 +237,11 @@
     "background": "Ayakashi: Japanese Classic Horror aired on Fuji Television's noitaminA block.",
     "episodes": 11,
     "score": 7.37,
-    "scored_by": 27881,
+    "scored_by": 27885,
     "rank": 2587,
     "popularity": 2600,
-    "members": 84038,
-    "favorites": 307,
+    "members": 84051,
+    "favorites": 308,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -279,7 +283,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 558,
@@ -293,10 +298,10 @@
     "background": "",
     "episodes": 26,
     "score": 8.17,
-    "scored_by": 47407,
+    "scored_by": 47406,
     "rank": 460,
     "popularity": 2760,
-    "members": 75855,
+    "members": 75860,
     "favorites": 310,
     "type": "TV",
     "status": "Finished Airing",
@@ -330,7 +335,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 886,
@@ -347,10 +353,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.62,
-    "scored_by": 27412,
-    "rank": 6589,
+    "scored_by": 27413,
+    "rank": 6588,
     "popularity": 3338,
-    "members": 53894,
+    "members": 53896,
     "favorites": 43,
     "type": "TV",
     "status": "Finished Airing",
@@ -386,7 +392,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 667,
@@ -402,11 +409,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.61,
-    "scored_by": 24609,
-    "rank": 6635,
+    "scored_by": 24612,
+    "rank": 6632,
     "popularity": 3341,
-    "members": 53859,
-    "favorites": 186,
+    "members": 53865,
+    "favorites": 187,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -443,7 +450,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 576,
@@ -498,7 +506,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 590,
@@ -514,10 +523,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.56,
-    "scored_by": 12339,
-    "rank": 6963,
+    "scored_by": 12343,
+    "rank": 6961,
     "popularity": 4682,
-    "members": 27813,
+    "members": 27817,
     "favorites": 27,
     "type": "TV",
     "status": "Finished Airing",
@@ -550,7 +559,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 750,
@@ -567,9 +577,9 @@
     "episodes": 12,
     "score": 7.13,
     "scored_by": 5771,
-    "rank": 3884,
+    "rank": 3883,
     "popularity": 5748,
-    "members": 16635,
+    "members": 16639,
     "favorites": 156,
     "type": "TV",
     "status": "Finished Airing",
@@ -604,7 +614,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 798,
@@ -655,7 +666,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1534,
@@ -669,10 +681,10 @@
     "background": "",
     "episodes": 49,
     "score": 7.19,
-    "scored_by": 6545,
-    "rank": 3560,
+    "scored_by": 6546,
+    "rank": 3561,
     "popularity": 5827,
-    "members": 16006,
+    "members": 16008,
     "favorites": 89,
     "type": "TV",
     "status": "Finished Airing",
@@ -703,7 +715,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 817,
@@ -755,7 +768,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1655,
@@ -773,8 +787,8 @@
     "episodes": 12,
     "score": 7.26,
     "scored_by": 3955,
-    "rank": 3155,
-    "popularity": 7098,
+    "rank": 3154,
+    "popularity": 7100,
     "members": 9869,
     "favorites": 73,
     "type": "TV",
@@ -808,7 +822,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 577,
@@ -828,7 +843,7 @@
     "score": 6.11,
     "scored_by": 3020,
     "rank": 9652,
-    "popularity": 7150,
+    "popularity": 7151,
     "members": 9707,
     "favorites": 18,
     "type": "TV",
@@ -862,7 +877,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 671,
@@ -877,7 +893,7 @@
     "episodes": 13,
     "score": 6.49,
     "scored_by": 3365,
-    "rank": 7359,
+    "rank": 7358,
     "popularity": 7213,
     "members": 9480,
     "favorites": 18,
@@ -908,7 +924,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 771,
@@ -924,10 +941,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.62,
-    "scored_by": 2708,
-    "rank": 6606,
-    "popularity": 7557,
-    "members": 8434,
+    "scored_by": 2709,
+    "rank": 6605,
+    "popularity": 7558,
+    "members": 8435,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -956,7 +973,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5968,
@@ -1007,7 +1025,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3737,
@@ -1022,8 +1041,8 @@
     "episodes": 13,
     "score": 6.85,
     "scored_by": 4062,
-    "rank": 5263,
-    "popularity": 8058,
+    "rank": 5266,
+    "popularity": 8060,
     "members": 7159,
     "favorites": 25,
     "type": "TV",
@@ -1054,7 +1073,8 @@
     "year": null,
     "season": null,
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3112,
@@ -1071,9 +1091,9 @@
     "episodes": 6,
     "score": 4.49,
     "scored_by": 1706,
-    "rank": 14224,
+    "rank": 14225,
     "popularity": 8901,
-    "members": 5620,
+    "members": 5621,
     "favorites": 7,
     "type": "TV",
     "status": "Finished Airing",
@@ -1105,7 +1125,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2285,
@@ -1124,9 +1145,9 @@
     "episodes": 40,
     "score": 6.38,
     "scored_by": 2472,
-    "rank": 8055,
-    "popularity": 9102,
-    "members": 5280,
+    "rank": 8057,
+    "popularity": 9106,
+    "members": 5279,
     "favorites": 19,
     "type": "TV",
     "status": "Finished Airing",
@@ -1159,7 +1180,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 4823,
@@ -1178,9 +1200,9 @@
     "episodes": 26,
     "score": 5.95,
     "scored_by": 1359,
-    "rank": 10524,
-    "popularity": 9553,
-    "members": 4600,
+    "rank": 10527,
+    "popularity": 9552,
+    "members": 4601,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -1213,7 +1235,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2244,
@@ -1263,7 +1286,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4563,
@@ -1310,7 +1334,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 4101,
@@ -1363,7 +1388,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 2232,
@@ -1378,8 +1404,8 @@
     "episodes": 12,
     "score": 4.91,
     "scored_by": 635,
-    "rank": 13857,
-    "popularity": 13068,
+    "rank": 13858,
+    "popularity": 13069,
     "members": 1612,
     "favorites": 5,
     "type": "TV",
@@ -1406,7 +1432,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3769,
@@ -1458,7 +1485,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 27451,
@@ -1473,7 +1501,7 @@
     "episodes": 52,
     "score": 5.95,
     "scored_by": 273,
-    "rank": 10505,
+    "rank": 10507,
     "popularity": 16236,
     "members": 701,
     "favorites": 0,
@@ -1499,7 +1527,8 @@
     "year": 2006,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": true
   },
   {
     "mal_id": 9822,
@@ -1518,8 +1547,8 @@
     "episodes": 26,
     "score": 6.04,
     "scored_by": 166,
-    "rank": 10048,
-    "popularity": 16427,
+    "rank": 10052,
+    "popularity": 16438,
     "members": 671,
     "favorites": 3,
     "type": "TV",
@@ -1546,594 +1575,7 @@
     "year": null,
     "season": null,
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 33670,
-    "title": "Xingji Biaoche Wang",
-    "title_english": "Galaxy Racers",
-    "title_japanese": null,
-    "title_synonyms": [
-      "星际飚车王"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/80957l.jpg",
-    "trailer_url": null,
-    "synopsis": "Set in the future on the Yellow River Planet, the realm of car racing has advanced beyond Formula One   -   into the domain of the Galaxy Racers. Riders steer their simulator-racers which remotely control the actual customized speedsters hurtling around a track.\n\nThe hero, a teenager named Roy, was born to race and aspires to be the King of Galaxy Racers. But his guardian, his grandfather, sees a threat from and great danger in the evil and greedy Taz, the CEO of the Titan Space Navigation Auto Group which seeks to swallow or destroy all competitors, and whose Mosha Racing Team would just as ruthlessly run over and crush Roy under its thundering wheels. He arranges for him to join the good guys in the Matela Racing Team to race for the highest honors.\n\nMany years ago, Ray’s father, Dr Renault, worked for the Titan Group and he invented the Galaxy Racers but he was against CEO Taz’s destructive greed. He tries to escape   -   and disappears! Monopolizing the technology and construction of the Racers, Taz, the Titan Group and Mosha Racing Team swallowed, crushed and beat all rival companies, racers and teams.\n\nDesperately, Ray’s grandfather uses a secret design hidden by Dr Renault from Taz and builds for him a superior racer, The Lion King. But he has first to learn the skills and garner experience from racing at the highest levels. To acquire these qualities plus humility and resilience, he relies on his Matela friends who have their own cool cars, to help him. But arrayed against them are the Mosha baddies and their menacing machines.\n\nIn a series of hair-raising and nail-biting races with thrills &amp; spills, growling engines, screeching wheels, burning rubber, smashing metal against metal, intense bitter rivalry, persevering friendships &amp; loyalties forged in grueling teamwork and battle, Ray and Team Matela must conquer their fears and overcome the arrogant and powerful Team Mosha which uses cheating as a winning strategy.\n\nWill justice prevail or evil triumph? Find out on The Galaxy Racers on a track near you!\n\n(Source: CHINAnimax)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16647,
-    "popularity": 17702,
-    "members": 519,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "themes": [
-      "Racing"
-    ],
-    "demographics": [],
-    "aired_from": "2006-02-01T00:00:00+00:00",
-    "aired_to": "2006-06-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/33670/Xingji_Biaoche_Wang",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 34358,
-    "title": "Ocha-ken: Hotto Monogatari",
-    "title_english": null,
-    "title_japanese": "お茶犬〜「ほっ」とものがたり〜",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/6/82770l.jpg",
-    "trailer_url": null,
-    "synopsis": "The second Ocha-ken series features the Tea Dogs interacting with humans.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19205,
-    "popularity": 17955,
-    "members": 497,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [],
-    "producers": [
-      "Four Some"
-    ],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-01-16T00:00:00+00:00",
-    "aired_to": "2006-04-10T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/34358/Ocha-ken__Hotto_Monogatari",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 27453,
-    "title": "Pororo-wa Noraehaeyo",
-    "title_english": "Sing-A-Long with Pororo",
-    "title_japanese": "뽀로로와 노래해요",
-    "title_synonyms": [
-      "Pororo-wa Nolaehaeyo"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1407/150722l.jpg",
-    "trailer_url": null,
-    "synopsis": "Sing-A-Long with Pororo and his friends. The series features both stage singing and in-story singing similar to that of Disney films.",
-    "background": "",
-    "episodes": 13,
-    "score": 5.65,
-    "scored_by": 157,
-    "rank": 12031,
-    "popularity": 19066,
-    "members": 411,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Music",
-      "Performing Arts"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/27453/Pororo-wa_Noraehaeyo",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44167,
-    "title": "Meng Li Ren",
-    "title_english": "The Dreaming Girl",
-    "title_japanese": "夢裡人",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1775/118017l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18575,
-    "popularity": 19087,
-    "members": 410,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Drama"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2005-12-12T00:00:00+00:00",
-    "aired_to": "2006-01-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44167/Meng_Li_Ren",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 19325,
-    "title": "Kwaegeol Longman Narongi",
-    "title_english": null,
-    "title_japanese": "쾌걸롱맨 나롱이",
-    "title_synonyms": [
-      "Nalong 2",
-      "Longman: The Little Big Hero",
-      "Kaiketsu: Longman Nalong"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/8/51823l.jpg",
-    "trailer_url": null,
-    "synopsis": "Someone is out to conquer Lulu forest and it's up to the Nalong and his friends to to figure out who and stop them! When Nalong's girlfriend Ukkya is taken by force and Longman is zapped by a laser beam resulting in an unfavorable transformation--Nalong has more on his plate than he can handle!",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 18121,
-    "popularity": 19924,
-    "members": 351,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Studio Kaab"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-01-01T00:00:00+00:00",
-    "aired_to": "2007-03-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/19325/Kwaegeol_Longman_Narongi",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 30060,
-    "title": "Chi Jian Chuanqi",
-    "title_english": "Crimson Sword Quest",
-    "title_japanese": "赤剑传奇",
-    "title_synonyms": [
-      "Chi Jian Chuan Qi"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1218/111275l.jpg",
-    "trailer_url": null,
-    "synopsis": "A Chinese CGI series.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20620,
-    "popularity": 20632,
-    "members": 305,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "20 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2006-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/30060/Chi_Jian_Chuanqi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52369,
-    "title": "Lao Fu Zi: Mojie Meng Zhanji",
-    "title_english": "Old Master Q Series 1: Fantasy Zone Battle",
-    "title_japanese": "老夫子之魔界夢戰記",
-    "title_synonyms": [
-      "老夫子魔界夢戰記 I",
-      "Old Master Q Fantasy Zone Battle I"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1362/125319l.jpg",
-    "trailer_url": null,
-    "synopsis": "Old Master Q, Big Potato, and Mr. Chin transport into various classic storyworlds to rescue their father and save the story from being ruined by the Devil King.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 18165,
-    "popularity": 23242,
-    "members": 175,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "G - All Ages",
-    "source": "4-koma manga",
-    "studios": [
-      "Puzzle Animation Studio Limited"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2006-01-03T00:00:00+00:00",
-    "aired_to": "2006-01-18T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/52369/Lao_Fu_Zi__Mojie_Meng_Zhanji",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 53910,
-    "title": "Minami no Shima no Chiisana Hikouki Birdy",
-    "title_english": null,
-    "title_japanese": "南の島の小さな飛行機 バーディー",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1085/131960l.jpg",
-    "trailer_url": null,
-    "synopsis": "This is Bird Paradise Island, a small island in the southern sea.\nBirdie is a newcomer and small plane that has been working at Bird Paradise Airport on this island for two years. Aiming to become the first airplane someday, he is working day and night on sightseeing flights with his rival Philip, a small helicopter, and his good friend, Annie, a goldfish-shaped helicopter. A small airplane, Birdy, and his funny and unique friends fly fast!",
-    "background": "",
-    "episodes": 105,
-    "score": null,
-    "scored_by": null,
-    "rank": 18690,
-    "popularity": 23569,
-    "members": 164,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Studio Deen"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2005-12-26T00:00:00+00:00",
-    "aired_to": "2007-04-02T00:00:00+00:00",
-    "broadcast": "Saturdays at 17:50 (JST)",
-    "url": "https://myanimelist.net/anime/53910/Minami_no_Shima_no_Chiisana_Hikouki_Birdy",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 54868,
-    "title": "Kin-Q Kids☆Otasu K-tai",
-    "title_english": null,
-    "title_japanese": "Kin-Qキッズ☆おたすK隊",
-    "title_synonyms": [
-      "Kinkyuu-Kids Otasuke-tai"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1122/134799l.jpg",
-    "trailer_url": null,
-    "synopsis": "An educational series to teach children safety measures against kidnapping, burglary, and other crime.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 17856,
-    "popularity": 25782,
-    "members": 112,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Kids Station"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Educational"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-02-01T00:00:00+00:00",
-    "aired_to": "2006-04-19T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/54868/Kin-Q_Kids☆Otasu_K-tai",
-    "year": 2006,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44737,
-    "title": "Fan Dou Tianting II",
-    "title_english": null,
-    "title_japanese": "反斗天庭 Ⅱ",
-    "title_synonyms": [
-      "Fan Dou Tianting 2nd Season",
-      "Fan Dou Tianting: Tezhong Budui",
-      "反斗天庭之特种部队"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1589/124046l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 10,
-    "score": null,
-    "scored_by": null,
-    "rank": 21288,
-    "popularity": 27013,
-    "members": 94,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "26 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [],
-    "aired_from": "2006-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44737/Fan_Dou_Tianting_II",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44373,
-    "title": "Zhongguo Nanhai: Hong Zhanhui",
-    "title_english": null,
-    "title_japanese": "中国男孩洪战辉",
-    "title_synonyms": [
-      "China Boy: Hong Zhanhui"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1288/123087l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 17149,
-    "popularity": 27647,
-    "members": 87,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-03-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44373/Zhongguo_Nanhai__Hong_Zhanhui",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45903,
-    "title": "Youji Shen Bing",
-    "title_english": null,
-    "title_japanese": "游击神兵",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1498/127876l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 156,
-    "score": null,
-    "scored_by": null,
-    "rank": 16936,
-    "popularity": 27908,
-    "members": 85,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-01-19T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45903/Youji_Shen_Bing",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45907,
-    "title": "Mao Er Shan de Guizi Bing",
-    "title_english": null,
-    "title_japanese": "帽儿山的鬼子兵",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1982/127874l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 36,
-    "score": null,
-    "scored_by": null,
-    "rank": 18449,
-    "popularity": 27965,
-    "members": 84,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-02-04T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45907/Mao_Er_Shan_de_Guizi_Bing",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   }
 ]

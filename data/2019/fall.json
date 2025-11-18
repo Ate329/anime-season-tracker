@@ -11,11 +11,11 @@
     "background": "",
     "episodes": 25,
     "score": 7.86,
-    "scored_by": 1161199,
+    "scored_by": 1161331,
     "rank": 947,
     "popularity": 53,
-    "members": 1859480,
-    "favorites": 8146,
+    "members": 1859679,
+    "favorites": 8145,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -54,7 +54,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39195,
@@ -68,10 +69,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.79,
-    "scored_by": 584633,
+    "scored_by": 584684,
     "rank": 1116,
     "popularity": 203,
-    "members": 938992,
+    "members": 939067,
     "favorites": 10297,
     "type": "TV",
     "status": "Finished Airing",
@@ -116,7 +117,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 39597,
@@ -179,7 +181,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39701,
@@ -193,10 +196,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.47,
-    "scored_by": 446387,
-    "rank": 7535,
+    "scored_by": 446423,
+    "rank": 7531,
     "popularity": 285,
-    "members": 780867,
+    "members": 780926,
     "favorites": 1392,
     "type": "TV",
     "status": "Finished Airing",
@@ -226,7 +229,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38659,
@@ -242,10 +246,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.47,
-    "scored_by": 390060,
+    "scored_by": 390119,
     "rank": 2174,
     "popularity": 345,
-    "members": 679910,
+    "members": 680006,
     "favorites": 2394,
     "type": "TV",
     "status": "Finished Airing",
@@ -284,7 +288,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39940,
@@ -341,7 +346,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39196,
@@ -355,10 +361,10 @@
     "background": "",
     "episodes": 23,
     "score": 7.74,
-    "scored_by": 287221,
-    "rank": 1250,
+    "scored_by": 287254,
+    "rank": 1249,
     "popularity": 445,
-    "members": 547533,
+    "members": 547603,
     "favorites": 4846,
     "type": "TV",
     "status": "Finished Airing",
@@ -392,7 +398,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38483,
@@ -451,7 +458,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38572,
@@ -465,10 +473,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.92,
-    "scored_by": 182243,
-    "rank": 10712,
+    "scored_by": 182255,
+    "rank": 10710,
     "popularity": 727,
-    "members": 366105,
+    "members": 366124,
     "favorites": 786,
     "type": "TV",
     "status": "Finished Airing",
@@ -507,7 +515,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39468,
@@ -521,10 +530,10 @@
     "background": "",
     "episodes": 14,
     "score": 7.97,
-    "scored_by": 182573,
+    "scored_by": 182603,
     "rank": 746,
     "popularity": 749,
-    "members": 354959,
+    "members": 355010,
     "favorites": 3313,
     "type": "TV",
     "status": "Finished Airing",
@@ -569,7 +578,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40004,
@@ -588,10 +598,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.33,
-    "scored_by": 180562,
+    "scored_by": 180571,
     "rank": 2792,
     "popularity": 852,
-    "members": 320529,
+    "members": 320547,
     "favorites": 740,
     "type": "TV",
     "status": "Finished Airing",
@@ -633,7 +643,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38084,
@@ -647,11 +658,11 @@
     "background": "Fate/Grand Order: Zettai Majuu Sensen Babylonia adapts the 7th chapter of the mobile game Fate/Grand Order.",
     "episodes": 21,
     "score": 7.94,
-    "scored_by": 144647,
+    "scored_by": 144660,
     "rank": 790,
     "popularity": 896,
-    "members": 305828,
-    "favorites": 2624,
+    "members": 305849,
+    "favorites": 2626,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -685,7 +696,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39523,
@@ -702,10 +714,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.36,
-    "scored_by": 151079,
-    "rank": 8142,
+    "scored_by": 151096,
+    "rank": 8143,
     "popularity": 913,
-    "members": 296753,
+    "members": 296780,
     "favorites": 568,
     "type": "TV",
     "status": "Finished Airing",
@@ -747,7 +759,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39491,
@@ -761,10 +774,10 @@
     "background": "",
     "episodes": 8,
     "score": 7.44,
-    "scored_by": 95588,
-    "rank": 2282,
+    "scored_by": 95597,
+    "rank": 2281,
     "popularity": 923,
-    "members": 291544,
+    "members": 291567,
     "favorites": 546,
     "type": "TV",
     "status": "Finished Airing",
@@ -805,7 +818,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37972,
@@ -858,7 +872,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39030,
@@ -916,7 +931,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37403,
@@ -930,10 +946,10 @@
     "background": "The airing time was Wednesdays 18:25 between October 2, 2019 - March 25, 2020. The airing time is changed to 17:55 beginning April 1, 2020.",
     "episodes": 50,
     "score": 7.26,
-    "scored_by": 93047,
+    "scored_by": 93052,
     "rank": 3118,
     "popularity": 1275,
-    "members": 211883,
+    "members": 211901,
     "favorites": 863,
     "type": "TV",
     "status": "Finished Airing",
@@ -972,7 +988,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37393,
@@ -988,10 +1005,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.74,
-    "scored_by": 106892,
+    "scored_by": 106900,
     "rank": 5829,
     "popularity": 1282,
-    "members": 210741,
+    "members": 210756,
     "favorites": 475,
     "type": "TV",
     "status": "Finished Airing",
@@ -1029,7 +1046,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39539,
@@ -1044,9 +1062,9 @@
     "episodes": 12,
     "score": 6.86,
     "scored_by": 78833,
-    "rank": 5230,
+    "rank": 5232,
     "popularity": 1311,
-    "members": 205973,
+    "members": 205979,
     "favorites": 340,
     "type": "TV",
     "status": "Finished Airing",
@@ -1086,7 +1104,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38889,
@@ -1103,11 +1122,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.42,
-    "scored_by": 104947,
+    "scored_by": 104969,
     "rank": 197,
     "popularity": 1365,
-    "members": 198020,
-    "favorites": 1823,
+    "members": 198049,
+    "favorites": 1822,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1148,7 +1167,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38328,
@@ -1164,10 +1184,10 @@
     "background": "The final two episodes were originally scheduled to broadcast on December 19 and December 26, 2019, but were delayed to March 13 and March 20, 2020, respectively.",
     "episodes": 12,
     "score": 6.29,
-    "scored_by": 65697,
+    "scored_by": 65702,
     "rank": 8593,
     "popularity": 1465,
-    "members": 182429,
+    "members": 182448,
     "favorites": 1032,
     "type": "TV",
     "status": "Finished Airing",
@@ -1207,7 +1227,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37525,
@@ -1221,11 +1242,11 @@
     "background": "The broadcast for episodes 1-8 was Mondays at 22:00 JST (Tokyo MX) (Aired from October to December 2019) The broadcast for episodes 9-12 was Tuesdays at 0:00 JST (BS11) (Aired in January 2020)",
     "episodes": 12,
     "score": 6.73,
-    "scored_by": 58308,
-    "rank": 5918,
+    "scored_by": 58312,
+    "rank": 5917,
     "popularity": 1589,
-    "members": 167499,
-    "favorites": 727,
+    "members": 167512,
+    "favorites": 726,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1260,7 +1281,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37379,
@@ -1276,10 +1298,10 @@
     "background": "",
     "episodes": 24,
     "score": 8.45,
-    "scored_by": 69307,
+    "scored_by": 69324,
     "rank": 177,
     "popularity": 1685,
-    "members": 154028,
+    "members": 154055,
     "favorites": 1668,
     "type": "TV",
     "status": "Finished Airing",
@@ -1320,7 +1342,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39570,
@@ -1336,10 +1359,10 @@
     "background": "",
     "episodes": 9,
     "score": 7.94,
-    "scored_by": 86992,
+    "scored_by": 86995,
     "rank": 791,
     "popularity": 1735,
-    "members": 148456,
+    "members": 148465,
     "favorites": 890,
     "type": "TV",
     "status": "Finished Airing",
@@ -1379,7 +1402,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39355,
@@ -1393,10 +1417,10 @@
     "background": "",
     "episodes": 21,
     "score": 7.56,
-    "scored_by": 47627,
+    "scored_by": 47625,
     "rank": 1805,
     "popularity": 2073,
-    "members": 118611,
+    "members": 118617,
     "favorites": 261,
     "type": "TV",
     "status": "Finished Airing",
@@ -1429,7 +1453,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39799,
@@ -1446,10 +1471,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.9,
-    "scored_by": 37939,
-    "rank": 10795,
+    "scored_by": 37940,
+    "rank": 10794,
     "popularity": 2247,
-    "members": 105166,
+    "members": 105174,
     "favorites": 169,
     "type": "TV",
     "status": "Finished Airing",
@@ -1498,7 +1523,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40351,
@@ -1516,10 +1542,10 @@
     "background": "The airing time was Sundays 18:00 between November 17, 2019 - September 27, 2020. The airing time is changed to Fridays 18:55 beginning October 9, 2020.",
     "episodes": 136,
     "score": 7.55,
-    "scored_by": 42944,
+    "scored_by": 42952,
     "rank": 1872,
-    "popularity": 2327,
-    "members": 100267,
+    "popularity": 2326,
+    "members": 100284,
     "favorites": 667,
     "type": "TV",
     "status": "Finished Airing",
@@ -1556,7 +1582,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 38161,
@@ -1573,10 +1600,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.89,
-    "scored_by": 26482,
-    "rank": 5055,
+    "scored_by": 26484,
+    "rank": 5054,
     "popularity": 2534,
-    "members": 86795,
+    "members": 86800,
     "favorites": 203,
     "type": "TV",
     "status": "Finished Airing",
@@ -1615,7 +1642,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36587,
@@ -1629,10 +1657,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.73,
-    "scored_by": 23709,
+    "scored_by": 23711,
     "rank": 5932,
     "popularity": 2824,
-    "members": 72835,
+    "members": 72842,
     "favorites": 82,
     "type": "TV",
     "status": "Finished Airing",
@@ -1666,7 +1694,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38276,
@@ -1682,10 +1711,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.71,
-    "scored_by": 22469,
-    "rank": 6041,
+    "scored_by": 22476,
+    "rank": 6039,
     "popularity": 3336,
-    "members": 53923,
+    "members": 53933,
     "favorites": 98,
     "type": "TV",
     "status": "Finished Airing",
@@ -1728,7 +1757,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39811,
@@ -1744,10 +1774,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.35,
-    "scored_by": 18530,
-    "rank": 8218,
+    "scored_by": 18531,
+    "rank": 8221,
     "popularity": 3420,
-    "members": 51852,
+    "members": 51856,
     "favorites": 47,
     "type": "TV",
     "status": "Finished Airing",
@@ -1787,7 +1817,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39567,
@@ -1801,10 +1832,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.09,
-    "scored_by": 16921,
-    "rank": 9755,
+    "scored_by": 16922,
+    "rank": 9753,
     "popularity": 3440,
-    "members": 51073,
+    "members": 51078,
     "favorites": 44,
     "type": "TV",
     "status": "Finished Airing",
@@ -1850,7 +1881,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38390,
@@ -1908,7 +1940,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40196,
@@ -1921,11 +1954,11 @@
     "synopsis": "On the vivid and glistening waters of the Kanda River, Jetters and their respective Shooters race together on their jet skis, speeding through the wind as they participate in Jet Races—\"the world's most intense aquatic sport!\"\n\nChasing her dream of becoming a professional Jet Racer like her mother, Rin Namiki transfers to Asakusa Girls' High School in Tokyo. There, she stumbles upon Misa Aoi, a first-year student like her. However, tensions arise when Rin and Misa find themselves competing in a race against Team Dress from the prestigious Musashino Girls' High School.\n\nAs a result of the race, Rin tries to join her school's Jet Racing club, only to discover that there is none. But, her resolve is unshaken, and she decides to recruit Misa and three other girls to create her very own team: \"Kandagawa Jet Girls.\" With her heart set on winning the annual Kandagawa Cup, Rin, alongside her team, approaches the grandest stage of them all.\n\n[Written by MAL Rewrite]",
     "background": "",
     "episodes": 12,
-    "score": 5.76,
-    "scored_by": 14617,
-    "rank": 11529,
+    "score": 5.75,
+    "scored_by": 14619,
+    "rank": 11582,
     "popularity": 3583,
-    "members": 47603,
+    "members": 47608,
     "favorites": 61,
     "type": "TV",
     "status": "Finished Airing",
@@ -1963,7 +1996,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39959,
@@ -1980,10 +2014,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.68,
-    "scored_by": 21146,
+    "scored_by": 21148,
     "rank": 1400,
     "popularity": 3842,
-    "members": 42240,
+    "members": 42245,
     "favorites": 49,
     "type": "TV",
     "status": "Finished Airing",
@@ -2015,7 +2049,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38529,
@@ -2030,9 +2065,9 @@
     "episodes": 12,
     "score": 6.21,
     "scored_by": 12575,
-    "rank": 9056,
+    "rank": 9054,
     "popularity": 3865,
-    "members": 41699,
+    "members": 41703,
     "favorites": 45,
     "type": "TV",
     "status": "Finished Airing",
@@ -2070,7 +2105,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38331,
@@ -2084,10 +2120,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.79,
-    "scored_by": 7646,
-    "rank": 11406,
+    "scored_by": 7648,
+    "rank": 11403,
     "popularity": 4561,
-    "members": 29402,
+    "members": 29404,
     "favorites": 91,
     "type": "TV",
     "status": "Finished Airing",
@@ -2130,7 +2166,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39590,
@@ -2147,10 +2184,10 @@
     "background": "Africa no Salaryman was originally serialized online on pixiv Comic beginning in December, 2014. Media Factory has since compiled its chapters into four tankoubon volumes. In June of 2017, an ONA streamed on Production I.G.'s Tate Anime (since renamed Anime Beans) before the production of a television anime series.",
     "episodes": 12,
     "score": 6.54,
-    "scored_by": 10194,
-    "rank": 7044,
-    "popularity": 4604,
-    "members": 28716,
+    "scored_by": 10195,
+    "rank": 7041,
+    "popularity": 4603,
+    "members": 28719,
     "favorites": 71,
     "type": "TV",
     "status": "Finished Airing",
@@ -2190,7 +2227,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39506,
@@ -2204,10 +2242,10 @@
     "background": "",
     "episodes": 25,
     "score": 6.5,
-    "scored_by": 7247,
-    "rank": 7344,
-    "popularity": 4654,
-    "members": 28107,
+    "scored_by": 7248,
+    "rank": 7342,
+    "popularity": 4655,
+    "members": 28110,
     "favorites": 41,
     "type": "TV",
     "status": "Finished Airing",
@@ -2247,7 +2285,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38670,
@@ -2261,10 +2300,10 @@
     "background": "Actors: Songs Connection is a collaboration between VOCALOID and voice actors with EXIT TUNES, producing many of the songs featured in the show. The series was released on Blu-ray by Funimation on November 3, 2020.",
     "episodes": 12,
     "score": 6.3,
-    "scored_by": 6093,
+    "scored_by": 6094,
     "rank": 8503,
-    "popularity": 5362,
-    "members": 20010,
+    "popularity": 5363,
+    "members": 20011,
     "favorites": 82,
     "type": "TV",
     "status": "Finished Airing",
@@ -2300,7 +2339,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 40228,
@@ -2314,10 +2354,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.62,
-    "scored_by": 9168,
-    "rank": 6592,
+    "scored_by": 9169,
+    "rank": 6591,
     "popularity": 5622,
-    "members": 17687,
+    "members": 17690,
     "favorites": 48,
     "type": "TV",
     "status": "Finished Airing",
@@ -2350,57 +2390,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 37268,
-    "title": "Z/X: Code Reunion",
-    "title_english": null,
-    "title_japanese": "Z/X Code Reunion",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1077/111410l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/wbWYOcnvdb8?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "The signing of a peace treaty has secured a tenuous ceasefire between mankind and the Zex, beings who emerged from space/time rifts connected to mysterious, distant worlds. Partnered with a Zex named Rigel, Azumi Kakamigahara must shoulder the fate of her own idyllic world. The unlikely pair head to newly established Fujimisaki Academy, where their destinies await.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 12,
-    "score": 5.81,
-    "scored_by": 3933,
-    "rank": 11268,
-    "popularity": 5960,
-    "members": 15091,
-    "favorites": 24,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Card game",
-    "studios": [
-      "Passione"
-    ],
-    "producers": [
-      "Broccoli"
-    ],
-    "licensors": [
-      "Sentai Filmworks"
-    ],
-    "genres": [
-      "Fantasy",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "School"
-    ],
-    "demographics": [],
-    "aired_from": "2019-10-08T00:00:00+00:00",
-    "aired_to": "2019-12-24T00:00:00+00:00",
-    "broadcast": "Tuesdays at 23:00 (JST)",
-    "url": "https://myanimelist.net/anime/37268/Z_X__Code_Reunion",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 39194,
@@ -2415,9 +2406,9 @@
     "synopsis": "After passing the Guangzhou Special Chef Trials, Mao decided to travel around China, to learn more about the unique preparation of food. Upon his return, he will learn that the real battle has only just begun. The Underground Cooking Society has already begun to move... \n\n(Source: MU)",
     "background": "",
     "episodes": 12,
-    "score": 6.45,
-    "scored_by": 4390,
-    "rank": 7653,
+    "score": 6.44,
+    "scored_by": 4391,
+    "rank": 7667,
     "popularity": 6348,
     "members": 12842,
     "favorites": 15,
@@ -2455,7 +2446,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40320,
@@ -2506,7 +2498,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40266,
@@ -2520,9 +2513,9 @@
     "background": "",
     "episodes": 25,
     "score": 7.05,
-    "scored_by": 2684,
+    "scored_by": 2685,
     "rank": 4272,
-    "popularity": 8001,
+    "popularity": 8002,
     "members": 7287,
     "favorites": 33,
     "type": "TV",
@@ -2555,7 +2548,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40197,
@@ -2602,7 +2596,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40166,
@@ -2617,9 +2612,9 @@
     "episodes": 50,
     "score": 5.96,
     "scored_by": 790,
-    "rank": 10452,
+    "rank": 10451,
     "popularity": 9175,
-    "members": 5195,
+    "members": 5196,
     "favorites": 12,
     "type": "TV",
     "status": "Finished Airing",
@@ -2650,7 +2645,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39183,
@@ -2699,58 +2695,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 40367,
-    "title": "Go! Go! Atom",
-    "title_english": "Go Astro Boy Go!",
-    "title_japanese": "GO!GO!アトム",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1793/107568l.jpg",
-    "trailer_url": null,
-    "synopsis": "The eco-systems of planet Earth are endangered. Lucky for us, a super-powered robot boy is flying to rescue! astro in on a mission to help anyone anywhere in the world with a problem involving natural phenomena. Go little Astro Boy! GO! \n\n(Source: Planet Nemo)",
-    "background": "",
-    "episodes": 52,
-    "score": 5.85,
-    "scored_by": 273,
-    "rank": 11052,
-    "popularity": 13913,
-    "members": 1279,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Manga",
-    "studios": [
-      "Tezuka Productions",
-      "Planet Nemo Animation"
-    ],
-    "producers": [
-      "TV Tokyo"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Drama",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-03T00:00:00+00:00",
-    "aired_to": "2020-10-01T00:00:00+00:00",
-    "broadcast": "Thursdays at 18:10 (JST)",
-    "url": "https://myanimelist.net/anime/40367/Go_Go_Atom",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 40423,
@@ -2768,7 +2714,7 @@
     "score": null,
     "scored_by": null,
     "rank": 15469,
-    "popularity": 16007,
+    "popularity": 16004,
     "members": 739,
     "favorites": 2,
     "type": "TV",
@@ -2800,7 +2746,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40487,
@@ -2842,100 +2789,8 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 40368,
-    "title": "Egg Car",
-    "title_english": null,
-    "title_japanese": "EGG CAR エッグカー",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1750/102905l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21233,
-    "popularity": 19455,
-    "members": 380,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-03T00:00:00+00:00",
-    "aired_to": "2020-10-01T00:00:00+00:00",
-    "broadcast": "Thursdays at 18:10 (JST)",
-    "url": "https://myanimelist.net/anime/40368/Egg_Car",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 39628,
-    "title": "Kaijuu Step Wandabada",
-    "title_english": null,
-    "title_japanese": "かいじゅうステップ ワンダバダ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1412/119286l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/ILCA-TDAF2Q?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Anime based on the picture book Kaijuu Step, which features monsters from Ultraman series",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17623,
-    "popularity": 19459,
-    "members": 380,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Picture book",
-    "studios": [
-      "Usagi Ou"
-    ],
-    "producers": [
-      "Tsuburaya Productions",
-      "NHK Enterprises"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-09-27T00:00:00+00:00",
-    "aired_to": "2020-03-27T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/39628/Kaijuu_Step_Wandabada",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40832,
@@ -2953,8 +2808,8 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 18895,
-    "popularity": 19478,
+    "rank": 18896,
+    "popularity": 19481,
     "members": 379,
     "favorites": 0,
     "type": "TV",
@@ -2986,811 +2841,7 @@
     "year": 2019,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41635,
-    "title": "Zhu Zhu Xia: Jing Su Xiao Yingxiong",
-    "title_english": "GG Bond Season 16: Racing",
-    "title_japanese": "猪猪侠 竞速小英雄",
-    "title_synonyms": [
-      "GG Bond 16"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1653/106924l.jpg",
-    "trailer_url": null,
-    "synopsis": "GG Bond is separated from his friends and lands in an unfamiliar part of the universe. He will have to rejoin his teammates and take part in speed races to find his way home. This season has 4 arcs, each arc is composed of 26 episodes.\n\n(Source: videoageinternational.net)",
-    "background": "",
-    "episodes": 104,
-    "score": null,
-    "scored_by": null,
-    "rank": 17196,
-    "popularity": 20507,
-    "members": 314,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Racing",
-      "Space",
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-25T00:00:00+00:00",
-    "aired_to": "2019-12-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/41635/Zhu_Zhu_Xia__Jing_Su_Xiao_Yingxiong",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 40455,
-    "title": "Sylvanian Families: Mini Story - Clover",
-    "title_english": "Calico Critters: Mini Episodes - Clover",
-    "title_japanese": "シルバニアファミリー ミニストーリー クローバー",
-    "title_synonyms": [
-      "Sylvanian Families: Mini Episodes - Clover",
-      "Sylvanian Families: Mini Story 3rd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1090/127712l.jpg",
-    "trailer_url": null,
-    "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families.\n\n(Source: ANN)",
-    "background": "Based on the Sylvanian Families animal toy line.",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 15445,
-    "popularity": 21186,
-    "members": 276,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-03T00:00:00+00:00",
-    "aired_to": "2019-12-19T00:00:00+00:00",
-    "broadcast": "Thursdays at 19:26 (JST)",
-    "url": "https://myanimelist.net/anime/40455/Sylvanian_Families__Mini_Story_-_Clover",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48762,
-    "title": "Bbasha Mecard S",
-    "title_english": null,
-    "title_japanese": "빠샤메카드 S",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1145/114451l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20232,
-    "popularity": 21554,
-    "members": 256,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha",
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-02T00:00:00+00:00",
-    "aired_to": "2020-04-07T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48762/Bbasha_Mecard_S",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 40589,
-    "title": "ColoColo Animal ABC@Kin Tele",
-    "title_english": null,
-    "title_japanese": "コロコロアニマルABC@きんてれ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1242/103593l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 20774,
-    "popularity": 22695,
-    "members": 197,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Milky Cartoon"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-11T00:00:00+00:00",
-    "aired_to": "2020-01-10T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/40589/ColoColo_Animal_ABCKin_Tele",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48257,
-    "title": "Sup Sog Chingu Seutonijeu",
-    "title_english": "Stonyz",
-    "title_japanese": "숲 속 친구 스토니즈",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1762/115556l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 15421,
-    "popularity": 23334,
-    "members": 172,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-11-20T00:00:00+00:00",
-    "aired_to": "2020-02-13T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48257/Sup_Sog_Chingu_Seutonijeu",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48192,
-    "title": "Longlong Juggessji?",
-    "title_english": "Journey of Long",
-    "title_japanese": "롱롱 죽겠지?",
-    "title_synonyms": [
-      "Wouldn't it be Long?"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1268/125163l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18300,
-    "popularity": 24023,
-    "members": 150,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "7 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Studio Gale"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-09-28T00:00:00+00:00",
-    "aired_to": "2020-05-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48192/Longlong_Juggessji",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44136,
-    "title": "Xiong Chumo: Tanxian Riji 2",
-    "title_english": null,
-    "title_japanese": "熊出没之探险日记2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1866/122983l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16697,
-    "popularity": 24224,
-    "members": 143,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-12-11T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44136/Xiong_Chumo__Tanxian_Riji_2",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44137,
-    "title": "Xiong Chumo: Xiongxiong Leyuan 3",
-    "title_english": null,
-    "title_japanese": "熊出没之熊熊乐园3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1352/122984l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16707,
-    "popularity": 24319,
-    "members": 141,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-03T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44137/Xiong_Chumo__Xiongxiong_Leyuan_3",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44425,
-    "title": "Shaonian Shiye: Zhihui Si Lu",
-    "title_english": null,
-    "title_japanese": "少年师爷之智慧丝路",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1326/123111l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14851,
-    "popularity": 24922,
-    "members": 128,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-28T00:00:00+00:00",
-    "aired_to": "2019-11-04T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44425/Shaonian_Shiye__Zhihui_Si_Lu",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44426,
-    "title": "Shaonian Shiye: Jishan Yang Ming",
-    "title_english": null,
-    "title_japanese": "少年师爷之稽山阳明",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1747/123112l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14844,
-    "popularity": 24984,
-    "members": 127,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-11-04T00:00:00+00:00",
-    "aired_to": "2019-11-11T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44426/Shaonian_Shiye__Jishan_Yang_Ming",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48048,
-    "title": "Xiao Ma Fei Li: Binfen Xianjing",
-    "title_english": "Filly Funtasia",
-    "title_japanese": "小马菲莉之缤纷仙境",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1609/118320l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16384,
-    "popularity": 25104,
-    "members": 124,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-11-28T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48048/Xiao_Ma_Fei_Li__Binfen_Xianjing",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44300,
-    "title": "Gangtie Feilong 2: Long Hun Juexing",
-    "title_english": "Dragon Force 2: Dragonsoul Awakened",
-    "title_japanese": "钢铁飞龙2龙魂觉醒",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1057/123076l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21494,
-    "popularity": 26135,
-    "members": 107,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2019-11-09T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44300/Gangtie_Feilong_2__Long_Hun_Juexing",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47380,
-    "title": "Eomma Katuri (TV) 3rd Season",
-    "title_english": null,
-    "title_japanese": "엄마 까투리 시즌 3",
-    "title_synonyms": [
-      "Meng Ji Xiaodui 3rd Season",
-      "萌鸡小队 第3季"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1355/151230l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21261,
-    "popularity": 26596,
-    "members": 100,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "8 min per ep",
-    "rating": "PG - Children",
-    "source": "Book",
-    "studios": [
-      "Funny Flux"
-    ],
-    "producers": [
-      "Alpha Group"
-    ],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-11-25T00:00:00+00:00",
-    "aired_to": "2020-02-25T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47380/Eomma_Katuri_TV_3rd_Season",
-    "year": 2019,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47848,
-    "title": "Shenqi Budai Xiaozi",
-    "title_english": null,
-    "title_japanese": "神奇布袋小子",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1268/129333l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 14925,
-    "popularity": 27407,
-    "members": 89,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-10-28T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47848/Shenqi_Budai_Xiaozi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47831,
-    "title": "Xiao Liangmao: Bailu Guilai",
-    "title_english": null,
-    "title_japanese": "小凉帽之白鹭归来",
-    "title_synonyms": [
-      "Little Hakka"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1493/129318l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16378,
-    "popularity": 27707,
-    "members": 87,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-12-25T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47831/Xiao_Liangmao__Bailu_Guilai",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47853,
-    "title": "Xiongmao He Luta",
-    "title_english": null,
-    "title_japanese": "熊猫和卢塔",
-    "title_synonyms": [
-      "Panda and Rooster"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1673/129337l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16727,
-    "popularity": 27835,
-    "members": 85,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2019-12-18T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47853/Xiongmao_He_Luta",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47902,
-    "title": "Binfen Xiao Zhen",
-    "title_english": null,
-    "title_japanese": "缤纷小镇",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1309/130064l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20306,
-    "popularity": 27830,
-    "members": 85,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-11-15T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47902/Binfen_Xiao_Zhen",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47828,
-    "title": "Qi Qu Tegong Dui",
-    "title_english": null,
-    "title_japanese": "奇趣特工队",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1206/129315l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19650,
-    "popularity": 28461,
-    "members": 79,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "6 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2019-11-11T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47828/Qi_Qu_Tegong_Dui",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

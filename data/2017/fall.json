@@ -50,7 +50,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35788,
@@ -67,11 +68,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.97,
-    "scored_by": 622978,
+    "scored_by": 623008,
     "rank": 738,
-    "popularity": 174,
-    "members": 1027295,
-    "favorites": 2660,
+    "popularity": 175,
+    "members": 1027345,
+    "favorites": 2661,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -108,7 +109,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35062,
@@ -125,11 +127,11 @@
     "background": "",
     "episodes": 24,
     "score": 8.05,
-    "scored_by": 418423,
+    "scored_by": 418447,
     "rank": 625,
     "popularity": 180,
-    "members": 999709,
-    "favorites": 13216,
+    "members": 999794,
+    "favorites": 13215,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -168,7 +170,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34618,
@@ -182,10 +185,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.24,
-    "scored_by": 388091,
-    "rank": 3279,
+    "scored_by": 388116,
+    "rank": 3277,
     "popularity": 334,
-    "members": 694079,
+    "members": 694131,
     "favorites": 2994,
     "type": "TV",
     "status": "Finished Airing",
@@ -224,7 +227,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34542,
@@ -238,10 +242,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.63,
-    "scored_by": 332941,
-    "rank": 1544,
+    "scored_by": 332996,
+    "rank": 1543,
     "popularity": 337,
-    "members": 691825,
+    "members": 691930,
     "favorites": 4042,
     "type": "TV",
     "status": "Finished Airing",
@@ -281,7 +285,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35557,
@@ -297,11 +302,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.39,
-    "scored_by": 214895,
+    "scored_by": 214927,
     "rank": 219,
     "popularity": 491,
-    "members": 505978,
-    "favorites": 14698,
+    "members": 506028,
+    "favorites": 14699,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -345,7 +350,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36038,
@@ -362,10 +368,10 @@
     "background": "",
     "episodes": 10,
     "score": 7.51,
-    "scored_by": 263084,
+    "scored_by": 263098,
     "rank": 1995,
     "popularity": 497,
-    "members": 503140,
+    "members": 503182,
     "favorites": 2521,
     "type": "TV",
     "status": "Finished Airing",
@@ -405,7 +411,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34451,
@@ -421,10 +428,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.77,
-    "scored_by": 210206,
+    "scored_by": 210222,
     "rank": 1159,
     "popularity": 536,
-    "members": 468281,
+    "members": 468316,
     "favorites": 1792,
     "type": "TV",
     "status": "Finished Airing",
@@ -464,7 +471,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35180,
@@ -480,10 +488,10 @@
     "background": "",
     "episodes": 22,
     "score": 8.9,
-    "scored_by": 211823,
+    "scored_by": 211834,
     "rank": 23,
     "popularity": 596,
-    "members": 430916,
+    "members": 430940,
     "favorites": 15350,
     "type": "TV",
     "status": "Finished Airing",
@@ -523,7 +531,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35838,
@@ -539,11 +548,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.23,
-    "scored_by": 146170,
+    "scored_by": 146188,
     "rank": 382,
     "popularity": 680,
-    "members": 388383,
-    "favorites": 8292,
+    "members": 388452,
+    "favorites": 8291,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -580,7 +589,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35413,
@@ -596,10 +606,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.24,
-    "scored_by": 163860,
+    "scored_by": 163873,
     "rank": 3239,
     "popularity": 732,
-    "members": 363697,
+    "members": 363721,
     "favorites": 1872,
     "type": "TV",
     "status": "Finished Airing",
@@ -641,7 +651,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35639,
@@ -655,10 +666,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.22,
-    "scored_by": 134672,
+    "scored_by": 134683,
     "rank": 3389,
     "popularity": 806,
-    "members": 332990,
+    "members": 333010,
     "favorites": 1622,
     "type": "TV",
     "status": "Finished Airing",
@@ -698,7 +709,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 35076,
@@ -715,10 +727,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.53,
-    "scored_by": 147921,
+    "scored_by": 147931,
     "rank": 7134,
     "popularity": 895,
-    "members": 306170,
+    "members": 306214,
     "favorites": 731,
     "type": "TV",
     "status": "Finished Airing",
@@ -761,7 +773,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 35712,
@@ -778,10 +791,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.2,
-    "scored_by": 132855,
-    "rank": 9110,
+    "scored_by": 132866,
+    "rank": 9108,
     "popularity": 914,
-    "members": 296215,
+    "members": 296233,
     "favorites": 470,
     "type": "TV",
     "status": "Finished Airing",
@@ -826,7 +839,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35376,
@@ -843,10 +857,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.31,
-    "scored_by": 139363,
+    "scored_by": 139367,
     "rank": 2896,
     "popularity": 999,
-    "members": 272063,
+    "members": 272079,
     "favorites": 552,
     "type": "TV",
     "status": "Finished Airing",
@@ -889,7 +903,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36027,
@@ -905,10 +920,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.08,
-    "scored_by": 134082,
-    "rank": 13652,
-    "popularity": 1037,
-    "members": 263616,
+    "scored_by": 134089,
+    "rank": 13653,
+    "popularity": 1038,
+    "members": 263639,
     "favorites": 513,
     "type": "TV",
     "status": "Finished Airing",
@@ -955,7 +970,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36220,
@@ -1013,7 +1029,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34712,
@@ -1030,11 +1047,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.16,
-    "scored_by": 109998,
-    "rank": 3738,
+    "scored_by": 110005,
+    "rank": 3736,
     "popularity": 1112,
-    "members": 244759,
-    "favorites": 1064,
+    "members": 244780,
+    "favorites": 1066,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1072,7 +1089,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35484,
@@ -1086,10 +1104,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.96,
-    "scored_by": 110886,
-    "rank": 4716,
+    "scored_by": 110895,
+    "rank": 4715,
     "popularity": 1174,
-    "members": 233138,
+    "members": 233161,
     "favorites": 441,
     "type": "TV",
     "status": "Finished Airing",
@@ -1125,7 +1143,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 33478,
@@ -1142,10 +1161,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.9,
-    "scored_by": 89370,
-    "rank": 5019,
+    "scored_by": 89373,
+    "rank": 5016,
     "popularity": 1201,
-    "members": 228618,
+    "members": 228629,
     "favorites": 417,
     "type": "TV",
     "status": "Finished Airing",
@@ -1182,7 +1201,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35079,
@@ -1196,10 +1216,10 @@
     "background": "At a stage event at the Dengeki Bunko Festival 2017, it was announced that this new adaptation will prioritize the fan favorite stories. These were selected from a \"favorite country\" poll carried out among light novel readers in 2015.",
     "episodes": 12,
     "score": 7.61,
-    "scored_by": 88130,
-    "rank": 1631,
+    "scored_by": 88136,
+    "rank": 1630,
     "popularity": 1210,
-    "members": 226416,
+    "members": 226442,
     "favorites": 1202,
     "type": "TV",
     "status": "Finished Airing",
@@ -1236,7 +1256,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35843,
@@ -1250,10 +1271,10 @@
     "background": "",
     "episodes": 13,
     "score": 8.51,
-    "scored_by": 110546,
+    "scored_by": 110550,
     "rank": 149,
     "popularity": 1247,
-    "members": 218055,
+    "members": 218067,
     "favorites": 945,
     "type": "TV",
     "status": "Finished Airing",
@@ -1293,7 +1314,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35241,
@@ -1307,10 +1329,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.47,
-    "scored_by": 54168,
+    "scored_by": 54174,
     "rank": 2163,
     "popularity": 1605,
-    "members": 164892,
+    "members": 164909,
     "favorites": 676,
     "type": "TV",
     "status": "Finished Airing",
@@ -1358,7 +1380,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 32271,
@@ -1374,10 +1397,10 @@
     "background": "",
     "episodes": 11,
     "score": 5.39,
-    "scored_by": 44370,
+    "scored_by": 44374,
     "rank": 12959,
     "popularity": 1725,
-    "members": 149386,
+    "members": 149403,
     "favorites": 233,
     "type": "TV",
     "status": "Finished Airing",
@@ -1416,7 +1439,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 34973,
@@ -1432,10 +1456,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.58,
-    "scored_by": 61729,
-    "rank": 1737,
+    "scored_by": 61735,
+    "rank": 1736,
     "popularity": 2020,
-    "members": 122695,
+    "members": 122703,
     "favorites": 1146,
     "type": "TV",
     "status": "Finished Airing",
@@ -1472,7 +1496,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 31456,
@@ -1533,7 +1558,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36245,
@@ -1549,10 +1575,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.78,
-    "scored_by": 35316,
+    "scored_by": 35319,
     "rank": 11444,
     "popularity": 2594,
-    "members": 84397,
+    "members": 84401,
     "favorites": 116,
     "type": "TV",
     "status": "Finished Airing",
@@ -1586,7 +1612,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 35427,
@@ -1600,10 +1627,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.37,
-    "scored_by": 31361,
+    "scored_by": 31364,
     "rank": 8117,
     "popularity": 2651,
-    "members": 81093,
+    "members": 81119,
     "favorites": 131,
     "type": "TV",
     "status": "Finished Airing",
@@ -1640,7 +1667,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36144,
@@ -1655,9 +1683,9 @@
     "episodes": 24,
     "score": 7.12,
     "scored_by": 24725,
-    "rank": 3965,
+    "rank": 3966,
     "popularity": 2686,
-    "members": 79348,
+    "members": 79355,
     "favorites": 138,
     "type": "TV",
     "status": "Finished Airing",
@@ -1691,7 +1719,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35067,
@@ -1708,7 +1737,7 @@
     "scored_by": 23714,
     "rank": 1593,
     "popularity": 3216,
-    "members": 57380,
+    "members": 57383,
     "favorites": 244,
     "type": "TV",
     "status": "Finished Airing",
@@ -1747,7 +1776,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35075,
@@ -1764,10 +1794,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.87,
-    "scored_by": 20263,
+    "scored_by": 20267,
     "rank": 946,
-    "popularity": 3449,
-    "members": 50752,
+    "popularity": 3451,
+    "members": 50761,
     "favorites": 115,
     "type": "TV",
     "status": "Finished Airing",
@@ -1801,7 +1831,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35251,
@@ -1815,10 +1846,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.14,
-    "scored_by": 13943,
+    "scored_by": 13945,
     "rank": 9461,
-    "popularity": 3527,
-    "members": 48704,
+    "popularity": 3528,
+    "members": 48711,
     "favorites": 143,
     "type": "TV",
     "status": "Finished Airing",
@@ -1859,7 +1890,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34284,
@@ -1875,10 +1907,10 @@
     "background": "The first six episodes of the second season of TV anime \"Yuuki Yuuna wa Yuusha de Aru\" will adapt \"Washio Sumi wa Yuusha de Aru.\" Prior to the broadcast, the episodes are being screened theatrically as three movies.",
     "episodes": 6,
     "score": 7.67,
-    "scored_by": 17888,
+    "scored_by": 17892,
     "rank": 1431,
-    "popularity": 3553,
-    "members": 48234,
+    "popularity": 3554,
+    "members": 48243,
     "favorites": 196,
     "type": "TV",
     "status": "Finished Airing",
@@ -1916,7 +1948,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34445,
@@ -1930,10 +1963,10 @@
     "background": "",
     "episodes": 6,
     "score": 7.65,
-    "scored_by": 17477,
-    "rank": 1511,
-    "popularity": 3727,
-    "members": 44516,
+    "scored_by": 17480,
+    "rank": 1512,
+    "popularity": 3728,
+    "members": 44524,
     "favorites": 227,
     "type": "TV",
     "status": "Finished Airing",
@@ -1971,7 +2004,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36259,
@@ -2023,7 +2057,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 35250,
@@ -2079,7 +2114,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 36009,
@@ -2095,10 +2131,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.65,
-    "scored_by": 8619,
-    "rank": 12043,
+    "scored_by": 8620,
+    "rank": 12042,
     "popularity": 4927,
-    "members": 24697,
+    "members": 24700,
     "favorites": 28,
     "type": "TV",
     "status": "Finished Airing",
@@ -2136,7 +2172,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34915,
@@ -2188,7 +2225,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34474,
@@ -2202,10 +2240,10 @@
     "background": "Tsukipro is based off of a multi-media franchise under the same name by Movic (credited as Tukino Talent Productions). It is a collaboration project between popular Japanese voice actors and Vocaloid producers. The franchise has spawned multiple music CDs and drama tracks, as well as a mobile rhythm game, entertainment app, manga, online radio shows, 2.5D dance live shows and a live action movie. Tsukipro was created following the success of Tsukiuta., another project under the same company.",
     "episodes": 13,
     "score": 6.67,
-    "scored_by": 4744,
+    "scored_by": 4745,
     "rank": 6288,
-    "popularity": 5488,
-    "members": 18848,
+    "popularity": 5489,
+    "members": 18849,
     "favorites": 101,
     "type": "TV",
     "status": "Finished Airing",
@@ -2240,7 +2278,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 34522,
@@ -2257,10 +2296,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.55,
-    "scored_by": 4868,
+    "scored_by": 4870,
     "rank": 7024,
     "popularity": 5930,
-    "members": 15325,
+    "members": 15327,
     "favorites": 21,
     "type": "TV",
     "status": "Finished Airing",
@@ -2303,7 +2342,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 34411,
@@ -2317,10 +2357,10 @@
     "background": "",
     "episodes": 12,
     "score": 4.74,
-    "scored_by": 4134,
-    "rank": 14046,
+    "scored_by": 4135,
+    "rank": 14048,
     "popularity": 6231,
-    "members": 13467,
+    "members": 13469,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -2348,7 +2388,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 34903,
@@ -2365,10 +2406,10 @@
     "background": "",
     "episodes": 6,
     "score": 6.33,
-    "scored_by": 2884,
-    "rank": 8348,
+    "scored_by": 2885,
+    "rank": 8349,
     "popularity": 6316,
-    "members": 13020,
+    "members": 13021,
     "favorites": 15,
     "type": "TV",
     "status": "Finished Airing",
@@ -2397,7 +2438,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 34771,
@@ -2450,7 +2492,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35883,
@@ -2467,8 +2510,8 @@
     "episodes": 13,
     "score": 6.62,
     "scored_by": 3775,
-    "rank": 6596,
-    "popularity": 7051,
+    "rank": 6595,
+    "popularity": 7053,
     "members": 10037,
     "favorites": 9,
     "type": "TV",
@@ -2507,7 +2550,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36022,
@@ -2521,10 +2565,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.57,
-    "scored_by": 4293,
-    "rank": 6868,
-    "popularity": 7128,
-    "members": 9784,
+    "scored_by": 4292,
+    "rank": 6866,
+    "popularity": 7129,
+    "members": 9783,
     "favorites": 13,
     "type": "TV",
     "status": "Finished Airing",
@@ -2555,7 +2599,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 33027,
@@ -2569,10 +2614,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.44,
-    "scored_by": 2294,
-    "rank": 7706,
-    "popularity": 7308,
-    "members": 9188,
+    "scored_by": 2295,
+    "rank": 7710,
+    "popularity": 7307,
+    "members": 9189,
     "favorites": 7,
     "type": "TV",
     "status": "Finished Airing",
@@ -2621,7 +2666,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35334,
@@ -2672,7 +2718,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35923,
@@ -2692,7 +2739,7 @@
     "score": 4.76,
     "scored_by": 2264,
     "rank": 14018,
-    "popularity": 8683,
+    "popularity": 8685,
     "members": 5983,
     "favorites": 2,
     "type": "TV",
@@ -2721,7 +2768,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36288,
@@ -2735,10 +2783,10 @@
     "background": "",
     "episodes": 10,
     "score": 4.25,
-    "scored_by": 925,
-    "rank": 14299,
-    "popularity": 8746,
-    "members": 5912,
+    "scored_by": 926,
+    "rank": 14303,
+    "popularity": 8747,
+    "members": 5913,
     "favorites": 4,
     "type": "TV",
     "status": "Finished Airing",
@@ -2768,7 +2816,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35999,
@@ -2782,9 +2831,9 @@
     "background": "",
     "episodes": 12,
     "score": 4.95,
-    "scored_by": 397,
-    "rank": 13808,
-    "popularity": 9202,
+    "scored_by": 398,
+    "rank": 13810,
+    "popularity": 9203,
     "members": 5151,
     "favorites": 5,
     "type": "TV",
@@ -2815,7 +2864,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35818,
@@ -2832,8 +2882,8 @@
     "episodes": 12,
     "score": 4.86,
     "scored_by": 1942,
-    "rank": 13913,
-    "popularity": 9480,
+    "rank": 13915,
+    "popularity": 9482,
     "members": 4725,
     "favorites": 4,
     "type": "TV",
@@ -2866,7 +2916,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36166,
@@ -2880,10 +2931,10 @@
     "background": "",
     "episodes": 3,
     "score": 5.83,
-    "scored_by": 1493,
-    "rank": 11200,
-    "popularity": 9936,
-    "members": 4096,
+    "scored_by": 1497,
+    "rank": 11197,
+    "popularity": 9933,
+    "members": 4100,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -2912,7 +2963,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35254,
@@ -2963,7 +3015,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36135,
@@ -2979,7 +3032,7 @@
     "score": 5.52,
     "scored_by": 196,
     "rank": 12528,
-    "popularity": 12242,
+    "popularity": 12246,
     "members": 2093,
     "favorites": 1,
     "type": "TV",
@@ -3011,7 +3064,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 36409,
@@ -3026,7 +3080,7 @@
     "episodes": 6,
     "score": 5.22,
     "scored_by": 442,
-    "rank": 13408,
+    "rank": 13407,
     "popularity": 13077,
     "members": 1609,
     "favorites": 3,
@@ -3056,7 +3110,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39918,
@@ -3072,10 +3127,10 @@
     "background": "",
     "episodes": 52,
     "score": 6.75,
-    "scored_by": 332,
-    "rank": 5805,
-    "popularity": 13676,
-    "members": 1361,
+    "scored_by": 333,
+    "rank": 5804,
+    "popularity": 13675,
+    "members": 1362,
     "favorites": 5,
     "type": "TV",
     "status": "Finished Airing",
@@ -3102,7 +3157,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 40090,
@@ -3119,8 +3175,8 @@
     "episodes": 23,
     "score": 6.3,
     "scored_by": 215,
-    "rank": 8556,
-    "popularity": 15801,
+    "rank": 8558,
+    "popularity": 15799,
     "members": 776,
     "favorites": 2,
     "type": "TV",
@@ -3149,48 +3205,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 36073,
-    "title": "Aiseki Mogol Girl",
-    "title_english": null,
-    "title_japanese": "aiseki MOGOL GIRL",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/5/87194l.jpg",
-    "trailer_url": null,
-    "synopsis": "The series features colorful stop-motion mascot characters made out of pipe cleaners. In Japanese, \"aiseki\" refers to the situation of sharing a table at a restaurant with a person you don't know. The show is surreal datsuryoku-kei comedy with a variety of male guest voice actors who banter with Fuyumi and Haruko at a table in the Mongol Cafe.",
-    "background": "",
-    "episodes": 12,
-    "score": 5.75,
-    "scored_by": 149,
-    "rank": 11559,
-    "popularity": 16323,
-    "members": 686,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2017-10-03T00:00:00+00:00",
-    "aired_to": "2017-12-19T00:00:00+00:00",
-    "broadcast": "Tuesdays at 01:05 (JST)",
-    "url": "https://myanimelist.net/anime/36073/Aiseki_Mogol_Girl",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 40089,
@@ -3206,7 +3222,7 @@
     "score": null,
     "scored_by": null,
     "rank": 19503,
-    "popularity": 16929,
+    "popularity": 16930,
     "members": 603,
     "favorites": 0,
     "type": "TV",
@@ -3229,105 +3245,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 37752,
-    "title": "Gonglyong Mecard",
-    "title_english": "Dino Mecard",
-    "title_japanese": "공룡메카드",
-    "title_synonyms": [
-      "Dinosaur Mecard"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1868/98715l.jpg",
-    "trailer_url": null,
-    "synopsis": "Gonglyong Mecard is a spin-off-series of Mecard, based on the idea that dinosaurs didn't become extinct 65 million years ago, but transformed into mecanimals. Its characters don't have any relations to the cast from Turning Mecard, Turning Mecard W and Turning Mecard R.\n\n(Source: Gonglyong Mecard Wikia)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21604,
-    "popularity": 17428,
-    "members": 546,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "28 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [
-      "Mecha",
-      "Racing",
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-11-23T00:00:00+00:00",
-    "aired_to": "2018-12-27T00:00:00+00:00",
-    "broadcast": "Thursdays at 13:50 (JST)",
-    "url": "https://myanimelist.net/anime/37752/Gonglyong_Mecard",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 36265,
-    "title": "Sylvanian Families: Mini Story",
-    "title_english": "Calico Critters: Mini Episodes",
-    "title_japanese": "シルバニアファミリー ミニストーリー",
-    "title_synonyms": [
-      "Sylvanian Families: Mini Episodes"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/87597l.jpg",
-    "trailer_url": null,
-    "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families. \n\n(Source: ANN)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 15446,
-    "popularity": 17759,
-    "members": 514,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-07T00:00:00+00:00",
-    "aired_to": "2017-12-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/36265/Sylvanian_Families__Mini_Story",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37750,
@@ -3342,8 +3261,8 @@
     "episodes": 6,
     "score": 5.94,
     "scored_by": 124,
-    "rank": 10601,
-    "popularity": 18056,
+    "rank": 10602,
+    "popularity": 18068,
     "members": 486,
     "favorites": 0,
     "type": "TV",
@@ -3374,51 +3293,8 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 36740,
-    "title": "Dragon Egg",
-    "title_english": "Dragon Egg",
-    "title_japanese": "드래곤에그",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/7/88840l.jpg",
-    "trailer_url": null,
-    "synopsis": "10 years ago, a mysterious stone which looks just like an egg was found. This egg turns out to be an ancient legendary Dragon Egg and it later transformed in to a dragon. People call this the ‘First Hatching’ and found out that they are able to use a dragon’s powerful energy only if they can speak the language of dragon. Soon after they found out this, an international society choose talented children to communicate with dragon and train them to carry out impossible missions. This group of children are called as Knights of Dragon. The Knights of Dragon carry out impossible missions successfully by finding dragons and their language hidden all around the world. Everything working out great only before they got attack from Defectors…\n\n(Source: Official YouTube channel)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21163,
-    "popularity": 18534,
-    "members": 452,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-11-06T00:00:00+00:00",
-    "aired_to": "2019-04-25T00:00:00+00:00",
-    "broadcast": "Mondays at 17:00 (JST)",
-    "url": "https://myanimelist.net/anime/36740/Dragon_Egg",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": true
   },
   {
     "mal_id": 37749,
@@ -3434,8 +3310,8 @@
     "score": 5.8,
     "scored_by": 117,
     "rank": 11343,
-    "popularity": 18526,
-    "members": 450,
+    "popularity": 18538,
+    "members": 449,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -3463,678 +3339,7 @@
     "year": 2017,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 37102,
-    "title": "Xiong Chumo: Tanxian Riji",
-    "title_english": "Boonie Bears: The Adventurers",
-    "title_japanese": "熊出没之探险日记",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/90003l.jpg",
-    "trailer_url": null,
-    "synopsis": "Ninth season of Boonie Bears. \n\nThe Bear Brothers, Briar and Bramble, are back, in a whole new adventure! This time, the logger Vick has finally decided to hang up his chainsaw for good, and to do something to help the forest instead. When the new girl Carly shows up in town, Vick agrees to be her tour guide and help her on a quest to find her lost friend Kitty, who happens to be a Siberian Tiger.\n\n(Source: Official Vimeo Channel)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16694,
-    "popularity": 19284,
-    "members": 393,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-11-28T00:00:00+00:00",
-    "aired_to": "2017-12-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/37102/Xiong_Chumo__Tanxian_Riji",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 36486,
-    "title": "Lalala Lala-chan ★Uchuu ni Muchuu★",
-    "title_english": null,
-    "title_japanese": "ラララ ララちゃん ★ウチュ～にムチュ～★",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1591/91149l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/miP-dWrDPP4?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "An alien named Luckle from the planet Lucky Star crashes their spaceship in Mori Town. He has the ability to give \"lucky\" or \"unlucky\" outcomes to people via telekinesis. Lala-chan helps him get to safety but in doing so, the town (and her friends) thinks she's harboring a dangerous being using it to do crimes no thanks to Salmiakki. Unfortunately a darker power lurks to bring wickedness upon Mori Town by corrupting Salmiakki even further.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 18140,
-    "popularity": 19514,
-    "members": 376,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [
-      "Usagi Ou"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-06T00:00:00+00:00",
-    "aired_to": "2017-12-22T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/36486/Lalala_Lala-chan_★Uchuu_ni_Muchuu★",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 36981,
-    "title": "Neko no Dayan (2017)",
-    "title_english": null,
-    "title_japanese": "猫のダヤン (2017)",
-    "title_synonyms": [
-      "Dayan the Cat (2017)"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/89599l.jpg",
-    "trailer_url": null,
-    "synopsis": "Fourth season of Dayan the Cat.",
-    "background": "",
-    "episodes": 30,
-    "score": null,
-    "scored_by": null,
-    "rank": 19045,
-    "popularity": 19843,
-    "members": 356,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-14T00:00:00+00:00",
-    "aired_to": "2018-05-03T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/36981/Neko_no_Dayan_2017",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 37951,
-    "title": "Ice Kuritarou",
-    "title_english": "Ice Kuritaro",
-    "title_japanese": "アイスくりたろう",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1875/93756l.jpg",
-    "trailer_url": null,
-    "synopsis": "A short anime that airs within \"Enkame: That's Enka Tainment\" (and enka variety show) program on Asahi TV. It follows a cast of ice cream characters.",
-    "background": "",
-    "episodes": 49,
-    "score": null,
-    "scored_by": null,
-    "rank": 22200,
-    "popularity": 20481,
-    "members": 315,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Kamio Japan",
-      "Anime Beans"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-12T00:00:00+00:00",
-    "aired_to": "2018-09-27T00:00:00+00:00",
-    "broadcast": "Thursdays at 01:39 (JST)",
-    "url": "https://myanimelist.net/anime/37951/Ice_Kuritarou",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 37698,
-    "title": "Ukkari Pénélope (2017)",
-    "title_english": null,
-    "title_japanese": "うっかりペネロペ",
-    "title_synonyms": [
-      "Ukkari Penelope",
-      "Pénélope tête en l'air",
-      "Carelessly Penelope",
-      "Absent-minded Penelope",
-      "Head in the Air Penelope"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1746/91765l.jpg",
-    "trailer_url": null,
-    "synopsis": "The 4th season of Ukkari Pénélope.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 15939,
-    "popularity": 21147,
-    "members": 278,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-04T00:00:00+00:00",
-    "aired_to": "2017-12-27T00:00:00+00:00",
-    "broadcast": "Wednesdays at 17:20 (JST)",
-    "url": "https://myanimelist.net/anime/37698/Ukkari_Pénélope_2017",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 49121,
-    "title": "Kkum-ui Wang-gug SofyRuby",
-    "title_english": "Dream Kingdom SofyRuby",
-    "title_japanese": "꿈의 왕국 소피 루비",
-    "title_synonyms": [
-      "Sophie Ruby Season 2",
-      "SofyRuby Season 2"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1842/115554l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17902,
-    "popularity": 22283,
-    "members": 217,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-21T00:00:00+00:00",
-    "aired_to": "2018-11-03T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/49121/Kkum-ui_Wang-gug_SofyRuby",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47459,
-    "title": "Ai Jingling Lelia",
-    "title_english": null,
-    "title_japanese": "爱精灵乐吉儿",
-    "title_synonyms": [
-      "Ai Jingling Le Ji Er"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1702/129453l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 19840,
-    "popularity": 24713,
-    "members": 133,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47459/Ai_Jingling_Lelia",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56990,
-    "title": "DinoCore Season 3",
-    "title_english": null,
-    "title_japanese": "다이노코어 시즌 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1278/139301l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 21017,
-    "popularity": 24821,
-    "members": 129,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-07T00:00:00+00:00",
-    "aired_to": "2017-12-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56990/DinoCore_Season_3",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44422,
-    "title": "Shaonian Shiye: Ji Yu Shengdian",
-    "title_english": null,
-    "title_japanese": "少年师爷之祭禹盛典",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1409/123108l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14842,
-    "popularity": 24931,
-    "members": 128,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-09-25T00:00:00+00:00",
-    "aired_to": "2017-10-18T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44422/Shaonian_Shiye__Ji_Yu_Shengdian",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55837,
-    "title": "Zombie Dumb 2",
-    "title_english": "ZombieDumb 2",
-    "title_japanese": "좀비덤 2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1884/136849l.jpg",
-    "trailer_url": null,
-    "synopsis": "The second season of Zombie Dumb.",
-    "background": "",
-    "episodes": 22,
-    "score": null,
-    "scored_by": null,
-    "rank": 17232,
-    "popularity": 25181,
-    "members": 123,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "ANYZAC"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-21T00:00:00+00:00",
-    "aired_to": "2019-02-09T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/55837/Zombie_Dumb_2",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47442,
-    "title": "Wulongyuan: Huobao Chuanqi",
-    "title_english": null,
-    "title_japanese": "乌龙院之活宝传奇",
-    "title_synonyms": [
-      "The Wolo Family: Save The Elf"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1864/129440l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16217,
-    "popularity": 26582,
-    "members": 100,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-11-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47442/Wulongyuan__Huobao_Chuanqi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45853,
-    "title": "Xing Xueyuan 3: Pandora Mijing",
-    "title_english": null,
-    "title_japanese": "星学院3之潘朵拉秘境",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1604/128648l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16630,
-    "popularity": 26700,
-    "members": 99,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-12-26T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45853/Xing_Xueyuan_3__Pandora_Mijing",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47486,
-    "title": "Xuan Ji Yongzhe: Xuan Ji Zhan Ka",
-    "title_english": null,
-    "title_japanese": "炫击勇者之炫击战卡",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1737/127786l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 30,
-    "score": null,
-    "scored_by": null,
-    "rank": 16758,
-    "popularity": 26933,
-    "members": 95,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-12-11T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47486/Xuan_Ji_Yongzhe__Xuan_Ji_Zhan_Ka",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59589,
-    "title": "Toy Cop",
-    "title_english": "Toy Cop",
-    "title_japanese": "토이캅",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1017/144844l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15805,
-    "popularity": 27504,
-    "members": 88,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-09-14T00:00:00+00:00",
-    "aired_to": "2017-11-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/59589/Toy_Cop",
-    "year": 2017,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47506,
-    "title": "Hong Youji",
-    "title_english": null,
-    "title_japanese": "红游记",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1607/129624l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 22030,
-    "popularity": 28003,
-    "members": 84,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2017-10-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47506/Hong_Youji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": true
   }
 ]

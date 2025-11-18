@@ -16,9 +16,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 2510,
-    "members": 88575,
-    "favorites": 439,
+    "popularity": 2508,
+    "members": 88796,
+    "favorites": 440,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -52,7 +52,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59708,
@@ -72,9 +73,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 2566,
-    "members": 85510,
-    "favorites": 419,
+    "popularity": 2565,
+    "members": 85622,
+    "favorites": 420,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -105,7 +106,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56876,
@@ -150,7 +152,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59983,
@@ -168,9 +171,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 3239,
-    "members": 56661,
-    "favorites": 175,
+    "popularity": 3237,
+    "members": 56702,
+    "favorites": 176,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -201,7 +204,60 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
+  },
+  {
+    "mal_id": 51553,
+    "title": "Tongari Boushi no Atelier",
+    "title_english": "Witch Hat Atelier",
+    "title_japanese": "とんがり帽子のアトリエ",
+    "title_synonyms": [
+      "Atelier of Witch Hat"
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1892/152471l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/dkJNqHgTxwI?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "Coco, a humble dressmaker's daughter, has always been fascinated by magic and the witches who cast it, despite the strict precautions they take to hide their methods from the public. However, when Coco takes advantage of a golden chance to spy on the skilled witch Qifrey, she realizes that her favorite picture book was a disguised magic book all along! In her excitement, she immediately starts testing out the various spells.\n\nWhen a spell causes a disaster in her home, Qifrey rescues her just in time and decides to train her, realizing that she is the first lead he has found that could help him track down the Brimmed Caps—a dangerous group of heretics who experiment with forbidden body-altering magic and spread magical artifacts among the commoners. But before Coco and Qifrey can confront the Brimmed Caps, she is going to have to improve her magical skills and learn to get along with Qifrey's other apprentices. \n\n[Written by MAL Rewrite]",
+    "background": "",
+    "episodes": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 3411,
+    "members": 52021,
+    "favorites": 341,
+    "type": "TV",
+    "status": "Not yet aired",
+    "airing": false,
+    "approved": true,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Manga",
+    "studios": [
+      "BUG FILMS"
+    ],
+    "producers": [
+      "Kodansha",
+      "Avex Pictures",
+      "Twin Engine"
+    ],
+    "licensors": [],
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [],
+    "demographics": [
+      "Seinen"
+    ],
+    "aired_from": "2026-04-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/51553/Tongari_Boushi_no_Atelier",
+    "year": 2026,
+    "season": "spring",
+    "is_hentai": false,
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57466,
@@ -220,8 +276,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 4159,
-    "members": 35805,
+    "popularity": 4158,
+    "members": 35832,
     "favorites": 146,
     "type": "TV",
     "status": "Not yet aired",
@@ -250,7 +306,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60310,
@@ -266,9 +323,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 4198,
-    "members": 35201,
-    "favorites": 123,
+    "popularity": 4191,
+    "members": 35242,
+    "favorites": 126,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -296,7 +353,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61831,
@@ -346,7 +404,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60028,
@@ -398,7 +457,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62001,
@@ -416,8 +476,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6185,
-    "members": 13730,
+    "popularity": 6166,
+    "members": 13800,
     "favorites": 41,
     "type": "TV",
     "status": "Not yet aired",
@@ -451,7 +511,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61931,
@@ -470,8 +531,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6589,
-    "members": 11780,
+    "popularity": 6585,
+    "members": 11809,
     "favorites": 19,
     "type": "TV",
     "status": "Not yet aired",
@@ -502,7 +563,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61501,
@@ -520,8 +582,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 7404,
-    "members": 8873,
+    "popularity": 7392,
+    "members": 8914,
     "favorites": 23,
     "type": "TV",
     "status": "Not yet aired",
@@ -555,7 +617,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59393,
@@ -571,8 +634,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8633,
-    "members": 6064,
+    "popularity": 8607,
+    "members": 6094,
     "favorites": 19,
     "type": "TV",
     "status": "Not yet aired",
@@ -602,7 +665,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61839,
@@ -623,8 +687,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 9109,
-    "members": 5276,
+    "popularity": 9074,
+    "members": 5336,
     "favorites": 28,
     "type": "TV",
     "status": "Not yet aired",
@@ -655,7 +719,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60444,
@@ -671,8 +736,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 9274,
-    "members": 5044,
+    "popularity": 9253,
+    "members": 5073,
     "favorites": 26,
     "type": "TV",
     "status": "Not yet aired",
@@ -707,7 +772,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62601,
@@ -725,8 +791,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 9676,
-    "members": 4443,
+    "popularity": 9642,
+    "members": 4483,
     "favorites": 10,
     "type": "TV",
     "status": "Not yet aired",
@@ -758,7 +824,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61153,
@@ -808,7 +875,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61186,
@@ -827,8 +895,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10210,
-    "members": 3770,
+    "popularity": 10197,
+    "members": 3789,
     "favorites": 7,
     "type": "TV",
     "status": "Not yet aired",
@@ -858,7 +926,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62913,
@@ -877,8 +946,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10429,
-    "members": 3509,
+    "popularity": 10253,
+    "members": 3703,
     "favorites": 27,
     "type": "TV",
     "status": "Not yet aired",
@@ -907,7 +976,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 62048,
@@ -958,7 +1028,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58820,
@@ -1008,7 +1079,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58832,
@@ -1024,8 +1096,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 12089,
-    "members": 2187,
+    "popularity": 12081,
+    "members": 2195,
     "favorites": 1,
     "type": "TV",
     "status": "Not yet aired",
@@ -1054,7 +1126,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60852,
@@ -1101,7 +1174,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62825,
@@ -1153,7 +1227,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62050,
@@ -1171,8 +1246,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 12517,
-    "members": 1925,
+    "popularity": 12478,
+    "members": 1954,
     "favorites": 5,
     "type": "TV",
     "status": "Not yet aired",
@@ -1207,7 +1282,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59176,
@@ -1252,7 +1328,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62893,
@@ -1303,7 +1380,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53732,
@@ -1319,8 +1397,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 14669,
-    "members": 1059,
+    "popularity": 14565,
+    "members": 1087,
     "favorites": 0,
     "type": "TV",
     "status": "Not yet aired",
@@ -1354,7 +1432,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60153,
@@ -1370,8 +1449,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 15441,
-    "members": 858,
+    "popularity": 15432,
+    "members": 860,
     "favorites": 4,
     "type": "TV",
     "status": "Not yet aired",
@@ -1402,7 +1481,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62964,
@@ -1418,8 +1498,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 20707,
-    "members": 302,
+    "popularity": 17657,
+    "members": 525,
     "favorites": 1,
     "type": "TV",
     "status": "Not yet aired",
@@ -1449,7 +1529,8 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62933,
@@ -1465,8 +1546,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 29040,
-    "members": 59,
+    "popularity": 29007,
+    "members": 62,
     "favorites": 0,
     "type": "TV",
     "status": "Not yet aired",
@@ -1492,6 +1573,7 @@
     "year": 2026,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

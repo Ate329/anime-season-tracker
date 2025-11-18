@@ -11,11 +11,11 @@
     "background": "Clannad adapts the visual novel of the same title.",
     "episodes": 23,
     "score": 7.99,
-    "scored_by": 786636,
-    "rank": 719,
+    "scored_by": 786707,
+    "rank": 718,
     "popularity": 95,
-    "members": 1485830,
-    "favorites": 28354,
+    "members": 1485979,
+    "favorites": 28358,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -50,7 +50,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3002,
@@ -67,11 +68,11 @@
     "background": "In a February 2015 poll conducted by Japanese website Goo Ranking, Gyakkyou Burai Kaiji: Ultimate Survivor placed second for \"Best Cerebral Anime.\" The series was released on Blu-ray by Sentai Filmworks on April 20, 2021.",
     "episodes": 26,
     "score": 8.26,
-    "scored_by": 174836,
+    "scored_by": 174845,
     "rank": 337,
-    "popularity": 687,
-    "members": 383808,
-    "favorites": 10730,
+    "popularity": 688,
+    "members": 383838,
+    "favorites": 10731,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -109,7 +110,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2787,
@@ -125,10 +127,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.54,
-    "scored_by": 176065,
+    "scored_by": 176068,
     "rank": 1893,
     "popularity": 861,
-    "members": 317577,
+    "members": 317592,
     "favorites": 988,
     "type": "TV",
     "status": "Finished Airing",
@@ -165,7 +167,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2924,
@@ -179,10 +182,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.86,
-    "scored_by": 110452,
+    "scored_by": 110455,
     "rank": 948,
     "popularity": 1022,
-    "members": 266662,
+    "members": 266684,
     "favorites": 2771,
     "type": "TV",
     "status": "Finished Airing",
@@ -215,7 +218,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2581,
@@ -231,10 +235,10 @@
     "background": "",
     "episodes": 25,
     "score": 8.1,
-    "scored_by": 126359,
+    "scored_by": 126361,
     "rank": 551,
     "popularity": 1183,
-    "members": 231681,
+    "members": 231687,
     "favorites": 4589,
     "type": "TV",
     "status": "Finished Airing",
@@ -273,7 +277,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2923,
@@ -289,11 +294,11 @@
     "background": "Shugo Chara! was released in 16 compilation DVDs by Pony Canyon, each containing three to four episodes, from February 20, 2008 to May 20, 2009. The series has been dubbed in French and Italian by Studio La Dame Blanche and LOGOS srl respectively.",
     "episodes": 51,
     "score": 7.41,
-    "scored_by": 109346,
+    "scored_by": 109352,
     "rank": 2424,
     "popularity": 1193,
-    "members": 230087,
-    "favorites": 3108,
+    "members": 230103,
+    "favorites": 3107,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -327,7 +332,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2926,
@@ -341,10 +347,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.1,
-    "scored_by": 97502,
-    "rank": 4074,
+    "scored_by": 97505,
+    "rank": 4075,
     "popularity": 1410,
-    "members": 191392,
+    "members": 191399,
     "favorites": 768,
     "type": "TV",
     "status": "Finished Airing",
@@ -380,7 +386,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2963,
@@ -397,11 +404,11 @@
     "background": "",
     "episodes": 13,
     "score": 7.63,
-    "scored_by": 73074,
+    "scored_by": 73076,
     "rank": 1546,
-    "popularity": 1483,
-    "members": 180616,
-    "favorites": 1095,
+    "popularity": 1484,
+    "members": 180625,
+    "favorites": 1094,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -436,7 +443,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2596,
@@ -452,10 +460,10 @@
     "background": "",
     "episodes": 22,
     "score": 7.39,
-    "scored_by": 46957,
-    "rank": 2501,
+    "scored_by": 46962,
+    "rank": 2499,
     "popularity": 1635,
-    "members": 160776,
+    "members": 160791,
     "favorites": 887,
     "type": "TV",
     "status": "Finished Airing",
@@ -493,7 +501,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2403,
@@ -511,10 +520,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.68,
-    "scored_by": 55455,
+    "scored_by": 55460,
     "rank": 6233,
     "popularity": 2094,
-    "members": 117285,
+    "members": 117302,
     "favorites": 599,
     "type": "TV",
     "status": "Finished Airing",
@@ -550,7 +559,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2494,
@@ -571,9 +581,9 @@
     "background": "",
     "episodes": 12,
     "score": 6.63,
-    "scored_by": 49476,
-    "rank": 6512,
-    "popularity": 2292,
+    "scored_by": 49478,
+    "rank": 6510,
+    "popularity": 2293,
     "members": 101949,
     "favorites": 173,
     "type": "TV",
@@ -608,7 +618,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2927,
@@ -627,7 +638,7 @@
     "scored_by": 41835,
     "rank": 3221,
     "popularity": 2424,
-    "members": 93109,
+    "members": 93108,
     "favorites": 298,
     "type": "TV",
     "status": "Finished Airing",
@@ -661,7 +672,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2986,
@@ -676,10 +688,10 @@
     "episodes": 26,
     "score": 7.29,
     "scored_by": 42157,
-    "rank": 2955,
-    "popularity": 2453,
-    "members": 91719,
-    "favorites": 285,
+    "rank": 2956,
+    "popularity": 2454,
+    "members": 91723,
+    "favorites": 284,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -719,7 +731,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2508,
@@ -735,10 +748,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.74,
-    "scored_by": 46775,
-    "rank": 1239,
+    "scored_by": 46777,
+    "rank": 1238,
     "popularity": 2520,
-    "members": 87837,
+    "members": 87843,
     "favorites": 219,
     "type": "TV",
     "status": "Finished Airing",
@@ -780,7 +793,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2795,
@@ -833,7 +847,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3001,
@@ -850,10 +865,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.54,
-    "scored_by": 29776,
+    "scored_by": 29778,
     "rank": 1882,
     "popularity": 2746,
-    "members": 76678,
+    "members": 76682,
     "favorites": 268,
     "type": "TV",
     "status": "Finished Airing",
@@ -894,7 +909,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2985,
@@ -950,7 +966,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2369,
@@ -964,10 +981,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.98,
-    "scored_by": 22229,
-    "rank": 4609,
+    "scored_by": 22230,
+    "rank": 4608,
     "popularity": 3019,
-    "members": 64616,
+    "members": 64622,
     "favorites": 108,
     "type": "TV",
     "status": "Finished Airing",
@@ -1002,7 +1019,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2595,
@@ -1016,10 +1034,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.85,
-    "scored_by": 16872,
-    "rank": 5276,
-    "popularity": 4033,
-    "members": 38304,
+    "scored_by": 16873,
+    "rank": 5277,
+    "popularity": 4034,
+    "members": 38305,
     "favorites": 41,
     "type": "TV",
     "status": "Finished Airing",
@@ -1051,7 +1069,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2970,
@@ -1101,7 +1120,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2562,
@@ -1117,11 +1137,11 @@
     "background": "",
     "episodes": 22,
     "score": 7.49,
-    "scored_by": 11658,
+    "scored_by": 11660,
     "rank": 2066,
-    "popularity": 4280,
-    "members": 33929,
-    "favorites": 96,
+    "popularity": 4281,
+    "members": 33932,
+    "favorites": 97,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1157,7 +1177,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2942,
@@ -1171,10 +1192,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.37,
-    "scored_by": 10287,
+    "scored_by": 10289,
     "rank": 2569,
     "popularity": 4286,
-    "members": 33871,
+    "members": 33880,
     "favorites": 201,
     "type": "TV",
     "status": "Finished Airing",
@@ -1215,7 +1236,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2964,
@@ -1272,7 +1294,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2772,
@@ -1289,10 +1312,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.81,
-    "scored_by": 10502,
+    "scored_by": 10505,
     "rank": 5463,
     "popularity": 4584,
-    "members": 29024,
+    "members": 29028,
     "favorites": 37,
     "type": "TV",
     "status": "Finished Airing",
@@ -1330,7 +1353,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1807,
@@ -1344,10 +1368,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.39,
-    "scored_by": 9309,
-    "rank": 8020,
+    "scored_by": 9310,
+    "rank": 8017,
     "popularity": 4974,
-    "members": 23948,
+    "members": 23952,
     "favorites": 27,
     "type": "TV",
     "status": "Finished Airing",
@@ -1385,7 +1409,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2931,
@@ -1439,7 +1464,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3000,
@@ -1455,11 +1481,11 @@
     "synopsis": "Miyuki Kobayakawa, fresh from forensics training in the United States and Natsumi Tsujimoto, from completing Japanese Self-Defense Force (JSDF) ranger training return in the long-awaited 3rd season of the highly popular series. This time, the duo rejoins active duty at Bokuto Police Department, fighting against crime using their wits and brawn, plus having some misadventures along the way. \n\n(Source: ANN)",
     "background": "",
     "episodes": 23,
-    "score": 7.17,
-    "scored_by": 3989,
-    "rank": 3685,
-    "popularity": 6624,
-    "members": 11644,
+    "score": 7.16,
+    "scored_by": 3990,
+    "rank": 3684,
+    "popularity": 6625,
+    "members": 11646,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -1496,7 +1522,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2965,
@@ -1515,7 +1542,7 @@
     "score": 6.64,
     "scored_by": 2828,
     "rank": 6461,
-    "popularity": 6768,
+    "popularity": 6770,
     "members": 11029,
     "favorites": 16,
     "type": "TV",
@@ -1549,7 +1576,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3493,
@@ -1568,9 +1596,9 @@
     "episodes": 21,
     "score": 6.93,
     "scored_by": 3056,
-    "rank": 4845,
-    "popularity": 8016,
-    "members": 7248,
+    "rank": 4844,
+    "popularity": 8017,
+    "members": 7249,
     "favorites": 21,
     "type": "TV",
     "status": "Finished Airing",
@@ -1598,7 +1626,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2929,
@@ -1612,10 +1641,10 @@
     "background": "",
     "episodes": 14,
     "score": 7.26,
-    "scored_by": 1903,
-    "rank": 3152,
-    "popularity": 8934,
-    "members": 5575,
+    "scored_by": 1904,
+    "rank": 3154,
+    "popularity": 8936,
+    "members": 5576,
     "favorites": 10,
     "type": "TV",
     "status": "Finished Airing",
@@ -1647,7 +1676,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3738,
@@ -1664,7 +1694,7 @@
     "episodes": 13,
     "score": 7.03,
     "scored_by": 3296,
-    "rank": 4409,
+    "rank": 4407,
     "popularity": 9069,
     "members": 5338,
     "favorites": 2,
@@ -1696,254 +1726,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 2719,
-    "title": "MapleStory",
-    "title_english": null,
-    "title_japanese": "メイプルストーリー",
-    "title_synonyms": [
-      "Maple Story"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/4868l.jpg",
-    "trailer_url": null,
-    "synopsis": "Ten years ago, the World Tree that protected peace and order of the world was being targeted by an evil organization called the Zakum. The Human race led four other races: the brave warriors, the intelligent magicians, the agile archers and the sly thieves in a fight against the Zakums. In the end, the World Tree activated self-destruction to protect itself. However, the other races thought it was the Human race that destroyed the World Tree. When the World Tree was destroyed most of the races had nothing left, so a number of them went to Maple Island thinking the ones who stayed would die. They escaped Victoria and lived on Maple Island where living is getting harder and harder. Since then, a never-ending war between the different races began.\n\nTen years later, the main protagonist, Al, is determined to revive the World Tree. Al and his companions begin their journey to seek the seeds of the World Tree. At the same time, the Zakums reappear…\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 25,
-    "score": 5.21,
-    "scored_by": 1914,
-    "rank": 13422,
-    "popularity": 9250,
-    "members": 5075,
-    "favorites": 4,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG - Children",
-    "source": "Game",
-    "studios": [
-      "Madhouse"
-    ],
-    "producers": [
-      "TV Tokyo",
-      "Dentsu",
-      "Nexon"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-07T00:00:00+00:00",
-    "aired_to": "2008-03-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/2719/MapleStory",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 10526,
-    "title": "Duel Masters Zero",
-    "title_english": null,
-    "title_japanese": "デュエル・マスターズ ゼロ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/28926l.jpg",
-    "trailer_url": null,
-    "synopsis": "This season is a direct continuation of the Zero Duel Masters with the same alternative setting, plot and characters. The only difference between both season were the shift from 2D to 3DCGI animation.\n\nIt follows after the duel of Shobu vs. Hakuoh, later unveiling Hakuoh and Jura were cooperating with the series' main antagonist: Professor March, who aims to control every creature by obtaining every Duel Orb.\n\n(Source: Duel Masters Wikia)",
-    "background": "",
-    "episodes": 24,
-    "score": 5.95,
-    "scored_by": 708,
-    "rank": 10541,
-    "popularity": 11999,
-    "members": 2245,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-06T00:00:00+00:00",
-    "aired_to": "2008-03-22T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/10526/Duel_Masters_Zero",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 6798,
-    "title": "Saa Ikou! Tamagotchi",
-    "title_english": "Let's Go! Tamagotchi",
-    "title_japanese": "さぁイコー！たまごっち",
-    "title_synonyms": [
-      "Saa Ikoo! Tamagotchi"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/15719l.jpg",
-    "trailer_url": null,
-    "synopsis": "Let's Go! Tamagotchi is an anime series focusing on the lives of Mametchi, Memetchi, Kuchipatchi, ChaMametchi, and their friends. The series premiered in Japan in December 2007, while an English dub was uploaded by Bandai in December 2008. It was originally uploaded a week before the release of the first movie in Japanese.",
-    "background": "",
-    "episodes": 12,
-    "score": 5.71,
-    "scored_by": 517,
-    "rank": 11744,
-    "popularity": 13796,
-    "members": 1311,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "OLM"
-    ],
-    "producers": [
-      "Bandai"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-11-29T00:00:00+00:00",
-    "aired_to": "2008-02-14T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/6798/Saa_Ikou_Tamagotchi",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 22441,
-    "title": "Hello Kitty: Ringo no Mori to Parallel Town",
-    "title_english": "Hello Kitty: Apple Forest and Parallel Town",
-    "title_japanese": "ハローキティ りんごの森とパラレルタウン",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1030/102887l.jpg",
-    "trailer_url": null,
-    "synopsis": "Kitty and Mimmy fall through a hole and end up in a parallel world. It's identical to the one the sisters live in but it's inhabited by humans with transparent wings and pointy ears. Kitty becomes friends with Emily, a supermodel in this parallel world, and together they try to rescue Mimmy who has disappeared. Their search is hampered by Akuro--a black cat who has a mean streak.",
-    "background": "Short anime aired inside the anime corner of the Kitty's Paradise TV block.",
-    "episodes": 27,
-    "score": 6.13,
-    "scored_by": 231,
-    "rank": 9573,
-    "popularity": 14790,
-    "members": 1026,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Asahi Production"
-    ],
-    "producers": [
-      "Sanrio"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-02T00:00:00+00:00",
-    "aired_to": "2008-03-25T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/22441/Hello_Kitty__Ringo_no_Mori_to_Parallel_Town",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 3251,
-    "title": "Hatara Kids Mai Ham Gumi",
-    "title_english": "Master Hamsters",
-    "title_japanese": "はたらキッズマイハム組",
-    "title_synonyms": [
-      "Hatarakids Maiham Gumi",
-      "Hatara kids My ham Gumi",
-      "Master Hamsters"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/8/21232l.jpg",
-    "trailer_url": null,
-    "synopsis": "Hatara Kids Maihamu Gumi, literally \"Working Kids, My Hamster Team\", is a Japanese anime action series for young children about hamsters who hold down jobs from firefighting to cooking.\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 50,
-    "score": 5.95,
-    "scored_by": 139,
-    "rank": 10548,
-    "popularity": 16070,
-    "members": 727,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Toei Animation"
-    ],
-    "producers": [
-      "TV Asahi"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-07T00:00:00+00:00",
-    "aired_to": "2008-10-05T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/3251/Hatara_Kids_Mai_Ham_Gumi",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3164,
@@ -1959,7 +1743,7 @@
     "score": 6.29,
     "scored_by": 151,
     "rank": 8610,
-    "popularity": 16106,
+    "popularity": 16107,
     "members": 722,
     "favorites": 0,
     "type": "TV",
@@ -1989,55 +1773,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 5468,
-    "title": "Yattokame Tanteidan",
-    "title_english": null,
-    "title_japanese": "やっとかめ探偵団",
-    "title_synonyms": [
-      "At Last! Turtle Detective Agency"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/11274l.jpg",
-    "trailer_url": null,
-    "synopsis": "Neighborhood children help a group of retirees solve local mysteries in contemporary Japan.",
-    "background": "",
-    "episodes": 14,
-    "score": null,
-    "scored_by": null,
-    "rank": 16823,
-    "popularity": 17486,
-    "members": 539,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "20 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "No Side"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Mystery",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-07T00:00:00+00:00",
-    "aired_to": "2008-01-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/5468/Yattokame_Tanteidan",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 8191,
@@ -2054,9 +1791,9 @@
     "episodes": 26,
     "score": null,
     "scored_by": null,
-    "rank": 22051,
-    "popularity": 17736,
-    "members": 515,
+    "rank": 22052,
+    "popularity": 17735,
+    "members": 516,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -2086,52 +1823,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 9533,
-    "title": "Pururun! Shizuku-chan Aha",
-    "title_english": null,
-    "title_japanese": "ぷるるんっ! しずくちゃんあはっ☆",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/26376l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Pururun! Shizuku-chan.",
-    "background": "",
-    "episodes": 51,
-    "score": null,
-    "scored_by": null,
-    "rank": 19614,
-    "popularity": 18247,
-    "members": 472,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": null,
-    "source": "Manga",
-    "studios": [
-      "TMS Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-07T00:00:00+00:00",
-    "aired_to": "2008-09-28T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/9533/Pururun_Shizuku-chan_Aha",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3243,
@@ -2176,7 +1869,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2930,
@@ -2191,8 +1885,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 15604,
-    "popularity": 19018,
+    "rank": 15605,
+    "popularity": 19009,
     "members": 416,
     "favorites": 0,
     "type": "TV",
@@ -2222,151 +1916,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 12185,
-    "title": "Mameushi-kun (TV)",
-    "title_english": null,
-    "title_japanese": "まめうしくん",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/2/34397l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/VCZ4qozANq4?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Mameushi-kun follows the farmland adventures of a calf that is as small as a dust speck.\n\n(Source: AniDB)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 18420,
-    "popularity": 19129,
-    "members": 405,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [
-      "TMS Entertainment"
-    ],
-    "producers": [
-      "Sotsu"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-06T00:00:00+00:00",
-    "aired_to": "2008-09-27T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/12185/Mameushi-kun_TV",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 20173,
-    "title": "Mori no Senshi Bonolon",
-    "title_english": null,
-    "title_japanese": "森の戦士ボノロン",
-    "title_synonyms": [
-      "Bonolon: Fushigina Mori no Iitsutae"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1614/148393l.jpg",
-    "trailer_url": null,
-    "synopsis": "Bonolon is touted as the warrior who comes from the forest of the great oaks. Despite his huge body size and outwardly orange appearance, Bonolon is only a child of 9 years old. \n\nHowever, notwithstanding his tender age, Bonolon possess a strong sense of justice and strives to become a reliable man. The tears of those people who are depressed or troubled will flow through the roots of the great oaks and communicates their feelings to Bonolon. Bonolon will then appear from the great oaks and help the people solve their problems as well as grant their wishes.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18846,
-    "popularity": 19359,
-    "members": 388,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Actas"
-    ],
-    "producers": [
-      "Four Some",
-      "Coamix",
-      "North Stars Pictures"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-11-05T00:00:00+00:00",
-    "aired_to": "2008-05-17T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/20173/Mori_no_Senshi_Bonolon",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 35508,
-    "title": "Shampoo Ouji",
-    "title_english": null,
-    "title_japanese": "シャンプー王子",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/12/85586l.jpg",
-    "trailer_url": null,
-    "synopsis": "Prince Shampoo lives in the clean and shiny Bubble Kingdom. He's bored with his life and decides to jump out of the protective dome and explore the dirty things of the outer world. Here he encounters various people and understands what dirty and cleanliness really mean in the world.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 14788,
-    "popularity": 20863,
-    "members": 293,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-01T00:00:00+00:00",
-    "aired_to": "2007-12-17T00:00:00+00:00",
-    "broadcast": "Mondays at 17:55 (JST)",
-    "url": "https://myanimelist.net/anime/35508/Shampoo_Ouji",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40273,
@@ -2385,9 +1936,9 @@
     "episodes": 54,
     "score": null,
     "scored_by": null,
-    "rank": 21436,
-    "popularity": 21456,
-    "members": 260,
+    "rank": 21437,
+    "popularity": 21449,
+    "members": 261,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -2411,7 +1962,8 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54051,
@@ -2456,94 +2008,7 @@
     "year": 2007,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44689,
-    "title": "Shen Bing Xiaojiang",
-    "title_english": "Shen Bing Kids",
-    "title_japanese": "神兵小将",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1293/128217l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 14867,
-    "popularity": 25000,
-    "members": 126,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Manga",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-10-04T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44689/Shen_Bing_Xiaojiang",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48160,
-    "title": "Dao Baejji Bumhil Daesodong",
-    "title_english": null,
-    "title_japanese": "다오 배찌 붐힐 대소동",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1609/130348l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20924,
-    "popularity": 25359,
-    "members": 120,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-11-15T00:00:00+00:00",
-    "aired_to": "2008-05-15T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48160/Dao_Baejji_Bumhil_Daesodong",
-    "year": 2007,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

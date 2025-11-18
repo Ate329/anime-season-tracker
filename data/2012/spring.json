@@ -16,11 +16,11 @@
     "background": "",
     "episodes": 22,
     "score": 8.05,
-    "scored_by": 679263,
-    "rank": 635,
+    "scored_by": 679291,
+    "rank": 633,
     "popularity": 99,
-    "members": 1455729,
-    "favorites": 27992,
+    "members": 1455808,
+    "favorites": 27990,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -56,7 +56,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11771,
@@ -116,7 +117,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11741,
@@ -132,11 +134,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.54,
-    "scored_by": 745527,
+    "scored_by": 745574,
     "rank": 134,
     "popularity": 138,
-    "members": 1176743,
-    "favorites": 20645,
+    "members": 1176832,
+    "favorites": 20647,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -171,7 +173,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11759,
@@ -229,7 +232,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11499,
@@ -243,10 +247,10 @@
     "background": "The initial English DVD and Blu-Ray releases were edited for content, but customers were allowed to exchange it for an uncensored version later on.",
     "episodes": 12,
     "score": 7.27,
-    "scored_by": 328618,
-    "rank": 3084,
+    "scored_by": 328632,
+    "rank": 3083,
     "popularity": 367,
-    "members": 649891,
+    "members": 649925,
     "favorites": 2846,
     "type": "TV",
     "status": "Finished Airing",
@@ -288,7 +292,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12445,
@@ -304,11 +309,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.81,
-    "scored_by": 202380,
-    "rank": 1064,
+    "scored_by": 202392,
+    "rank": 1065,
     "popularity": 578,
-    "members": 441736,
-    "favorites": 4812,
+    "members": 441763,
+    "favorites": 4813,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -345,7 +350,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12531,
@@ -362,11 +368,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.29,
-    "scored_by": 180545,
+    "scored_by": 180556,
     "rank": 314,
     "popularity": 638,
-    "members": 410568,
-    "favorites": 7278,
+    "members": 410586,
+    "favorites": 7281,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -408,7 +414,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 10790,
@@ -428,10 +435,10 @@
     "background": "The first 2 episodes received an early screening at a special event held at Kadokawa Cinema Shinjuku on January 13, 2012. The regular broadcast started on April 5, 2012.",
     "episodes": 10,
     "score": 7.47,
-    "scored_by": 223030,
+    "scored_by": 223040,
     "rank": 2164,
     "popularity": 672,
-    "members": 391726,
+    "members": 391751,
     "favorites": 733,
     "type": "TV",
     "status": "Finished Airing",
@@ -472,7 +479,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12413,
@@ -486,11 +494,11 @@
     "background": "Jormungand was released on Blu-ray and DVD in six volumes from June 27, 2012, to November 28, 2012.",
     "episodes": 12,
     "score": 7.79,
-    "scored_by": 160942,
+    "scored_by": 160958,
     "rank": 1121,
     "popularity": 675,
-    "members": 389883,
-    "favorites": 3246,
+    "members": 389913,
+    "favorites": 3248,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -527,7 +535,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11785,
@@ -544,10 +553,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.97,
-    "scored_by": 157593,
-    "rank": 4692,
+    "scored_by": 157602,
+    "rank": 4690,
     "popularity": 710,
-    "members": 371014,
+    "members": 371042,
     "favorites": 1347,
     "type": "TV",
     "status": "Finished Airing",
@@ -587,7 +596,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12467,
@@ -604,11 +614,11 @@
     "background": "",
     "episodes": 13,
     "score": 7.22,
-    "scored_by": 159272,
+    "scored_by": 159288,
     "rank": 3401,
     "popularity": 763,
-    "members": 348110,
-    "favorites": 3529,
+    "members": 348166,
+    "favorites": 3531,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -644,7 +654,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12291,
@@ -658,10 +669,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.47,
-    "scored_by": 153807,
-    "rank": 2140,
+    "scored_by": 153815,
+    "rank": 2141,
     "popularity": 801,
-    "members": 336315,
+    "members": 336330,
     "favorites": 2788,
     "type": "TV",
     "status": "Finished Airing",
@@ -700,7 +711,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11761,
@@ -714,10 +726,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 113823,
-    "rank": 4517,
-    "popularity": 994,
-    "members": 273572,
+    "scored_by": 113839,
+    "rank": 4516,
+    "popularity": 995,
+    "members": 273592,
     "favorites": 507,
     "type": "TV",
     "status": "Finished Airing",
@@ -758,7 +770,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12431,
@@ -774,11 +787,11 @@
     "background": "",
     "episodes": 99,
     "score": 8.48,
-    "scored_by": 55431,
+    "scored_by": 55434,
     "rank": 159,
     "popularity": 1303,
-    "members": 207729,
-    "favorites": 3928,
+    "members": 207756,
+    "favorites": 3929,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -814,7 +827,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12883,
@@ -830,10 +844,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.64,
-    "scored_by": 61362,
-    "rank": 1516,
+    "scored_by": 61365,
+    "rank": 1517,
     "popularity": 1526,
-    "members": 175321,
+    "members": 175344,
     "favorites": 2307,
     "type": "TV",
     "status": "Finished Airing",
@@ -867,7 +881,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11837,
@@ -881,10 +896,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.83,
-    "scored_by": 64176,
-    "rank": 5365,
+    "scored_by": 64179,
+    "rank": 5364,
     "popularity": 1773,
-    "members": 144307,
+    "members": 144315,
     "favorites": 297,
     "type": "TV",
     "status": "Finished Airing",
@@ -929,7 +944,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12461,
@@ -946,10 +962,10 @@
     "background": "The first episode was pre-aired on March 6, 2012 on YTV. The Japanese voice cast for the main characters remains unchanged from the original PS2 otome game that the anime is based off of.",
     "episodes": 13,
     "score": 6.69,
-    "scored_by": 47898,
+    "scored_by": 47900,
     "rank": 6150,
     "popularity": 2085,
-    "members": 117771,
+    "members": 117778,
     "favorites": 414,
     "type": "TV",
     "status": "Finished Airing",
@@ -990,7 +1006,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12979,
@@ -1004,10 +1021,10 @@
     "background": "Naruto SD: Rock Lee no Seishun Full-Power Ninden is a Naruto: Shippuuden non-canon spin-off. Unlike the original series, it is the work of a different author and presents distinctive elements: another main character, a super-deformed art style, a narrator, and topics or statements that can be difficult to understand even for adults. The first DVD was released on July 18, 2012. Starting October 1, 2013, the anime was re-broadcasted as a selection of episodes from the initial series under the title Naruto SD: Rock Lee no Seishun Full-Power Ninden Mou Iccho. It is also considered that Rock Lee Ocharake Gaiden—a separate feature shown in five installments as a bonus of Naruto Shippuuden—is essentially Naruto SD: Rock Lee no Seishun Full Power Ninden's predecessor. As of March 2015, both dubbed and subtitled English versions have been made available for online streaming in the United States through Hulu and Neon Alley.",
     "episodes": 51,
     "score": 7.18,
-    "scored_by": 52491,
-    "rank": 3596,
-    "popularity": 2235,
-    "members": 105600,
+    "scored_by": 52495,
+    "rank": 3597,
+    "popularity": 2236,
+    "members": 105610,
     "favorites": 316,
     "type": "TV",
     "status": "Finished Airing",
@@ -1043,7 +1060,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12815,
@@ -1061,9 +1079,9 @@
     "episodes": 50,
     "score": 7.89,
     "scored_by": 24765,
-    "rank": 896,
-    "popularity": 2307,
-    "members": 101184,
+    "rank": 897,
+    "popularity": 2308,
+    "members": 101186,
     "favorites": 1008,
     "type": "TV",
     "status": "Finished Airing",
@@ -1098,7 +1116,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12471,
@@ -1114,10 +1133,10 @@
     "background": "Eureka Seven AO premiered with the launch of the new digital over-the-air television system NOTTV on April 1. It finished airing in its time slot with episode 22 on September 28, 2012. Episodes 23 and 24 were aired together on November 20, 2012.",
     "episodes": 24,
     "score": 6.63,
-    "scored_by": 43847,
-    "rank": 6508,
+    "scored_by": 43848,
+    "rank": 6506,
     "popularity": 2325,
-    "members": 100407,
+    "members": 100408,
     "favorites": 200,
     "type": "TV",
     "status": "Finished Airing",
@@ -1160,7 +1179,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11739,
@@ -1177,10 +1197,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.91,
-    "scored_by": 43503,
-    "rank": 848,
+    "scored_by": 43504,
+    "rank": 849,
     "popularity": 2413,
-    "members": 93738,
+    "members": 93745,
     "favorites": 376,
     "type": "TV",
     "status": "Finished Airing",
@@ -1217,7 +1237,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13203,
@@ -1235,10 +1256,10 @@
     "background": "Winner of the New Face Award on the 16th Japan Media Arts Festival.",
     "episodes": 13,
     "score": 7.76,
-    "scored_by": 25361,
+    "scored_by": 25365,
     "rank": 1199,
     "popularity": 2914,
-    "members": 69211,
+    "members": 69218,
     "favorites": 522,
     "type": "TV",
     "status": "Finished Airing",
@@ -1280,7 +1301,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13261,
@@ -1294,10 +1316,10 @@
     "background": "The series won the 2012 Animage's Anime Grand Prix Award.",
     "episodes": 51,
     "score": 7.3,
-    "scored_by": 39113,
+    "scored_by": 39118,
     "rank": 2914,
     "popularity": 2994,
-    "members": 65803,
+    "members": 65812,
     "favorites": 400,
     "type": "TV",
     "status": "Finished Airing",
@@ -1327,7 +1349,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12149,
@@ -1343,10 +1366,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.34,
-    "scored_by": 29538,
-    "rank": 2730,
+    "scored_by": 29540,
+    "rank": 2728,
     "popularity": 3021,
-    "members": 64425,
+    "members": 64432,
     "favorites": 681,
     "type": "TV",
     "status": "Finished Airing",
@@ -1381,7 +1404,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 12929,
@@ -1436,7 +1460,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12753,
@@ -1454,10 +1479,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.25,
-    "scored_by": 22373,
+    "scored_by": 22376,
     "rank": 3236,
     "popularity": 3468,
-    "members": 50338,
+    "members": 50343,
     "favorites": 46,
     "type": "TV",
     "status": "Finished Airing",
@@ -1492,7 +1517,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12367,
@@ -1549,7 +1575,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 11859,
@@ -1564,9 +1591,9 @@
     "episodes": 12,
     "score": 6.24,
     "scored_by": 14827,
-    "rank": 8911,
+    "rank": 8909,
     "popularity": 3633,
-    "members": 46487,
+    "members": 46491,
     "favorites": 74,
     "type": "TV",
     "status": "Finished Airing",
@@ -1603,7 +1630,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12119,
@@ -1619,10 +1647,10 @@
     "background": "Natsu-iro Kiseki was released on Blu-ray and DVD from June 27, 2012, to January 23, 2013.",
     "episodes": 12,
     "score": 7.02,
-    "scored_by": 16251,
+    "scored_by": 16253,
     "rank": 4458,
     "popularity": 3665,
-    "members": 45818,
+    "members": 45822,
     "favorites": 104,
     "type": "TV",
     "status": "Finished Airing",
@@ -1657,7 +1685,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 10884,
@@ -1711,7 +1740,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 13377,
@@ -1732,10 +1762,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.79,
-    "scored_by": 17694,
-    "rank": 5558,
+    "scored_by": 17695,
+    "rank": 5555,
     "popularity": 4414,
-    "members": 31483,
+    "members": 31484,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -1767,7 +1797,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12875,
@@ -1781,10 +1812,10 @@
     "background": "",
     "episodes": 39,
     "score": 7.2,
-    "scored_by": 13183,
-    "rank": 3479,
+    "scored_by": 13188,
+    "rank": 3478,
     "popularity": 4575,
-    "members": 29170,
+    "members": 29175,
     "favorites": 151,
     "type": "TV",
     "status": "Finished Airing",
@@ -1816,7 +1847,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13145,
@@ -1868,7 +1900,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12611,
@@ -1884,10 +1917,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.4,
-    "scored_by": 7719,
+    "scored_by": 7720,
     "rank": 7942,
-    "popularity": 4782,
-    "members": 26384,
+    "popularity": 4783,
+    "members": 26385,
     "favorites": 29,
     "type": "TV",
     "status": "Finished Airing",
@@ -1923,58 +1956,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 13231,
-    "title": "Metal Fight Beyblade Zero G",
-    "title_english": "Beyblade: Shogun Steel",
-    "title_japanese": "メタルファイト ベイブレード ZEROG",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/5/37159l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/WCqoLjdZQY4?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Seven years after the Nemesis Crisis, much of the world has been devastated and ruined after the tragic fighting.  As a result, most people lost faith and interest in Beyblading.  Otori Tsubasa, who became leader of the WBBA, made it his life goal to ensure humanity could restore itself, as well as restore the popularity of Beyblading.  He created the Zero-G battling style as a result, and hopes a new generation of bladers will rise up to accept the sport once again.  One of these is a teenager named Zero Kurogane, who aims to become the top blader after having a destined encounter with the hero of the Nemesis Crisis, Ginga Hagane.",
-    "background": "",
-    "episodes": 38,
-    "score": 6.03,
-    "scored_by": 9098,
-    "rank": 10109,
-    "popularity": 5707,
-    "members": 16985,
-    "favorites": 17,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Manga",
-    "studios": [
-      "SynergySP"
-    ],
-    "producers": [
-      "TV Tokyo",
-      "d-rights"
-    ],
-    "licensors": [
-      "Nelvana"
-    ],
-    "genres": [
-      "Adventure",
-      "Sports"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-08T00:00:00+00:00",
-    "aired_to": "2012-12-23T00:00:00+00:00",
-    "broadcast": "Sundays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/13231/Metal_Fight_Beyblade_Zero_G",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12677,
@@ -1990,10 +1973,10 @@
     "background": "",
     "episodes": 6,
     "score": 6.07,
-    "scored_by": 7398,
-    "rank": 9874,
+    "scored_by": 7399,
+    "rank": 9872,
     "popularity": 5793,
-    "members": 16292,
+    "members": 16293,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -2029,7 +2012,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13163,
@@ -2046,7 +2030,7 @@
     "episodes": 258,
     "score": 6.92,
     "scored_by": 2809,
-    "rank": 4893,
+    "rank": 4891,
     "popularity": 6693,
     "members": 11357,
     "favorites": 29,
@@ -2082,7 +2066,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 13159,
@@ -2099,9 +2084,9 @@
     "episodes": 60,
     "score": 6.55,
     "scored_by": 3021,
-    "rank": 6991,
+    "rank": 6990,
     "popularity": 6838,
-    "members": 10786,
+    "members": 10788,
     "favorites": 9,
     "type": "TV",
     "status": "Finished Airing",
@@ -2132,7 +2117,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13141,
@@ -2148,8 +2134,8 @@
     "background": "",
     "episodes": 26,
     "score": 5.7,
-    "scored_by": 4010,
-    "rank": 11814,
+    "scored_by": 4011,
+    "rank": 11815,
     "popularity": 6901,
     "members": 10536,
     "favorites": 10,
@@ -2181,7 +2167,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12863,
@@ -2195,10 +2182,10 @@
     "background": "The main cast in the Pretty Rhythm franchise features fictional characters based on the real-life girl group Prizmmy. In April 2012, an existing arcade game Pretty Rhythm: Aurora Dream was relaunched as Pretty Rhythm: Dear My Future to coincide with its tie-in anime adaptation of the same name. Each episode of the anime series featured a live-action variety show segment titled \"Pretty Rhythm Studio\" featuring the members of Prizmmy.",
     "episodes": 51,
     "score": 6.73,
-    "scored_by": 4196,
-    "rank": 5892,
-    "popularity": 6919,
-    "members": 10476,
+    "scored_by": 4197,
+    "rank": 5891,
+    "popularity": 6920,
+    "members": 10477,
     "favorites": 31,
     "type": "TV",
     "status": "Finished Airing",
@@ -2228,7 +2215,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12123,
@@ -2282,7 +2270,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13139,
@@ -2329,7 +2318,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 12963,
@@ -2377,54 +2367,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 13143,
-    "title": "Baku Tech! Bakugan",
-    "title_english": null,
-    "title_japanese": "爆TECH！爆丸",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1738/129892l.jpg",
-    "trailer_url": null,
-    "synopsis": "Bakugan is the card game for a new generation. In \"Baku TECH\" passionate warriors fight each other and risk their life for Bakugan.",
-    "background": "",
-    "episodes": 51,
-    "score": 5.86,
-    "scored_by": 2138,
-    "rank": 11020,
-    "popularity": 9395,
-    "members": 4836,
-    "favorites": 8,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Manga",
-    "studios": [],
-    "producers": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Shounen"
-    ],
-    "aired_from": "2012-04-07T00:00:00+00:00",
-    "aired_to": "2013-03-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/13143/Baku_Tech_Bakugan",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 18845,
@@ -2438,10 +2382,10 @@
     "background": "",
     "episodes": 52,
     "score": 6.72,
-    "scored_by": 1827,
+    "scored_by": 1826,
     "rank": 5978,
     "popularity": 10481,
-    "members": 3453,
+    "members": 3454,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -2469,7 +2413,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13029,
@@ -2488,7 +2433,7 @@
     "score": 6.64,
     "scored_by": 883,
     "rank": 6470,
-    "popularity": 10983,
+    "popularity": 10987,
     "members": 2992,
     "favorites": 7,
     "type": "TV",
@@ -2526,107 +2471,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 7867,
-    "title": "Gon",
-    "title_english": null,
-    "title_japanese": "ゴン",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1454/150485l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/bTGU_dYJqZc?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "The Gon series features the completely wordless adventures of the irascible title character, a tiny fictional dinosaur, as he interacts with the natural world. Gon somehow survived the extinction of his fellow dinosaurs and interacts with paleolithic animals. \n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 50,
-    "score": 5.98,
-    "scored_by": 984,
-    "rank": 10380,
-    "popularity": 11543,
-    "members": 2553,
-    "favorites": 7,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "G - All Ages",
-    "source": "Manga",
-    "studios": [
-      "Daewon Media"
-    ],
-    "producers": [
-      "Kodansha"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-02T00:00:00+00:00",
-    "aired_to": "2013-03-25T00:00:00+00:00",
-    "broadcast": "Mondays at 18:00 (JST)",
-    "url": "https://myanimelist.net/anime/7867/Gon",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 21997,
-    "title": "Duel Masters Victory V",
-    "title_english": null,
-    "title_japanese": "デュエル・マスターズ ビクトリーV",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1549/105193l.jpg",
-    "trailer_url": null,
-    "synopsis": "This series continues the adventures of Katta Kirifuda, Bucyake and Yohdel throughout the school season. They meet new classmates such as Leo to duel against. \n\n(Source: Duel Masters Wikia)",
-    "background": "",
-    "episodes": 51,
-    "score": 5.81,
-    "scored_by": 358,
-    "rank": 11280,
-    "popularity": 13559,
-    "members": 1406,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [
-      "Shogakukan-Shueisha Productions"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-07T00:00:00+00:00",
-    "aired_to": "2013-03-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/21997/Duel_Masters_Victory_V",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13431,
@@ -2643,8 +2489,8 @@
     "episodes": 38,
     "score": 5.98,
     "scored_by": 175,
-    "rank": 10384,
-    "popularity": 15399,
+    "rank": 10383,
+    "popularity": 15391,
     "members": 868,
     "favorites": 1,
     "type": "TV",
@@ -2674,54 +2520,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 18941,
-    "title": "Shimajirou no Wow!",
-    "title_english": null,
-    "title_japanese": "しまじろうのわお!",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/9/50737l.jpg",
-    "trailer_url": null,
-    "synopsis": "Fourth season of the Shimajirou children's television series.",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 15012,
-    "popularity": 15707,
-    "members": 796,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "8 min",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "The Answer Studio"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-02T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Saturdays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/18941/Shimajirou_no_Wow",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13455,
@@ -2736,8 +2536,8 @@
     "episodes": 32,
     "score": null,
     "scored_by": null,
-    "rank": 17252,
-    "popularity": 17122,
+    "rank": 17253,
+    "popularity": 17124,
     "members": 579,
     "favorites": 2,
     "type": "TV",
@@ -2764,54 +2564,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 13465,
-    "title": "Little Charo: Touhoku-hen",
-    "title_english": "Magical Journey: Little Charo in Tohoku",
-    "title_japanese": "リトル・チャロ～東北編～",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1786/93779l.jpg",
-    "trailer_url": null,
-    "synopsis": "Charo venture around Tono, Iwate, a city in Japan's Tohoku (Northeast) region, attempting to find the Eight-Starred Note in order to prevent the reappearance of the Tenaga-Ashinaga monster of local legend.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 18265,
-    "popularity": 17486,
-    "members": 540,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Spooky graphic"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Educational"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-07T00:00:00+00:00",
-    "aired_to": "2012-06-30T00:00:00+00:00",
-    "broadcast": "Saturdays at 09:20 (JST)",
-    "url": "https://myanimelist.net/anime/13465/Little_Charo__Touhoku-hen",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35317,
@@ -2826,8 +2580,8 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 18699,
-    "popularity": 17769,
+    "rank": 18703,
+    "popularity": 17763,
     "members": 513,
     "favorites": 0,
     "type": "TV",
@@ -2853,98 +2607,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 13463,
-    "title": "Panda no Taputapu",
-    "title_english": null,
-    "title_japanese": "パンダのたぷたぷ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1747/90564l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/PoLIycquDE4?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "A short anime featuring the zodiac animals with a panda named Taputapu as the main character. Each episode is focuses on having a proverb, moral, or uplifting value.",
-    "background": "",
-    "episodes": 431,
-    "score": null,
-    "scored_by": null,
-    "rank": 19386,
-    "popularity": 17878,
-    "members": 502,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "30 sec per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Kachidoki Studio"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-02T00:00:00+00:00",
-    "aired_to": "2013-11-29T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/13463/Panda_no_Taputapu",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 31892,
-    "title": "The Legend of Huainanzi",
-    "title_english": null,
-    "title_japanese": "淮南子传奇",
-    "title_synonyms": [
-      "Huainan Zi Chuanqi"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/13/76794l.jpg",
-    "trailer_url": null,
-    "synopsis": "During the ancient Western Han dynasty (206BC-9AD), a series of disasters caused by occult phenomena swept across the entire world. Huainanzi, the mysterious Chinese book bound in bamboo, was ripped apart and sent through time to different historical junctures. The book pieces were transformed into various objects, waiting to be rediscovered.\n\nA hundred years later, a young man, named Hong Lie, lifts up the burden to collect the missing pieces of the ancient bamboo book. With the help of Ba Gong and his friends going through the Gate of 24 Solar Terms, Hong Lie travels through dynasties to search for the lost pieces.\n\nIn his adventure, Hong Lie and his loyal friends, Ji Ming and Gou Tiao, experienced the greatness of the ancient legends, appreciating the wisdom of the ancestors from Chun Qiu Period, and witnessed all the weird things happening among ordinary people. Warmth and coldness, sadness and happiness, separation and reunion, stories led him to the great world in the book Huainanzi. Through exciting adventures, he also made lifelong friends. In this special way, Hong Lie communicated with ancestors and started to see the principle of world, realizing that obeying the laws of nature and being in harmony with the environment was the right thing to do. A simple collecting journey slowly became a challenging trip for him to go on with his family mission, and inherit the ancestor’s spirit.\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15625,
-    "popularity": 18597,
-    "members": 446,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [],
-    "producers": [
-      "CCTV Animation Group"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [],
-    "aired_from": "2012-04-23T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/31892/The_Legend_of_Huainanzi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 22585,
@@ -2959,8 +2623,8 @@
     "episodes": 24,
     "score": null,
     "scored_by": null,
-    "rank": 19177,
-    "popularity": 18912,
+    "rank": 19178,
+    "popularity": 18916,
     "members": 424,
     "favorites": 0,
     "type": "TV",
@@ -2987,52 +2651,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 13165,
-    "title": "Paboo & Mojies",
-    "title_english": "Paboo & Mojies",
-    "title_japanese": "パブー＆モジーズ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/36873l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/AX5oL3k9OvI?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Paboo is a fun loving and curious boy panda, and he and his group of larger-than-life friends explore and problem-solve in their quirky, imaginative and sometimes zany world! Each episode sees the Mojies (Japanese for letters of the alphabet) and Pappy (the Mojies book fairy of course!) help Paboo to discover the Magic Word and solve the problem of the day!\n\n(Source: Nelvana)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 19373,
-    "popularity": 19179,
-    "members": 402,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Dongwoo A&E"
-    ],
-    "producers": [],
-    "licensors": [
-      "Nelvana"
-    ],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-02T00:00:00+00:00",
-    "aired_to": "2013-03-02T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/13165/Paboo___Mojies",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13459,
@@ -3047,8 +2667,8 @@
     "episodes": 24,
     "score": null,
     "scored_by": null,
-    "rank": 14479,
-    "popularity": 19238,
+    "rank": 14482,
+    "popularity": 19236,
     "members": 398,
     "favorites": 0,
     "type": "TV",
@@ -3073,50 +2693,8 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 40087,
-    "title": "Penguin no Mondai POW",
-    "title_english": null,
-    "title_japanese": "ペンギンの問題POW",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1575/101999l.jpg",
-    "trailer_url": null,
-    "synopsis": "Final Season of Penguin no Mondai.",
-    "background": "",
-    "episodes": 51,
-    "score": null,
-    "scored_by": null,
-    "rank": 19441,
-    "popularity": 21637,
-    "members": 252,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-07T00:00:00+00:00",
-    "aired_to": "2013-03-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/40087/Penguin_no_Mondai_POW",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 24797,
@@ -3133,8 +2711,8 @@
     "episodes": 7,
     "score": null,
     "scored_by": null,
-    "rank": 18073,
-    "popularity": 22095,
+    "rank": 18075,
+    "popularity": 22099,
     "members": 227,
     "favorites": 0,
     "type": "TV",
@@ -3161,432 +2739,8 @@
     "year": null,
     "season": null,
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 43986,
-    "title": "Xi Yangyang Yu Hui Tailang: Jingji Da Lianmeng",
-    "title_english": "Pleasant Goat and Big Big Wolf: The Athletic Carousel",
-    "title_japanese": "喜羊羊與灰太狼之競技大聯盟",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1245/115272l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16248,
-    "popularity": 22869,
-    "members": 190,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-06-30T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/43986/Xi_Yangyang_Yu_Hui_Tailang__Jingji_Da_Lianmeng",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46907,
-    "title": "Dongnan Te Weidui",
-    "title_english": null,
-    "title_japanese": "东南特卫队",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1631/127846l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21075,
-    "popularity": 24162,
-    "members": 146,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-05-01T00:00:00+00:00",
-    "aired_to": "2013-05-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46907/Dongnan_Te_Weidui",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44293,
-    "title": "Gangtie Feilong",
-    "title_english": "Dragon Force",
-    "title_japanese": "钢铁飞龙",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1311/123072l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 50,
-    "score": null,
-    "scored_by": null,
-    "rank": 21491,
-    "popularity": 24416,
-    "members": 140,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "BlueArc Animation Studios"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2012-05-25T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44293/Gangtie_Feilong",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44415,
-    "title": "Shaonian Shiye: Xiayi Huanle Xing",
-    "title_english": null,
-    "title_japanese": "少年师爷之侠义欢乐行",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1612/123100l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14847,
-    "popularity": 24396,
-    "members": 140,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-05-01T00:00:00+00:00",
-    "aired_to": "2012-11-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44415/Shaonian_Shiye__Xiayi_Huanle_Xing",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46402,
-    "title": "Ben Ben You Youji: Mala Xialingying",
-    "title_english": null,
-    "title_japanese": "笨笨悠游记之麻辣夏令营",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1270/129718l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 50,
-    "score": null,
-    "scored_by": null,
-    "rank": 20252,
-    "popularity": 25204,
-    "members": 122,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-01T00:00:00+00:00",
-    "aired_to": "2012-08-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46402/Ben_Ben_You_Youji__Mala_Xialingying",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46332,
-    "title": "Shi Er Shengxiao: Long Xing Tianxia",
-    "title_english": null,
-    "title_japanese": "十二生肖之龙行天下",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1158/131002l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 14948,
-    "popularity": 25628,
-    "members": 115,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-05-01T00:00:00+00:00",
-    "aired_to": "2012-10-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46332/Shi_Er_Shengxiao__Long_Xing_Tianxia",
-    "year": 2012,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44455,
-    "title": "Doby Disy: Ku Bi Xiao Zhentan",
-    "title_english": null,
-    "title_japanese": "逗逗迪迪之酷比小侦探",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1916/122904l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21034,
-    "popularity": 26883,
-    "members": 96,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44455/Doby_Disy__Ku_Bi_Xiao_Zhentan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45975,
-    "title": "Douya Nongchang",
-    "title_english": null,
-    "title_japanese": "豆芽农场",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1897/122713l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 21158,
-    "popularity": 26925,
-    "members": 95,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-06-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45975/Douya_Nongchang",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44476,
-    "title": "Zhihui Zidan Che",
-    "title_english": null,
-    "title_japanese": "智慧子弹车",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1494/122311l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17128,
-    "popularity": 27280,
-    "members": 91,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-04-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44476/Zhihui_Zidan_Che",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46565,
-    "title": "Bu Erduo De Gushi",
-    "title_english": null,
-    "title_japanese": "布耳朵的故事",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1154/131035l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 20391,
-    "popularity": 28317,
-    "members": 81,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2012-06-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46565/Bu_Erduo_De_Gushi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60414,
@@ -3630,6 +2784,7 @@
     "year": 2012,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

@@ -16,11 +16,11 @@
     "background": "",
     "episodes": 64,
     "score": 9.1,
-    "scored_by": 2260504,
+    "scored_by": 2260712,
     "rank": 3,
     "popularity": 3,
-    "members": 3595834,
-    "favorites": 237947,
+    "members": 3596164,
+    "favorites": 237969,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -60,7 +60,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5680,
@@ -77,10 +78,10 @@
     "background": "The series received a Best TV Animation Award at the 2010 Tokyo International Anime Fair.",
     "episodes": 13,
     "score": 7.86,
-    "scored_by": 601263,
+    "scored_by": 601297,
     "rank": 952,
     "popularity": 153,
-    "members": 1109242,
+    "members": 1109318,
     "favorites": 25194,
     "type": "TV",
     "status": "Finished Airing",
@@ -119,7 +120,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5630,
@@ -135,11 +137,11 @@
     "background": "Higashi no Eden won the Animation Kobe Award in the Television category during the Animation Kobe festival in 2009 as well as the best television series of the year award at the ninth annual Tokyo International Anime Fair.",
     "episodes": 11,
     "score": 7.73,
-    "scored_by": 263822,
+    "scored_by": 263833,
     "rank": 1276,
     "popularity": 414,
-    "members": 589424,
-    "favorites": 4274,
+    "members": 589455,
+    "favorites": 4275,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -179,7 +181,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4382,
@@ -197,10 +200,10 @@
     "background": "",
     "episodes": 14,
     "score": 7.23,
-    "scored_by": 318391,
+    "scored_by": 318404,
     "rank": 3339,
     "popularity": 437,
-    "members": 557451,
+    "members": 557488,
     "favorites": 2438,
     "type": "TV",
     "status": "Finished Airing",
@@ -239,7 +242,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5530,
@@ -253,10 +257,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.64,
-    "scored_by": 180124,
-    "rank": 1543,
+    "scored_by": 180130,
+    "rank": 1542,
     "popularity": 569,
-    "members": 448412,
+    "members": 448436,
     "favorites": 5286,
     "type": "TV",
     "status": "Finished Airing",
@@ -292,7 +296,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6033,
@@ -311,11 +316,11 @@
     "background": "Dragon Ball Kai is an edited and condensed version of Dragon Ball Z produced and released in 2009 to coincide with the 20th anniversary of the original series. In addition to its new music tracks and re-recorded voice acting, Toei Animation updated the series' visuals to take advantage of high-definition televisions. The series concluded after 98 episodes, whereas the original Dragon Ball Z took 194 episodes to reach the same point. Kai was continued in 2014 with what is considered its own series, Dragon Ball Kai (2014).",
     "episodes": 97,
     "score": 7.77,
-    "scored_by": 260412,
+    "scored_by": 260434,
     "rank": 1154,
     "popularity": 610,
-    "members": 423774,
-    "favorites": 3895,
+    "members": 423807,
+    "favorites": 3896,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -351,7 +356,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5682,
@@ -365,10 +371,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.92,
-    "scored_by": 130068,
+    "scored_by": 130075,
     "rank": 828,
     "popularity": 753,
-    "members": 351935,
+    "members": 351957,
     "favorites": 4578,
     "type": "TV",
     "status": "Finished Airing",
@@ -405,7 +411,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 5525,
@@ -424,10 +431,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.18,
-    "scored_by": 107200,
-    "rank": 3618,
+    "scored_by": 107201,
+    "rank": 3619,
     "popularity": 1239,
-    "members": 219691,
+    "members": 219692,
     "favorites": 2112,
     "type": "TV",
     "status": "Finished Airing",
@@ -462,7 +469,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5355,
@@ -476,10 +484,10 @@
     "background": "Sengoku Basara is based off of a series of hack-and-slash fighting games by Capcom.",
     "episodes": 12,
     "score": 7.31,
-    "scored_by": 67110,
-    "rank": 2860,
+    "scored_by": 67112,
+    "rank": 2859,
     "popularity": 1583,
-    "members": 168423,
+    "members": 168428,
     "favorites": 959,
     "type": "TV",
     "status": "Finished Airing",
@@ -518,7 +526,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5507,
@@ -534,10 +543,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.56,
-    "scored_by": 56333,
+    "scored_by": 56336,
     "rank": 1806,
-    "popularity": 1871,
-    "members": 136305,
+    "popularity": 1872,
+    "members": 136315,
     "favorites": 617,
     "type": "TV",
     "status": "Finished Airing",
@@ -570,7 +579,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5941,
@@ -624,7 +634,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4192,
@@ -640,10 +651,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.65,
-    "scored_by": 58744,
-    "rank": 1493,
+    "scored_by": 58746,
+    "rank": 1494,
     "popularity": 2066,
-    "members": 119156,
+    "members": 119160,
     "favorites": 469,
     "type": "TV",
     "status": "Finished Airing",
@@ -683,7 +694,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4719,
@@ -700,10 +712,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.12,
-    "scored_by": 38373,
-    "rank": 9609,
+    "scored_by": 38375,
+    "rank": 9610,
     "popularity": 2199,
-    "members": 108446,
+    "members": 108456,
     "favorites": 245,
     "type": "TV",
     "status": "Finished Airing",
@@ -741,7 +753,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5150,
@@ -757,10 +770,10 @@
     "background": "Hatsukoi Limited. was released on DVD as Hatsukoi Limited by Sentai Filmworks on July 31, 2012.",
     "episodes": 12,
     "score": 7.25,
-    "scored_by": 41941,
+    "scored_by": 41945,
     "rank": 3211,
-    "popularity": 2228,
-    "members": 105895,
+    "popularity": 2229,
+    "members": 105926,
     "favorites": 241,
     "type": "TV",
     "status": "Finished Airing",
@@ -799,7 +812,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5342,
@@ -815,10 +829,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.88,
-    "scored_by": 47994,
+    "scored_by": 47996,
     "rank": 5112,
     "popularity": 2253,
-    "members": 104879,
+    "members": 104882,
     "favorites": 177,
     "type": "TV",
     "status": "Finished Airing",
@@ -855,7 +869,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5962,
@@ -907,7 +922,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 5671,
@@ -921,10 +937,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.45,
-    "scored_by": 39438,
-    "rank": 2238,
+    "scored_by": 39439,
+    "rank": 2237,
     "popularity": 2349,
-    "members": 98621,
+    "members": 98625,
     "favorites": 842,
     "type": "TV",
     "status": "Finished Airing",
@@ -967,7 +983,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 3594,
@@ -984,7 +1001,7 @@
     "scored_by": 31927,
     "rank": 3873,
     "popularity": 2632,
-    "members": 81940,
+    "members": 81944,
     "favorites": 180,
     "type": "TV",
     "status": "Finished Airing",
@@ -1019,7 +1036,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5734,
@@ -1035,10 +1053,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.7,
-    "scored_by": 30983,
-    "rank": 6095,
+    "scored_by": 30984,
+    "rank": 6092,
     "popularity": 2817,
-    "members": 73254,
+    "members": 73257,
     "favorites": 127,
     "type": "TV",
     "status": "Finished Airing",
@@ -1072,7 +1090,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5835,
@@ -1086,10 +1105,10 @@
     "background": "",
     "episodes": 39,
     "score": 7.68,
-    "scored_by": 27190,
+    "scored_by": 27192,
     "rank": 1405,
     "popularity": 2832,
-    "members": 72592,
+    "members": 72594,
     "favorites": 614,
     "type": "TV",
     "status": "Finished Airing",
@@ -1125,7 +1144,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5220,
@@ -1142,7 +1162,7 @@
     "scored_by": 21382,
     "rank": 4307,
     "popularity": 2936,
-    "members": 68280,
+    "members": 68284,
     "favorites": 157,
     "type": "TV",
     "status": "Finished Airing",
@@ -1177,7 +1197,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5597,
@@ -1231,7 +1252,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5984,
@@ -1245,10 +1267,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.29,
-    "scored_by": 14642,
-    "rank": 2987,
+    "scored_by": 14644,
+    "rank": 2986,
     "popularity": 3477,
-    "members": 50046,
+    "members": 50058,
     "favorites": 184,
     "type": "TV",
     "status": "Finished Airing",
@@ -1285,7 +1307,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5675,
@@ -1336,7 +1359,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5041,
@@ -1350,10 +1374,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.15,
-    "scored_by": 16134,
-    "rank": 3800,
-    "popularity": 3638,
-    "members": 46447,
+    "scored_by": 16135,
+    "rank": 3799,
+    "popularity": 3639,
+    "members": 46449,
     "favorites": 136,
     "type": "TV",
     "status": "Finished Airing",
@@ -1386,7 +1410,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6024,
@@ -1403,10 +1428,10 @@
     "background": "",
     "episodes": 104,
     "score": 7.71,
-    "scored_by": 12968,
-    "rank": 1317,
+    "scored_by": 12969,
+    "rank": 1316,
     "popularity": 4378,
-    "members": 32066,
+    "members": 32068,
     "favorites": 114,
     "type": "TV",
     "status": "Finished Airing",
@@ -1438,7 +1463,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5504,
@@ -1453,7 +1479,7 @@
     "episodes": 12,
     "score": 7.1,
     "scored_by": 9274,
-    "rank": 4033,
+    "rank": 4035,
     "popularity": 4861,
     "members": 25466,
     "favorites": 41,
@@ -1495,7 +1521,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5226,
@@ -1546,7 +1573,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4657,
@@ -1566,7 +1594,7 @@
     "score": 6.67,
     "scored_by": 6310,
     "rank": 6294,
-    "popularity": 5597,
+    "popularity": 5598,
     "members": 17884,
     "favorites": 32,
     "type": "TV",
@@ -1600,7 +1628,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5485,
@@ -1618,10 +1647,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.64,
-    "scored_by": 6012,
-    "rank": 1514,
+    "scored_by": 6013,
+    "rank": 1515,
     "popularity": 5666,
-    "members": 17325,
+    "members": 17327,
     "favorites": 165,
     "type": "TV",
     "status": "Finished Airing",
@@ -1659,7 +1688,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6008,
@@ -1675,10 +1705,10 @@
     "background": "",
     "episodes": 52,
     "score": 6.82,
-    "scored_by": 4635,
-    "rank": 5398,
+    "scored_by": 4636,
+    "rank": 5397,
     "popularity": 6031,
-    "members": 14597,
+    "members": 14600,
     "favorites": 46,
     "type": "TV",
     "status": "Finished Airing",
@@ -1709,7 +1739,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6117,
@@ -1727,7 +1758,7 @@
     "score": 6.35,
     "scored_by": 2825,
     "rank": 8223,
-    "popularity": 7284,
+    "popularity": 7286,
     "members": 9231,
     "favorites": 20,
     "type": "TV",
@@ -1763,7 +1794,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5494,
@@ -1781,10 +1813,10 @@
     "episodes": 39,
     "score": 7.65,
     "scored_by": 2628,
-    "rank": 1498,
-    "popularity": 7301,
-    "members": 9195,
-    "favorites": 53,
+    "rank": 1499,
+    "popularity": 7303,
+    "members": 9194,
+    "favorites": 54,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1811,7 +1843,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5983,
@@ -1829,7 +1862,7 @@
     "score": 7.06,
     "scored_by": 2719,
     "rank": 4270,
-    "popularity": 8453,
+    "popularity": 8454,
     "members": 6390,
     "favorites": 16,
     "type": "TV",
@@ -1858,7 +1891,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6130,
@@ -1908,7 +1942,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6525,
@@ -1923,8 +1958,8 @@
     "episodes": 10,
     "score": 5.12,
     "scored_by": 1036,
-    "rank": 13583,
-    "popularity": 10396,
+    "rank": 13585,
+    "popularity": 10400,
     "members": 3537,
     "favorites": 3,
     "type": "TV",
@@ -1952,7 +1987,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6116,
@@ -2005,7 +2041,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6119,
@@ -2024,7 +2061,7 @@
     "scored_by": 759,
     "rank": 8705,
     "popularity": 10881,
-    "members": 3086,
+    "members": 3087,
     "favorites": 9,
     "type": "TV",
     "status": "Finished Airing",
@@ -2057,7 +2094,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 6131,
@@ -2101,108 +2139,8 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 6481,
-    "title": "Sugar Bunnies Fleur",
-    "title_english": null,
-    "title_japanese": "シュガーバニーズ フルール",
-    "title_synonyms": [
-      "Sugar Bunnies 3",
-      "Sugarbunnies"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/46117l.jpg",
-    "trailer_url": null,
-    "synopsis": "Sequel to Sugar Bunnies Chocolate!\n\nAired inside the anime corner of the Kitty's Paradise TV block.",
-    "background": "",
-    "episodes": 26,
-    "score": 6.05,
-    "scored_by": 153,
-    "rank": 9975,
-    "popularity": 14753,
-    "members": 1033,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Asahi Production"
-    ],
-    "producers": [
-      "Sanrio"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-04-07T00:00:00+00:00",
-    "aired_to": "2009-09-29T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/6481/Sugar_Bunnies_Fleur",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 7247,
-    "title": "Naked Wolves",
-    "title_english": null,
-    "title_japanese": "ネイキッドウルブズ",
-    "title_synonyms": [
-      "Hadaka no Ookami"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/6/17171l.jpg",
-    "trailer_url": null,
-    "synopsis": "In the Flash-animated television comedy series, a sumo wrestler named Mikoshiarashi travels around the world to train to become the Yokozuna, the Grand Sumo Champion. He meets colorful characters along the way as he is determined to meet his goals.",
-    "background": "",
-    "episodes": 52,
-    "score": 5.63,
-    "scored_by": 303,
-    "rank": 12152,
-    "popularity": 15154,
-    "members": 925,
-    "favorites": 5,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Kate Arrow"
-    ],
-    "producers": [
-      "Pony Canyon",
-      "Kyotoma"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "themes": [
-      "Combat Sports"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-04-06T00:00:00+00:00",
-    "aired_to": "2010-03-28T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/7247/Naked_Wolves",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6658,
@@ -2245,487 +2183,7 @@
     "year": 2009,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 27455,
-    "title": "Porong Porong Pororo 3",
-    "title_english": "Pororo the Little Penguin 3",
-    "title_japanese": "뽀롱뽀롱 뽀로로 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/8/66621l.jpg",
-    "trailer_url": null,
-    "synopsis": "A direct continuation of the second season. This time there are aliens and a robot friend that hangs out with the gang.",
-    "background": "",
-    "episodes": 52,
-    "score": 5.73,
-    "scored_by": 243,
-    "rank": 11668,
-    "popularity": 16682,
-    "members": 634,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-05-04T00:00:00+00:00",
-    "aired_to": "2009-10-27T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/27455/Porong_Porong_Pororo_3",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 17102,
-    "title": "Rolling Seutajeu",
-    "title_english": "Rolling Stars",
-    "title_japanese": "롤링 스타즈",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/2/45851l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14523,
-    "popularity": 19246,
-    "members": 397,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "26 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sports"
-    ],
-    "themes": [
-      "Team Sports"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-04-15T00:00:00+00:00",
-    "aired_to": "2009-10-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/17102/Rolling_Seutajeu",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 29747,
-    "title": "Warai no Show Gakkou",
-    "title_english": null,
-    "title_japanese": "笑いのSHOW学校",
-    "title_synonyms": [
-      "School of Show Laughter"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/6/71661l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 20,
-    "score": null,
-    "scored_by": null,
-    "rank": 16065,
-    "popularity": 20634,
-    "members": 305,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "NHK",
-      "Milky Cartoon",
-      "Opera House"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-03-30T00:00:00+00:00",
-    "aired_to": "2010-03-08T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/29747/Warai_no_Show_Gakkou",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48318,
-    "title": "Iljimae",
-    "title_english": null,
-    "title_japanese": "일지매",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1875/114510l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17278,
-    "popularity": 21038,
-    "members": 284,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Drama",
-      "Romance"
-    ],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [],
-    "aired_from": "2009-05-05T00:00:00+00:00",
-    "aired_to": "2009-11-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48318/Iljimae",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 34182,
-    "title": "Nikoniko♪Connie-chan",
-    "title_english": null,
-    "title_japanese": "ニコニコ♪コニーちゃん",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/82202l.jpg",
-    "trailer_url": null,
-    "synopsis": "The 8-year old character Connie-chan from the Japanese children's block Ponkikki Kids (successor to the famous Hirake! Ponkikki show) gets her own anime now as a 18-year old attending Tokyo University.",
-    "background": "The show was broadcasted in Japanese, English, Chinese, French, and Italian as a language-learning show for Japanese children.",
-    "episodes": 5,
-    "score": null,
-    "scored_by": null,
-    "rank": 19096,
-    "popularity": 21418,
-    "members": 263,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [],
-    "producers": [
-      "Fuji TV"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-04-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/34182/Nikoniko♪Connie-chan",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48301,
-    "title": "Ulineun Myeong-tam-jeong",
-    "title_english": null,
-    "title_japanese": "우리는 명탐정",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1009/115259l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 15944,
-    "popularity": 22762,
-    "members": 194,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Mystery"
-    ],
-    "themes": [
-      "School"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-03-01T00:00:00+00:00",
-    "aired_to": "2010-02-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48301/Ulineun_Myeong-tam-jeong",
-    "year": 2009,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48005,
-    "title": "Dan Dan Zong Dong Yuan",
-    "title_english": null,
-    "title_japanese": "蛋蛋总动员",
-    "title_synonyms": [
-      "Dan Dan Zongdongyuan"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1138/118285l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 300,
-    "score": null,
-    "scored_by": null,
-    "rank": 20899,
-    "popularity": 25275,
-    "members": 121,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-06-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48005/Dan_Dan_Zong_Dong_Yuan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45687,
-    "title": "Hailuo Wan",
-    "title_english": "Conch Bay",
-    "title_japanese": "海螺湾",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1230/115349l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 130,
-    "score": null,
-    "scored_by": null,
-    "rank": 21756,
-    "popularity": 25682,
-    "members": 114,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-04-30T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45687/Hailuo_Wan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45911,
-    "title": "Kala Yuedui",
-    "title_english": "The Early Bird Band",
-    "title_japanese": "卡拉乐队",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1084/115350l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17691,
-    "popularity": 26000,
-    "members": 109,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-04-28T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45911/Kala_Yuedui",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46216,
-    "title": "Shengxiao Chuanqi: Shi Er Shengxiao Chuangjianghu",
-    "title_english": "Kung Fu Masters of the Zodiac: Origins of the Twelve",
-    "title_japanese": "生肖传奇之十二生肖闯江湖",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1212/130939l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 14908,
-    "popularity": 27529,
-    "members": 88,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-05-31T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46216/Shengxiao_Chuanqi__Shi_Er_Shengxiao_Chuangjianghu",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44708,
-    "title": "Hei Lian Da Baogong",
-    "title_english": null,
-    "title_japanese": "黑脸大包公",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1193/129848l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 58,
-    "score": null,
-    "scored_by": null,
-    "rank": 21860,
-    "popularity": 28599,
-    "members": 78,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "8 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2009-05-28T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44708/Hei_Lian_Da_Baogong",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

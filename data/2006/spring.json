@@ -16,11 +16,11 @@
     "background": "In addition to this anime and the source manga, Ouran Koukou Host Club also received a visual novel adaptation for PlayStation 2 in 2007 and Nintendo DS in 2009. Furthermore, it spawned a live-action TV series and film that were released in Japan in 2011 and 2012, respectively.",
     "episodes": 26,
     "score": 8.16,
-    "scored_by": 717358,
+    "scored_by": 717444,
     "rank": 477,
     "popularity": 135,
-    "members": 1206790,
-    "favorites": 36484,
+    "members": 1206890,
+    "favorites": 36490,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -59,7 +59,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 918,
@@ -77,11 +78,11 @@
     "background": "Gintama adapts chapters 1-292 of original manga. The series received high-definition reruns of older episodes by TV Tokyo from April 5, 2010, to March 28, 2011, under the name Yorinuki Gintama-san, which included 51 selected episodes as well as four new opening and ending songs.",
     "episodes": 201,
     "score": 8.93,
-    "scored_by": 417500,
+    "scored_by": 417542,
     "rank": 19,
     "popularity": 146,
-    "members": 1133808,
-    "favorites": 61182,
+    "members": 1133940,
+    "favorites": 61185,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -125,7 +126,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 889,
@@ -139,11 +141,11 @@
     "background": "Black Lagoon was released on DVD by Geneon Entertainment from May 22, 2007 to September 18, 2007. Following a 2008 agreement regarding distribution rights, Funimation Entertainment also published the series in the same format on August 19, 2008. The company later released the anime on Blu-ray on November 17, 2015.",
     "episodes": 12,
     "score": 8.03,
-    "scored_by": 526078,
+    "scored_by": 526111,
     "rank": 657,
     "popularity": 158,
-    "members": 1086377,
-    "favorites": 20347,
+    "members": 1086468,
+    "favorites": 20351,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -179,7 +181,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 849,
@@ -195,11 +198,11 @@
     "background": "Suzumiya Haruhi no Yuuutsu aired in a nonlinear order. During the episode previews, Haruhi announces the chronological position of the next episode, while Kyon announces its position in the broadcast order. See for chronological versus broadcast order.",
     "episodes": 14,
     "score": 7.82,
-    "scored_by": 497814,
+    "scored_by": 497848,
     "rank": 1039,
     "popularity": 195,
-    "members": 965254,
-    "favorites": 15573,
+    "members": 965346,
+    "favorites": 15575,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -238,7 +241,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 934,
@@ -255,11 +259,11 @@
     "background": "Geneon Entertainment USA initially licensed and distributed the first season of Higurashi no Naku Koro ni as When They Cry until their closure in 2007. Funimation later distributed the Geneon release, but dropped the license in 2011 due to poor sales. It remained unlicensed until 2015 when Sentai Filmworks announced that they picked up the series. Higurashi no Naku Koro ni adapts the first six chapters of 07th Expansion's eight-chapter visual novel of the same name.",
     "episodes": 26,
     "score": 7.87,
-    "scored_by": 411372,
+    "scored_by": 411396,
     "rank": 945,
     "popularity": 250,
-    "members": 846016,
-    "favorites": 21899,
+    "members": 846068,
+    "favorites": 21901,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -297,7 +301,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 877,
@@ -311,11 +316,11 @@
     "background": "After the release of the first episode on April 5, 2006, Nana's highest TV rating was 6.3% in the Kanto region, making it the first late-night anime to reach the top 10 of the weekly audience ranking. In Japan, VAP published 17 DVDs of the series between July 7, 2006 and November 21, 2007. In North America, four DVD box sets were released by Viz Media from September 2009 to April 2010. The company also released an English dub version, which premiered on the Funimation Channel on September 19, 2009. Sentai Filmworks licensed the series in 2021 after Viz Media lost its rights. Nana inspired a couple of tribute albums, the most notable of them being \"Love for Nana - Only 1 Tribute,\" which was released by EMI Music Japan on March 16, 2005.",
     "episodes": 47,
     "score": 8.57,
-    "scored_by": 292020,
+    "scored_by": 292073,
     "rank": 117,
     "popularity": 296,
-    "members": 755132,
-    "favorites": 34251,
+    "members": 755269,
+    "favorites": 34258,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -354,7 +359,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 857,
@@ -368,10 +374,10 @@
     "background": "Air Gear adapts chapters 1-103 of the original manga.",
     "episodes": 25,
     "score": 7.48,
-    "scored_by": 185199,
-    "rank": 2127,
+    "scored_by": 185207,
+    "rank": 2126,
     "popularity": 722,
-    "members": 368138,
+    "members": 368153,
     "favorites": 3746,
     "type": "TV",
     "status": "Finished Airing",
@@ -409,7 +415,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 861,
@@ -423,11 +430,11 @@
     "background": "",
     "episodes": 24,
     "score": 7.97,
-    "scored_by": 126683,
+    "scored_by": 126688,
     "rank": 742,
     "popularity": 783,
-    "members": 341707,
-    "favorites": 4795,
+    "members": 341736,
+    "favorites": 4794,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -466,7 +473,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 856,
@@ -482,10 +490,10 @@
     "background": "Both Rikiya Koyama (voice of Hakuoro) and Miyuki Sawashiro (voice of Aruruu) of were nominated as Best Leading Actor and Best Supporting Actress in the first ever Seiyu Awards for their roles in Utawarerumono.",
     "episodes": 26,
     "score": 7.61,
-    "scored_by": 67896,
-    "rank": 1612,
+    "scored_by": 67898,
+    "rank": 1611,
     "popularity": 1485,
-    "members": 180103,
+    "members": 180116,
     "favorites": 1199,
     "type": "TV",
     "status": "Finished Airing",
@@ -521,7 +529,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 846,
@@ -538,7 +547,7 @@
     "scored_by": 95044,
     "rank": 737,
     "popularity": 1568,
-    "members": 170210,
+    "members": 170221,
     "favorites": 826,
     "type": "TV",
     "status": "Finished Airing",
@@ -576,7 +585,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 855,
@@ -590,11 +600,11 @@
     "background": "",
     "episodes": 26,
     "score": 7.26,
-    "scored_by": 60912,
-    "rank": 3166,
+    "scored_by": 60916,
+    "rank": 3165,
     "popularity": 1694,
-    "members": 152527,
-    "favorites": 1922,
+    "members": 152540,
+    "favorites": 1924,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -627,7 +637,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 935,
@@ -641,10 +652,10 @@
     "background": "Witchblade is based on the American comic book series of the same name. Although it is set in the same universe, the story and characters are entirely new.",
     "episodes": 24,
     "score": 7.2,
-    "scored_by": 49612,
-    "rank": 3517,
+    "scored_by": 49616,
+    "rank": 3516,
     "popularity": 2010,
-    "members": 123273,
+    "members": 123284,
     "favorites": 593,
     "type": "TV",
     "status": "Finished Airing",
@@ -682,7 +693,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 969,
@@ -702,7 +714,7 @@
     "scored_by": 60812,
     "rank": 1762,
     "popularity": 2029,
-    "members": 121922,
+    "members": 121933,
     "favorites": 406,
     "type": "TV",
     "status": "Finished Airing",
@@ -738,7 +750,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 957,
@@ -758,10 +771,10 @@
     "background": "",
     "episodes": 39,
     "score": 7.87,
-    "scored_by": 36752,
+    "scored_by": 36754,
     "rank": 931,
     "popularity": 2271,
-    "members": 103495,
+    "members": 103502,
     "favorites": 1180,
     "type": "TV",
     "status": "Finished Airing",
@@ -800,7 +813,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 859,
@@ -814,10 +828,10 @@
     "background": "",
     "episodes": 48,
     "score": 6.97,
-    "scored_by": 54344,
-    "rank": 4684,
+    "scored_by": 54348,
+    "rank": 4682,
     "popularity": 2419,
-    "members": 93490,
+    "members": 93502,
     "favorites": 346,
     "type": "TV",
     "status": "Finished Airing",
@@ -850,7 +864,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 962,
@@ -866,10 +881,10 @@
     "background": "",
     "episodes": 26,
     "score": 8.16,
-    "scored_by": 31644,
+    "scored_by": 31645,
     "rank": 479,
     "popularity": 2591,
-    "members": 84496,
+    "members": 84504,
     "favorites": 824,
     "type": "TV",
     "status": "Finished Airing",
@@ -906,7 +921,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 845,
@@ -922,10 +938,10 @@
     "background": "",
     "episodes": 51,
     "score": 7.28,
-    "scored_by": 34228,
-    "rank": 3044,
+    "scored_by": 34229,
+    "rank": 3042,
     "popularity": 2633,
-    "members": 81868,
+    "members": 81872,
     "favorites": 459,
     "type": "TV",
     "status": "Finished Airing",
@@ -964,7 +980,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 873,
@@ -978,10 +995,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.85,
-    "scored_by": 36267,
-    "rank": 5271,
-    "popularity": 2736,
-    "members": 77025,
+    "scored_by": 36268,
+    "rank": 5273,
+    "popularity": 2737,
+    "members": 77027,
     "favorites": 237,
     "type": "TV",
     "status": "Finished Airing",
@@ -1018,7 +1035,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 953,
@@ -1035,10 +1053,10 @@
     "background": "Jyu Oh Sei aired on Fuji Television's noitaminA block.",
     "episodes": 11,
     "score": 7.17,
-    "scored_by": 33562,
-    "rank": 3654,
+    "scored_by": 33564,
+    "rank": 3652,
     "popularity": 2744,
-    "members": 76795,
+    "members": 76802,
     "favorites": 371,
     "type": "TV",
     "status": "Finished Airing",
@@ -1078,7 +1096,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 940,
@@ -1094,10 +1113,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.21,
-    "scored_by": 29601,
-    "rank": 3407,
+    "scored_by": 29603,
+    "rank": 3406,
     "popularity": 2844,
-    "members": 72031,
+    "members": 72036,
     "favorites": 203,
     "type": "TV",
     "status": "Finished Airing",
@@ -1132,7 +1151,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 850,
@@ -1148,10 +1168,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.44,
-    "scored_by": 32910,
-    "rank": 7696,
+    "scored_by": 32912,
+    "rank": 7698,
     "popularity": 2875,
-    "members": 70879,
+    "members": 70882,
     "favorites": 173,
     "type": "TV",
     "status": "Finished Airing",
@@ -1187,7 +1207,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 880,
@@ -1203,10 +1224,10 @@
     "background": "",
     "episodes": 22,
     "score": 7.53,
-    "scored_by": 36676,
+    "scored_by": 36678,
     "rank": 1907,
     "popularity": 2895,
-    "members": 69964,
+    "members": 69972,
     "favorites": 168,
     "type": "TV",
     "status": "Finished Airing",
@@ -1246,7 +1267,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 907,
@@ -1266,7 +1288,7 @@
     "scored_by": 30404,
     "rank": 4668,
     "popularity": 2941,
-    "members": 68210,
+    "members": 68213,
     "favorites": 280,
     "type": "TV",
     "status": "Finished Airing",
@@ -1301,7 +1323,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 990,
@@ -1319,8 +1342,8 @@
     "score": 7.09,
     "scored_by": 22843,
     "rank": 4082,
-    "popularity": 3487,
-    "members": 49857,
+    "popularity": 3489,
+    "members": 49860,
     "favorites": 90,
     "type": "TV",
     "status": "Finished Airing",
@@ -1354,7 +1377,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 789,
@@ -1409,7 +1433,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 916,
@@ -1423,10 +1448,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.52,
-    "scored_by": 22061,
-    "rank": 7184,
+    "scored_by": 22063,
+    "rank": 7185,
     "popularity": 3544,
-    "members": 48320,
+    "members": 48325,
     "favorites": 112,
     "type": "TV",
     "status": "Finished Airing",
@@ -1467,7 +1492,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 860,
@@ -1484,7 +1510,7 @@
     "episodes": 12,
     "score": 6.7,
     "scored_by": 21222,
-    "rank": 6069,
+    "rank": 6065,
     "popularity": 3651,
     "members": 46182,
     "favorites": 148,
@@ -1522,7 +1548,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 879,
@@ -1539,10 +1566,10 @@
     "background": "A video game based on Simoun titled Simoun Ibara Sensou: Fuuin no Ri Maajon was developed by Marvelous Entertainment and released for the PlayStation 2 in 2007.",
     "episodes": 26,
     "score": 7.41,
-    "scored_by": 12595,
+    "scored_by": 12597,
     "rank": 2425,
     "popularity": 3663,
-    "members": 45857,
+    "members": 45863,
     "favorites": 439,
     "type": "TV",
     "status": "Finished Airing",
@@ -1579,7 +1606,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 863,
@@ -1595,10 +1623,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.56,
-    "scored_by": 15507,
-    "rank": 6962,
-    "popularity": 3950,
-    "members": 39764,
+    "scored_by": 15508,
+    "rank": 6960,
+    "popularity": 3951,
+    "members": 39767,
     "favorites": 71,
     "type": "TV",
     "status": "Finished Airing",
@@ -1636,7 +1664,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1067,
@@ -1653,10 +1682,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.52,
-    "scored_by": 13871,
-    "rank": 7159,
-    "popularity": 4034,
-    "members": 38290,
+    "scored_by": 13873,
+    "rank": 7160,
+    "popularity": 4035,
+    "members": 38294,
     "favorites": 39,
     "type": "TV",
     "status": "Finished Airing",
@@ -1691,7 +1720,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 878,
@@ -1705,10 +1735,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.28,
-    "scored_by": 11638,
-    "rank": 3022,
+    "scored_by": 11639,
+    "rank": 3020,
     "popularity": 4120,
-    "members": 36435,
+    "members": 36440,
     "favorites": 172,
     "type": "TV",
     "status": "Finished Airing",
@@ -1745,7 +1775,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 941,
@@ -1802,7 +1833,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1516,
@@ -1816,10 +1848,10 @@
     "background": "",
     "episodes": 153,
     "score": 7.09,
-    "scored_by": 14577,
+    "scored_by": 14579,
     "rank": 4085,
-    "popularity": 4193,
-    "members": 35212,
+    "popularity": 4194,
+    "members": 35217,
     "favorites": 281,
     "type": "TV",
     "status": "Finished Airing",
@@ -1856,7 +1888,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 910,
@@ -1872,10 +1905,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.3,
-    "scored_by": 8137,
-    "rank": 8524,
+    "scored_by": 8138,
+    "rank": 8525,
     "popularity": 4823,
-    "members": 25907,
+    "members": 25909,
     "favorites": 17,
     "type": "TV",
     "status": "Finished Airing",
@@ -1912,62 +1945,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 854,
-    "title": "Soul Link",
-    "title_english": null,
-    "title_japanese": "Soul Link",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1730/133955l.jpg",
-    "trailer_url": null,
-    "synopsis": "Aizawa Ryota was in the 3rd grade of the preparatory course of Central Military Academy. In 2045 AD, he went to a space station, Aries, for the training with his classmates including Nagase Saka and Nittak Kazuhiko. However, the station was attacked by a terrorist group, Hallarax. Now they must find a way back to earth. \n\n(Source: ANN)",
-    "background": "",
-    "episodes": 12,
-    "score": 6.08,
-    "scored_by": 8794,
-    "rank": 9801,
-    "popularity": 4988,
-    "members": 23754,
-    "favorites": 21,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "R - 17+ (violence & profanity)",
-    "source": "Visual novel",
-    "studios": [
-      "Picture Magic"
-    ],
-    "producers": [
-      "Mellow Head",
-      "Geneon Entertainment"
-    ],
-    "licensors": [
-      "Discotek Media"
-    ],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Romance",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Military",
-      "Space"
-    ],
-    "demographics": [],
-    "aired_from": "2006-04-02T00:00:00+00:00",
-    "aired_to": "2006-06-25T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/854/Soul_Link",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 944,
@@ -1981,10 +1960,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.29,
-    "scored_by": 8400,
+    "scored_by": 8401,
     "rank": 3000,
     "popularity": 5040,
-    "members": 23333,
+    "members": 23335,
     "favorites": 97,
     "type": "TV",
     "status": "Finished Airing",
@@ -2017,7 +1996,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 942,
@@ -2033,10 +2013,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.65,
-    "scored_by": 6657,
-    "rank": 6428,
+    "scored_by": 6658,
+    "rank": 6429,
     "popularity": 5263,
-    "members": 20997,
+    "members": 21001,
     "favorites": 51,
     "type": "TV",
     "status": "Finished Airing",
@@ -2075,7 +2055,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 919,
@@ -2092,10 +2073,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.59,
-    "scored_by": 4537,
-    "rank": 6733,
+    "scored_by": 4538,
+    "rank": 6732,
     "popularity": 5828,
-    "members": 16001,
+    "members": 16003,
     "favorites": 17,
     "type": "TV",
     "status": "Finished Airing",
@@ -2130,7 +2111,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2214,
@@ -2149,7 +2131,7 @@
     "scored_by": 5614,
     "rank": 1912,
     "popularity": 6004,
-    "members": 14774,
+    "members": 14778,
     "favorites": 68,
     "type": "TV",
     "status": "Finished Airing",
@@ -2184,7 +2166,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 973,
@@ -2204,7 +2187,7 @@
     "score": 6.51,
     "scored_by": 4054,
     "rank": 7237,
-    "popularity": 6242,
+    "popularity": 6243,
     "members": 13390,
     "favorites": 20,
     "type": "TV",
@@ -2239,7 +2222,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1410,
@@ -2254,9 +2238,9 @@
     "episodes": 13,
     "score": 7.24,
     "scored_by": 5801,
-    "rank": 3238,
+    "rank": 3239,
     "popularity": 6497,
-    "members": 12154,
+    "members": 12156,
     "favorites": 27,
     "type": "TV",
     "status": "Finished Airing",
@@ -2290,7 +2274,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2619,
@@ -2307,9 +2292,9 @@
     "episodes": 26,
     "score": 6.57,
     "scored_by": 4492,
-    "rank": 6908,
+    "rank": 6907,
     "popularity": 6855,
-    "members": 10715,
+    "members": 10717,
     "favorites": 36,
     "type": "TV",
     "status": "Finished Airing",
@@ -2343,7 +2328,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 943,
@@ -2359,10 +2345,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.43,
-    "scored_by": 3056,
-    "rank": 7764,
+    "scored_by": 3057,
+    "rank": 7766,
     "popularity": 7019,
-    "members": 10202,
+    "members": 10206,
     "favorites": 15,
     "type": "TV",
     "status": "Finished Airing",
@@ -2394,7 +2380,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1881,
@@ -2412,8 +2399,8 @@
     "score": 6.58,
     "scored_by": 3135,
     "rank": 6822,
-    "popularity": 7204,
-    "members": 9526,
+    "popularity": 7203,
+    "members": 9532,
     "favorites": 18,
     "type": "TV",
     "status": "Finished Airing",
@@ -2447,7 +2434,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1070,
@@ -2465,8 +2453,8 @@
     "episodes": 25,
     "score": 6.49,
     "scored_by": 2433,
-    "rank": 7361,
-    "popularity": 7245,
+    "rank": 7359,
+    "popularity": 7247,
     "members": 9365,
     "favorites": 9,
     "type": "TV",
@@ -2496,60 +2484,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 1200,
-    "title": "Gun-dou Musashi",
-    "title_english": "Gun Samurai",
-    "title_japanese": "GUN道 MUSASHI",
-    "title_synonyms": [
-      "Gundou Musashi",
-      "MUSASHI -GUN-",
-      "Musashi-GUNDOH",
-      "Musashi: The Way of the Gun"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/28268l.jpg",
-    "trailer_url": null,
-    "synopsis": "The war over control of a unified Japan, the Sengoku Era, is over and the Toyotomi army has won. Toyotomi has allowed his rival, Tokugawa, to live but since that final battle an evil ayakashi named Yasha reveals to Tokugawa that history says that he should have won the war instead of Toyotomi. Tokugawa agrees to the evil ayakashi power Yasha offers him, and the only person who can stop Tokugawa from ruling Japan and killing Princess Kaguya, who is the link to this alternate present, is Musashi Miyamoto, a young and brash man who follows the way of \"Gun-do\", which mixes together swordfighting with gunplay.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 26,
-    "score": 5.43,
-    "scored_by": 1404,
-    "rank": 12807,
-    "popularity": 7314,
-    "members": 9169,
-    "favorites": 23,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "ACC Production"
-    ],
-    "producers": [
-      "TBS"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [
-      "Samurai"
-    ],
-    "demographics": [],
-    "aired_from": "2006-04-09T00:00:00+00:00",
-    "aired_to": "2006-10-08T00:00:00+00:00",
-    "broadcast": "Sundays at 09:30 (JST)",
-    "url": "https://myanimelist.net/anime/1200/Gun-dou_Musashi",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2713,
@@ -2566,9 +2502,9 @@
     "episodes": 26,
     "score": 6.78,
     "scored_by": 2629,
-    "rank": 5640,
+    "rank": 5639,
     "popularity": 8003,
-    "members": 7285,
+    "members": 7286,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -2598,7 +2534,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1886,
@@ -2650,7 +2587,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4114,
@@ -2666,7 +2604,7 @@
     "score": 7.36,
     "scored_by": 2118,
     "rank": 2621,
-    "popularity": 8149,
+    "popularity": 8150,
     "members": 6967,
     "favorites": 45,
     "type": "TV",
@@ -2696,7 +2634,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13679,
@@ -2714,9 +2653,9 @@
     "episodes": 77,
     "score": 6.77,
     "scored_by": 2395,
-    "rank": 5668,
-    "popularity": 8557,
-    "members": 6169,
+    "rank": 5665,
+    "popularity": 8561,
+    "members": 6170,
     "favorites": 10,
     "type": "TV",
     "status": "Finished Airing",
@@ -2746,7 +2685,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 965,
@@ -2763,9 +2703,9 @@
     "episodes": 13,
     "score": 6.75,
     "scored_by": 2181,
-    "rank": 5817,
-    "popularity": 8712,
-    "members": 5950,
+    "rank": 5816,
+    "popularity": 8713,
+    "members": 5952,
     "favorites": 5,
     "type": "TV",
     "status": "Finished Airing",
@@ -2797,7 +2737,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 20945,
@@ -2845,7 +2786,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 968,
@@ -2894,7 +2836,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2786,
@@ -2912,9 +2855,9 @@
     "episodes": 51,
     "score": 6.62,
     "scored_by": 1063,
-    "rank": 6591,
-    "popularity": 9833,
-    "members": 4235,
+    "rank": 6590,
+    "popularity": 9832,
+    "members": 4237,
     "favorites": 16,
     "type": "TV",
     "status": "Finished Airing",
@@ -2950,7 +2893,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1884,
@@ -3000,7 +2944,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1771,
@@ -3019,8 +2964,8 @@
     "score": 6.52,
     "scored_by": 1151,
     "rank": 7177,
-    "popularity": 10976,
-    "members": 2995,
+    "popularity": 10978,
+    "members": 2996,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -3052,57 +2997,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 1872,
-    "title": "Saru Getchu: On Air",
-    "title_english": "Ape Escape",
-    "title_japanese": "サルゲッチュ ～オンエアー～",
-    "title_synonyms": [
-      "Saru! Get You: On Air"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1060/143402l.jpg",
-    "trailer_url": null,
-    "synopsis": "An evil monkey, Specter, has escaped a circus, using a mind-controlling device which allows him to become smarter and have access to controlling the monkeys. Kakeru is called over by a professor in order to capture all the monkeys, including the one's who's controlling them: Specter.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 26,
-    "score": 6.01,
-    "scored_by": 420,
-    "rank": 10203,
-    "popularity": 13282,
-    "members": 1510,
-    "favorites": 5,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Game",
-    "studios": [
-      "Xebec"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-08T00:00:00+00:00",
-    "aired_to": "2006-09-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/1872/Saru_Getchu__On_Air",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4737,
@@ -3119,9 +3015,9 @@
     "episodes": 11,
     "score": 6.09,
     "scored_by": 394,
-    "rank": 9753,
-    "popularity": 13373,
-    "members": 1475,
+    "rank": 9750,
+    "popularity": 13370,
+    "members": 1476,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -3152,55 +3048,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 11521,
-    "title": "Hello Kitty: Ringo no Mori no Fantasy",
-    "title_english": "Hello Kitty: The Fantasy of the Apple Forest",
-    "title_japanese": "ハローキティ りんごの森のファンタジー",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/32139l.jpg",
-    "trailer_url": null,
-    "synopsis": "Kitty and Mimmy come upon the Apple Forest thanks to the help of a forest fairy. The fairy kingdom welcomes them as the \"Twin Heroines\" and ask that they save the princess. The key to the rescue is a golden apple and so the sisters' adventure begins.",
-    "background": "Short anime aired inside the anime corner of the Kitty's Paradise TV block.",
-    "episodes": 13,
-    "score": 6.04,
-    "scored_by": 405,
-    "rank": 10076,
-    "popularity": 13647,
-    "members": 1372,
-    "favorites": 6,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Asahi Production"
-    ],
-    "producers": [
-      "Sanrio"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-04T00:00:00+00:00",
-    "aired_to": "2006-09-19T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/11521/Hello_Kitty__Ringo_no_Mori_no_Fantasy",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6077,
@@ -3216,7 +3065,7 @@
     "score": 5.63,
     "scored_by": 302,
     "rank": 12120,
-    "popularity": 14329,
+    "popularity": 14335,
     "members": 1148,
     "favorites": 0,
     "type": "TV",
@@ -3244,345 +3093,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 2024,
-    "title": "Yoshimune",
-    "title_english": null,
-    "title_japanese": "吉宗",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1/2243l.jpg",
-    "trailer_url": null,
-    "synopsis": "It is the end of the Edo Era, a flourishing period when stylish civilians, samurai and old-fashioned farmers live peacefully together.\n\nHowever, if you take a closer look at their lives, you'll notice that it is actually a parallel world in which modern conveniences, such as cellular phones, personal computers, microwave ovens, motorcycles, subways, and so on, exist. If you enter a night club, you'll find young people dancing to blaring trance music. However, you will also find that they wear kimonos, that the darkness is illuminated by candles, and that the stage is covered by tatami mats! While the people reflect the fashions and manners of the Edo Era, they reside within a strange world where the \"present\" and the \"past\" coexist.\n\nWelcome to the Yoshimune world that no one has ever seen! \n\n(Source: AnimeNfo)",
-    "background": "",
-    "episodes": 24,
-    "score": 5.87,
-    "scored_by": 242,
-    "rank": 10953,
-    "popularity": 14921,
-    "members": 988,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [
-      "AIC Spirits",
-      "Ginga Ya",
-      "Gonzino"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [],
-    "aired_from": "2006-04-06T00:00:00+00:00",
-    "aired_to": "2006-09-14T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/2024/Yoshimune",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 10525,
-    "title": "Shinseiki Duel Masters Flash",
-    "title_english": null,
-    "title_japanese": "新星輝デュエル・マスターズ フラッシュ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1512/105202l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 24,
-    "score": 5.65,
-    "scored_by": 219,
-    "rank": 12036,
-    "popularity": 15023,
-    "members": 959,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "21 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "SynergySP"
-    ],
-    "producers": [
-      "G&G Entertainment"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-10T00:00:00+00:00",
-    "aired_to": "2007-03-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/10525/Shinseiki_Duel_Masters_Flash",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 1739,
-    "title": "Shibawanko no Wa no Kokoro",
-    "title_english": null,
-    "title_japanese": "しばわんこの和のこころ",
-    "title_synonyms": [
-      "Shibawanko's Spirit of Wa",
-      "Shibawanko's Japanese Spirit",
-      "Shibawanko's Spirit of Tradition"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/7064l.jpg",
-    "trailer_url": null,
-    "synopsis": "Based on a japanese children`s book by Yoshie Kawaura.\n\nShiba-wanko, a Shiba-inu dog, and Miike-nyanko, a calico cat, live together in a classic Japanese-style house with the traditional Japanese alcove called a tokonoma. Shiba-wanko is a very gentle and hardworking soul who does all of the cleaning, laundry and cooking in the house. Miike-nyanko is a different type all together, being rather temperamental and not very good with housework. Together, these two learn the manners and customs associated with events such as the proper Japanese way to treat one`s guests, preparing for a Japanese New Year and how to enjoy the kimono, the traditional Japanese costume. Each chapter covers a specific topic which has to do with living in \"Wa\" (the Japanese-style spirit of peace and harmony) throughout the changing seasons.\n\n(Source: AniDB)",
-    "background": "",
-    "episodes": 80,
-    "score": null,
-    "scored_by": null,
-    "rank": 14980,
-    "popularity": 15331,
-    "members": 880,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "Three-d"
-    ],
-    "producers": [
-      "Hakusensha",
-      "NHK Enterprises"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Educational"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-05T00:00:00+00:00",
-    "aired_to": "2007-03-14T00:00:00+00:00",
-    "broadcast": "Wednesdays at 23:00 (JST)",
-    "url": "https://myanimelist.net/anime/1739/Shibawanko_no_Wa_no_Kokoro",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 5821,
-    "title": "Zenmai Zamurai",
-    "title_english": null,
-    "title_japanese": "ぜんまいざむらい",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/88766l.jpg",
-    "trailer_url": null,
-    "synopsis": "200 years ago, Zenmai Zamurai was a thief by profession. While stealing from a house one night, he fell down a well and died. He was then resurrected by Daifukunokami and a wind-up key was placed on his head. If the key wound down, Zennosuke would die. The only way the key can be wound is by Zennosuke doing good deeds. In order to achieve this end, he is given the Dango-ken, which is a sword with Japanese Dumplings skewered onto it. Whenever Zenmai Zamurai sees people doing injustice or generally being out of control, he uses his sword to shoot the dumplings into their mouths. When the dumplings are eaten, the people suddenly become happy and realize the error of their ways. He helps out the people of his village in many ways, big and small. Whenever he has done well, a rainbow comes out of the sky to wind up his key.\n\n-Wikipedia",
-    "background": "",
-    "episodes": 215,
-    "score": 5.85,
-    "scored_by": 239,
-    "rank": 11094,
-    "popularity": 15573,
-    "members": 826,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "A-1 Pictures",
-      "No Side"
-    ],
-    "producers": [
-      "Aniplex"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-03T00:00:00+00:00",
-    "aired_to": "2009-02-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/5821/Zenmai_Zamurai",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 5374,
-    "title": "Miracle! Mimika",
-    "title_english": "Miracle! Mimika",
-    "title_japanese": "味楽る!ミミカ",
-    "title_synonyms": [
-      "Miracle Mimika"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/4/10993l.jpg",
-    "trailer_url": null,
-    "synopsis": "Himeno Mimika is a daughter of historical cook family. She goes to a cooking school, Miracle Academy which train cooks all over the world. Vying with rivals, she brings out her gift, and she grows up as a cook.  \n\n(Source: AnimeNfo)",
-    "background": "",
-    "episodes": 225,
-    "score": null,
-    "scored_by": null,
-    "rank": 18736,
-    "popularity": 16498,
-    "members": 661,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Digital Media Lab"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [
-      "Gourmet",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-03T00:00:00+00:00",
-    "aired_to": "2009-03-13T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/5374/Miracle_Mimika",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 28087,
-    "title": "Ehon Yose",
-    "title_english": null,
-    "title_japanese": "えほん寄席",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/67979l.jpg",
-    "trailer_url": null,
-    "synopsis": "Anime rakugo of classic Japanese horror tales shown in a wide variety of art styles.",
-    "background": "",
-    "episodes": 73,
-    "score": null,
-    "scored_by": null,
-    "rank": 21235,
-    "popularity": 17295,
-    "members": 561,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [
-      "NHK",
-      "Pony Canyon"
-    ],
-    "licensors": [],
-    "genres": [
-      "Horror"
-    ],
-    "themes": [
-      "Historical",
-      "Performing Arts"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-01T00:00:00+00:00",
-    "aired_to": "2023-11-11T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/28087/Ehon_Yose",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 17613,
-    "title": "Poka Poka Mori no Rascal",
-    "title_english": null,
-    "title_japanese": "ぽかぽか森のラスカル",
-    "title_synonyms": [
-      "Rascal in the Snag Forest"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/7/47039l.jpg",
-    "trailer_url": null,
-    "synopsis": "Rascal is an energetic racoon, who lives in a secret forest called \"The Snag Forest\".\nAlthough sometimes his mother scolds him when he does mischief, the engaging and kind personality of Rascal always makes him popular in the forest.\nThis series depicts everyday adventures of Rascal, and his cheerful friends such as Rilulu, a cute girl racoon, Rock'n, a skunk who loves to play music, Iggy, a mouse who always eats nuts and a lot more!!\n\n(Source: AniDB)",
-    "background": "",
-    "episodes": 52,
-    "score": 5.64,
-    "scored_by": 112,
-    "rank": 12099,
-    "popularity": 17668,
-    "members": 523,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "Nippon Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-01T00:00:00+00:00",
-    "aired_to": "2007-03-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/17613/Poka_Poka_Mori_no_Rascal",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3414,
@@ -3628,7 +3140,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 13503,
@@ -3646,8 +3159,8 @@
     "episodes": 11,
     "score": null,
     "scored_by": null,
-    "rank": 20764,
-    "popularity": 18165,
+    "rank": 20765,
+    "popularity": 18166,
     "members": 479,
     "favorites": 0,
     "type": "TV",
@@ -3674,106 +3187,8 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 9821,
-    "title": "McDull: Chuntian Huahua Zhonghua Bowuguan",
-    "title_english": null,
-    "title_japanese": "春田花花中華博物館",
-    "title_synonyms": [
-      "McDull and Chinese Culture"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/7/27240l.jpg",
-    "trailer_url": null,
-    "synopsis": "Featuring McDull going through Chinese cultures with children.",
-    "background": "",
-    "episodes": 5,
-    "score": null,
-    "scored_by": null,
-    "rank": 18507,
-    "popularity": 19271,
-    "members": 394,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "RTHK"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Anthropomorphic",
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-04-01T00:00:00+00:00",
-    "aired_to": "2006-05-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/9821/McDull__Chuntian_Huahua_Zhonghua_Bowuguan",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 49555,
-    "title": "Tama & Friends: Sagase! Mahou no Punipuni Stone",
-    "title_english": null,
-    "title_japanese": "タマ&フレンズ 探せ!魔法のプニプニストーン",
-    "title_synonyms": [
-      "Tama & Friends: Search for It! The Magic Puni-Puni Stone"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1774/116974l.jpg",
-    "trailer_url": null,
-    "synopsis": "A spin-off of Tama &amp; Friends taking place in a fantasy world. Tama, along with his friends Shima and Hat, have to find magic stones accross the universe.\n\n(Source: Anilist)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15515,
-    "popularity": 19749,
-    "members": 361,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "Group TAC",
-      "Dongwoo A&E"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-05-06T00:00:00+00:00",
-    "aired_to": "2006-11-04T00:00:00+00:00",
-    "broadcast": "Saturdays at Unknown",
-    "url": "https://myanimelist.net/anime/49555/Tama___Friends__Sagase_Mahou_no_Punipuni_Stone",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 32417,
@@ -3788,8 +3203,8 @@
     "episodes": 25,
     "score": null,
     "scored_by": null,
-    "rank": 20636,
-    "popularity": 20595,
+    "rank": 20639,
+    "popularity": 20600,
     "members": 307,
     "favorites": 0,
     "type": "TV",
@@ -3814,139 +3229,7 @@
     "year": 2006,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52370,
-    "title": "Lao Fu Zi: Mojie Meng Zhanji II",
-    "title_english": "Old Master Q Series 2: Fantasy Zone Battle",
-    "title_japanese": "老夫子之魔界夢戰記 II",
-    "title_synonyms": [
-      "Old Master Q Fantasy Zone Battle II"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1683/125320l.jpg",
-    "trailer_url": null,
-    "synopsis": "A continuation of the first season. Old Master Q, Big Potato, and Mr. Chin transport into various classic storyworlds to rescue their father and save the story from being ruined by the Devil King.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 18166,
-    "popularity": 23710,
-    "members": 159,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "G - All Ages",
-    "source": "4-koma manga",
-    "studios": [
-      "Puzzle Animation Studio Limited"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2006-06-01T00:00:00+00:00",
-    "aired_to": "2006-06-16T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/52370/Lao_Fu_Zi__Mojie_Meng_Zhanji_II",
-    "year": 2006,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44351,
-    "title": "Jingling Shiji",
-    "title_english": "Century Sonny",
-    "title_japanese": "精灵世纪",
-    "title_synonyms": [
-      "Wizard Century"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1896/123078l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17468,
-    "popularity": 27186,
-    "members": 91,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2006-05-15T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44351/Jingling_Shiji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44374,
-    "title": "Huazhi De Gushi",
-    "title_english": null,
-    "title_japanese": "花枝的故事",
-    "title_synonyms": [
-      "The Story of Huazhi"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1474/123088l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "rank": 22136,
-    "popularity": 28203,
-    "members": 82,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-06-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44374/Huazhi_De_Gushi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

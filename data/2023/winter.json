@@ -11,11 +11,11 @@
     "background": "Vinland Saga Season 2 was released on Blu-ray and DVD in two volumes from June 21, 2023, to August 23, 2023.",
     "episodes": 24,
     "score": 8.82,
-    "scored_by": 444446,
+    "scored_by": 444608,
     "rank": 34,
     "popularity": 272,
-    "members": 797401,
-    "favorites": 19242,
+    "members": 797821,
+    "favorites": 19247,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -53,7 +53,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52305,
@@ -67,10 +68,10 @@
     "background": "Tomo-chan wa Onnanoko! was released on Blu-ray and DVD in six volumes from January 25, 2023, to June 28, 2023.",
     "episodes": 13,
     "score": 7.73,
-    "scored_by": 254058,
-    "rank": 1267,
+    "scored_by": 254113,
+    "rank": 1266,
     "popularity": 516,
-    "members": 484189,
+    "members": 484287,
     "favorites": 3189,
     "type": "TV",
     "status": "Finished Airing",
@@ -105,7 +106,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50608,
@@ -119,10 +121,10 @@
     "background": "Tokyo Revengers: Seiya Kessen-hen was released on Blu-ray and DVD in three volumes from March 15, 2023, to May 24, 2023.",
     "episodes": 13,
     "score": 7.62,
-    "scored_by": 185690,
+    "scored_by": 185733,
     "rank": 1599,
     "popularity": 624,
-    "members": 414316,
+    "members": 414383,
     "favorites": 2576,
     "type": "TV",
     "status": "Finished Airing",
@@ -162,7 +164,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50739,
@@ -218,7 +221,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48417,
@@ -284,7 +288,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50330,
@@ -298,10 +303,10 @@
     "background": "Bungou Stray Dogs 4th Season was released on Blu-ray and DVD in four volumes from March 24, 2023, to June 28, 2023. This season adapts chapters 54 to 77 of the manga.",
     "episodes": 13,
     "score": 8.42,
-    "scored_by": 141200,
+    "scored_by": 141253,
     "rank": 194,
     "popularity": 771,
-    "members": 345772,
+    "members": 345881,
     "favorites": 3392,
     "type": "TV",
     "status": "Finished Airing",
@@ -344,7 +349,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53411,
@@ -358,11 +364,11 @@
     "background": "Buddy Daddies was released on Blu-ray and DVD in six volumes from March 22, 2023, to August 23, 2023.",
     "episodes": 12,
     "score": 8.1,
-    "scored_by": 152655,
+    "scored_by": 152697,
     "rank": 546,
-    "popularity": 796,
-    "members": 337987,
-    "favorites": 3525,
+    "popularity": 795,
+    "members": 338064,
+    "favorites": 3527,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -401,7 +407,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51105,
@@ -451,7 +458,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50197,
@@ -508,7 +516,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53446,
@@ -525,11 +534,11 @@
     "background": "Tondemo Skill de Isekai Hourou Meshi was released on Blu-ray and DVD in three volumes from April 26, 2023, to June 28, 2023.",
     "episodes": 12,
     "score": 7.64,
-    "scored_by": 165691,
-    "rank": 1515,
-    "popularity": 883,
-    "members": 309522,
-    "favorites": 2308,
+    "scored_by": 165798,
+    "rank": 1516,
+    "popularity": 882,
+    "members": 309704,
+    "favorites": 2310,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -563,7 +572,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53111,
@@ -623,7 +633,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51462,
@@ -637,11 +648,11 @@
     "background": "Isekai Nonbiri Nouka was released on Blu-ray and DVD in two volumes from April 19, 2023, to May 24, 2023.",
     "episodes": 12,
     "score": 7.53,
-    "scored_by": 137413,
+    "scored_by": 137490,
     "rank": 1924,
     "popularity": 1001,
-    "members": 271368,
-    "favorites": 2121,
+    "members": 271456,
+    "favorites": 2124,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -678,7 +689,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41514,
@@ -743,7 +755,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50932,
@@ -759,10 +772,10 @@
     "background": "Saikyou Onmyouji no Isekai Tenseiki was released on Blu-ray and DVD on May 26, 2023.",
     "episodes": 13,
     "score": 7.1,
-    "scored_by": 136692,
-    "rank": 4031,
-    "popularity": 1030,
-    "members": 264295,
+    "scored_by": 136730,
+    "rank": 4033,
+    "popularity": 1031,
+    "members": 264349,
     "favorites": 1024,
     "type": "TV",
     "status": "Finished Airing",
@@ -800,7 +813,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52173,
@@ -814,11 +828,11 @@
     "background": "Koori Zokusei Danshi to Cool na Douryou Joshi was released on Blu-ray in four volumes from April 28, 2023, to July 27, 2023.",
     "episodes": 12,
     "score": 7.31,
-    "scored_by": 102460,
-    "rank": 2900,
+    "scored_by": 102492,
+    "rank": 2898,
     "popularity": 1090,
-    "members": 249590,
-    "favorites": 1295,
+    "members": 249652,
+    "favorites": 1296,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -861,7 +875,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51815,
@@ -878,11 +893,11 @@
     "background": "Kubo-san wa Mob wo Yurusanai was released on Blu-ray and DVD in two volumes from April 26, 2023, to June 28, 2023.",
     "episodes": 12,
     "score": 7.55,
-    "scored_by": 97341,
-    "rank": 1864,
+    "scored_by": 97361,
+    "rank": 1863,
     "popularity": 1122,
-    "members": 243657,
-    "favorites": 1688,
+    "members": 243687,
+    "favorites": 1689,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -924,7 +939,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52736,
@@ -941,11 +957,11 @@
     "background": "Tensei Oujo to Tensai Reijou no Mahou Kakumei was released on Blu-ray and DVD in two boxes from March 24, 2023, to May 24, 2023.",
     "episodes": 12,
     "score": 7.46,
-    "scored_by": 105353,
-    "rank": 2191,
+    "scored_by": 105373,
+    "rank": 2190,
     "popularity": 1225,
-    "members": 221545,
-    "favorites": 1722,
+    "members": 221583,
+    "favorites": 1724,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -981,7 +997,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52093,
@@ -995,11 +1012,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.83,
-    "scored_by": 84396,
-    "rank": 1035,
+    "scored_by": 84423,
+    "rank": 1034,
     "popularity": 1232,
-    "members": 221101,
-    "favorites": 2487,
+    "members": 221157,
+    "favorites": 2488,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1032,7 +1049,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 50854,
@@ -1046,10 +1064,10 @@
     "background": "Benriya Saitou-san, Isekai ni Iku was released on Blu-ray and DVD in three volumes from March 24, 2023, to May 24, 2023.",
     "episodes": 12,
     "score": 7.37,
-    "scored_by": 98947,
+    "scored_by": 98966,
     "rank": 2588,
-    "popularity": 1261,
-    "members": 215242,
+    "popularity": 1260,
+    "members": 215305,
     "favorites": 796,
     "type": "TV",
     "status": "Finished Airing",
@@ -1086,7 +1104,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51711,
@@ -1100,10 +1119,10 @@
     "background": "Hyouken no Majutsushi ga Sekai wo Suberu was released on Blu-ray on April 26, 2023.",
     "episodes": 12,
     "score": 6.36,
-    "scored_by": 99469,
-    "rank": 8153,
+    "scored_by": 99487,
+    "rank": 8155,
     "popularity": 1300,
-    "members": 207907,
+    "members": 207945,
     "favorites": 831,
     "type": "TV",
     "status": "Finished Airing",
@@ -1143,7 +1162,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49612,
@@ -1160,10 +1180,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.33,
-    "scored_by": 83346,
-    "rank": 8341,
+    "scored_by": 83357,
+    "rank": 8340,
     "popularity": 1352,
-    "members": 200022,
+    "members": 200066,
     "favorites": 716,
     "type": "TV",
     "status": "Finished Airing",
@@ -1201,7 +1221,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44204,
@@ -1218,10 +1239,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.35,
-    "scored_by": 55083,
-    "rank": 2677,
+    "scored_by": 55097,
+    "rank": 2675,
     "popularity": 1463,
-    "members": 182595,
+    "members": 182621,
     "favorites": 598,
     "type": "TV",
     "status": "Finished Airing",
@@ -1264,7 +1285,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 52446,
@@ -1278,10 +1300,10 @@
     "background": "Kaiko sareta Ankoku Heishi (30-dai) no Slow na Second Life was released on Blu-ray in four volumes from March 22, 2023, to June 21, 2023.",
     "episodes": 12,
     "score": 7,
-    "scored_by": 87641,
-    "rank": 4527,
+    "scored_by": 87657,
+    "rank": 4526,
     "popularity": 1473,
-    "members": 181113,
+    "members": 181144,
     "favorites": 582,
     "type": "TV",
     "status": "Finished Airing",
@@ -1316,7 +1338,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51678,
@@ -1333,10 +1356,10 @@
     "background": "Oniichan wa Oshimai! was released on Blu-ray in two boxes from April 19, 2023, to June 21, 2023.",
     "episodes": 12,
     "score": 7.64,
-    "scored_by": 85662,
-    "rank": 1542,
+    "scored_by": 85679,
+    "rank": 1541,
     "popularity": 1493,
-    "members": 179617,
+    "members": 179647,
     "favorites": 2602,
     "type": "TV",
     "status": "Finished Airing",
@@ -1381,7 +1404,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50481,
@@ -1395,10 +1419,10 @@
     "background": "Eiyuuou, Bu wo Kiwameru Tame Tenseisu: Soshite, Sekai Saikyou no Minarai Kishi♀ was released on Blu-ray in two volumes from March 29, 2023, to April 26, 2023.",
     "episodes": 12,
     "score": 6.56,
-    "scored_by": 78982,
-    "rank": 6948,
+    "scored_by": 78994,
+    "rank": 6947,
     "popularity": 1550,
-    "members": 172629,
+    "members": 172662,
     "favorites": 649,
     "type": "TV",
     "status": "Finished Airing",
@@ -1437,7 +1461,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51252,
@@ -1453,10 +1478,10 @@
     "background": "Spy Kyoushitsu was released on Blu-ray and DVD in two volumes from March 24, 2023, to May 24, 2023.",
     "episodes": 12,
     "score": 6.41,
-    "scored_by": 47180,
-    "rank": 7865,
-    "popularity": 1614,
-    "members": 163032,
+    "scored_by": 47183,
+    "rank": 7867,
+    "popularity": 1615,
+    "members": 163041,
     "favorites": 711,
     "type": "TV",
     "status": "Finished Airing",
@@ -1491,7 +1516,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49980,
@@ -1505,11 +1531,11 @@
     "background": "Sugar Apple Fairy Tale was released on Blu-ray and DVD in two volumes by Kadokawa on April 26 and May 24, 2023, respectively.",
     "episodes": 12,
     "score": 7.48,
-    "scored_by": 59705,
-    "rank": 2119,
+    "scored_by": 59727,
+    "rank": 2118,
     "popularity": 1767,
-    "members": 145045,
-    "favorites": 1081,
+    "members": 145091,
+    "favorites": 1082,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1546,7 +1572,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49109,
@@ -1564,10 +1591,10 @@
     "background": "Kami-tachi ni Hirowareta Otoko 2nd Season was released on Blu-ray in two volumes by Toei Video from April 12, 2023, and May 10, 2023. Limited edition bonuses were made available, featuring new material from the authors and, for the first volume exclusively, a card to download the original soundtrack. To commemorate the series, a special broadcast aired on AbemaTV on December 27, 2022, before the anime premiered. Beginning on January 5, 2023, the Kami-tachi ni Hirowareta Otoko: Tadokoro Azusa and Kuwahara Yuuki's Isekai Slow Radio 2 program featuring discussions of the series by the show's voice actors streamed on the Chou! A&G+ internet radio station.",
     "episodes": 12,
     "score": 6.81,
-    "scored_by": 57479,
+    "scored_by": 57490,
     "rank": 5464,
     "popularity": 1850,
-    "members": 137246,
+    "members": 137270,
     "favorites": 777,
     "type": "TV",
     "status": "Finished Airing",
@@ -1613,7 +1640,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49154,
@@ -1627,10 +1655,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.16,
-    "scored_by": 45975,
-    "rank": 3730,
+    "scored_by": 45982,
+    "rank": 3728,
     "popularity": 1851,
-    "members": 137144,
+    "members": 137165,
     "favorites": 641,
     "type": "TV",
     "status": "Finished Airing",
@@ -1664,7 +1692,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 51265,
@@ -1680,10 +1709,10 @@
     "background": "Inu ni Nattara Suki na Hito ni Hirowareta. was released on Blu-ray in two volumes from March 29, 2023, to April 26, 2023.",
     "episodes": 12,
     "score": 5.04,
-    "scored_by": 53448,
-    "rank": 13708,
-    "popularity": 1889,
-    "members": 133762,
+    "scored_by": 53461,
+    "rank": 13710,
+    "popularity": 1891,
+    "members": 133779,
     "favorites": 676,
     "type": "TV",
     "status": "Finished Airing",
@@ -1718,7 +1747,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51495,
@@ -1734,10 +1764,10 @@
     "background": "Shin Shinka no Mi: Shiranai Uchi ni Kachigumi Jinsei was released on Blu-ray and DVD on May 26, 2023.",
     "episodes": 12,
     "score": 5.48,
-    "scored_by": 51071,
-    "rank": 12632,
+    "scored_by": 51076,
+    "rank": 12633,
     "popularity": 1989,
-    "members": 125166,
+    "members": 125183,
     "favorites": 591,
     "type": "TV",
     "status": "Finished Airing",
@@ -1777,7 +1807,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52461,
@@ -1793,11 +1824,11 @@
     "background": "Rougo ni Sonaete Isekai de 8-manmai no Kinka wo Tamemasu was released on Blu-ray and DVD on May 31, 2023.",
     "episodes": 12,
     "score": 6.94,
-    "scored_by": 55323,
-    "rank": 4788,
+    "scored_by": 55330,
+    "rank": 4787,
     "popularity": 2138,
-    "members": 113540,
-    "favorites": 336,
+    "members": 113560,
+    "favorites": 335,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1832,7 +1863,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50652,
@@ -1848,10 +1880,10 @@
     "background": "Tsundere Akuyaku Reijou Liselotte to Jikkyou no Endou-kun to Kaisetsu no Kobayashi-san was released on Blu-ray in two volumes from April 26, 2023, to May 31, 2023.",
     "episodes": 12,
     "score": 7.22,
-    "scored_by": 41175,
-    "rank": 3357,
+    "scored_by": 41190,
+    "rank": 3358,
     "popularity": 2202,
-    "members": 108377,
+    "members": 108403,
     "favorites": 493,
     "type": "TV",
     "status": "Finished Airing",
@@ -1896,7 +1928,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53213,
@@ -1910,10 +1943,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.67,
-    "scored_by": 30421,
-    "rank": 6276,
+    "scored_by": 30423,
+    "rank": 6274,
     "popularity": 2460,
-    "members": 91473,
+    "members": 91485,
     "favorites": 296,
     "type": "TV",
     "status": "Finished Airing",
@@ -1958,7 +1991,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50606,
@@ -1972,10 +2006,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.42,
-    "scored_by": 22654,
+    "scored_by": 22655,
     "rank": 7794,
     "popularity": 2584,
-    "members": 84593,
+    "members": 84600,
     "favorites": 310,
     "type": "TV",
     "status": "Finished Airing",
@@ -2018,7 +2052,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50384,
@@ -2035,7 +2070,7 @@
     "scored_by": 27389,
     "rank": 3227,
     "popularity": 2689,
-    "members": 79225,
+    "members": 79228,
     "favorites": 259,
     "type": "TV",
     "status": "Finished Airing",
@@ -2076,7 +2111,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52826,
@@ -2092,11 +2128,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.09,
-    "scored_by": 20643,
+    "scored_by": 20647,
     "rank": 565,
     "popularity": 2982,
-    "members": 66508,
-    "favorites": 473,
+    "members": 66520,
+    "favorites": 474,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2132,7 +2168,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50864,
@@ -2146,11 +2183,11 @@
     "background": "",
     "episodes": 11,
     "score": 6.68,
-    "scored_by": 16078,
-    "rank": 6253,
+    "scored_by": 16082,
+    "rank": 6252,
     "popularity": 3339,
-    "members": 53833,
-    "favorites": 171,
+    "members": 53841,
+    "favorites": 172,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2185,7 +2222,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52274,
@@ -2199,10 +2237,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.61,
-    "scored_by": 14854,
-    "rank": 6646,
+    "scored_by": 14857,
+    "rank": 6644,
     "popularity": 3467,
-    "members": 50281,
+    "members": 50287,
     "favorites": 130,
     "type": "TV",
     "status": "Finished Airing",
@@ -2242,7 +2280,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43760,
@@ -2256,10 +2295,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.32,
-    "scored_by": 13957,
-    "rank": 8417,
+    "scored_by": 13958,
+    "rank": 8418,
     "popularity": 3513,
-    "members": 49125,
+    "members": 49126,
     "favorites": 109,
     "type": "TV",
     "status": "Finished Airing",
@@ -2291,7 +2330,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53179,
@@ -2305,10 +2345,10 @@
     "background": "Ars no Kyojuu was released on Blu-ray in two volumes from May 31, 2023, to June 28, 2023.",
     "episodes": 12,
     "score": 6.04,
-    "scored_by": 14943,
+    "scored_by": 14942,
     "rank": 10060,
-    "popularity": 3560,
-    "members": 48046,
+    "popularity": 3561,
+    "members": 48051,
     "favorites": 91,
     "type": "TV",
     "status": "Finished Airing",
@@ -2343,7 +2383,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48441,
@@ -2359,10 +2400,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.63,
-    "scored_by": 10184,
+    "scored_by": 10185,
     "rank": 12113,
-    "popularity": 3915,
-    "members": 40606,
+    "popularity": 3916,
+    "members": 40607,
     "favorites": 123,
     "type": "TV",
     "status": "Finished Airing",
@@ -2396,7 +2437,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50287,
@@ -2458,7 +2500,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53874,
@@ -2474,10 +2517,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.59,
-    "scored_by": 13427,
-    "rank": 1698,
+    "scored_by": 13430,
+    "rank": 1697,
     "popularity": 4593,
-    "members": 28887,
+    "members": 28896,
     "favorites": 135,
     "type": "TV",
     "status": "Finished Airing",
@@ -2512,7 +2555,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 49376,
@@ -2526,10 +2570,10 @@
     "background": "Mou Ippon! was released on Blu-ray and DVD in four volumes from March 29, 2023, to June 21, 2023.",
     "episodes": 13,
     "score": 7.08,
-    "scored_by": 8759,
+    "scored_by": 8761,
     "rank": 4167,
     "popularity": 4791,
-    "members": 26202,
+    "members": 26208,
     "favorites": 55,
     "type": "TV",
     "status": "Finished Airing",
@@ -2569,7 +2613,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53162,
@@ -2631,7 +2676,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50284,
@@ -2648,7 +2694,7 @@
     "scored_by": 3772,
     "rank": 7183,
     "popularity": 5732,
-    "members": 16765,
+    "members": 16766,
     "favorites": 83,
     "type": "TV",
     "status": "Finished Airing",
@@ -2685,7 +2731,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51586,
@@ -2699,10 +2746,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.36,
-    "scored_by": 6235,
-    "rank": 2645,
+    "scored_by": 6237,
+    "rank": 2644,
     "popularity": 5783,
-    "members": 16354,
+    "members": 16355,
     "favorites": 135,
     "type": "TV",
     "status": "Finished Airing",
@@ -2739,7 +2786,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 53077,
@@ -2753,10 +2801,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.8,
-    "scored_by": 5456,
-    "rank": 5535,
-    "popularity": 6149,
-    "members": 13887,
+    "scored_by": 5457,
+    "rank": 5533,
+    "popularity": 6148,
+    "members": 13888,
     "favorites": 44,
     "type": "TV",
     "status": "Finished Airing",
@@ -2790,7 +2838,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53716,
@@ -2805,9 +2854,9 @@
     "episodes": 50,
     "score": 7.6,
     "scored_by": 4158,
-    "rank": 1676,
+    "rank": 1675,
     "popularity": 6455,
-    "members": 12412,
+    "members": 12415,
     "favorites": 165,
     "type": "TV",
     "status": "Finished Airing",
@@ -2838,7 +2887,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53132,
@@ -2889,7 +2939,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51940,
@@ -2906,7 +2957,7 @@
     "background": "",
     "episodes": 28,
     "score": 6.83,
-    "scored_by": 3160,
+    "scored_by": 3159,
     "rank": 5369,
     "popularity": 7258,
     "members": 9338,
@@ -2943,7 +2994,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49820,
@@ -2960,8 +3012,8 @@
     "episodes": 12,
     "score": 6.7,
     "scored_by": 1575,
-    "rank": 6109,
-    "popularity": 8821,
+    "rank": 6108,
+    "popularity": 8822,
     "members": 5794,
     "favorites": 20,
     "type": "TV",
@@ -2994,7 +3046,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53424,
@@ -3011,9 +3064,9 @@
     "episodes": 6,
     "score": 5.1,
     "scored_by": 323,
-    "rank": 13615,
+    "rank": 13617,
     "popularity": 9386,
-    "members": 4853,
+    "members": 4852,
     "favorites": 34,
     "type": "TV",
     "status": "Finished Airing",
@@ -3039,7 +3092,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53231,
@@ -3056,8 +3110,8 @@
     "episodes": 13,
     "score": 5.17,
     "scored_by": 185,
-    "rank": 13483,
-    "popularity": 12343,
+    "rank": 13485,
+    "popularity": 12346,
     "members": 2035,
     "favorites": 12,
     "type": "TV",
@@ -3088,7 +3142,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53655,
@@ -3103,8 +3158,8 @@
     "episodes": 15,
     "score": null,
     "scored_by": null,
-    "rank": 16896,
-    "popularity": 15501,
+    "rank": 16899,
+    "popularity": 15505,
     "members": 843,
     "favorites": 0,
     "type": "TV",
@@ -3136,7 +3191,8 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57185,
@@ -3153,8 +3209,8 @@
     "episodes": 5,
     "score": null,
     "scored_by": null,
-    "rank": 21855,
-    "popularity": 19653,
+    "rank": 21856,
+    "popularity": 19658,
     "members": 367,
     "favorites": 0,
     "type": "TV",
@@ -3183,363 +3239,7 @@
     "year": 2023,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56266,
-    "title": "Chuldong! Super Wings 7",
-    "title_english": "Super Wings 7",
-    "title_japanese": "출동! 슈퍼윙스7",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1538/137797l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 20735,
-    "popularity": 23218,
-    "members": 176,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Funny Flux"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-02-27T00:00:00+00:00",
-    "aired_to": "2023-07-11T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56266/Chuldong_Super_Wings_7",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56479,
-    "title": "Cricket Pang Season 2",
-    "title_english": null,
-    "title_japanese": "크리켓팡 시즌2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1430/138129l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 20810,
-    "popularity": 24096,
-    "members": 148,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-01-13T00:00:00+00:00",
-    "aired_to": "2023-09-15T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56479/Cricket_Pang_Season_2",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56483,
-    "title": "Lindaui Singihan Yeohaeng 2",
-    "title_english": "The Curious World of Linda 2",
-    "title_japanese": "린다의 신기한 여행 2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1873/138134l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "The first two episodes aired on KBS on December 25, 2022, and the subsequent broadcast continued from June 24, 2023.",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 18251,
-    "popularity": 24131,
-    "members": 147,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-12-25T00:00:00+00:00",
-    "aired_to": "2023-09-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56483/Lindaui_Singihan_Yeohaeng_2",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56409,
-    "title": "Ppungppungppangppang Bubumaen",
-    "title_english": null,
-    "title_japanese": "뿡뿡빵빵 부부맨",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1449/137993l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19587,
-    "popularity": 24297,
-    "members": 142,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "CJ ENM"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-02-27T00:00:00+00:00",
-    "aired_to": "2023-05-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56409/Ppungppungppangppang_Bubumaen",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56359,
-    "title": "Nae Chingu Baninbaneo",
-    "title_english": null,
-    "title_japanese": "내 친구 반인반어",
-    "title_synonyms": [
-      "My Friend",
-      "Halfboyhalffish"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1381/137904l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 18951,
-    "popularity": 24552,
-    "members": 137,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-12-28T00:00:00+00:00",
-    "aired_to": "2023-03-22T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56359/Nae_Chingu_Baninbaneo",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60708,
-    "title": "Xi Yangyang Yu Hui Tailang: Yong Chuang Siji Cheng",
-    "title_english": "Pleasant Goat and Big Big Wolf: The Season Towns",
-    "title_japanese": "喜羊羊与灰太狼之勇闯四季城",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1133/147388l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16278,
-    "popularity": 27730,
-    "members": 86,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-01-06T00:00:00+00:00",
-    "aired_to": "2023-01-20T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60708/Xi_Yangyang_Yu_Hui_Tailang__Yong_Chuang_Siji_Cheng",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60883,
-    "title": "Xin Qi Bao Long Zhan Che: Bao Long Chuji 3",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车之暴龙出击3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1786/147809l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16584,
-    "popularity": 29031,
-    "members": 60,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "7 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-01-06T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60883/Xin_Qi_Bao_Long_Zhan_Che__Bao_Long_Chuji_3",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62449,
-    "title": "Tobot: Daedosiui Yeongungdeul",
-    "title_english": null,
-    "title_japanese": "또봇 : 대도시의 영웅들",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1197/151968l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 15726,
-    "popularity": 29084,
-    "members": 56,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-02-24T00:00:00+00:00",
-    "aired_to": "2023-04-14T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62449/Tobot__Daedosiui_Yeongungdeul",
-    "year": 2023,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

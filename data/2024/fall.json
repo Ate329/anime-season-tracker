@@ -11,11 +11,11 @@
     "background": "Dandadan aired on MBS and TBS' Super Animeism Turbo block.",
     "episodes": 12,
     "score": 8.46,
-    "scored_by": 524267,
-    "rank": 173,
+    "scored_by": 524588,
+    "rank": 172,
     "popularity": 235,
-    "members": 871281,
-    "favorites": 14429,
+    "members": 871741,
+    "favorites": 14440,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -52,7 +52,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54857,
@@ -70,11 +71,11 @@
     "background": "Re:Zero kara Hajimeru Isekai Seikatsu 3rd Season is comprised of two arcs. The first eight episodes are subtitled Shuugeki-hen (Attack Arc). The latter eight, subtitled Hangeki-hen (Counterattack Arc), began airing on February 5, 2025. The series was released on Blu-ray and DVD in five volumes from January 24, 2025, to June 25, 2025.",
     "episodes": 16,
     "score": 8.44,
-    "scored_by": 194405,
+    "scored_by": 194586,
     "rank": 188,
     "popularity": 560,
-    "members": 452083,
-    "favorites": 6165,
+    "members": 452325,
+    "favorites": 6169,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -112,7 +113,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54865,
@@ -128,10 +130,10 @@
     "background": "Blue Lock vs. U-20 Japan aired on TV Asahi's IMAnimation block. It was released on Blu-ray in two volumes from March 26, 2025, to May 28, 2025.",
     "episodes": 14,
     "score": 7.54,
-    "scored_by": 156991,
+    "scored_by": 157066,
     "rank": 1900,
-    "popularity": 886,
-    "members": 309189,
+    "popularity": 887,
+    "members": 309285,
     "favorites": 2259,
     "type": "TV",
     "status": "Finished Airing",
@@ -172,7 +174,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57181,
@@ -186,11 +189,11 @@
     "background": "",
     "episodes": 25,
     "score": 8.18,
-    "scored_by": 129491,
+    "scored_by": 129590,
     "rank": 439,
     "popularity": 921,
-    "members": 294447,
-    "favorites": 3928,
+    "members": 294592,
+    "favorites": 3934,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -229,7 +232,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56784,
@@ -245,11 +249,11 @@
     "background": "",
     "episodes": 14,
     "score": 8.67,
-    "scored_by": 136681,
+    "scored_by": 136756,
     "rank": 75,
     "popularity": 1027,
-    "members": 265159,
-    "favorites": 3505,
+    "members": 265274,
+    "favorites": 3506,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -285,7 +289,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52215,
@@ -339,7 +344,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40333,
@@ -355,11 +361,11 @@
     "background": "",
     "episodes": 4,
     "score": 5.7,
-    "scored_by": 71779,
+    "scored_by": 71798,
     "rank": 11822,
     "popularity": 1145,
-    "members": 239023,
-    "favorites": 1238,
+    "members": 239043,
+    "favorites": 1237,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -396,7 +402,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58572,
@@ -413,10 +420,10 @@
     "background": "",
     "episodes": 25,
     "score": 8.26,
-    "scored_by": 114582,
+    "scored_by": 114659,
     "rank": 340,
     "popularity": 1158,
-    "members": 236453,
+    "members": 236564,
     "favorites": 1452,
     "type": "TV",
     "status": "Finished Airing",
@@ -456,7 +463,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57066,
@@ -473,11 +481,11 @@
     "background": "",
     "episodes": 15,
     "score": 7.89,
-    "scored_by": 82573,
+    "scored_by": 82609,
     "rank": 883,
     "popularity": 1337,
-    "members": 201945,
-    "favorites": 1137,
+    "members": 202001,
+    "favorites": 1138,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -515,7 +523,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52995,
@@ -531,10 +540,10 @@
     "background": "",
     "episodes": 16,
     "score": 7.02,
-    "scored_by": 61589,
-    "rank": 4431,
-    "popularity": 1421,
-    "members": 188960,
+    "scored_by": 61625,
+    "rank": 4430,
+    "popularity": 1420,
+    "members": 189051,
     "favorites": 1085,
     "type": "TV",
     "status": "Finished Airing",
@@ -576,7 +585,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50306,
@@ -590,11 +600,11 @@
     "background": "Seirei Gensouki 2 was released on Blu-ray and DVD in two volumes from January 29, 2025, to February 26, 2025.",
     "episodes": 12,
     "score": 6.87,
-    "scored_by": 64642,
-    "rank": 5165,
-    "popularity": 1422,
-    "members": 188540,
-    "favorites": 1271,
+    "scored_by": 64683,
+    "rank": 5164,
+    "popularity": 1423,
+    "members": 188590,
+    "favorites": 1272,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -640,7 +650,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59145,
@@ -656,11 +667,11 @@
     "background": "",
     "episodes": 12,
     "score": 8,
-    "scored_by": 74523,
-    "rank": 711,
-    "popularity": 1699,
-    "members": 152134,
-    "favorites": 1172,
+    "scored_by": 74587,
+    "rank": 710,
+    "popularity": 1698,
+    "members": 152249,
+    "favorites": 1173,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -699,7 +710,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58172,
@@ -755,7 +767,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56964,
@@ -769,10 +782,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.18,
-    "scored_by": 57473,
-    "rank": 3604,
+    "scored_by": 57529,
+    "rank": 3602,
     "popularity": 1798,
-    "members": 142231,
+    "members": 142295,
     "favorites": 742,
     "type": "TV",
     "status": "Finished Airing",
@@ -811,7 +824,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58714,
@@ -825,10 +839,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 70023,
-    "rank": 1700,
-    "popularity": 1842,
-    "members": 137838,
+    "scored_by": 70063,
+    "rank": 1699,
+    "popularity": 1841,
+    "members": 137910,
     "favorites": 662,
     "type": "TV",
     "status": "Finished Airing",
@@ -872,7 +886,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57891,
@@ -888,10 +903,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.56,
-    "scored_by": 64115,
-    "rank": 6959,
-    "popularity": 1876,
-    "members": 135961,
+    "scored_by": 64162,
+    "rank": 6958,
+    "popularity": 1875,
+    "members": 136045,
     "favorites": 517,
     "type": "TV",
     "status": "Finished Airing",
@@ -931,7 +946,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57611,
@@ -945,10 +961,10 @@
     "background": "Kimi wa Meido-sama. aired on TV Asahi's NUMAnimation block. The series was released on Blu-ray in a box set on March 26, 2025.",
     "episodes": 12,
     "score": 7.06,
-    "scored_by": 48886,
-    "rank": 4234,
+    "scored_by": 48905,
+    "rank": 4233,
     "popularity": 1922,
-    "members": 131440,
+    "members": 131471,
     "favorites": 486,
     "type": "TV",
     "status": "Finished Airing",
@@ -984,7 +1000,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54853,
@@ -1001,10 +1018,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.42,
-    "scored_by": 56415,
-    "rank": 2343,
-    "popularity": 1936,
-    "members": 129774,
+    "scored_by": 56435,
+    "rank": 2341,
+    "popularity": 1935,
+    "members": 129819,
     "favorites": 396,
     "type": "TV",
     "status": "Finished Airing",
@@ -1039,7 +1056,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59989,
@@ -1058,10 +1076,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.89,
-    "scored_by": 62098,
-    "rank": 5056,
-    "popularity": 1940,
-    "members": 129488,
+    "scored_by": 62137,
+    "rank": 5055,
+    "popularity": 1938,
+    "members": 129539,
     "favorites": 270,
     "type": "TV",
     "status": "Finished Airing",
@@ -1096,7 +1114,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 56894,
@@ -1110,10 +1129,10 @@
     "background": "",
     "episodes": 20,
     "score": 7.6,
-    "scored_by": 57234,
-    "rank": 1667,
-    "popularity": 1965,
-    "members": 127128,
+    "scored_by": 57280,
+    "rank": 1666,
+    "popularity": 1964,
+    "members": 127200,
     "favorites": 916,
     "type": "TV",
     "status": "Finished Airing",
@@ -1146,7 +1165,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56228,
@@ -1164,10 +1184,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.34,
-    "scored_by": 62113,
+    "scored_by": 62145,
     "rank": 2709,
-    "popularity": 1995,
-    "members": 124636,
+    "popularity": 1994,
+    "members": 124698,
     "favorites": 661,
     "type": "TV",
     "status": "Finished Airing",
@@ -1205,7 +1225,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59131,
@@ -1220,11 +1241,11 @@
     "synopsis": "Second season of Tensei Kizoku, Kantei Skill de Nariagaru.",
     "background": "Tensei Kizoku, Kantei Skill de Nariagaru 2nd Season aired on CBC and TBS' Agaru Anime block.",
     "episodes": 12,
-    "score": 7.45,
-    "scored_by": 55562,
-    "rank": 2242,
-    "popularity": 2101,
-    "members": 116969,
+    "score": 7.44,
+    "scored_by": 55593,
+    "rank": 2289,
+    "popularity": 2102,
+    "members": 117012,
     "favorites": 307,
     "type": "TV",
     "status": "Finished Airing",
@@ -1264,7 +1285,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55887,
@@ -1280,10 +1302,10 @@
     "background": "Kekkon suru tte, Hontou desu ka was released on Blu-ray and DVD in two volumes from December 25, 2024, to January 29, 2025.",
     "episodes": 12,
     "score": 7.12,
-    "scored_by": 47674,
+    "scored_by": 47714,
     "rank": 3919,
     "popularity": 2124,
-    "members": 114944,
+    "members": 114991,
     "favorites": 355,
     "type": "TV",
     "status": "Finished Airing",
@@ -1320,7 +1342,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55994,
@@ -1336,10 +1359,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.14,
-    "scored_by": 32860,
+    "scored_by": 32876,
     "rank": 3853,
     "popularity": 2150,
-    "members": 112867,
+    "members": 112891,
     "favorites": 340,
     "type": "TV",
     "status": "Finished Airing",
@@ -1377,7 +1400,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55071,
@@ -1393,10 +1417,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.55,
-    "scored_by": 37322,
+    "scored_by": 37335,
     "rank": 1838,
-    "popularity": 2310,
-    "members": 101080,
+    "popularity": 2309,
+    "members": 101119,
     "favorites": 577,
     "type": "TV",
     "status": "Finished Airing",
@@ -1434,7 +1458,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55150,
@@ -1453,10 +1478,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 42286,
-    "rank": 4488,
-    "popularity": 2353,
-    "members": 98465,
+    "scored_by": 42312,
+    "rank": 4489,
+    "popularity": 2351,
+    "members": 98520,
     "favorites": 399,
     "type": "TV",
     "status": "Finished Airing",
@@ -1495,7 +1520,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58516,
@@ -1512,10 +1538,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.48,
-    "scored_by": 31220,
-    "rank": 2129,
+    "scored_by": 31240,
+    "rank": 2128,
     "popularity": 2368,
-    "members": 97127,
+    "members": 97157,
     "favorites": 235,
     "type": "TV",
     "status": "Finished Airing",
@@ -1556,7 +1582,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57944,
@@ -1570,10 +1597,10 @@
     "background": "Party kara Tsuihou sareta Sono Chiyushi, Jitsu wa Saikyou ni Tsuki aired on ABC TV and TV Asahi's ANiMAZiNG!!! block.",
     "episodes": 12,
     "score": 5.71,
-    "scored_by": 38975,
-    "rank": 11743,
-    "popularity": 2511,
-    "members": 88414,
+    "scored_by": 38992,
+    "rank": 11742,
+    "popularity": 2512,
+    "members": 88441,
     "favorites": 139,
     "type": "TV",
     "status": "Finished Airing",
@@ -1613,7 +1640,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58445,
@@ -1630,10 +1658,10 @@
     "background": "Each episode was streamed one week in advance of the TV broadcast starting on October 4, 2024, on Abema. Regular broadcasting began on October 11, 2024.",
     "episodes": 12,
     "score": 6.33,
-    "scored_by": 38010,
-    "rank": 8352,
-    "popularity": 2515,
-    "members": 88248,
+    "scored_by": 38028,
+    "rank": 8351,
+    "popularity": 2514,
+    "members": 88293,
     "favorites": 186,
     "type": "TV",
     "status": "Finished Airing",
@@ -1675,7 +1703,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59425,
@@ -1689,10 +1718,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.37,
-    "scored_by": 24470,
+    "scored_by": 24481,
     "rank": 2602,
-    "popularity": 2968,
-    "members": 66857,
+    "popularity": 2967,
+    "members": 66877,
     "favorites": 291,
     "type": "TV",
     "status": "Finished Airing",
@@ -1726,7 +1755,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56843,
@@ -1787,7 +1817,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54726,
@@ -1803,10 +1834,10 @@
     "background": "Tsuma, Shougakusei ni Naru. was released on Blu-ray in six volumes from January 29, 2025, to June 25, 2025. Episode 2 received an advance release on U-NEXT and Anime Hodai on October 6, 2024. Each subsequent episode was streamed 7 days in advance of the TV broadcast on U-NEXT and Anime Hodai.",
     "episodes": 12,
     "score": 7.53,
-    "scored_by": 22996,
-    "rank": 1948,
-    "popularity": 3012,
-    "members": 65011,
+    "scored_by": 23009,
+    "rank": 1949,
+    "popularity": 3011,
+    "members": 65030,
     "favorites": 206,
     "type": "TV",
     "status": "Finished Airing",
@@ -1845,7 +1876,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57362,
@@ -1861,10 +1893,10 @@
     "background": "Each episode was streamed three days in advance of the TV broadcast on Crunchyroll and ABEMA starting on October 7, 2024. Regular broadcasting began on October 10, 2024.",
     "episodes": 12,
     "score": 7.39,
-    "scored_by": 24224,
+    "scored_by": 24239,
     "rank": 2523,
-    "popularity": 3071,
-    "members": 62948,
+    "popularity": 3070,
+    "members": 62982,
     "favorites": 386,
     "type": "TV",
     "status": "Finished Airing",
@@ -1903,7 +1935,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57635,
@@ -1919,10 +1952,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.62,
-    "scored_by": 22185,
+    "scored_by": 22190,
     "rank": 1586,
     "popularity": 3089,
-    "members": 62333,
+    "members": 62347,
     "favorites": 256,
     "type": "TV",
     "status": "Finished Airing",
@@ -1960,7 +1993,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57554,
@@ -2017,7 +2051,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53033,
@@ -2031,10 +2066,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.79,
-    "scored_by": 18572,
-    "rank": 5552,
-    "popularity": 3213,
-    "members": 57403,
+    "scored_by": 18580,
+    "rank": 5550,
+    "popularity": 3212,
+    "members": 57417,
     "favorites": 159,
     "type": "TV",
     "status": "Finished Airing",
@@ -2065,7 +2100,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55823,
@@ -2082,10 +2118,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.58,
-    "scored_by": 16418,
+    "scored_by": 16432,
     "rank": 113,
-    "popularity": 3314,
-    "members": 54461,
+    "popularity": 3313,
+    "members": 54491,
     "favorites": 511,
     "type": "TV",
     "status": "Finished Airing",
@@ -2123,7 +2159,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56400,
@@ -2137,10 +2174,10 @@
     "background": "Each episode was streamed one week in advance of the TV broadcast from September 28, 2024, on ABEMA. Regular broadcasting began on October 5, 2024.",
     "episodes": 12,
     "score": 5.92,
-    "scored_by": 19759,
-    "rank": 10676,
-    "popularity": 3491,
-    "members": 49788,
+    "scored_by": 19768,
+    "rank": 10675,
+    "popularity": 3490,
+    "members": 49805,
     "favorites": 107,
     "type": "TV",
     "status": "Finished Airing",
@@ -2186,7 +2223,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57559,
@@ -2240,7 +2278,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57533,
@@ -2257,10 +2296,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.28,
-    "scored_by": 13442,
-    "rank": 3020,
-    "popularity": 3779,
-    "members": 43405,
+    "scored_by": 13453,
+    "rank": 3019,
+    "popularity": 3778,
+    "members": 43427,
     "favorites": 267,
     "type": "TV",
     "status": "Finished Airing",
@@ -2305,7 +2344,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57102,
@@ -2319,10 +2359,10 @@
     "background": "",
     "episodes": 4,
     "score": 7.11,
-    "scored_by": 11771,
+    "scored_by": 11774,
     "rank": 3990,
-    "popularity": 3904,
-    "members": 40895,
+    "popularity": 3905,
+    "members": 40910,
     "favorites": 145,
     "type": "TV",
     "status": "Finished Airing",
@@ -2356,7 +2396,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58511,
@@ -2370,10 +2411,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.43,
-    "scored_by": 13050,
-    "rank": 2332,
+    "scored_by": 13066,
+    "rank": 2331,
     "popularity": 3918,
-    "members": 40545,
+    "members": 40572,
     "favorites": 133,
     "type": "TV",
     "status": "Finished Airing",
@@ -2413,7 +2454,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60108,
@@ -2429,11 +2471,11 @@
     "background": "",
     "episodes": 21,
     "score": 7.9,
-    "scored_by": 12786,
-    "rank": 865,
+    "scored_by": 12792,
+    "rank": 866,
     "popularity": 4042,
-    "members": 38078,
-    "favorites": 161,
+    "members": 38083,
+    "favorites": 162,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2462,7 +2504,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57360,
@@ -2479,10 +2522,10 @@
     "background": "Kabushikigaisha Magi-Lumière aired on Nippon TV's Friday Anime Night block.",
     "episodes": 12,
     "score": 6.96,
-    "scored_by": 10955,
-    "rank": 4707,
+    "scored_by": 10962,
+    "rank": 4704,
     "popularity": 4342,
-    "members": 32751,
+    "members": 32770,
     "favorites": 65,
     "type": "TV",
     "status": "Finished Airing",
@@ -2519,7 +2562,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56647,
@@ -2535,10 +2579,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.69,
-    "scored_by": 6587,
-    "rank": 6129,
+    "scored_by": 6591,
+    "rank": 6126,
     "popularity": 4392,
-    "members": 31830,
+    "members": 31839,
     "favorites": 129,
     "type": "TV",
     "status": "Finished Airing",
@@ -2572,7 +2616,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56662,
@@ -2588,10 +2633,10 @@
     "background": "Trillion Game was released on Blu-ray in four volumes from February 26, 2025, to May 28, 2025.",
     "episodes": 26,
     "score": 7.56,
-    "scored_by": 11121,
-    "rank": 1810,
-    "popularity": 4428,
-    "members": 31206,
+    "scored_by": 11124,
+    "rank": 1809,
+    "popularity": 4429,
+    "members": 31214,
     "favorites": 111,
     "type": "TV",
     "status": "Finished Airing",
@@ -2628,7 +2673,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53723,
@@ -2642,10 +2688,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.72,
-    "scored_by": 8056,
+    "scored_by": 8061,
     "rank": 5938,
     "popularity": 5043,
-    "members": 23306,
+    "members": 23313,
     "favorites": 75,
     "type": "TV",
     "status": "Finished Airing",
@@ -2687,7 +2733,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57796,
@@ -2703,10 +2750,10 @@
     "background": "",
     "episodes": 25,
     "score": 6.6,
-    "scored_by": 3870,
+    "scored_by": 3873,
     "rank": 6723,
-    "popularity": 5238,
-    "members": 21216,
+    "popularity": 5239,
+    "members": 21219,
     "favorites": 75,
     "type": "TV",
     "status": "Finished Airing",
@@ -2742,7 +2789,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53287,
@@ -2756,11 +2804,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.89,
-    "scored_by": 7459,
-    "rank": 891,
-    "popularity": 5257,
-    "members": 21063,
-    "favorites": 148,
+    "scored_by": 7461,
+    "rank": 892,
+    "popularity": 5258,
+    "members": 21069,
+    "favorites": 149,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2794,7 +2842,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58173,
@@ -2811,10 +2860,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.16,
-    "scored_by": 5551,
-    "rank": 9354,
+    "scored_by": 5554,
+    "rank": 9351,
     "popularity": 5706,
-    "members": 16989,
+    "members": 17001,
     "favorites": 21,
     "type": "TV",
     "status": "Finished Airing",
@@ -2851,7 +2900,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56420,
@@ -2865,10 +2915,10 @@
     "background": "",
     "episodes": 13,
     "score": 5.89,
-    "scored_by": 2161,
-    "rank": 10877,
+    "scored_by": 2165,
+    "rank": 10880,
     "popularity": 5857,
-    "members": 15761,
+    "members": 15768,
     "favorites": 44,
     "type": "TV",
     "status": "Finished Airing",
@@ -2905,7 +2955,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57517,
@@ -2918,11 +2969,11 @@
     "synopsis": "This is the story of Puniru the slime and Kotarou, a middle school student, until they cease being friends...\n\nKotarou Kawaii is a second-year middle school boy. When he was in elementary school, a slime he created came to life, and for the past seven years, he has been spending time with the slime named Puniru as his \"friend.\" However, there is one problem for Kotarou...\n\nOver the seven years, both have grown significantly, and Puniru has transformed into an incredibly beautiful girl!\n\nBesides her beautiful appearance, Puniru freely transforms into various cute forms as a slime, causing Kotarou to be both excited and bewildered by her carefree behavior every time.\n\nWill Puniru and Kotarou be able to continue spending time together as \"friends\" despite these challenging days ahead?\n\n(Source: Official website)",
     "background": "",
     "episodes": 12,
-    "score": 6.92,
-    "scored_by": 4879,
-    "rank": 4925,
-    "popularity": 6090,
-    "members": 14258,
+    "score": 6.91,
+    "scored_by": 4882,
+    "rank": 4943,
+    "popularity": 6089,
+    "members": 14265,
     "favorites": 49,
     "type": "TV",
     "status": "Finished Airing",
@@ -2956,7 +3007,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58854,
@@ -2970,10 +3022,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.89,
-    "scored_by": 3084,
-    "rank": 5057,
-    "popularity": 7439,
-    "members": 8778,
+    "scored_by": 3083,
+    "rank": 5056,
+    "popularity": 7440,
+    "members": 8780,
     "favorites": 23,
     "type": "TV",
     "status": "Finished Airing",
@@ -3013,7 +3065,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56967,
@@ -3027,10 +3080,10 @@
     "background": "Kamierabi 2nd Season aired on Fuji TV's +Ultra block.",
     "episodes": 12,
     "score": 6.2,
-    "scored_by": 2406,
-    "rank": 9131,
-    "popularity": 7583,
-    "members": 8365,
+    "scored_by": 2407,
+    "rank": 9130,
+    "popularity": 7582,
+    "members": 8366,
     "favorites": 18,
     "type": "TV",
     "status": "Finished Airing",
@@ -3067,7 +3120,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55570,
@@ -3081,10 +3135,10 @@
     "background": "Episodes 1 and 2 were screened in advance at the Shinjuku Piccadilly Cinema on September 23, 2024.",
     "episodes": 13,
     "score": 6.67,
-    "scored_by": 2107,
-    "rank": 6281,
+    "scored_by": 2109,
+    "rank": 6280,
     "popularity": 7775,
-    "members": 7807,
+    "members": 7813,
     "favorites": 29,
     "type": "TV",
     "status": "Finished Airing",
@@ -3122,7 +3176,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56461,
@@ -3137,9 +3192,9 @@
     "episodes": 12,
     "score": 5.62,
     "scored_by": 1309,
-    "rank": 12190,
+    "rank": 12192,
     "popularity": 7837,
-    "members": 7654,
+    "members": 7653,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -3169,7 +3224,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59505,
@@ -3186,9 +3242,9 @@
     "episodes": 6,
     "score": 6.4,
     "scored_by": 1930,
-    "rank": 7922,
+    "rank": 7923,
     "popularity": 7851,
-    "members": 7624,
+    "members": 7626,
     "favorites": 28,
     "type": "TV",
     "status": "Finished Airing",
@@ -3216,7 +3272,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59175,
@@ -3236,7 +3293,7 @@
     "scored_by": 2850,
     "rank": 2907,
     "popularity": 8626,
-    "members": 6070,
+    "members": 6072,
     "favorites": 16,
     "type": "TV",
     "status": "Finished Airing",
@@ -3273,7 +3330,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59892,
@@ -3288,9 +3346,9 @@
     "episodes": 6,
     "score": 5.66,
     "scored_by": 218,
-    "rank": 12016,
-    "popularity": 8893,
-    "members": 5640,
+    "rank": 12017,
+    "popularity": 8891,
+    "members": 5642,
     "favorites": 21,
     "type": "TV",
     "status": "Finished Airing",
@@ -3321,7 +3379,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58302,
@@ -3337,8 +3396,8 @@
     "score": 6.34,
     "scored_by": 1449,
     "rank": 8275,
-    "popularity": 9196,
-    "members": 5155,
+    "popularity": 9194,
+    "members": 5158,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -3370,7 +3429,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57924,
@@ -3421,7 +3481,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58395,
@@ -3440,8 +3501,8 @@
     "score": 6.23,
     "scored_by": 491,
     "rank": 8962,
-    "popularity": 11038,
-    "members": 2945,
+    "popularity": 11036,
+    "members": 2947,
     "favorites": 15,
     "type": "TV",
     "status": "Finished Airing",
@@ -3470,7 +3531,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57562,
@@ -3487,8 +3549,8 @@
     "episodes": 12,
     "score": 6.79,
     "scored_by": 882,
-    "rank": 5601,
-    "popularity": 11761,
+    "rank": 5599,
+    "popularity": 11762,
     "members": 2405,
     "favorites": 7,
     "type": "TV",
@@ -3517,7 +3579,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 58137,
@@ -3532,9 +3595,9 @@
     "episodes": 21,
     "score": null,
     "scored_by": null,
-    "rank": 17598,
-    "popularity": 13442,
-    "members": 1446,
+    "rank": 17599,
+    "popularity": 13448,
+    "members": 1445,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -3568,51 +3631,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57101,
-    "title": "1 Cho",
-    "title_english": "1 Second",
-    "title_japanese": "1초",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1599/139552l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/LTbmvSos0LM?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Every second counts when you're a first responder. But what if you could see a glimpse into the future? Hosu is a firefighter with the supernatural ability to do just that. There’s just one catch. It only works when he feels extreme stress under pressure. Will knowing what will happen ahead of time help Hosu extinguish fires before they completely destroy homes and lives? And will he learn to wield his ability when he needs it most?\n\n(Source: Webtoon Entertainment)",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19781,
-    "popularity": 13446,
-    "members": 1445,
-    "favorites": 8,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Web manga",
-    "studios": [
-      "Durufix"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2024-11-24T00:00:00+00:00",
-    "aired_to": "2025-01-05T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57101/1_Cho",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59499,
@@ -3627,8 +3647,8 @@
     "episodes": 13,
     "score": 6.36,
     "scored_by": 192,
-    "rank": 8139,
-    "popularity": 14288,
+    "rank": 8140,
+    "popularity": 14284,
     "members": 1158,
     "favorites": 3,
     "type": "TV",
@@ -3658,7 +3678,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58827,
@@ -3673,7 +3694,7 @@
     "episodes": 20,
     "score": null,
     "scored_by": null,
-    "rank": 19247,
+    "rank": 19248,
     "popularity": 16644,
     "members": 641,
     "favorites": 2,
@@ -3701,7 +3722,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60357,
@@ -3747,52 +3769,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59894,
-    "title": "Shooting Star Catch! Tiniping",
-    "title_english": null,
-    "title_japanese": "슈팅스타 캐치! 티니핑",
-    "title_synonyms": [
-      "Star Catch! Teenieping"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1583/145688l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15085,
-    "popularity": 18004,
-    "members": 492,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [],
-    "aired_from": "2024-10-10T00:00:00+00:00",
-    "aired_to": "2025-05-01T00:00:00+00:00",
-    "broadcast": "Thursdays at 18:00 (JST)",
-    "url": "https://myanimelist.net/anime/59894/Shooting_Star_Catch_Tiniping",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59732,
@@ -3839,7 +3817,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59485,
@@ -3854,9 +3833,9 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 14985,
-    "popularity": 18421,
-    "members": 459,
+    "rank": 14987,
+    "popularity": 18400,
+    "members": 460,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -3884,324 +3863,8 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59881,
-    "title": "Wish Cat",
-    "title_english": "Wish Cat",
-    "title_japanese": "위시캣",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1850/145583l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16102,
-    "popularity": 19235,
-    "members": 398,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [],
-    "aired_from": "2024-09-12T00:00:00+00:00",
-    "aired_to": "2025-03-13T00:00:00+00:00",
-    "broadcast": "Thursdays at 17:50 (JST)",
-    "url": "https://myanimelist.net/anime/59881/Wish_Cat",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59512,
-    "title": "Punirunes: Puni 2",
-    "title_english": null,
-    "title_japanese": "ぷにるんず ぷに2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1387/144697l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/jJM5MTuAcGk?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Second season of Punirunes.",
-    "background": "",
-    "episodes": 25,
-    "score": null,
-    "scored_by": null,
-    "rank": 19608,
-    "popularity": 19533,
-    "members": 374,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "OLM Digital"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-10-06T00:00:00+00:00",
-    "aired_to": "2025-03-30T00:00:00+00:00",
-    "broadcast": "Sundays at 09:15 (JST)",
-    "url": "https://myanimelist.net/anime/59512/Punirunes__Puni_2",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60516,
-    "title": "Bawang Long Lei Qi 2nd Season",
-    "title_english": null,
-    "title_japanese": "霸王龙雷奇 第二季",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1053/146959l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 20227,
-    "popularity": 21183,
-    "members": 276,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "6 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2024-12-04T00:00:00+00:00",
-    "aired_to": "2024-12-11T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60516/Bawang_Long_Lei_Qi_2nd_Season",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60052,
-    "title": "Sylvanian Families: Freya no Piece of Secret",
-    "title_english": null,
-    "title_japanese": "シルバニアファミリー　フレアのピース・オブ・シークレット",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1856/145941l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 6,
-    "score": null,
-    "scored_by": null,
-    "rank": 15444,
-    "popularity": 21572,
-    "members": 255,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "LandQ studios"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-11-21T00:00:00+00:00",
-    "aired_to": "2024-12-26T00:00:00+00:00",
-    "broadcast": "Thursdays at 19:22 (JST)",
-    "url": "https://myanimelist.net/anime/60052/Sylvanian_Families__Freya_no_Piece_of_Secret",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59123,
-    "title": "Kumarba Season 2",
-    "title_english": null,
-    "title_japanese": "クマーバ シーズン2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1897/144484l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Kumarba.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 18087,
-    "popularity": 22203,
-    "members": 221,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [
-      "Creative House Pocket"
-    ],
-    "producers": [
-      "Kumarba"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-10-05T00:00:00+00:00",
-    "aired_to": "2024-12-21T00:00:00+00:00",
-    "broadcast": "Saturdays at 07:00 (JST)",
-    "url": "https://myanimelist.net/anime/59123/Kumarba_Season_2",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60910,
-    "title": "Hero Inside 2",
-    "title_english": null,
-    "title_japanese": "히어로 인사이드2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1138/147842l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 9,
-    "score": null,
-    "scored_by": null,
-    "rank": 21930,
-    "popularity": 22369,
-    "members": 213,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [],
-    "aired_from": "2024-09-22T00:00:00+00:00",
-    "aired_to": "2024-11-17T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60910/Hero_Inside_2",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59740,
-    "title": "Pinkfong-gwa Hogi: Sae Chingu Ninimo",
-    "title_english": null,
-    "title_japanese": "핑크퐁과 호기: 새 친구 니니모",
-    "title_synonyms": [
-      "Pinkfong & Hogi: New Friend Ninimo"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1552/145268l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19488,
-    "popularity": 22651,
-    "members": 200,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "Pinkfong"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-09-21T00:00:00+00:00",
-    "aired_to": "2024-12-28T00:00:00+00:00",
-    "broadcast": "Saturdays at 14:30 (JST)",
-    "url": "https://myanimelist.net/anime/59740/Pinkfong-gwa_Hogi__Sae_Chingu_Ninimo",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61289,
@@ -4216,8 +3879,8 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 15341,
-    "popularity": 24021,
+    "rank": 15344,
+    "popularity": 24037,
     "members": 150,
     "favorites": 0,
     "type": "TV",
@@ -4249,231 +3912,7 @@
     "year": 2024,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60207,
-    "title": "Shaonian Jia Guo Meng",
-    "title_english": null,
-    "title_japanese": "少年家国梦",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1475/146285l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14836,
-    "popularity": 24270,
-    "members": 143,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical",
-      "Military"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-10-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60207/Shaonian_Jia_Guo_Meng",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60914,
-    "title": "Beuledeu Ibalso 4: Bakery Ppang Stars",
-    "title_english": "Bread Barbershop 4",
-    "title_japanese": "브레드이발소4: 베이커리 빵스타즈",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1575/147846l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 22,
-    "score": null,
-    "scored_by": null,
-    "rank": 20271,
-    "popularity": 24304,
-    "members": 142,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-11-30T00:00:00+00:00",
-    "aired_to": "2025-06-07T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60914/Beuledeu_Ibalso_4__Bakery_Ppang_Stars",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60997,
-    "title": "Balala Xiao Mo Xian: Yao Xing Shouhu Zhe",
-    "title_english": "Balala the Fairies: Radiant Star Guardians",
-    "title_japanese": "巴啦啦小魔仙曜星守护者1",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1593/147985l.jpg",
-    "trailer_url": null,
-    "synopsis": "The Fairies Laura Xia, Cora Yan and Sylvia Bai and Symin, felt the change in magic energy and boarded the Star Dream Moon Boat to enter the newly opened Fantasy Night Realm.\n\nIn defending the Fantasy Night Realm against the dark forces controlled by Nightfall, the fairies were recognized by the Radiant Stars and made the new Guardians of the Radiant Stars.\n\nThey passed the trial awakening the power of the Radiant Stars, and forged friendship with Aiden and Connie as well. Together they fought against Nightfall, but they didn't expect to fall into his trap, accidentally lifting the seal and releasing him. The Fantasy Night Realm is about to face a greater crisis...\n\n(Source: Balala the Fairies Wiki)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20137,
-    "popularity": 24360,
-    "members": 141,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-11-15T00:00:00+00:00",
-    "aired_to": "2024-12-09T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60997/Balala_Xiao_Mo_Xian__Yao_Xing_Shouhu_Zhe",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60705,
-    "title": "Xiong Chumo: Xiongxiong Bang Bang Tuan 3",
-    "title_english": "Boonie Squad 3",
-    "title_japanese": "熊熊帮帮团3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1115/147383l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16701,
-    "popularity": 28871,
-    "members": 71,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-12-20T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60705/Xiong_Chumo__Xiongxiong_Bang_Bang_Tuan_3",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62454,
-    "title": "Tobot: Daedosiui Yeongungdeul Season 2 Part 3",
-    "title_english": null,
-    "title_japanese": "또봇 : 대도시의 영웅들 시즌2 파트 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1623/151974l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 15729,
-    "popularity": 29112,
-    "members": 54,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-10-25T00:00:00+00:00",
-    "aired_to": "2024-12-13T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62454/Tobot__Daedosiui_Yeongungdeul_Season_2_Part_3",
-    "year": 2024,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

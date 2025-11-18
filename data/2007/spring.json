@@ -61,7 +61,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2025,
@@ -77,11 +78,11 @@
     "background": "Darker than Black was awarded Best Original Anime of The Year by GoGoplex, a popular magazine for teens. In the 2007 Japan Media Arts Festival, it was one of the jury's recommendations from the category \"Animation Division/Long Animation.\" On January 21, 2016, it was announced that Funimation Entertainment, the North American distributor for the anime, no longer holds the license for this season.",
     "episodes": 25,
     "score": 8.04,
-    "scored_by": 450431,
-    "rank": 636,
+    "scored_by": 450446,
+    "rank": 634,
     "popularity": 185,
-    "members": 993859,
-    "favorites": 16892,
+    "members": 993901,
+    "favorites": 16893,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -118,7 +119,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1818,
@@ -175,7 +177,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1887,
@@ -191,11 +194,11 @@
     "background": "Lucky Star also has audio CDs, light novels, and a musical adaptation.",
     "episodes": 24,
     "score": 7.75,
-    "scored_by": 336670,
+    "scored_by": 336696,
     "rank": 1205,
     "popularity": 344,
-    "members": 685608,
-    "favorites": 13102,
+    "members": 685657,
+    "favorites": 13101,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -235,7 +238,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2034,
@@ -252,11 +256,11 @@
     "background": "The North American distribution company Discotek released a Blu-ray for the series on January 30th, 2024, which was also the first time the series was dubbed in English.",
     "episodes": 24,
     "score": 8.03,
-    "scored_by": 311273,
+    "scored_by": 311299,
     "rank": 661,
     "popularity": 379,
-    "members": 636168,
-    "favorites": 10884,
+    "members": 636221,
+    "favorites": 10885,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -294,7 +298,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1691,
@@ -311,10 +316,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.15,
-    "scored_by": 243503,
-    "rank": 3749,
+    "scored_by": 243509,
+    "rank": 3747,
     "popularity": 534,
-    "members": 470285,
+    "members": 470304,
     "favorites": 1971,
     "type": "TV",
     "status": "Finished Airing",
@@ -344,7 +349,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1292,
@@ -358,11 +364,11 @@
     "background": "The Afro Samurai anime was a creative collaboration between Samuel L. Jackson, Takashi Okazaki, and Gonzo, with the music scored by RZA of the Wu-Tang Clan. After the success of the anime series, it was adapted into an animated film, a video game, and received a live action tribute short film titled \"Afro Samurai: Flesh and Bone.\" The anime aired first on Spike TV in the US from Jan 4, 2007 to Feb 1, 2007. Three months later, it aired on Japanese television over two consecutive night blocks with Japanese subtitles.",
     "episodes": 5,
     "score": 7.37,
-    "scored_by": 214008,
+    "scored_by": 214020,
     "rank": 2581,
     "popularity": 650,
-    "members": 403366,
-    "favorites": 2100,
+    "members": 403396,
+    "favorites": 2102,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -398,7 +404,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2104,
@@ -414,10 +421,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.65,
-    "scored_by": 148995,
-    "rank": 1506,
+    "scored_by": 149007,
+    "rank": 1507,
     "popularity": 778,
-    "members": 343445,
+    "members": 343470,
     "favorites": 3033,
     "type": "TV",
     "status": "Finished Airing",
@@ -458,7 +465,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2026,
@@ -474,10 +482,10 @@
     "background": "",
     "episodes": 52,
     "score": 7.5,
-    "scored_by": 100283,
+    "scored_by": 100290,
     "rank": 2039,
     "popularity": 1165,
-    "members": 234574,
+    "members": 234597,
     "favorites": 1606,
     "type": "TV",
     "status": "Finished Airing",
@@ -517,7 +525,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1827,
@@ -533,10 +542,10 @@
     "background": "Seirei no Moribito is based on Nahoko Uehashi's Moribito novel series. It adapts the first novel in the series, and greatly expands the midsection of the novel.",
     "episodes": 26,
     "score": 8.12,
-    "scored_by": 79793,
-    "rank": 517,
+    "scored_by": 79795,
+    "rank": 518,
     "popularity": 1179,
-    "members": 232045,
+    "members": 232064,
     "favorites": 2854,
     "type": "TV",
     "status": "Finished Airing",
@@ -574,7 +583,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1690,
@@ -590,11 +600,11 @@
     "background": "",
     "episodes": 24,
     "score": 7.59,
-    "scored_by": 55640,
-    "rank": 1682,
+    "scored_by": 55642,
+    "rank": 1681,
     "popularity": 1354,
-    "members": 199942,
-    "favorites": 1213,
+    "members": 199951,
+    "favorites": 1214,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -634,7 +644,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1699,
@@ -650,10 +661,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.57,
-    "scored_by": 77053,
+    "scored_by": 77056,
     "rank": 1752,
     "popularity": 1412,
-    "members": 190738,
+    "members": 190741,
     "favorites": 1210,
     "type": "TV",
     "status": "Finished Airing",
@@ -693,7 +704,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2164,
@@ -711,10 +723,10 @@
     "background": "One of the awards won by the series was the Seiun Award in 2008 for the Best Dramatic Presentation category.",
     "episodes": 26,
     "score": 8.02,
-    "scored_by": 45606,
+    "scored_by": 45608,
     "rank": 676,
     "popularity": 1663,
-    "members": 156714,
+    "members": 156730,
     "favorites": 1682,
     "type": "TV",
     "status": "Finished Airing",
@@ -751,7 +763,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2002,
@@ -765,10 +778,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.5,
-    "scored_by": 48618,
+    "scored_by": 48621,
     "rank": 2041,
     "popularity": 2086,
-    "members": 117685,
+    "members": 117690,
     "favorites": 664,
     "type": "TV",
     "status": "Finished Airing",
@@ -802,7 +815,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2156,
@@ -816,10 +830,10 @@
     "background": "The second and third seasons of Bakugan Battle Brawlers aired overseas before coming to Japan, while the fourth and final season of the show didn't air in Japan.",
     "episodes": 52,
     "score": 6.49,
-    "scored_by": 72319,
-    "rank": 7390,
+    "scored_by": 72325,
+    "rank": 7389,
     "popularity": 2097,
-    "members": 117113,
+    "members": 117119,
     "favorites": 483,
     "type": "TV",
     "status": "Finished Airing",
@@ -852,7 +866,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1722,
@@ -869,10 +884,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.2,
-    "scored_by": 46325,
-    "rank": 3496,
+    "scored_by": 46327,
+    "rank": 3495,
     "popularity": 2207,
-    "members": 107737,
+    "members": 107747,
     "favorites": 414,
     "type": "TV",
     "status": "Finished Airing",
@@ -909,7 +924,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2159,
@@ -969,7 +985,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1965,
@@ -985,10 +1002,10 @@
     "background": "Sola was the first anime written by Hisaya Naoki after leaving game publisher Key.",
     "episodes": 13,
     "score": 7.16,
-    "scored_by": 46760,
-    "rank": 3699,
-    "popularity": 2265,
-    "members": 104040,
+    "scored_by": 46762,
+    "rank": 3698,
+    "popularity": 2266,
+    "members": 104041,
     "favorites": 417,
     "type": "TV",
     "status": "Finished Airing",
@@ -1020,7 +1037,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 2130,
@@ -1037,10 +1055,10 @@
     "background": "",
     "episodes": 25,
     "score": 6.95,
-    "scored_by": 30690,
+    "scored_by": 30693,
     "rank": 4758,
     "popularity": 2568,
-    "members": 85400,
+    "members": 85407,
     "favorites": 218,
     "type": "TV",
     "status": "Finished Airing",
@@ -1081,7 +1099,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2158,
@@ -1100,11 +1119,11 @@
     "background": "Terra e... was released on DVD in English as Toward the Terra by Bandai Entertainment from July 15, 2008 to December 2, 2008.",
     "episodes": 24,
     "score": 7.85,
-    "scored_by": 19441,
+    "scored_by": 19442,
     "rank": 971,
     "popularity": 2993,
-    "members": 66004,
-    "favorites": 846,
+    "members": 66006,
+    "favorites": 845,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1144,7 +1163,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2030,
@@ -1161,10 +1181,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.2,
-    "scored_by": 19336,
-    "rank": 3477,
+    "scored_by": 19338,
+    "rank": 3476,
     "popularity": 3172,
-    "members": 58683,
+    "members": 58688,
     "favorites": 270,
     "type": "TV",
     "status": "Finished Airing",
@@ -1197,7 +1217,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2142,
@@ -1213,8 +1234,8 @@
     "score": 6.4,
     "scored_by": 29650,
     "rank": 7959,
-    "popularity": 3192,
-    "members": 58161,
+    "popularity": 3193,
+    "members": 58164,
     "favorites": 124,
     "type": "TV",
     "status": "Finished Airing",
@@ -1246,7 +1267,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1915,
@@ -1262,10 +1284,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.61,
-    "scored_by": 27234,
-    "rank": 1637,
-    "popularity": 3267,
-    "members": 55865,
+    "scored_by": 27236,
+    "rank": 1636,
+    "popularity": 3268,
+    "members": 55869,
     "favorites": 573,
     "type": "TV",
     "status": "Finished Airing",
@@ -1301,7 +1323,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1808,
@@ -1318,10 +1341,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.18,
-    "scored_by": 23418,
-    "rank": 3589,
+    "scored_by": 23422,
+    "rank": 3588,
     "popularity": 3275,
-    "members": 55655,
+    "members": 55663,
     "favorites": 388,
     "type": "TV",
     "status": "Finished Airing",
@@ -1359,7 +1382,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2112,
@@ -1412,7 +1436,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1914,
@@ -1430,7 +1455,7 @@
     "background": "",
     "episodes": 39,
     "score": 8,
-    "scored_by": 18800,
+    "scored_by": 18803,
     "rank": 697,
     "popularity": 3707,
     "members": 44916,
@@ -1469,7 +1494,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2035,
@@ -1483,10 +1509,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.8,
-    "scored_by": 25547,
-    "rank": 1083,
-    "popularity": 3836,
-    "members": 42320,
+    "scored_by": 25548,
+    "rank": 1082,
+    "popularity": 3837,
+    "members": 42322,
     "favorites": 115,
     "type": "TV",
     "status": "Finished Airing",
@@ -1520,7 +1546,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2031,
@@ -1537,10 +1564,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.46,
-    "scored_by": 13194,
+    "scored_by": 13195,
     "rank": 7577,
-    "popularity": 4117,
-    "members": 36520,
+    "popularity": 4118,
+    "members": 36524,
     "favorites": 69,
     "type": "TV",
     "status": "Finished Airing",
@@ -1574,7 +1601,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2161,
@@ -1590,10 +1618,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.58,
-    "scored_by": 9330,
+    "scored_by": 9331,
     "rank": 6828,
     "popularity": 4209,
-    "members": 35044,
+    "members": 35048,
     "favorites": 77,
     "type": "TV",
     "status": "Finished Airing",
@@ -1626,7 +1654,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1727,
@@ -1640,10 +1669,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.78,
-    "scored_by": 10991,
-    "rank": 5649,
+    "scored_by": 10992,
+    "rank": 5647,
     "popularity": 4341,
-    "members": 32779,
+    "members": 32781,
     "favorites": 43,
     "type": "TV",
     "status": "Finished Airing",
@@ -1686,7 +1715,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1694,
@@ -1706,7 +1736,7 @@
     "scored_by": 7402,
     "rank": 7632,
     "popularity": 4949,
-    "members": 24437,
+    "members": 24441,
     "favorites": 32,
     "type": "TV",
     "status": "Finished Airing",
@@ -1739,7 +1769,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2155,
@@ -1753,10 +1784,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.13,
-    "scored_by": 6779,
-    "rank": 9523,
+    "scored_by": 6780,
+    "rank": 9526,
     "popularity": 5081,
-    "members": 22793,
+    "members": 22795,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -1785,7 +1816,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2105,
@@ -1799,10 +1831,10 @@
     "background": "Touka Gettan aired largely in reverse chronological order. The chronological order of the episodes is 26, 24-1, 25.",
     "episodes": 26,
     "score": 6.45,
-    "scored_by": 4945,
+    "scored_by": 4946,
     "rank": 7659,
-    "popularity": 5219,
-    "members": 21416,
+    "popularity": 5220,
+    "members": 21420,
     "favorites": 49,
     "type": "TV",
     "status": "Finished Airing",
@@ -1838,7 +1870,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1721,
@@ -1852,10 +1885,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.71,
-    "scored_by": 8131,
-    "rank": 6039,
-    "popularity": 5221,
-    "members": 21388,
+    "scored_by": 8132,
+    "rank": 6037,
+    "popularity": 5222,
+    "members": 21392,
     "favorites": 31,
     "type": "TV",
     "status": "Finished Airing",
@@ -1895,7 +1928,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2152,
@@ -1952,7 +1986,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 10870,
@@ -1969,9 +2004,9 @@
     "episodes": 12,
     "score": 7.18,
     "scored_by": 3819,
-    "rank": 3588,
+    "rank": 3589,
     "popularity": 6322,
-    "members": 13003,
+    "members": 13005,
     "favorites": 7,
     "type": "TV",
     "status": "Finished Airing",
@@ -1997,7 +2032,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1941,
@@ -2049,7 +2085,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2106,
@@ -2065,10 +2102,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.51,
-    "scored_by": 3295,
-    "rank": 7246,
-    "popularity": 6573,
-    "members": 11848,
+    "scored_by": 3297,
+    "rank": 7247,
+    "popularity": 6571,
+    "members": 11851,
     "favorites": 14,
     "type": "TV",
     "status": "Finished Airing",
@@ -2102,7 +2139,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2032,
@@ -2119,8 +2157,8 @@
     "episodes": 13,
     "score": 6.6,
     "scored_by": 3081,
-    "rank": 6730,
-    "popularity": 6922,
+    "rank": 6729,
+    "popularity": 6923,
     "members": 10468,
     "favorites": 9,
     "type": "TV",
@@ -2157,7 +2195,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2162,
@@ -2172,9 +2211,9 @@
     "episodes": 25,
     "score": 6.28,
     "scored_by": 2796,
-    "rank": 8644,
+    "rank": 8643,
     "popularity": 7200,
-    "members": 9555,
+    "members": 9556,
     "favorites": 14,
     "type": "TV",
     "status": "Finished Airing",
@@ -2204,7 +2243,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1878,
@@ -2222,7 +2262,7 @@
     "episodes": 26,
     "score": 7.35,
     "scored_by": 2981,
-    "rank": 2674,
+    "rank": 2672,
     "popularity": 7473,
     "members": 8696,
     "favorites": 30,
@@ -2254,7 +2294,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2157,
@@ -2273,9 +2314,9 @@
     "episodes": 13,
     "score": 6.89,
     "scored_by": 2916,
-    "rank": 5060,
-    "popularity": 7826,
-    "members": 7682,
+    "rank": 5059,
+    "popularity": 7827,
+    "members": 7683,
     "favorites": 11,
     "type": "TV",
     "status": "Finished Airing",
@@ -2306,7 +2347,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2215,
@@ -2323,11 +2365,11 @@
     "synopsis": "2035 A.D. The heads of ancient giant idols were excavated all over the world. Using those twelve stones statues, Humanity had barely overcome the threat of extinction called the \"Equatorial Winter\". But the stone statues had forced Humanity to construct colossal suits of armor as their bodies and demanded that the humans fight each other.\n\n(Source: ANN)",
     "background": "",
     "episodes": 26,
-    "score": 6.79,
-    "scored_by": 2492,
-    "rank": 5545,
+    "score": 6.78,
+    "scored_by": 2493,
+    "rank": 5627,
     "popularity": 7862,
-    "members": 7611,
+    "members": 7613,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -2358,7 +2400,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2153,
@@ -2373,9 +2416,9 @@
     "episodes": 13,
     "score": 6.29,
     "scored_by": 2555,
-    "rank": 8572,
-    "popularity": 7911,
-    "members": 7515,
+    "rank": 8574,
+    "popularity": 7910,
+    "members": 7516,
     "favorites": 10,
     "type": "TV",
     "status": "Finished Airing",
@@ -2406,7 +2449,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2165,
@@ -2425,7 +2469,7 @@
     "scored_by": 2248,
     "rank": 4755,
     "popularity": 8145,
-    "members": 6973,
+    "members": 6976,
     "favorites": 14,
     "type": "TV",
     "status": "Finished Airing",
@@ -2453,7 +2497,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2620,
@@ -2502,7 +2547,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5520,
@@ -2519,7 +2565,7 @@
     "scored_by": 1010,
     "rank": 4768,
     "popularity": 9793,
-    "members": 4280,
+    "members": 4281,
     "favorites": 13,
     "type": "TV",
     "status": "Finished Airing",
@@ -2548,56 +2594,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 4444,
-    "title": "Zero Duel Masters",
-    "title_english": null,
-    "title_japanese": "ゼロ デュエル・マスターズ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1456/124274l.jpg",
-    "trailer_url": null,
-    "synopsis": "It is featured in an alternate universe where Shobu had lost his duel against Hakuoh in their duel back in the Season 1 episode \"Just Duel It\".\n\nA mysterious organization is interested in fledgling duelist Shobu Kirifuda's ability to bring Duel Master creatures to life. With the support of his friends, Shobu duels with passion, discipline, and heart as he strives to be like his father and become the next Kaijudo master.\n\n(Source: Duel Masters Wikia)",
-    "background": "",
-    "episodes": 12,
-    "score": 6.01,
-    "scored_by": 1015,
-    "rank": 10225,
-    "popularity": 11064,
-    "members": 2925,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "SynergySP"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Sports"
-    ],
-    "themes": [
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-04-09T00:00:00+00:00",
-    "aired_to": "2007-09-28T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/4444/Zero_Duel_Masters",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 9200,
@@ -2617,9 +2615,9 @@
     "episodes": 26,
     "score": 7.31,
     "scored_by": 999,
-    "rank": 2889,
-    "popularity": 11599,
-    "members": 2512,
+    "rank": 2888,
+    "popularity": 11597,
+    "members": 2513,
     "favorites": 14,
     "type": "TV",
     "status": "Finished Airing",
@@ -2649,7 +2647,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 7522,
@@ -2664,9 +2663,9 @@
     "episodes": 39,
     "score": 6.36,
     "scored_by": 629,
-    "rank": 8181,
-    "popularity": 12441,
-    "members": 1973,
+    "rank": 8184,
+    "popularity": 12439,
+    "members": 1975,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -2700,100 +2699,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 3885,
-    "title": "Sugar Bunnies",
-    "title_english": "Sugar Bunnies",
-    "title_japanese": "シュガーバニーズ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/5/6947l.jpg",
-    "trailer_url": null,
-    "synopsis": "Random cutesy edutainment tales aimed at small children, featuring animated speaking plushy toys.\n\nAired inside the anime corner of the Kitty's Paradise TV block.",
-    "background": "",
-    "episodes": 26,
-    "score": 6.06,
-    "scored_by": 277,
-    "rank": 9963,
-    "popularity": 13138,
-    "members": 1577,
-    "favorites": 7,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "Asahi Production"
-    ],
-    "producers": [
-      "Sanrio"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-04-03T00:00:00+00:00",
-    "aired_to": "2007-09-25T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/3885/Sugar_Bunnies",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 19467,
-    "title": "Revbahaf Wang-gug Jaegeon-soelgi",
-    "title_english": null,
-    "title_japanese": "르브바하프 왕국 재건설기",
-    "title_synonyms": [
-      "Revbahaf Kingdom Rebuilding Story",
-      "The Legend of Prince Van",
-      "Revbahaf: The Story of Rebuilding the Kingdom"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/4/52259l.jpg",
-    "trailer_url": null,
-    "synopsis": "Three people are hiding out in a cabin by the foothills.  Van is the prince from the now-defunct Revbahaf Kingdom, Kona – his hand maiden, and Sian – his philosopher and tutor.  Chased by enemies, these three individuals earn the kindness of Aaron, who feeds them at the cabin.  By helping out with Aaron’s chores, the former royal family learns to live a peaceful life getting by, rather than plotting a revenge on the neighboring country which invaded them. Together they try to rebuild the Kingdom of Revbahaf. \n\n(Source: Manhwa101)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14469,
-    "popularity": 15083,
-    "members": 943,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "20 min per ep",
-    "rating": null,
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "Studio Kaab"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2007-05-21T00:00:00+00:00",
-    "aired_to": "2007-11-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/19467/Revbahaf_Wang-gug_Jaegeon-soelgi",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 20087,
@@ -2838,247 +2745,8 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 10705,
-    "title": "Yasai no Yousei: N.Y.Salad",
-    "title_english": null,
-    "title_japanese": "やさいのようせい N.Y.SALAD",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1601/139671l.jpg",
-    "trailer_url": null,
-    "synopsis": "It is based on N.Y.SALAD written by Yoshitaka Amano. It depicts lives of vegetable fairies at a kitchen in N. Y.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16819,
-    "popularity": 16947,
-    "members": 599,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "Digital Media Lab"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-04-05T00:00:00+00:00",
-    "aired_to": "2007-05-17T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/10705/Yasai_no_Yousei__NYSalad",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 35642,
-    "title": "Lei Su Deng Shandian Chong Xian",
-    "title_english": "Race-Tin: Flash & Dash",
-    "title_japanese": "雷速登闪电冲线",
-    "title_synonyms": [
-      "Flash and Dash"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1281/93043l.jpg",
-    "trailer_url": null,
-    "synopsis": "Twin brothers Frank and Karl live with Uncle Charles when their parents are away. They go to school and meet Mike and Sally.\nThey meet Sally, Norton and Mike and tell them all about R.C. Racing, but Karl tells that R.C. Racing is just babies games. Then after school, the guys go to the Race Tin club, and Mike races the duo. Karl fumbles with the controller buttons and Frank copies Mike and comes into second. After the race, Sally and his father arrive. They get to the car shop and analyze some cars. Mike tells them what R.C. Racing cars are like. He explains his car as an example, and he tells that the higher the level, the car will have to be modified with spoilers and new body kits.\nFrank and Karl Race Marco and later on Sword, continuing to race Tommy and Norton, onwards against Ocean, and they race Sword again in the finals.\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 26,
-    "score": 5.93,
-    "scored_by": 227,
-    "rank": 10656,
-    "popularity": 17233,
-    "members": 567,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "21 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Alpha Animation"
-    ],
-    "producers": [
-      "Alpha Group"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Racing"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-05-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/35642/Lei_Su_Deng_Shandian_Chong_Xian",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 3073,
-    "title": "Robby to Kerobby",
-    "title_english": "Robby & Kerobby",
-    "title_japanese": "ロビーとケロビー",
-    "title_synonyms": [
-      "Robikero"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/4/67973l.jpg",
-    "trailer_url": null,
-    "synopsis": "A story of the adventures of Robby and Kerobby along with their other friends.",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 14494,
-    "popularity": 17880,
-    "members": 503,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "A-1 Pictures"
-    ],
-    "producers": [
-      "Aniplex",
-      "Yomiko Advertising",
-      "We've Inc."
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-04-01T00:00:00+00:00",
-    "aired_to": "2008-03-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/3073/Robby_to_Kerobby",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 37300,
-    "title": "Xiao Liyu Lixian Ji",
-    "title_english": "The Adventures of Little Carp",
-    "title_japanese": "小鲤鱼历险记",
-    "title_synonyms": [
-      "The Carp Jumps Over the Dragon Gate",
-      "Liyu Tiao Longmen"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1305/90532l.jpg",
-    "trailer_url": null,
-    "synopsis": "Bubbles, a carp, lives in Carp Lake with his grandmother, who often tells him about the legendary, powerful ruler of the seas and the rivers: the Dragon, whom Bubbles idolises. One day, Bubbles encounters Evil Snake, who pretends that he is the Dragon King. Evil Snake and his two accomplices, Lobby and Bogart, accompany Bubbles to the lake, where Bubbles' grandmother suspects that he is an impostor. No one believes her at first until his \"dragon horns\" and fake skin slip from his body, and his identity is revealed.\n\nIn anger, Evil Snake turns Bubbles' grandmother into a bubble in a fierce fight. Angry, Bubbles searches for the real dragon to revive his grandmother, and avenge her death by finding the five dragon scales left by the Dragon in order to beat Evil Snake. Along the way, he meets new friends, including the imposing Aku, the sassy Mei Mei, and the timid Erl, while Evil Snake and his henchmen relentlessly pursue Bubbles.\n\n(Source: Wikipedia)",
-    "background": "Based on a Chinese folktale called \"The Carp Jumps Over the Dragon Gate.\" The Adventures of Little Carp was released on VCD and DVD in 2006. It was also adapted as comic book, and as an educational book.",
-    "episodes": 52,
-    "score": 6.11,
-    "scored_by": 177,
-    "rank": 9633,
-    "popularity": 18419,
-    "members": 459,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-06-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/37300/Xiao_Liyu_Lixian_Ji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 29745,
-    "title": "ColoColo Animal",
-    "title_english": null,
-    "title_japanese": "コロコロアニマル",
-    "title_synonyms": [
-      "Coro Coro Animal",
-      "Colo Colo Animal",
-      "Koro Koro Animal",
-      "Korokoro Animal"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/9/71522l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 20772,
-    "popularity": 20627,
-    "members": 306,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "Milky Cartoon"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-03-22T00:00:00+00:00",
-    "aired_to": "2007-07-27T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/29745/ColoColo_Animal",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 32418,
@@ -3095,9 +2763,9 @@
     "episodes": 25,
     "score": null,
     "scored_by": null,
-    "rank": 20639,
-    "popularity": 20687,
-    "members": 303,
+    "rank": 20640,
+    "popularity": 20655,
+    "members": 304,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -3121,88 +2789,7 @@
     "year": 2007,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45765,
-    "title": "Huo Xing Wa: Maoxian Leyuan",
-    "title_english": null,
-    "title_japanese": "火星娃冒险乐园",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1382/115387l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 53,
-    "score": null,
-    "scored_by": null,
-    "rank": 22164,
-    "popularity": 23550,
-    "members": 164,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-05-01T00:00:00+00:00",
-    "aired_to": "2007-08-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45765/Huo_Xing_Wa__Maoxian_Leyuan",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45293,
-    "title": "Xiaoshi de Wenming",
-    "title_english": null,
-    "title_japanese": "消失的文明",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1241/131259l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 16527,
-    "popularity": 25361,
-    "members": 120,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2007-04-01T00:00:00+00:00",
-    "aired_to": "2008-09-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45293/Xiaoshi_de_Wenming",
-    "year": 2007,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

@@ -15,11 +15,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.07,
-    "scored_by": 439249,
+    "scored_by": 439387,
     "rank": 604,
     "popularity": 293,
-    "members": 761836,
-    "favorites": 8404,
+    "members": 762038,
+    "favorites": 8405,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -57,7 +57,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50346,
@@ -71,11 +72,11 @@
     "background": "",
     "episodes": 13,
     "score": 7.95,
-    "scored_by": 330437,
+    "scored_by": 330528,
     "rank": 782,
     "popularity": 307,
-    "members": 731964,
-    "favorites": 10013,
+    "members": 732131,
+    "favorites": 10016,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -117,7 +118,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48895,
@@ -131,11 +133,11 @@
     "background": "Overlord IV was released on Blu-ray and DVD in Japan from October 26, 2022 to December 23, 2022. It adapts volumes 10, 11, and 14 of the light novel series.",
     "episodes": 13,
     "score": 8.06,
-    "scored_by": 311878,
+    "scored_by": 311925,
     "rank": 618,
     "popularity": 397,
-    "members": 613745,
-    "favorites": 7422,
+    "members": 613815,
+    "favorites": 7423,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -169,7 +171,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50709,
@@ -185,11 +188,11 @@
     "background": "Lycoris Recoil was released on Blu-ray and DVD in Japan from September 21, 2022 to February 22, 2023.",
     "episodes": 13,
     "score": 8.15,
-    "scored_by": 279845,
+    "scored_by": 279881,
     "rank": 491,
     "popularity": 429,
-    "members": 573933,
-    "favorites": 9555,
+    "members": 574006,
+    "favorites": 9558,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -220,7 +223,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41084,
@@ -234,11 +238,11 @@
     "background": "Made in Abyss: Retsujitsu no Ougonkyou was released on Blu-ray and DVD in Japan from October 26, 2022 to December 23, 2022.",
     "episodes": 12,
     "score": 8.6,
-    "scored_by": 248511,
+    "scored_by": 248568,
     "rank": 106,
     "popularity": 474,
-    "members": 519836,
-    "favorites": 6772,
+    "members": 519928,
+    "favorites": 6773,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -280,7 +284,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48413,
@@ -298,10 +303,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.65,
-    "scored_by": 170423,
-    "rank": 6411,
+    "scored_by": 170449,
+    "rank": 6414,
     "popularity": 481,
-    "members": 516072,
+    "members": 516114,
     "favorites": 4730,
     "type": "TV",
     "status": "Finished Airing",
@@ -339,7 +344,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42963,
@@ -355,10 +361,10 @@
     "background": "Kanojo, Okarishimasu 2nd Season was released on Blu-ray in Japan from October 26, 2022 to January 25, 2023.",
     "episodes": 12,
     "score": 6.73,
-    "scored_by": 191792,
+    "scored_by": 191825,
     "rank": 5876,
     "popularity": 544,
-    "members": 464414,
+    "members": 464452,
     "favorites": 4879,
     "type": "TV",
     "status": "Finished Airing",
@@ -397,7 +403,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49220,
@@ -414,10 +421,10 @@
     "background": "Isekai Ojisan was released on Blu-ray and DVD in three volumes from September 28, 2022, to March 24, 2023.",
     "episodes": 13,
     "score": 7.76,
-    "scored_by": 191662,
+    "scored_by": 191697,
     "rank": 1196,
     "popularity": 627,
-    "members": 412952,
+    "members": 413012,
     "favorites": 2274,
     "type": "TV",
     "status": "Finished Airing",
@@ -456,7 +463,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47164,
@@ -473,10 +481,10 @@
     "background": "The series adapts the volumes 12 and 13 of the light novel of Fujino Omori's series of the same title.",
     "episodes": 11,
     "score": 7.74,
-    "scored_by": 172859,
+    "scored_by": 172904,
     "rank": 1236,
     "popularity": 665,
-    "members": 395508,
+    "members": 395587,
     "favorites": 2145,
     "type": "TV",
     "status": "Finished Airing",
@@ -516,7 +524,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49470,
@@ -533,11 +542,11 @@
     "background": "Mamahaha no Tsurego ga Motokano datta was released on Blu-ray in three volumes from October 26, 2022 to December 21, 2022.",
     "episodes": 12,
     "score": 6.73,
-    "scored_by": 153219,
+    "scored_by": 153255,
     "rank": 5882,
     "popularity": 817,
-    "members": 329149,
-    "favorites": 1588,
+    "members": 329212,
+    "favorites": 1587,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -579,7 +588,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51213,
@@ -593,11 +603,11 @@
     "background": "Kinsou no Vermeil: Gakeppuchi Majutsushi wa Saikyou no Yakusai to Mahou Sekai wo Tsukisusumu was released on Blu-ray on November 9, 2022.",
     "episodes": 12,
     "score": 6.8,
-    "scored_by": 134022,
-    "rank": 5527,
-    "popularity": 826,
-    "members": 327049,
-    "favorites": 2165,
+    "scored_by": 134040,
+    "rank": 5525,
+    "popularity": 825,
+    "members": 327119,
+    "favorites": 2168,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -638,7 +648,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44524,
@@ -654,10 +665,10 @@
     "background": "Isekai Meikyuu de Harem wo was released on Blu-ray and DVD in two volumes from November 25, 2022 to December 23, 2022.",
     "episodes": 12,
     "score": 6.53,
-    "scored_by": 129566,
+    "scored_by": 129582,
     "rank": null,
     "popularity": 929,
-    "members": 289769,
+    "members": 289805,
     "favorites": 2181,
     "type": "TV",
     "status": "Finished Airing",
@@ -698,7 +709,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51064,
@@ -714,10 +726,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.02,
-    "scored_by": 141625,
+    "scored_by": 141672,
     "rank": 4450,
     "popularity": 956,
-    "members": 282349,
+    "members": 282425,
     "favorites": 1152,
     "type": "TV",
     "status": "Finished Airing",
@@ -758,7 +770,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51417,
@@ -772,10 +785,10 @@
     "background": "Engage Kiss is a part of the Japanese mixed media project Project Engage, created by Aniplex. The series was released on Blu-ray and DVD in Japan from September 28, 2022 to February 22, 2023.",
     "episodes": 13,
     "score": 6.78,
-    "scored_by": 103296,
-    "rank": 5611,
+    "scored_by": 103317,
+    "rank": 5610,
     "popularity": 1008,
-    "members": 269741,
+    "members": 269793,
     "favorites": 1271,
     "type": "TV",
     "status": "Finished Airing",
@@ -815,7 +828,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49438,
@@ -831,10 +845,10 @@
     "background": "In collaboration with the Japan Pharmaceutical Association, Isekai Yakkyoku was a part of a campaign to bring awareness to the professions and practices of the pharmaceutical field. The series was released on Blu-ray and DVD in Japan from September 28, 2022 to November 25, 2022.",
     "episodes": 12,
     "score": 7.26,
-    "scored_by": 132197,
-    "rank": 3142,
+    "scored_by": 132226,
+    "rank": 3141,
     "popularity": 1049,
-    "members": 261432,
+    "members": 261479,
     "favorites": 982,
     "type": "TV",
     "status": "Finished Airing",
@@ -872,7 +886,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 49776,
@@ -928,7 +943,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47163,
@@ -988,7 +1004,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45653,
@@ -1008,11 +1025,11 @@
     "background": "Soredemo Ayumu wa Yosetekuru was released on Blu-ray in two volumes from October 19, 2022 to December 21, 2022.",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 57791,
-    "rank": 4473,
+    "scored_by": 57800,
+    "rank": 4474,
     "popularity": 1475,
-    "members": 180987,
-    "favorites": 677,
+    "members": 180999,
+    "favorites": 678,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1051,7 +1068,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51837,
@@ -1067,10 +1085,10 @@
     "background": "",
     "episodes": 11,
     "score": 6.57,
-    "scored_by": 45547,
+    "scored_by": 45549,
     "rank": 6900,
     "popularity": 1795,
-    "members": 142524,
+    "members": 142537,
     "favorites": 523,
     "type": "TV",
     "status": "Finished Airing",
@@ -1109,7 +1127,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49782,
@@ -1123,10 +1142,10 @@
     "background": "Shadows House 2nd Season was released on Blu-ray and DVD in six volumes from September 28, 2022 to February 22, 2023.",
     "episodes": 12,
     "score": 8.02,
-    "scored_by": 57158,
+    "scored_by": 57165,
     "rank": 669,
     "popularity": 1864,
-    "members": 136545,
+    "members": 136557,
     "favorites": 721,
     "type": "TV",
     "status": "Finished Airing",
@@ -1161,7 +1180,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51381,
@@ -1210,7 +1230,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48649,
@@ -1224,10 +1245,10 @@
     "background": "Fuuto Tantei was released on Blu-ray and DVD in two volumes from November 9, 2022, to December 7, 2022.",
     "episodes": 12,
     "score": 7.32,
-    "scored_by": 20548,
-    "rank": 2816,
-    "popularity": 2755,
-    "members": 75981,
+    "scored_by": 20556,
+    "rank": 2817,
+    "popularity": 2754,
+    "members": 76002,
     "favorites": 475,
     "type": "TV",
     "status": "Finished Airing",
@@ -1265,7 +1286,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 50891,
@@ -1279,10 +1301,10 @@
     "background": "According to a 2015 Twitter post by the series creator Satoshi Mizukami, an anime adaptation of Hoshi no Samidare was initially planned to be released shortly after the manga's serialization, but the project failed due to a lack of sponsors. The series was released on Blu-ray in four volumes from October 28, 2022 to April 28, 2023.",
     "episodes": 24,
     "score": 5.63,
-    "scored_by": 17797,
+    "scored_by": 17799,
     "rank": 12139,
     "popularity": 3054,
-    "members": 63542,
+    "members": 63550,
     "favorites": 175,
     "type": "TV",
     "status": "Finished Airing",
@@ -1324,7 +1346,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51368,
@@ -1340,10 +1363,10 @@
     "background": "Orient: Awajishima Gekitou-hen was released on Blu-ray in three volumes from September 30, 2022 to November 25, 2022.",
     "episodes": 12,
     "score": 7.04,
-    "scored_by": 23285,
+    "scored_by": 23288,
     "rank": 4374,
     "popularity": 3059,
-    "members": 63368,
+    "members": 63380,
     "favorites": 265,
     "type": "TV",
     "status": "Finished Airing",
@@ -1383,7 +1406,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41589,
@@ -1397,10 +1421,10 @@
     "background": "Tokyo Mew Mew New ♡ was produced in commemoration of the manga's 20th anniversary and the 65th anniversary of Kodansha's Nakayoshi magazine. The series was released on Blu-ray and DVD in three volumes from September 21, 2022 to November 16, 2022.",
     "episodes": 12,
     "score": 6.61,
-    "scored_by": 11907,
-    "rank": 6658,
+    "scored_by": 11910,
+    "rank": 6657,
     "popularity": 3566,
-    "members": 47982,
+    "members": 47987,
     "favorites": 347,
     "type": "TV",
     "status": "Finished Airing",
@@ -1439,7 +1463,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42994,
@@ -1456,10 +1481,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.42,
-    "scored_by": 15272,
-    "rank": 2336,
+    "scored_by": 15274,
+    "rank": 2333,
     "popularity": 3687,
-    "members": 45326,
+    "members": 45331,
     "favorites": 148,
     "type": "TV",
     "status": "Finished Airing",
@@ -1489,7 +1514,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40590,
@@ -1505,10 +1531,10 @@
     "background": "",
     "episodes": 28,
     "score": 7.51,
-    "scored_by": 8601,
+    "scored_by": 8603,
     "rank": 2008,
     "popularity": 3864,
-    "members": 41694,
+    "members": 41696,
     "favorites": 191,
     "type": "TV",
     "status": "Finished Airing",
@@ -1542,7 +1568,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51371,
@@ -1555,11 +1582,11 @@
     "synopsis": "Following a ruthless attack from an imperialist criminal gang known as the Masked Demons, Shinsengumi's Eighth Division—the law-enforcing squad in Kyoto that remains faithful to the shogunate—is nearly annihilated, with its sole survivor, Heisuke Toudou, critically injured. Urged to rebuild the Shinsengumi by the local feudal lord, Katamori Matsudaira, Toudou decides to offer eight convicts the chance to redeem themselves: they must abandon their old names and become substitutes for the eight Shinsengumi captains. All accept but one, who ends up immediately executed by the former assassin Sakuya.\n\nHowever, Toudou has a hard time transforming the seven reformed criminals into loyal servants. Due to his lack of discipline, the impulsive and vengeful Ichibanboshi, whose family perished at the hands of the Masked Demons, threatens the success of Toudou's strategy. As Toudou pledges to protect the shogunate against imperialists and foreign invaders, other factions, such as Kogorou Katsura's group, start to put their plans in motion with only one goal in mind—to seize power at the dusk of the Edo period.\n\n[Written by MAL Rewrite]",
     "background": "In celebration of Bucchigire!'s premiere, Tokyo Tower held a collaborative event between July 8, 2022, and August 21, 2022. The series was released on Blu-ray and DVD in Japan on October 26, 2022.",
     "episodes": 12,
-    "score": 5.99,
-    "scored_by": 11085,
-    "rank": 10291,
+    "score": 5.98,
+    "scored_by": 11087,
+    "rank": 10364,
     "popularity": 3975,
-    "members": 39372,
+    "members": 39374,
     "favorites": 147,
     "type": "TV",
     "status": "Finished Airing",
@@ -1593,7 +1620,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50917,
@@ -1607,10 +1635,10 @@
     "background": "Prima Doll is an anime adaptation that is a part of the multimedia project of the same name by Key and Visual Arts. The series was released on Blu-ray in six volumes from October 28, 2022, to March 29, 2023.",
     "episodes": 12,
     "score": 7.08,
-    "scored_by": 10778,
+    "scored_by": 10779,
     "rank": 4177,
-    "popularity": 4037,
-    "members": 38179,
+    "popularity": 4038,
+    "members": 38180,
     "favorites": 199,
     "type": "TV",
     "status": "Finished Airing",
@@ -1649,7 +1677,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50203,
@@ -1701,7 +1730,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51923,
@@ -1716,9 +1746,9 @@
     "episodes": 12,
     "score": 5.81,
     "scored_by": 8776,
-    "rank": 11264,
-    "popularity": 4412,
-    "members": 31481,
+    "rank": 11262,
+    "popularity": 4411,
+    "members": 31484,
     "favorites": 51,
     "type": "TV",
     "status": "Finished Airing",
@@ -1754,7 +1784,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50221,
@@ -1768,10 +1799,10 @@
     "background": "Shine Post is an anime adaptation that is a part of the multimedia project of the same name by Konami Digital Entertainment and Straight Edge.",
     "episodes": 12,
     "score": 7.47,
-    "scored_by": 8359,
+    "scored_by": 8361,
     "rank": 2175,
-    "popularity": 4587,
-    "members": 28955,
+    "popularity": 4588,
+    "members": 28957,
     "favorites": 126,
     "type": "TV",
     "status": "Finished Airing",
@@ -1813,7 +1844,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50470,
@@ -1832,7 +1864,7 @@
     "scored_by": 9078,
     "rank": 5862,
     "popularity": 4751,
-    "members": 26878,
+    "members": 26881,
     "favorites": 54,
     "type": "TV",
     "status": "Finished Airing",
@@ -1878,7 +1910,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38006,
@@ -1897,9 +1930,9 @@
     "episodes": 12,
     "score": 6.69,
     "scored_by": 6002,
-    "rank": 6168,
+    "rank": 6169,
     "popularity": 4819,
-    "members": 25942,
+    "members": 25945,
     "favorites": 69,
     "type": "TV",
     "status": "Finished Airing",
@@ -1941,7 +1974,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50760,
@@ -1993,7 +2027,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51092,
@@ -2042,7 +2077,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50379,
@@ -2056,10 +2092,10 @@
     "background": "",
     "episodes": 13,
     "score": 5.3,
-    "scored_by": 5962,
-    "rank": 13178,
+    "scored_by": 5964,
+    "rank": 13179,
     "popularity": 5536,
-    "members": 18356,
+    "members": 18359,
     "favorites": 78,
     "type": "TV",
     "status": "Finished Airing",
@@ -2102,7 +2138,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50099,
@@ -2119,7 +2156,7 @@
     "scored_by": 5759,
     "rank": 5646,
     "popularity": 5617,
-    "members": 17717,
+    "members": 17722,
     "favorites": 128,
     "type": "TV",
     "status": "Finished Airing",
@@ -2158,7 +2195,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51692,
@@ -2174,8 +2212,8 @@
     "background": "",
     "episodes": 30,
     "score": 7.19,
-    "scored_by": 4971,
-    "rank": 3542,
+    "scored_by": 4972,
+    "rank": 3541,
     "popularity": 5809,
     "members": 16126,
     "favorites": 109,
@@ -2207,7 +2245,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50999,
@@ -2223,7 +2262,7 @@
     "score": 6.51,
     "scored_by": 4827,
     "rank": 7231,
-    "popularity": 6206,
+    "popularity": 6207,
     "members": 13606,
     "favorites": 35,
     "type": "TV",
@@ -2258,7 +2297,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 35335,
@@ -2273,7 +2313,7 @@
     "episodes": 12,
     "score": 4.65,
     "scored_by": 2063,
-    "rank": 14119,
+    "rank": 14123,
     "popularity": 6759,
     "members": 11078,
     "favorites": 14,
@@ -2306,7 +2346,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51773,
@@ -2353,7 +2394,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49819,
@@ -2371,7 +2413,7 @@
     "episodes": 13,
     "score": 6.84,
     "scored_by": 2277,
-    "rank": 5299,
+    "rank": 5298,
     "popularity": 7807,
     "members": 7730,
     "favorites": 41,
@@ -2407,7 +2449,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49551,
@@ -2421,10 +2464,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.13,
-    "scored_by": 2428,
-    "rank": 9570,
-    "popularity": 8812,
-    "members": 5817,
+    "scored_by": 2429,
+    "rank": 9568,
+    "popularity": 8813,
+    "members": 5819,
     "favorites": 13,
     "type": "TV",
     "status": "Finished Airing",
@@ -2450,7 +2493,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52814,
@@ -2466,8 +2510,8 @@
     "score": 5.44,
     "scored_by": 302,
     "rank": 12773,
-    "popularity": 8844,
-    "members": 5750,
+    "popularity": 8845,
+    "members": 5751,
     "favorites": 51,
     "type": "TV",
     "status": "Finished Airing",
@@ -2494,7 +2538,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50985,
@@ -2509,8 +2554,8 @@
     "episodes": 12,
     "score": 6.89,
     "scored_by": 1343,
-    "rank": 5043,
-    "popularity": 9717,
+    "rank": 5042,
+    "popularity": 9718,
     "members": 4385,
     "favorites": 26,
     "type": "TV",
@@ -2552,7 +2597,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52162,
@@ -2570,8 +2616,8 @@
     "score": 6.11,
     "scored_by": 247,
     "rank": 9637,
-    "popularity": 14111,
-    "members": 1213,
+    "popularity": 14115,
+    "members": 1212,
     "favorites": 4,
     "type": "TV",
     "status": "Finished Airing",
@@ -2598,7 +2644,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52337,
@@ -2641,53 +2688,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51839,
-    "title": "Iii Icecrin Double",
-    "title_english": null,
-    "title_japanese": "iiiあいすくりん2（あいあいあい あいすくりん ダブル）",
-    "title_synonyms": [
-      "Iii Icecrin 2"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1716/123876l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/aIJmqPTIshA?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Second season of Iii Icecrin.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 17256,
-    "popularity": 17897,
-    "members": 502,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Shin-Ei Animation",
-      "Toho Interactive Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-07-02T00:00:00+00:00",
-    "aired_to": "2022-09-17T00:00:00+00:00",
-    "broadcast": "Saturdays at 07:00 (JST)",
-    "url": "https://myanimelist.net/anime/51839/Iii_Icecrin_Double",
-    "year": 2022,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58604,
@@ -2733,7 +2735,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52815,
@@ -2748,8 +2751,8 @@
     "episodes": 60,
     "score": null,
     "scored_by": null,
-    "rank": 21474,
-    "popularity": 18377,
+    "rank": 21475,
+    "popularity": 18381,
     "members": 462,
     "favorites": 4,
     "type": "TV",
@@ -2776,143 +2779,8 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 53044,
-    "title": "Bo & To's Family 2nd Season",
-    "title_english": "Bo & To's Family 2nd Season",
-    "title_japanese": "보토스 패밀리 2",
-    "title_synonyms": [
-      "Botos Family 2nd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1361/127993l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Bo &amp; To's Family.",
-    "background": "",
-    "episodes": 10,
-    "score": null,
-    "scored_by": null,
-    "rank": 20336,
-    "popularity": 21398,
-    "members": 264,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Comma Studio"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-07-30T00:00:00+00:00",
-    "aired_to": "2022-10-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/53044/Bo___Tos_Family_2nd_Season",
-    "year": 2022,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56480,
-    "title": "Dino Powers",
-    "title_english": "DinoPowers",
-    "title_japanese": "다이노 파워즈",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1816/138130l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21011,
-    "popularity": 22970,
-    "members": 186,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-06-02T00:00:00+00:00",
-    "aired_to": "2022-12-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56480/Dino_Powers",
-    "year": 2022,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56357,
-    "title": "Hero Circle 2",
-    "title_english": null,
-    "title_japanese": "히어로 써클 2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1706/137902l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21928,
-    "popularity": 23370,
-    "members": 171,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-06-29T00:00:00+00:00",
-    "aired_to": "2022-09-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56357/Hero_Circle_2",
-    "year": 2022,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62121,
@@ -2927,9 +2795,9 @@
     "episodes": 10,
     "score": null,
     "scored_by": null,
-    "rank": 16922,
-    "popularity": 24965,
-    "members": 127,
+    "rank": 16925,
+    "popularity": 24919,
+    "members": 128,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -2958,137 +2826,7 @@
     "year": 2022,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58375,
-    "title": "Xiong Chumo: Quaishou Jihua 2",
-    "title_english": null,
-    "title_japanese": "熊出没之怪兽计划2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1046/141915l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16692,
-    "popularity": 26280,
-    "members": 105,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-08-12T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58375/Xiong_Chumo__Quaishou_Jihua_2",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60707,
-    "title": "Xi Yangyang Yu Hui Tailang: Qimiao da Yingjiu",
-    "title_english": "Pleasant Goat and Big Big Wolf: The Great Rescue",
-    "title_japanese": "喜羊羊与灰太狼之奇妙大营救",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1235/147387l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16262,
-    "popularity": 26833,
-    "members": 96,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-07-15T00:00:00+00:00",
-    "aired_to": "2022-07-29T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60707/Xi_Yangyang_Yu_Hui_Tailang__Qimiao_da_Yingjiu",
-    "year": 2022,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60882,
-    "title": "Xin Qi Bao Long Zhan Che: Bao Long Chuji 2",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车之暴龙出击2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1103/147808l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16586,
-    "popularity": 29029,
-    "members": 60,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "7 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-07-29T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60882/Xin_Qi_Bao_Long_Zhan_Che__Bao_Long_Chuji_2",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

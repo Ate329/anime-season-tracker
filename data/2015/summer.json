@@ -11,11 +11,11 @@
     "background": "",
     "episodes": 13,
     "score": 7.75,
-    "scored_by": 1048381,
-    "rank": 1224,
+    "scored_by": 1048467,
+    "rank": 1223,
     "popularity": 65,
-    "members": 1728498,
-    "favorites": 24760,
+    "members": 1728650,
+    "favorites": 24763,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -53,7 +53,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29803,
@@ -67,11 +68,11 @@
     "background": "Overlord adapts light novel volumes 1 to 3.",
     "episodes": 13,
     "score": 7.9,
-    "scored_by": 1017388,
-    "rank": 866,
+    "scored_by": 1017459,
+    "rank": 867,
     "popularity": 71,
-    "members": 1721134,
-    "favorites": 28056,
+    "members": 1721261,
+    "favorites": 28058,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -107,7 +108,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30240,
@@ -123,11 +125,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 636017,
-    "rank": 1699,
+    "scored_by": 636071,
+    "rank": 1698,
     "popularity": 160,
-    "members": 1080068,
-    "favorites": 7898,
+    "members": 1080161,
+    "favorites": 7900,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -167,7 +169,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30694,
@@ -185,11 +188,11 @@
     "background": "Dragon Ball Super's first 27 episodes are adaptations of the films Dragon Ball Z Movie 14: Kami to Kami (episodes 1-14) and Dragon Ball Z Movie 15: Fukkatsu no F (episodes 15-27).",
     "episodes": 131,
     "score": 7.47,
-    "scored_by": 575846,
+    "scored_by": 575896,
     "rank": 2151,
     "popularity": 221,
-    "members": 894939,
-    "favorites": 11223,
+    "members": 894998,
+    "favorites": 11222,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -226,7 +229,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28907,
@@ -242,11 +246,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.68,
-    "scored_by": 481074,
+    "scored_by": 481111,
     "rank": 1404,
     "popularity": 238,
-    "members": 868469,
-    "favorites": 6593,
+    "members": 868544,
+    "favorites": 6594,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -285,7 +289,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29786,
@@ -301,10 +306,10 @@
     "background": "Episode 1 was previewed at a screening at Yebisu Garden Place on June 28, 2015. Regular broadcasting began on July 5, 2015.",
     "episodes": 12,
     "score": 7.21,
-    "scored_by": 464579,
-    "rank": 3431,
+    "scored_by": 464624,
+    "rank": 3430,
     "popularity": 242,
-    "members": 862832,
+    "members": 862914,
     "favorites": 4090,
     "type": "TV",
     "status": "Finished Airing",
@@ -343,7 +348,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30307,
@@ -359,10 +365,10 @@
     "background": "Episodes 1 and 2 were previewed at a screening at Odaiba Cinema Mediage on June 27, 2015. Regular broadcasting began on July 8, 2015.",
     "episodes": 12,
     "score": 6.92,
-    "scored_by": 448788,
+    "scored_by": 448811,
     "rank": 4910,
     "popularity": 280,
-    "members": 791443,
+    "members": 791490,
     "favorites": 4094,
     "type": "TV",
     "status": "Finished Airing",
@@ -404,7 +410,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28825,
@@ -420,11 +427,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.09,
-    "scored_by": 399988,
+    "scored_by": 400022,
     "rank": 4134,
     "popularity": 309,
-    "members": 727804,
-    "favorites": 4705,
+    "members": 727866,
+    "favorites": 4704,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -464,7 +471,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30123,
@@ -480,10 +488,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.76,
-    "scored_by": 354951,
+    "scored_by": 354975,
     "rank": 1185,
     "popularity": 310,
-    "members": 726278,
+    "members": 726332,
     "favorites": 8266,
     "type": "TV",
     "status": "Finished Airing",
@@ -524,7 +532,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28497,
@@ -575,7 +584,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 25183,
@@ -632,7 +642,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 27631,
@@ -646,10 +657,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.18,
-    "scored_by": 263947,
-    "rank": 3633,
+    "scored_by": 263957,
+    "rank": 3631,
     "popularity": 433,
-    "members": 568820,
+    "members": 568848,
     "favorites": 1965,
     "type": "TV",
     "status": "Finished Airing",
@@ -685,7 +696,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 24765,
@@ -701,10 +713,10 @@
     "background": "Gakkougurashi! adapts the first 5 volumes of the manga.",
     "episodes": 12,
     "score": 7.61,
-    "scored_by": 228788,
-    "rank": 1623,
+    "scored_by": 228797,
+    "rank": 1622,
     "popularity": 529,
-    "members": 476585,
+    "members": 476611,
     "favorites": 5680,
     "type": "TV",
     "status": "Finished Airing",
@@ -743,7 +755,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 27831,
@@ -794,7 +807,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28819,
@@ -810,10 +824,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.55,
-    "scored_by": 157550,
-    "rank": 7002,
+    "scored_by": 157556,
+    "rank": 7001,
     "popularity": 864,
-    "members": 315835,
+    "members": 315854,
     "favorites": 473,
     "type": "TV",
     "status": "Finished Airing",
@@ -852,7 +866,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29785,
@@ -870,10 +885,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.82,
-    "scored_by": 133906,
-    "rank": 5399,
+    "scored_by": 133909,
+    "rank": 5398,
     "popularity": 925,
-    "members": 290578,
+    "members": 290609,
     "favorites": 569,
     "type": "TV",
     "status": "Finished Airing",
@@ -920,7 +935,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28979,
@@ -936,10 +952,10 @@
     "background": "Episode 1 was previewed at a screening at TOHO Cinemas Shinjuku on June 21, 2015. Regular broadcasting began on July 7, 2015. The franchise has been adapted into five video games.",
     "episodes": 12,
     "score": 7.42,
-    "scored_by": 143070,
-    "rank": 2364,
+    "scored_by": 143075,
+    "rank": 2363,
     "popularity": 992,
-    "members": 274156,
+    "members": 274175,
     "favorites": 964,
     "type": "TV",
     "status": "Finished Airing",
@@ -981,7 +997,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 25283,
@@ -1036,7 +1053,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 25879,
@@ -1053,11 +1071,11 @@
     "background": "Episode 1 was previewed at screenings at Sofmap, Toranoana, Animate, and Gamers stores throughout Japan on June 13, 2015. Regular broadcasting began on July 5, 2015.",
     "episodes": 13,
     "score": 7.95,
-    "scored_by": 133293,
+    "scored_by": 133301,
     "rank": 780,
     "popularity": 1051,
-    "members": 261058,
-    "favorites": 959,
+    "members": 261093,
+    "favorites": 958,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1092,7 +1110,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29854,
@@ -1108,10 +1127,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.56,
-    "scored_by": 104083,
-    "rank": 1813,
+    "scored_by": 104087,
+    "rank": 1812,
     "popularity": 1157,
-    "members": 236794,
+    "members": 236808,
     "favorites": 729,
     "type": "TV",
     "status": "Finished Airing",
@@ -1151,7 +1170,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30205,
@@ -1167,10 +1187,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.14,
-    "scored_by": 104689,
+    "scored_by": 104692,
     "rank": 3804,
     "popularity": 1213,
-    "members": 225715,
+    "members": 225723,
     "favorites": 1313,
     "type": "TV",
     "status": "Finished Airing",
@@ -1210,7 +1230,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 23623,
@@ -1227,11 +1248,11 @@
     "background": "Episode 1 was previewed at a screening at Hibiya Kokaido in Tokyo on June 14, 2015. Regular broadcasting began on July 7, 2015.",
     "episodes": 12,
     "score": 8.17,
-    "scored_by": 105999,
+    "scored_by": 106004,
     "rank": 463,
     "popularity": 1281,
-    "members": 211171,
-    "favorites": 1263,
+    "members": 211174,
+    "favorites": 1262,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1267,7 +1288,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28387,
@@ -1281,10 +1303,10 @@
     "background": "Since the source material for the series was still ongoing, the Joukamachi no Dandelion anime was given an original ending.",
     "episodes": 12,
     "score": 7.15,
-    "scored_by": 68175,
-    "rank": 3747,
-    "popularity": 1460,
-    "members": 183197,
+    "scored_by": 68178,
+    "rank": 3745,
+    "popularity": 1461,
+    "members": 183209,
     "favorites": 446,
     "type": "TV",
     "status": "Finished Airing",
@@ -1324,7 +1346,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 27525,
@@ -1382,7 +1405,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 25649,
@@ -1398,10 +1422,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.58,
-    "scored_by": 65549,
-    "rank": 1733,
+    "scored_by": 65553,
+    "rank": 1732,
     "popularity": 1973,
-    "members": 126622,
+    "members": 126629,
     "favorites": 514,
     "type": "TV",
     "status": "Finished Airing",
@@ -1438,7 +1462,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30383,
@@ -1452,10 +1477,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.95,
-    "scored_by": 49709,
+    "scored_by": 49711,
     "rank": 4745,
-    "popularity": 1987,
-    "members": 125298,
+    "popularity": 1988,
+    "members": 125308,
     "favorites": 201,
     "type": "TV",
     "status": "Finished Airing",
@@ -1495,7 +1520,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 28619,
@@ -1509,10 +1535,10 @@
     "background": "Rampo Kitan: Game of Laplace (lit. Strange Tales of Rampo: Game of Laplace) is inspired by the works of author Edogawa Rampo (a pseudonym for Tarou Hirai) and commemorates the 50th anniversary of his death in 1965. He was a Japanese author and critic who played a major role in the development of Japanese mystery fiction. Many of his novels involve the detective hero Kogoro Akechi, the first recurring detective character in Japanese fiction and is clearly inspired by Doyle's Sherlock Holmes. (Source: Wikipedia)",
     "episodes": 11,
     "score": 6.57,
-    "scored_by": 52247,
-    "rank": 6900,
+    "scored_by": 52249,
+    "rank": 6899,
     "popularity": 1992,
-    "members": 124866,
+    "members": 124869,
     "favorites": 349,
     "type": "TV",
     "status": "Finished Airing",
@@ -1553,7 +1579,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30127,
@@ -1567,10 +1594,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.48,
-    "scored_by": 57133,
-    "rank": 7419,
+    "scored_by": 57137,
+    "rank": 7418,
     "popularity": 2027,
-    "members": 122063,
+    "members": 122067,
     "favorites": 130,
     "type": "TV",
     "status": "Finished Airing",
@@ -1601,7 +1628,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30091,
@@ -1617,10 +1645,10 @@
     "background": "Chaos Dragon is based on the role-playing fiction project Red Dragon, a story which was created by five notable character designers: Gen Urobuchi (Fate/Zero), Kinoko Nasu (Kara no Kyoukai), Iduki Kougyoku (Mimizuku to Yoru no Ou), Ryohgo Narita (Durarara!!), and Simadoriru (member of the Stripe Pattern doujin circle). The results of their tabletop role-playing game sessions over six days created material for a seven-volume light novel series.",
     "episodes": 12,
     "score": 5.61,
-    "scored_by": 45093,
-    "rank": 12201,
+    "scored_by": 45096,
+    "rank": 12203,
     "popularity": 2121,
-    "members": 115204,
+    "members": 115214,
     "favorites": 135,
     "type": "TV",
     "status": "Finished Airing",
@@ -1653,7 +1681,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30782,
@@ -1667,10 +1696,10 @@
     "background": "TV anime project based on Hobby Japan and Megahouse's figure collaboration.",
     "episodes": 12,
     "score": 5.13,
-    "scored_by": 44605,
-    "rank": 13555,
+    "scored_by": 44610,
+    "rank": 13556,
     "popularity": 2345,
-    "members": 98959,
+    "members": 98972,
     "favorites": 198,
     "type": "TV",
     "status": "Finished Airing",
@@ -1705,7 +1734,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 21039,
@@ -1722,10 +1752,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.23,
-    "scored_by": 29152,
+    "scored_by": 29154,
     "rank": 3313,
     "popularity": 2694,
-    "members": 78776,
+    "members": 78782,
     "favorites": 205,
     "type": "TV",
     "status": "Finished Airing",
@@ -1761,7 +1791,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29163,
@@ -1777,10 +1808,10 @@
     "background": "Sore ga Seiyuu was created by an actual voice actress, who makes a cameo appearance in the anime. A number of other well known Japanese voice acting talent appear in the series under their own names, with each episode featuring one special guest seiyuu.",
     "episodes": 13,
     "score": 7.03,
-    "scored_by": 19629,
-    "rank": 4401,
+    "scored_by": 19633,
+    "rank": 4400,
     "popularity": 3229,
-    "members": 56881,
+    "members": 56886,
     "favorites": 87,
     "type": "TV",
     "status": "Finished Airing",
@@ -1813,7 +1844,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 21573,
@@ -1826,11 +1858,11 @@
     "synopsis": "Following the events of Senki Zesshou Symphogear G, Hibiki Tachibana, Tsubasa Kazanari, and Chris Yukine continue to operate under the command of Genjuurou Kazanari. Meanwhile, Maria Cadenzavna Eve, Kirika Akatsuki, and Shirabe Tsukuyomi are taken into protective custody. With peace restored, everyone returns to their daily lives; however, the appearance of the alchemist Carol Malus Dienheim and her subordinates—the \"Autoscorers\"—threatens to draw everyone back into a conflict. \n\nArmed with a strange and magical power, Carol wishes to initiate the apocalypse and bring destruction to the world... and she is willing to sacrifice everything to do so. Against this mysterious new foe, the six Symphogear wielders must rise to the challenge in order to protect what they hold dear. However, will Carol and her Autoscorers prove to be too much to handle in this fight to protect the fate of the world?\n\n[Written by MAL Rewrite]",
     "background": "",
     "episodes": 13,
-    "score": 7.46,
-    "scored_by": 23593,
-    "rank": 2188,
-    "popularity": 3447,
-    "members": 50790,
+    "score": 7.45,
+    "scored_by": 23595,
+    "rank": 2238,
+    "popularity": 3450,
+    "members": 50792,
     "favorites": 399,
     "type": "TV",
     "status": "Finished Airing",
@@ -1868,7 +1900,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30355,
@@ -1882,10 +1915,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.88,
-    "scored_by": 19772,
+    "scored_by": 19775,
     "rank": 5106,
     "popularity": 3666,
-    "members": 45757,
+    "members": 45760,
     "favorites": 68,
     "type": "TV",
     "status": "Finished Airing",
@@ -1919,7 +1952,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30705,
@@ -1935,10 +1969,10 @@
     "background": "",
     "episodes": 12,
     "score": 4.45,
-    "scored_by": 22352,
-    "rank": 14242,
+    "scored_by": 22357,
+    "rank": 14244,
     "popularity": 3759,
-    "members": 43857,
+    "members": 43864,
     "favorites": 59,
     "type": "TV",
     "status": "Finished Airing",
@@ -1967,7 +2001,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30437,
@@ -1983,10 +2018,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.65,
-    "scored_by": 22695,
-    "rank": 6389,
-    "popularity": 3766,
-    "members": 43660,
+    "scored_by": 22702,
+    "rank": 6392,
+    "popularity": 3767,
+    "members": 43667,
     "favorites": 142,
     "type": "TV",
     "status": "Finished Airing",
@@ -2017,7 +2052,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30344,
@@ -2072,7 +2108,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30382,
@@ -2086,10 +2123,10 @@
     "background": "",
     "episodes": 26,
     "score": 5.7,
-    "scored_by": 7811,
-    "rank": 11787,
+    "scored_by": 7812,
+    "rank": 11789,
     "popularity": 4877,
-    "members": 25203,
+    "members": 25206,
     "favorites": 20,
     "type": "TV",
     "status": "Finished Airing",
@@ -2123,7 +2160,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30384,
@@ -2138,9 +2176,9 @@
     "episodes": 13,
     "score": 6.48,
     "scored_by": 10337,
-    "rank": 7446,
+    "rank": 7444,
     "popularity": 5162,
-    "members": 22001,
+    "members": 22003,
     "favorites": 7,
     "type": "TV",
     "status": "Finished Airing",
@@ -2175,7 +2213,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30567,
@@ -2193,10 +2232,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.65,
-    "scored_by": 11710,
-    "rank": 6382,
-    "popularity": 5255,
-    "members": 21110,
+    "scored_by": 11712,
+    "rank": 6385,
+    "popularity": 5254,
+    "members": 21115,
     "favorites": 17,
     "type": "TV",
     "status": "Finished Airing",
@@ -2227,7 +2266,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29941,
@@ -2241,10 +2281,10 @@
     "background": "",
     "episodes": 11,
     "score": 4.77,
-    "scored_by": 4921,
-    "rank": 14008,
-    "popularity": 6534,
-    "members": 11994,
+    "scored_by": 4922,
+    "rank": 14009,
+    "popularity": 6535,
+    "members": 11995,
     "favorites": 5,
     "type": "TV",
     "status": "Finished Airing",
@@ -2271,7 +2311,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30251,
@@ -2285,10 +2326,10 @@
     "background": "",
     "episodes": 6,
     "score": 5.27,
-    "scored_by": 2019,
-    "rank": 13266,
+    "scored_by": 2020,
+    "rank": 13265,
     "popularity": 7854,
-    "members": 7629,
+    "members": 7630,
     "favorites": 5,
     "type": "TV",
     "status": "Finished Airing",
@@ -2321,7 +2362,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30826,
@@ -2337,10 +2379,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.4,
-    "scored_by": 1707,
-    "rank": 12939,
-    "popularity": 8828,
-    "members": 5778,
+    "scored_by": 1708,
+    "rank": 12941,
+    "popularity": 8827,
+    "members": 5780,
     "favorites": 3,
     "type": "TV",
     "status": "Finished Airing",
@@ -2367,7 +2409,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 29017,
@@ -2387,8 +2430,8 @@
     "score": 6.51,
     "scored_by": 2281,
     "rank": 7286,
-    "popularity": 9120,
-    "members": 5263,
+    "popularity": 9121,
+    "members": 5262,
     "favorites": 4,
     "type": "TV",
     "status": "Finished Airing",
@@ -2416,52 +2459,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 30947,
-    "title": "Kurayami Santa",
-    "title_english": null,
-    "title_japanese": "暗闇三太",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/12/74464l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/Y475zrwkpuQ?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "In the midst of Shouwa era Japan, greed runs rampant through the bustling cities and communities of the nation. King of Hell Enma Daiou summons an envoy into his office in the form of a small boy named Kurayami Santa. Through Enma's debriefing, Santa learns that the amount of greed and selfish behavior produced by humans will soon create an enormous wave of souls entering into Hell simultaneously, which would be catastrophic for Hell itself. \n\nSanta is given one mission: do something about it. With neither guidelines nor rules, Santa is tasked to handle the situation as he sees fit. In the human world, a rampaging thunderstorm strikes a nearby cemetery with a bolt of lightning, and the envoy of Hell appears. \n\nTeleported into the human world, Santa quickly realizes that humans are just as wicked as Enma had described. Without upsetting the balance between light and dark, Santa begins his quest to complete the mission from Hell and restore order to the human world.\n\n[Written by MAL Rewrite]",
-    "background": "Fourteen episodes were originally planned. Episode 2 was cancelled and its storyboard recording was included with the DVD release.",
-    "episodes": 13,
-    "score": 5.16,
-    "scored_by": 1241,
-    "rank": 13507,
-    "popularity": 10820,
-    "members": 3142,
-    "favorites": 5,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "ILCA"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Supernatural"
-    ],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [],
-    "aired_from": "2015-07-05T00:00:00+00:00",
-    "aired_to": "2015-09-27T00:00:00+00:00",
-    "broadcast": "Sundays at 01:42 (JST)",
-    "url": "https://myanimelist.net/anime/30947/Kurayami_Santa",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30851,
@@ -2478,8 +2477,8 @@
     "episodes": 13,
     "score": 5.47,
     "scored_by": 249,
-    "rank": 12678,
-    "popularity": 14688,
+    "rank": 12677,
+    "popularity": 14691,
     "members": 1051,
     "favorites": 0,
     "type": "TV",
@@ -2509,7 +2508,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30777,
@@ -2524,8 +2524,8 @@
     "episodes": 13,
     "score": 5.56,
     "scored_by": 146,
-    "rank": 12372,
-    "popularity": 15665,
+    "rank": 12373,
+    "popularity": 15664,
     "members": 806,
     "favorites": 0,
     "type": "TV",
@@ -2553,7 +2553,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30989,
@@ -2598,7 +2599,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 31071,
@@ -2616,8 +2618,8 @@
     "episodes": 5,
     "score": 5.22,
     "scored_by": 138,
-    "rank": 13388,
-    "popularity": 16545,
+    "rank": 13390,
+    "popularity": 16546,
     "members": 656,
     "favorites": 1,
     "type": "TV",
@@ -2644,61 +2646,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 31361,
-    "title": "Neko Enikki",
-    "title_english": null,
-    "title_japanese": "猫絵日記",
-    "title_synonyms": [
-      "Picture Diary of Cat Lover",
-      "Cat Picture Diary",
-      "Who Was Born into a Family of Cat Haters",
-      "Living With Cats",
-      "Nekokirai no Ie ni Umareta Nekosuki ga Neko to Kurashi Enikki"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/7/75429l.jpg",
-    "trailer_url": null,
-    "synopsis": "The autobiographical manga utilizes both drawings and photos of cats to chronicle the life of a woman who lives by herself in order to live with her cats. She is described as a \"himono-onna,\" a Japanese slang word that means \"a woman who is proper in public but lazy at home.\"\n\n(Source: ANN)",
-    "background": "Neko Enikki was broadcast within the program Nyanda? Full Channel on CTV.",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19035,
-    "popularity": 17303,
-    "members": 560,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "G - All Ages",
-    "source": "Web manga",
-    "studios": [
-      "Kachidoki Studio"
-    ],
-    "producers": [
-      "comico"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "themes": [
-      "Pets"
-    ],
-    "demographics": [],
-    "aired_from": "2015-08-02T00:00:00+00:00",
-    "aired_to": "2015-09-24T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/31361/Neko_Enikki",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30893,
@@ -2713,8 +2662,8 @@
     "episodes": 6,
     "score": null,
     "scored_by": null,
-    "rank": 20954,
-    "popularity": 17772,
+    "rank": 20955,
+    "popularity": 17768,
     "members": 513,
     "favorites": 0,
     "type": "TV",
@@ -2743,54 +2692,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 30892,
-    "title": "Boo Boo Boy",
-    "title_english": null,
-    "title_japanese": "ブーブーボーイ",
-    "title_synonyms": [
-      "BooBooBoy"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/5/79707l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/dqZlyPgyMjI?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "A young boy has adventures with his transforming car.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20368,
-    "popularity": 18159,
-    "members": 480,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "DLE"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Racing"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-07-04T00:00:00+00:00",
-    "aired_to": "2015-12-26T00:00:00+00:00",
-    "broadcast": "Saturdays at 11:25 (JST)",
-    "url": "https://myanimelist.net/anime/30892/Boo_Boo_Boy",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 31237,
@@ -2807,8 +2710,8 @@
     "episodes": 6,
     "score": null,
     "scored_by": null,
-    "rank": 21485,
-    "popularity": 19025,
+    "rank": 21486,
+    "popularity": 19028,
     "members": 416,
     "favorites": 0,
     "type": "TV",
@@ -2838,103 +2741,8 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 40091,
-    "title": "Xiao Hua Xian 2nd Season",
-    "title_english": null,
-    "title_japanese": "小花仙 第二季",
-    "title_synonyms": [
-      "Flower Angel 2"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1532/102005l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16360,
-    "popularity": 19187,
-    "members": 402,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "G - All Ages",
-    "source": "Game",
-    "studios": [
-      "Taomee"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-07T00:00:00+00:00",
-    "aired_to": "2015-12-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/40091/Xiao_Hua_Xian_2nd_Season",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 32821,
-    "title": "Xiong Chumo: Dongri Le Fantian",
-    "title_english": "Boonie Bears: Snow Daze",
-    "title_japanese": "熊出没之冬日乐翻天",
-    "title_synonyms": [
-      "Snow Daze of Boonie Bears"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/6/78685l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/w_m-YDHMlMA?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Fifth season of Boonie Bears.",
-    "background": "",
-    "episodes": 52,
-    "score": 5.78,
-    "scored_by": 131,
-    "rank": 11434,
-    "popularity": 19431,
-    "members": 381,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-07-10T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/32821/Xiong_Chumo__Dongri_Le_Fantian",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 31078,
@@ -2952,8 +2760,8 @@
     "episodes": 31,
     "score": null,
     "scored_by": null,
-    "rank": 19474,
-    "popularity": 20185,
+    "rank": 19475,
+    "popularity": 20182,
     "members": 333,
     "favorites": 1,
     "type": "TV",
@@ -2976,716 +2784,7 @@
     "year": 2015,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 38136,
-    "title": "Zhu Zhu Xia: Zhong Ji Jue Zhan - Qian Ye Pian",
-    "title_english": "GG Bond: Ultimate Battle Prequel",
-    "title_japanese": "豬豬俠 終極決戰前夜篇",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1480/93363l.jpg",
-    "trailer_url": null,
-    "synopsis": "A prequel TV series setting up for the Zhu Zhu Xia: Zhong Ji Jue Zhan feature film. \n\nG.G. Bond's father while exploring ruins gets sucked into a dimension of evil through the Dark Gate. He is bestowed power and knowledge and becomes corrupted as the King of Darkness. Ancient monsters are sent through the cracks of the gate to attack G.G. Bond and his team as the 5 elemental powers are stronger than the King of Darkness. By weakening the team, only then can the King of Darkness forcibly open the gate to unless a reign of terror on the Fairy Tale world.",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17211,
-    "popularity": 20513,
-    "members": 313,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-06-10T00:00:00+00:00",
-    "aired_to": "2015-08-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/38136/Zhu_Zhu_Xia__Zhong_Ji_Jue_Zhan_-_Qian_Ye_Pian",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 42660,
-    "title": "Robocar Poli 4",
-    "title_english": "Robocar Poli 4",
-    "title_japanese": "로보카 폴리",
-    "title_synonyms": [
-      "Robocar Poli Season 4"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1881/108833l.jpg",
-    "trailer_url": null,
-    "synopsis": "Amidst peaceful everyday life in Broomstown, guarded by the rescue team, tractor 'Tracky', cheerful train 'Trino' with his unique accent, and the transforming mountain rescue team of 'Mark', 'Bucky', and 'Carey' from Treasureville, who are out to catch poaching car 'Poacher', all move to Broomstown and now call it home.\n\n(Source: Official Site)",
-    "background": "",
-    "episodes": 26,
-    "score": 5.7,
-    "scored_by": 116,
-    "rank": 11812,
-    "popularity": 20558,
-    "members": 310,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-31T00:00:00+00:00",
-    "aired_to": "2015-11-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/42660/Robocar_Poli_4",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45704,
-    "title": "Er Dan Toutai Ji",
-    "title_english": null,
-    "title_japanese": "二蛋投胎记",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1745/115316l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 2,
-    "score": null,
-    "scored_by": null,
-    "rank": 21268,
-    "popularity": 21325,
-    "members": 268,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2015-08-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45704/Er_Dan_Toutai_Ji",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48321,
-    "title": "Jeong-geul-eseo Sal-anamgi: Maru Adventure",
-    "title_english": "Jungle Survival",
-    "title_japanese": "정글에서 살아남기 마루의 어드벤처",
-    "title_synonyms": [
-      "Jeong-geul-eseo Sal-anamgi Maluui Eodeubencheo",
-      "Jungle Survival Maru's Adventure"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1419/115255l.jpg",
-    "trailer_url": null,
-    "synopsis": "Maru and friends' exciting adventure begin when they were lost in Borneo Jungle. As they explore wild life of Jungle, they happen to get to know Shalamar, a native jungle warrior and Kai, a mysterious boy. All together they travel into the deeper jungle looking for Mr.Rhapa. They never expected to see unknown creatures called Igras, mutated animals due to unbalance of Anima energy in jungle. Unpredictable...jungle adventure begins with Maru, Ara, Gabi, Shalamar and Kai... Wild life of jungle and mutant creatures Igras makes the journey unique and interesting ever.\n\n(Source: WelCon)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17342,
-    "popularity": 22603,
-    "members": 201,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Manga",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-31T00:00:00+00:00",
-    "aired_to": "2016-08-29T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48321/Jeong-geul-eseo_Sal-anamgi__Maru_Adventure",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 43993,
-    "title": "Xi Yangyang Yu Hui Tailang: Yuanshi Shijie Lixian Ji",
-    "title_english": "Pleasant Goat and Big Big Wolf: Adventures in the Primitive World",
-    "title_japanese": "喜羊羊與灰太狼之原始世界歷險記",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1943/115279l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16278,
-    "popularity": 23083,
-    "members": 181,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-17T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/43993/Xi_Yangyang_Yu_Hui_Tailang__Yuanshi_Shijie_Lixian_Ji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48170,
-    "title": "Dudadakung 2nd Season",
-    "title_english": "Duda & Dada 2nd Season",
-    "title_japanese": "두다다쿵 2기",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1531/130314l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21188,
-    "popularity": 25284,
-    "members": 121,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-07-31T00:00:00+00:00",
-    "aired_to": "2015-11-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48170/Dudadakung_2nd_Season",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 43924,
-    "title": "Xin Datou Er Zi He Xiao Tou Baba 3rd Season",
-    "title_english": null,
-    "title_japanese": "新大头儿子和小头爸爸 第三季",
-    "title_synonyms": [
-      "New Big Head Son and Little Head Dad 3rd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1596/122602l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 150,
-    "score": null,
-    "scored_by": null,
-    "rank": 16550,
-    "popularity": 25579,
-    "members": 116,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-07-16T00:00:00+00:00",
-    "aired_to": "2017-01-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/43924/Xin_Datou_Er_Zi_He_Xiao_Tou_Baba_3rd_Season",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58966,
-    "title": "Robotex",
-    "title_english": null,
-    "title_japanese": "로보텍스",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1556/143380l.jpg",
-    "trailer_url": null,
-    "synopsis": "Robotex are highly advanced  metallic alien life-forms who are provided with infinite energy from a giant spinning top shaped core. However, they are oppressed by the mainframe and unable to have creativity. Kai, Taf and Iota have escaped this system to run away to earth. The mighty corps 1 from the Robotex mother planet, led by Volcan has been sent to chase after them. Yoo-seok and friends from earth become the amigos of Kai and his group to help the powerful Robotex unleash their strengths with creativity.\n\n(Source: YouTube)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14504,
-    "popularity": 25863,
-    "members": 111,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "KBS"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [],
-    "aired_from": "2015-08-21T00:00:00+00:00",
-    "aired_to": "2016-03-17T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58966/Robotex",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51655,
-    "title": "Jiu Cang Miao Wo",
-    "title_english": "DNAxCAT",
-    "title_japanese": "九藏喵窝",
-    "title_synonyms": [
-      "Neko no Kura-chan: Jouzan Myaouo",
-      "猫のくらちゃん～じょうざんみゃおうお～"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1479/151045l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17507,
-    "popularity": 26085,
-    "members": 108,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [],
-    "aired_from": "2015-08-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/51655/Jiu_Cang_Miao_Wo",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44114,
-    "title": "Kaixin Chaoren Lianmeng: Chao Shikong Baowei Zhan",
-    "title_english": null,
-    "title_japanese": "开心超人联盟之超时空保卫战",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1444/122966l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17648,
-    "popularity": 26219,
-    "members": 106,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-07T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44114/Kaixin_Chaoren_Lianmeng__Chao_Shikong_Baowei_Zhan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45851,
-    "title": "Xing Xueyuan",
-    "title_english": "Star Academy",
-    "title_japanese": "星学院",
-    "title_synonyms": [
-      "Star College"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1938/128646l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16628,
-    "popularity": 26719,
-    "members": 98,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-24T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45851/Xing_Xueyuan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45695,
-    "title": "Xiong Zi: Fei Xiong Buke",
-    "title_english": "Young Mr Bear",
-    "title_japanese": "熊仔之菲熊不可",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1534/128252l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16716,
-    "popularity": 28024,
-    "members": 84,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45695/Xiong_Zi__Fei_Xiong_Buke",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47065,
-    "title": "Didao Zhan: Yingxiong Chu Shaonian",
-    "title_english": null,
-    "title_japanese": "地道战之英雄出少年",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1702/129182l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 15,
-    "score": null,
-    "scored_by": null,
-    "rank": 20999,
-    "popularity": 28185,
-    "members": 82,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-09-03T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47065/Didao_Zhan__Yingxiong_Chu_Shaonian",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47106,
-    "title": "Xingxing Meng",
-    "title_english": null,
-    "title_japanese": "星星梦",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1331/130505l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 50,
-    "score": null,
-    "scored_by": null,
-    "rank": 16663,
-    "popularity": 28517,
-    "members": 79,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "7 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "CCTV Animation Group"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-06-01T00:00:00+00:00",
-    "aired_to": "2015-07-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47106/Xingxing_Meng",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47178,
-    "title": "Cai Bai Tong",
-    "title_english": null,
-    "title_japanese": "财佰通",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1035/129784l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 30,
-    "score": null,
-    "scored_by": null,
-    "rank": 20467,
-    "popularity": 28467,
-    "members": 79,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-07-18T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47178/Cai_Bai_Tong",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62774,
-    "title": "Byeonsinjadongcha Tobot 18th Season",
-    "title_english": null,
-    "title_japanese": "변신자동차 또봇 18기",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1025/152631l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 28,
-    "score": null,
-    "scored_by": null,
-    "rank": 20449,
-    "popularity": 29258,
-    "members": 36,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "4 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2015-08-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62774/Byeonsinjadongcha_Tobot_18th_Season",
-    "year": 2015,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

@@ -56,7 +56,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40221,
@@ -115,7 +116,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 40902,
@@ -131,10 +133,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.31,
-    "scored_by": 292013,
-    "rank": 2864,
+    "scored_by": 292061,
+    "rank": 2863,
     "popularity": 428,
-    "members": 575920,
+    "members": 576001,
     "favorites": 1444,
     "type": "TV",
     "status": "Finished Airing",
@@ -172,7 +174,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40417,
@@ -190,11 +193,11 @@
     "background": "",
     "episodes": 25,
     "score": 8.53,
-    "scored_by": 294367,
+    "scored_by": 294400,
     "rank": 136,
     "popularity": 431,
-    "members": 569280,
-    "favorites": 6396,
+    "members": 569351,
+    "favorites": 6398,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -235,7 +238,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39463,
@@ -249,10 +253,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.95,
-    "scored_by": 245228,
+    "scored_by": 245247,
     "rank": 4756,
     "popularity": 463,
-    "members": 530328,
+    "members": 530375,
     "favorites": 2030,
     "type": "TV",
     "status": "Finished Airing",
@@ -290,7 +294,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38555,
@@ -308,10 +313,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.44,
-    "scored_by": 267900,
-    "rank": 2279,
+    "scored_by": 267921,
+    "rank": 2278,
     "popularity": 502,
-    "members": 498843,
+    "members": 498887,
     "favorites": 3203,
     "type": "TV",
     "status": "Finished Airing",
@@ -354,7 +359,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41120,
@@ -368,10 +374,10 @@
     "background": "Based on Yasutaka Tsutsui's novel, Fugou Keiji. The live action TV drama by Kyouko Fukada aired in 2006 with two seasons.",
     "episodes": 11,
     "score": 7.51,
-    "scored_by": 212201,
+    "scored_by": 212226,
     "rank": 2019,
     "popularity": 545,
-    "members": 464293,
+    "members": 464337,
     "favorites": 3004,
     "type": "TV",
     "status": "Finished Airing",
@@ -409,7 +415,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40060,
@@ -425,10 +432,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.34,
-    "scored_by": 217796,
-    "rank": 2735,
+    "scored_by": 217821,
+    "rank": 2732,
     "popularity": 664,
-    "members": 396216,
+    "members": 396265,
     "favorites": 2813,
     "type": "TV",
     "status": "Finished Airing",
@@ -467,7 +474,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40716,
@@ -484,10 +492,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.96,
-    "scored_by": 147185,
-    "rank": 749,
+    "scored_by": 147195,
+    "rank": 748,
     "popularity": 762,
-    "members": 349091,
+    "members": 349118,
     "favorites": 2152,
     "type": "TV",
     "status": "Finished Airing",
@@ -531,7 +539,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39710,
@@ -590,7 +599,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39292,
@@ -606,11 +616,11 @@
     "background": "Based on the main story of Cygames' RPG of the same title.",
     "episodes": 13,
     "score": 7.03,
-    "scored_by": 131162,
-    "rank": 4392,
+    "scored_by": 131172,
+    "rank": 4393,
     "popularity": 877,
-    "members": 311572,
-    "favorites": 1068,
+    "members": 311594,
+    "favorites": 1067,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -644,7 +654,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38830,
@@ -706,7 +717,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40815,
@@ -722,10 +734,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.08,
-    "scored_by": 143260,
+    "scored_by": 143274,
     "rank": 589,
     "popularity": 1115,
-    "members": 244219,
+    "members": 244248,
     "favorites": 867,
     "type": "TV",
     "status": "Finished Airing",
@@ -770,7 +782,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40128,
@@ -834,7 +847,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40532,
@@ -850,10 +864,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.24,
-    "scored_by": 53098,
-    "rank": 3278,
+    "scored_by": 53103,
+    "rank": 3276,
     "popularity": 1820,
-    "members": 140052,
+    "members": 140062,
     "favorites": 517,
     "type": "TV",
     "status": "Finished Airing",
@@ -894,7 +908,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40682,
@@ -908,11 +923,11 @@
     "background": "Kingdom 3rd Season adapts chapters 261-364 of the original manga.",
     "episodes": 26,
     "score": 8.83,
-    "scored_by": 51109,
+    "scored_by": 51153,
     "rank": 33,
     "popularity": 1978,
-    "members": 126238,
-    "favorites": 2571,
+    "members": 126308,
+    "favorites": 2572,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -948,7 +963,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39469,
@@ -1002,7 +1018,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38843,
@@ -1019,10 +1036,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.4,
-    "scored_by": 45176,
-    "rank": 12939,
+    "scored_by": 45178,
+    "rank": 12940,
     "popularity": 2196,
-    "members": 108609,
+    "members": 108620,
     "favorites": 216,
     "type": "TV",
     "status": "Finished Airing",
@@ -1057,7 +1074,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40513,
@@ -1073,10 +1091,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.34,
-    "scored_by": 32510,
-    "rank": 2751,
+    "scored_by": 32512,
+    "rank": 2747,
     "popularity": 2468,
-    "members": 91023,
+    "members": 91032,
     "favorites": 208,
     "type": "TV",
     "status": "Finished Airing",
@@ -1115,7 +1133,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39730,
@@ -1132,10 +1151,10 @@
     "background": "The series went on a temporary hiatus following the broadcast of its third episode on April 21, 2020. The series will resume broadcasting from its first episode on July 7, with the unaired fourth episode scheduled for July 28.",
     "episodes": 12,
     "score": 7.44,
-    "scored_by": 29477,
-    "rank": 2272,
-    "popularity": 2871,
-    "members": 71066,
+    "scored_by": 29478,
+    "rank": 2270,
+    "popularity": 2870,
+    "members": 71073,
     "favorites": 347,
     "type": "TV",
     "status": "Finished Airing",
@@ -1178,7 +1197,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40165,
@@ -1192,9 +1212,9 @@
     "background": "",
     "episodes": 12,
     "score": 5.4,
-    "scored_by": 22687,
-    "rank": 12925,
-    "popularity": 2969,
+    "scored_by": 22689,
+    "rank": 12926,
+    "popularity": 2970,
     "members": 66803,
     "favorites": 56,
     "type": "TV",
@@ -1232,7 +1252,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41074,
@@ -1289,7 +1310,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 40934,
@@ -1304,9 +1326,9 @@
     "episodes": 13,
     "score": 6.53,
     "scored_by": 15007,
-    "rank": 7123,
+    "rank": 7122,
     "popularity": 3201,
-    "members": 57822,
+    "members": 57823,
     "favorites": 243,
     "type": "TV",
     "status": "Finished Airing",
@@ -1335,7 +1357,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39049,
@@ -1353,10 +1376,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.46,
-    "scored_by": 23298,
-    "rank": 2209,
-    "popularity": 3246,
-    "members": 56355,
+    "scored_by": 23300,
+    "rank": 2208,
+    "popularity": 3247,
+    "members": 56360,
     "favorites": 133,
     "type": "TV",
     "status": "Finished Airing",
@@ -1390,7 +1413,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40783,
@@ -1407,9 +1431,9 @@
     "episodes": 12,
     "score": 5.85,
     "scored_by": 16119,
-    "rank": 11077,
+    "rank": 11078,
     "popularity": 3753,
-    "members": 43936,
+    "members": 43938,
     "favorites": 28,
     "type": "TV",
     "status": "Finished Airing",
@@ -1443,7 +1467,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37962,
@@ -1496,59 +1521,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 39966,
-    "title": "Tamayomi",
-    "title_english": "TAMAYOMI: The Baseball Girls",
-    "title_japanese": "球詠",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1108/119277l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/Fk3OZapLwXk?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Yomi Takeda and Tamaki Yamazaki have loved baseball since they were kids. They used to play catch together whenever possible, and in doing so, Yomi discovered her talent for throwing the ball in a way that seemed like magic. The girls promised to keep playing baseball even when they are older and were separated soon after. In the years that followed, Tamaki went on to become a skilled catcher, but Yomi did not get very far despite her throwing prowess.\n\nDeciding to quit her passion, Yomi starts her first year at Shin Koshigaya High School. Try as she might to avoid anything related to baseball, she meets the twins Yoshino and Ibuki Kawaguchi, both of whom are enthusiasts of the sport. Moreover, she stumbles upon Tamaki, and just like old times, they decide to play catch—reigniting Yomi’s desire to pitch.\n\nReunited, Yomi and Tamaki set out to fulfill their childhood promise. Alongside Yoshino and Ibuki, they strive to revive their school’s baseball team which has been on hiatus. More members join until their group is complete, and now the new goal of Shin Koshigaya's girls' baseball team is nothing less than winning the national championships.\n\n[Written by MAL Rewrite]",
-    "background": "",
-    "episodes": 12,
-    "score": 5.8,
-    "scored_by": 12532,
-    "rank": 11339,
-    "popularity": 4173,
-    "members": 35536,
-    "favorites": 48,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Manga",
-    "studios": [
-      "Studio A-CAT"
-    ],
-    "producers": [
-      "Sotsu",
-      "ABC Animation",
-      "A3"
-    ],
-    "licensors": [
-      "Funimation"
-    ],
-    "genres": [
-      "Sports"
-    ],
-    "themes": [
-      "School",
-      "Team Sports"
-    ],
-    "demographics": [],
-    "aired_from": "2020-04-01T00:00:00+00:00",
-    "aired_to": "2020-06-17T00:00:00+00:00",
-    "broadcast": "Wednesdays at 22:00 (JST)",
-    "url": "https://myanimelist.net/anime/39966/Tamayomi",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40358,
@@ -1566,10 +1540,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.45,
-    "scored_by": 10714,
-    "rank": 7623,
+    "scored_by": 10716,
+    "rank": 7622,
     "popularity": 4179,
-    "members": 35420,
+    "members": 35424,
     "favorites": 96,
     "type": "TV",
     "status": "Finished Airing",
@@ -1600,7 +1574,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39582,
@@ -1616,10 +1591,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.13,
-    "scored_by": 8589,
+    "scored_by": 8590,
     "rank": 9524,
     "popularity": 4556,
-    "members": 29525,
+    "members": 29531,
     "favorites": 53,
     "type": "TV",
     "status": "Finished Airing",
@@ -1659,7 +1634,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40504,
@@ -1673,10 +1649,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.46,
-    "scored_by": 10677,
-    "rank": 2214,
+    "scored_by": 10679,
+    "rank": 2213,
     "popularity": 4964,
-    "members": 24191,
+    "members": 24193,
     "favorites": 67,
     "type": "TV",
     "status": "Finished Airing",
@@ -1709,7 +1685,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40403,
@@ -1764,7 +1741,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40145,
@@ -1781,9 +1759,9 @@
     "episodes": 92,
     "score": 6.22,
     "scored_by": 5117,
-    "rank": 9001,
-    "popularity": 5372,
-    "members": 19969,
+    "rank": 8999,
+    "popularity": 5373,
+    "members": 19970,
     "favorites": 88,
     "type": "TV",
     "status": "Finished Airing",
@@ -1820,7 +1798,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 41266,
@@ -1835,8 +1814,8 @@
     "episodes": 24,
     "score": 6.96,
     "scored_by": 7063,
-    "rank": 4698,
-    "popularity": 5414,
+    "rank": 4694,
+    "popularity": 5415,
     "members": 19475,
     "favorites": 81,
     "type": "TV",
@@ -1870,7 +1849,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40506,
@@ -1885,9 +1865,9 @@
     "episodes": 48,
     "score": 5.75,
     "scored_by": 5300,
-    "rank": 11544,
-    "popularity": 5590,
-    "members": 17910,
+    "rank": 11548,
+    "popularity": 5592,
+    "members": 17907,
     "favorites": 36,
     "type": "TV",
     "status": "Finished Airing",
@@ -1918,7 +1898,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40677,
@@ -1934,7 +1915,7 @@
     "score": 6.68,
     "scored_by": 3976,
     "rank": 6205,
-    "popularity": 6277,
+    "popularity": 6278,
     "members": 13197,
     "favorites": 80,
     "type": "TV",
@@ -1965,7 +1946,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40327,
@@ -2013,7 +1995,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 40893,
@@ -2031,8 +2014,8 @@
     "episodes": 13,
     "score": 6.42,
     "scored_by": 2173,
-    "rank": 7822,
-    "popularity": 9080,
+    "rank": 7823,
+    "popularity": 9081,
     "members": 5321,
     "favorites": 6,
     "type": "TV",
@@ -2064,7 +2047,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41283,
@@ -2081,7 +2065,7 @@
     "episodes": 25,
     "score": 6.46,
     "scored_by": 1757,
-    "rank": 7597,
+    "rank": 7598,
     "popularity": 9131,
     "members": 5251,
     "favorites": 13,
@@ -2115,7 +2099,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41558,
@@ -2129,10 +2114,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.1,
-    "scored_by": 1208,
-    "rank": 9714,
-    "popularity": 9202,
-    "members": 5149,
+    "scored_by": 1209,
+    "rank": 9711,
+    "popularity": 9201,
+    "members": 5150,
     "favorites": 7,
     "type": "TV",
     "status": "Finished Airing",
@@ -2162,7 +2147,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41405,
@@ -2176,9 +2162,9 @@
     "background": "",
     "episodes": 52,
     "score": 5.68,
-    "scored_by": 1799,
+    "scored_by": 1800,
     "rank": 11916,
-    "popularity": 9228,
+    "popularity": 9229,
     "members": 5118,
     "favorites": 10,
     "type": "TV",
@@ -2208,7 +2194,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40880,
@@ -2224,10 +2211,10 @@
     "background": "The broadcast of the third season's fifth episode (episode 107 in the series) has been postponed until further notice. Episode four will broadcast on April 26 as usual. From May 3, a selection of episodes from previous seasons will broadcast in place of the third season.",
     "episodes": 51,
     "score": 7.21,
-    "scored_by": 1020,
-    "rank": 3411,
-    "popularity": 10433,
-    "members": 3497,
+    "scored_by": 1021,
+    "rank": 3410,
+    "popularity": 10436,
+    "members": 3498,
     "favorites": 12,
     "type": "TV",
     "status": "Finished Airing",
@@ -2258,7 +2245,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41381,
@@ -2273,7 +2261,7 @@
     "episodes": 50,
     "score": 5.57,
     "scored_by": 453,
-    "rank": 12357,
+    "rank": 12358,
     "popularity": 11051,
     "members": 2934,
     "favorites": 5,
@@ -2304,7 +2292,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41426,
@@ -2321,8 +2310,8 @@
     "episodes": 12,
     "score": 5.95,
     "scored_by": 168,
-    "rank": 10524,
-    "popularity": 12328,
+    "rank": 10525,
+    "popularity": 12333,
     "members": 2045,
     "favorites": 5,
     "type": "TV",
@@ -2347,7 +2336,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41062,
@@ -2396,7 +2386,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41401,
@@ -2415,8 +2406,8 @@
     "episodes": 24,
     "score": 6,
     "scored_by": 417,
-    "rank": 10267,
-    "popularity": 12789,
+    "rank": 10269,
+    "popularity": 12792,
     "members": 1755,
     "favorites": 2,
     "type": "TV",
@@ -2446,7 +2437,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40983,
@@ -2461,7 +2453,7 @@
     "episodes": 20,
     "score": 5.99,
     "scored_by": 276,
-    "rank": 10300,
+    "rank": 10302,
     "popularity": 13396,
     "members": 1466,
     "favorites": 0,
@@ -2493,7 +2485,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41440,
@@ -2511,8 +2504,8 @@
     "episodes": 34,
     "score": null,
     "scored_by": null,
-    "rank": 19943,
-    "popularity": 14090,
+    "rank": 19945,
+    "popularity": 14091,
     "members": 1221,
     "favorites": 1,
     "type": "TV",
@@ -2540,7 +2533,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40045,
@@ -2587,56 +2581,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41529,
-    "title": "Duel Masters King",
-    "title_english": null,
-    "title_japanese": "DUEL MASTERS キング",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1117/106742l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 47,
-    "score": 5.72,
-    "scored_by": 193,
-    "rank": 11712,
-    "popularity": 14176,
-    "members": 1192,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brain's Base",
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-05T00:00:00+00:00",
-    "aired_to": "2021-03-28T00:00:00+00:00",
-    "broadcast": "Sundays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/41529/Duel_Masters_King",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 41470,
@@ -2651,8 +2597,8 @@
     "episodes": 24,
     "score": 5.86,
     "scored_by": 128,
-    "rank": 10989,
-    "popularity": 14906,
+    "rank": 10991,
+    "popularity": 14907,
     "members": 992,
     "favorites": 1,
     "type": "TV",
@@ -2681,7 +2627,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 41686,
@@ -2696,8 +2643,8 @@
     "episodes": 102,
     "score": 5.97,
     "scored_by": 148,
-    "rank": 10445,
-    "popularity": 15341,
+    "rank": 10444,
+    "popularity": 15343,
     "members": 878,
     "favorites": 2,
     "type": "TV",
@@ -2728,7 +2675,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 48343,
@@ -2745,7 +2693,7 @@
     "episodes": 52,
     "score": 6.26,
     "scored_by": 179,
-    "rank": 8782,
+    "rank": 8778,
     "popularity": 16050,
     "members": 731,
     "favorites": 5,
@@ -2776,147 +2724,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41384,
-    "title": "Norimono Man: Mobile Land no Car-kun",
-    "title_english": null,
-    "title_japanese": "のりものまん モービルランドのカークン",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1204/123852l.jpg",
-    "trailer_url": null,
-    "synopsis": "The anime will depict various vehicles as characters in the \"Mobile Land\" island. The protagonist Car-kun arrives at the island as a delivery worker. Through his deliveries, he gets to know the residents of Mobile Land, all while following traffic rules and having his deliveries stopped by the meddling Sabibi. \n\n(Source: ANN)",
-    "background": "",
-    "episodes": 104,
-    "score": null,
-    "scored_by": null,
-    "rank": 19167,
-    "popularity": 16864,
-    "members": 611,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "CloverWorks"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Racing"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-02T00:00:00+00:00",
-    "aired_to": "2022-03-24T00:00:00+00:00",
-    "broadcast": "Thursdays at 17:20 (JST)",
-    "url": "https://myanimelist.net/anime/41384/Norimono_Man__Mobile_Land_no_Car-kun",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41404,
-    "title": "Neko Neko Nihonshi 5th Season",
-    "title_english": null,
-    "title_japanese": "ねこねこ日本史 第5期",
-    "title_synonyms": [
-      "Meow Meow Japanese History"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1112/106363l.jpg",
-    "trailer_url": null,
-    "synopsis": "Fifth season of Neko Neko Nihonshi.",
-    "background": "",
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "rank": 19042,
-    "popularity": 17282,
-    "members": 562,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "G - All Ages",
-    "source": "Web manga",
-    "studios": [],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic",
-      "Historical",
-      "Parody",
-      "Samurai"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-08T00:00:00+00:00",
-    "aired_to": "2021-03-03T00:00:00+00:00",
-    "broadcast": "Wednesdays at 06:45 (JST)",
-    "url": "https://myanimelist.net/anime/41404/Neko_Neko_Nihonshi_5th_Season",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41638,
-    "title": "Bite-Choicar",
-    "title_english": "Bite-Choicar",
-    "title_japanese": "바이트 초이카",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1656/106927l.jpg",
-    "trailer_url": null,
-    "synopsis": "Chashin was selected by the legendary choicar \"Stormbone,\" as the strongest racer, and will showcase a new concept of bite racing.\n\nBite racing is a new racing game that never hits a rail with two cars chasing in a match. The bite-free rail running on the track creates a more realistic racing experience. Various types of super cars such as speed type, balance type, and power type create unique racing on 3 types of tracks (crash track, line track, outdoor race).\n\n(Source: enewstoday.co.kr)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20326,
-    "popularity": 17820,
-    "members": 509,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "30 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Racing"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-18T00:00:00+00:00",
-    "aired_to": "2021-05-23T00:00:00+00:00",
-    "broadcast": "Saturdays at 07:15 (JST)",
-    "url": "https://myanimelist.net/anime/41638/Bite-Choicar",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": true
   },
   {
     "mal_id": 41951,
@@ -2933,8 +2742,8 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 18895,
-    "popularity": 18276,
+    "rank": 18897,
+    "popularity": 18275,
     "members": 470,
     "favorites": 0,
     "type": "TV",
@@ -2964,295 +2773,8 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41101,
-    "title": "Poccolies",
-    "title_english": "Poccolies",
-    "title_japanese": "ぽっこりーず",
-    "title_synonyms": [
-      "Pokkories"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1806/105533l.jpg",
-    "trailer_url": null,
-    "synopsis": "The 2018 LINE sticker set Poccolies is inspiring a series of anime shorts. The story of the sticker set is that a positive and honest boy named Patsuhiko lives on Pokkori Island, along with the shrewd and mysterious Ham, and a reliable older brother figure named Kangaroo. The sticker set follows their daily lives. \n\n(Source: ANN)",
-    "background": "",
-    "episodes": 50,
-    "score": null,
-    "scored_by": null,
-    "rank": 19511,
-    "popularity": 18597,
-    "members": 446,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "Kachidoki Studio"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-06T00:00:00+00:00",
-    "aired_to": "2021-03-15T00:00:00+00:00",
-    "broadcast": "Mondays at 23:29 (JST)",
-    "url": "https://myanimelist.net/anime/41101/Poccolies",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41458,
-    "title": "Origami Ninja Koyankinte",
-    "title_english": null,
-    "title_japanese": "おりがみにんじゃ コーヤン＠きんてれ",
-    "title_synonyms": [
-      "Happy Smile ♡ Dream"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1860/106477l.jpg",
-    "trailer_url": null,
-    "synopsis": "Koyan, the Origami Ninja, came to Earth from his planet Origamio to find the magical stone \"Hapiton\" that has the ability to make people happy. On the way, he was joined by childhood friend Namin anda new friend Lublin. One day, a villain called Evilrun appeared. Evilrun has a black hole in her stomach and tries to inhale anything. Every time an event happens, Evilrun gets in the way of Koyan and friends. But what Evilrun's aim is remains a mystery...",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 19306,
-    "popularity": 19088,
-    "members": 409,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Directions"
-    ],
-    "producers": [
-      "TV Tokyo"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-07T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Tuesdays at 07:30 (JST)",
-    "url": "https://myanimelist.net/anime/41458/Origami_Ninja_Koyankinte",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41778,
-    "title": "Oshiri Tantei 4th Season",
-    "title_english": null,
-    "title_japanese": "おしりたんてい",
-    "title_synonyms": [
-      "Butt Detective"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1229/107371l.jpg",
-    "trailer_url": null,
-    "synopsis": "Fourth season of Oshiri Tantei.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19319,
-    "popularity": 19707,
-    "members": 364,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "19 min per ep",
-    "rating": "PG - Children",
-    "source": "Picture book",
-    "studios": [
-      "Toei Animation"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Mystery"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-04T00:00:00+00:00",
-    "aired_to": "2020-06-27T00:00:00+00:00",
-    "broadcast": "Saturdays at 09:00 (JST)",
-    "url": "https://myanimelist.net/anime/41778/Oshiri_Tantei_4th_Season",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50997,
-    "title": "Ma-eum-uisoli Season 2",
-    "title_english": "The Sound of Your Heart: Season 2",
-    "title_japanese": "마음의 소리 시즌 2",
-    "title_synonyms": [
-      "Ma-eum-uisoli Second Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1773/120891l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Ma-eum-uisoli.",
-    "background": "",
-    "episodes": 20,
-    "score": null,
-    "scored_by": null,
-    "rank": 18345,
-    "popularity": 19871,
-    "members": 354,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "21 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Web manga",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2020-05-19T00:00:00+00:00",
-    "aired_to": "2020-09-29T00:00:00+00:00",
-    "broadcast": "Tuesdays at Unknown",
-    "url": "https://myanimelist.net/anime/50997/Ma-eum-uisoli_Season_2",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48266,
-    "title": "Sinbi Apartment: Ghost Ball Double X",
-    "title_english": null,
-    "title_japanese": "신비아파트 고스트볼 더블X",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1517/130293l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15221,
-    "popularity": 20584,
-    "members": 309,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "8 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Studio BAZOOKA"
-    ],
-    "producers": [
-      "CJ ENM"
-    ],
-    "licensors": [],
-    "genres": [
-      "Fantasy",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-03-05T00:00:00+00:00",
-    "aired_to": "2021-01-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48266/Sinbi_Apartment__Ghost_Ball_Double_X",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41522,
-    "title": "Washimo 8th Season",
-    "title_english": null,
-    "title_japanese": "わしも-wasimo-(第8シリーズ)",
-    "title_synonyms": [
-      "Wasimo 8"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1135/119070l.jpg",
-    "trailer_url": null,
-    "synopsis": "Eighth season of the Washimo series.",
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 16077,
-    "popularity": 20691,
-    "members": 303,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "themes": [
-      "School"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-03-30T00:00:00+00:00",
-    "aired_to": "2020-12-15T00:00:00+00:00",
-    "broadcast": "Mondays at 06:00 (JST)",
-    "url": "https://myanimelist.net/anime/41522/Washimo_8th_Season",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53651,
@@ -3297,406 +2819,7 @@
     "year": 2020,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48262,
-    "title": "Sigan Yeohaengja Luke",
-    "title_english": "Time Traveler Luke",
-    "title_japanese": "시간여행자 루크",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1177/114519l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 15197,
-    "popularity": 21062,
-    "members": 283,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "ANYZAC"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-05-09T00:00:00+00:00",
-    "aired_to": "2021-07-10T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48262/Sigan_Yeohaengja_Luke",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 53380,
-    "title": "Agisang-eo Ollie Tululutulu",
-    "title_english": "Baby Shark Brooklyn Doo Doo Doo",
-    "title_japanese": "아기상어 올리 뚜루루뚜루",
-    "title_synonyms": [
-      "Baby Shark Ollie Doo Doo Doo"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1582/129344l.jpg",
-    "trailer_url": null,
-    "synopsis": "A massive underwater earthquake sweeps the Shark Family to the opposite side of the ocean! For Baby Shark Brooklyn, who is curious about everything, this new place is an adventure playground. In a new home, Brooklyn makes new friends, and they explore the village together. When they face problems big or small, their different characteristics create synergy and help them overcome hardships.\n\n(Source: Amazon)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 19837,
-    "popularity": 22225,
-    "members": 220,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Music",
-    "studios": [],
-    "producers": [
-      "Pinkfong"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-30T00:00:00+00:00",
-    "aired_to": "2020-07-30T00:00:00+00:00",
-    "broadcast": "Thursdays at 14:45 (JST)",
-    "url": "https://myanimelist.net/anime/53380/Agisang-eo_Ollie_Tululutulu",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56263,
-    "title": "Chuldong! Super Wings 4",
-    "title_english": "Super Wings 4",
-    "title_japanese": "출동! 슈퍼윙스4",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1204/137794l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 20732,
-    "popularity": 23473,
-    "members": 167,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Funny Flux"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-03-30T00:00:00+00:00",
-    "aired_to": "2020-06-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56263/Chuldong_Super_Wings_4",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55087,
-    "title": "Rainbow Ruby 2nd Season",
-    "title_english": "Rainbow Ruby Season 2",
-    "title_japanese": "레인보우 루비2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1596/135482l.jpg",
-    "trailer_url": null,
-    "synopsis": "The second season of Rainbow Ruby.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19758,
-    "popularity": 23910,
-    "members": 153,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Studio BAZOOKA"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-04-02T00:00:00+00:00",
-    "aired_to": "2020-06-26T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/55087/Rainbow_Ruby_2nd_Season",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48072,
-    "title": "Guai Tao Yu Nao Gua",
-    "title_english": "Kiwi & Strit",
-    "title_japanese": "乖桃与闹瓜",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1849/115247l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21646,
-    "popularity": 25571,
-    "members": 116,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-06-06T00:00:00+00:00",
-    "aired_to": "2020-01-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48072/Guai_Tao_Yu_Nao_Gua",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48012,
-    "title": "Wuzhuang Jingling",
-    "title_english": null,
-    "title_japanese": "武装精灵",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1923/118291l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 16227,
-    "popularity": 25660,
-    "members": 115,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-05-01T00:00:00+00:00",
-    "aired_to": "2020-01-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48012/Wuzhuang_Jingling",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59140,
-    "title": "Tobot V Season 2",
-    "title_english": "Tobot: Galaxy Detectives Season 2",
-    "title_japanese": "또봇 V 시즌 2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1888/143733l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 48,
-    "score": null,
-    "scored_by": null,
-    "rank": 15723,
-    "popularity": 25681,
-    "members": 114,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-03-19T00:00:00+00:00",
-    "aired_to": "2021-03-04T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/59140/Tobot_V_Season_2",
-    "year": 2020,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47803,
-    "title": "Xin Qi Bao Long Zhan Che 2: Ji Jia Zhan Long",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车2之机甲战龙",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1799/129291l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "rank": 16570,
-    "popularity": 27292,
-    "members": 90,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-06-27T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47803/Xin_Qi_Bao_Long_Zhan_Che_2__Ji_Jia_Zhan_Long",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47832,
-    "title": "Xiao Liangmao 2: Mofa Liangmao",
-    "title_english": null,
-    "title_japanese": "小凉帽2之魔法凉帽",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1231/129319l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16381,
-    "popularity": 27942,
-    "members": 84,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-05-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47832/Xiao_Liangmao_2__Mofa_Liangmao",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

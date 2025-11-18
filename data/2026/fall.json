@@ -17,7 +17,7 @@
     "scored_by": null,
     "rank": null,
     "popularity": 2731,
-    "members": 77302,
+    "members": 77319,
     "favorites": 421,
     "type": "TV",
     "status": "Not yet aired",
@@ -52,7 +52,8 @@
     "year": 2026,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61987,
@@ -71,9 +72,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 3223,
-    "members": 57119,
-    "favorites": 125,
+    "popularity": 3218,
+    "members": 57295,
+    "favorites": 126,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -100,6 +101,7 @@
     "year": 2026,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

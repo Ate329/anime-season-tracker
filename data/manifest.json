@@ -2,202 +2,202 @@
   {
     "year": 2006,
     "season": "winter",
+    "count": 30
+  },
+  {
+    "year": 2006,
+    "season": "spring",
+    "count": 59
+  },
+  {
+    "year": 2006,
+    "season": "summer",
+    "count": 23
+  },
+  {
+    "year": 2006,
+    "season": "fall",
+    "count": 52
+  },
+  {
+    "year": 2007,
+    "season": "winter",
+    "count": 35
+  },
+  {
+    "year": 2007,
+    "season": "spring",
+    "count": 51
+  },
+  {
+    "year": 2007,
+    "season": "summer",
+    "count": 24
+  },
+  {
+    "year": 2007,
+    "season": "fall",
+    "count": 37
+  },
+  {
+    "year": 2008,
+    "season": "winter",
+    "count": 34
+  },
+  {
+    "year": 2008,
+    "season": "spring",
+    "count": 47
+  },
+  {
+    "year": 2008,
+    "season": "summer",
+    "count": 23
+  },
+  {
+    "year": 2008,
+    "season": "fall",
     "count": 43
   },
   {
-    "year": 2006,
-    "season": "spring",
-    "count": 75
+    "year": 2009,
+    "season": "winter",
+    "count": 27
   },
   {
-    "year": 2006,
+    "year": 2009,
+    "season": "spring",
+    "count": 40
+  },
+  {
+    "year": 2009,
     "season": "summer",
+    "count": 22
+  },
+  {
+    "year": 2009,
+    "season": "fall",
+    "count": 37
+  },
+  {
+    "year": 2010,
+    "season": "winter",
+    "count": 23
+  },
+  {
+    "year": 2010,
+    "season": "spring",
     "count": 33
   },
   {
-    "year": 2006,
-    "season": "fall",
-    "count": 61
+    "year": 2010,
+    "season": "summer",
+    "count": 24
   },
   {
-    "year": 2007,
+    "year": 2010,
+    "season": "fall",
+    "count": 34
+  },
+  {
+    "year": 2011,
+    "season": "winter",
+    "count": 22
+  },
+  {
+    "year": 2011,
+    "season": "spring",
+    "count": 58
+  },
+  {
+    "year": 2011,
+    "season": "summer",
+    "count": 35
+  },
+  {
+    "year": 2011,
+    "season": "fall",
+    "count": 38
+  },
+  {
+    "year": 2012,
+    "season": "winter",
+    "count": 27
+  },
+  {
+    "year": 2012,
+    "season": "spring",
+    "count": 51
+  },
+  {
+    "year": 2012,
+    "season": "summer",
+    "count": 29
+  },
+  {
+    "year": 2012,
+    "season": "fall",
+    "count": 42
+  },
+  {
+    "year": 2013,
+    "season": "winter",
+    "count": 37
+  },
+  {
+    "year": 2013,
+    "season": "spring",
+    "count": 52
+  },
+  {
+    "year": 2013,
+    "season": "summer",
+    "count": 43
+  },
+  {
+    "year": 2013,
+    "season": "fall",
+    "count": 46
+  },
+  {
+    "year": 2014,
     "season": "winter",
     "count": 51
   },
   {
-    "year": 2007,
+    "year": 2014,
     "season": "spring",
-    "count": 61
+    "count": 64
   },
   {
-    "year": 2007,
+    "year": 2014,
     "season": "summer",
-    "count": 34
+    "count": 45
   },
   {
-    "year": 2007,
+    "year": 2014,
     "season": "fall",
-    "count": 49
+    "count": 47
   },
   {
-    "year": 2008,
+    "year": 2015,
     "season": "winter",
+    "count": 37
+  },
+  {
+    "year": 2015,
+    "season": "spring",
+    "count": 53
+  },
+  {
+    "year": 2015,
+    "season": "summer",
     "count": 51
   },
   {
-    "year": 2008,
-    "season": "spring",
-    "count": 63
-  },
-  {
-    "year": 2008,
-    "season": "summer",
-    "count": 34
-  },
-  {
-    "year": 2008,
+    "year": 2015,
     "season": "fall",
-    "count": 54
-  },
-  {
-    "year": 2009,
-    "season": "winter",
-    "count": 53
-  },
-  {
-    "year": 2009,
-    "season": "spring",
-    "count": 53
-  },
-  {
-    "year": 2009,
-    "season": "summer",
-    "count": 44
-  },
-  {
-    "year": 2009,
-    "season": "fall",
-    "count": 56
-  },
-  {
-    "year": 2010,
-    "season": "winter",
-    "count": 44
-  },
-  {
-    "year": 2010,
-    "season": "spring",
-    "count": 56
-  },
-  {
-    "year": 2010,
-    "season": "summer",
-    "count": 41
-  },
-  {
-    "year": 2010,
-    "season": "fall",
-    "count": 50
-  },
-  {
-    "year": 2011,
-    "season": "winter",
-    "count": 50
-  },
-  {
-    "year": 2011,
-    "season": "spring",
-    "count": 86
-  },
-  {
-    "year": 2011,
-    "season": "summer",
-    "count": 57
-  },
-  {
-    "year": 2011,
-    "season": "fall",
-    "count": 58
-  },
-  {
-    "year": 2012,
-    "season": "winter",
-    "count": 63
-  },
-  {
-    "year": 2012,
-    "season": "spring",
-    "count": 71
-  },
-  {
-    "year": 2012,
-    "season": "summer",
-    "count": 50
-  },
-  {
-    "year": 2012,
-    "season": "fall",
-    "count": 66
-  },
-  {
-    "year": 2013,
-    "season": "winter",
     "count": 61
-  },
-  {
-    "year": 2013,
-    "season": "spring",
-    "count": 75
-  },
-  {
-    "year": 2013,
-    "season": "summer",
-    "count": 68
-  },
-  {
-    "year": 2013,
-    "season": "fall",
-    "count": 68
-  },
-  {
-    "year": 2014,
-    "season": "winter",
-    "count": 79
-  },
-  {
-    "year": 2014,
-    "season": "spring",
-    "count": 82
-  },
-  {
-    "year": 2014,
-    "season": "summer",
-    "count": 58
-  },
-  {
-    "year": 2014,
-    "season": "fall",
-    "count": 71
-  },
-  {
-    "year": 2015,
-    "season": "winter",
-    "count": 70
-  },
-  {
-    "year": 2015,
-    "season": "spring",
-    "count": 76
-  },
-  {
-    "year": 2015,
-    "season": "summer",
-    "count": 72
-  },
-  {
-    "year": 2015,
-    "season": "fall",
-    "count": 81
   },
   {
     "year": 2016,
@@ -222,182 +222,182 @@
   {
     "year": 2017,
     "season": "winter",
-    "count": 80
+    "count": 47
   },
   {
     "year": 2017,
-    "season": "spring",
-    "count": 93
-  },
-  {
-    "year": 2017,
-    "season": "summer",
-    "count": 80
-  },
-  {
-    "year": 2017,
-    "season": "fall",
-    "count": 79
-  },
-  {
-    "year": 2018,
-    "season": "winter",
-    "count": 80
-  },
-  {
-    "year": 2018,
-    "season": "spring",
-    "count": 91
-  },
-  {
-    "year": 2018,
-    "season": "summer",
-    "count": 75
-  },
-  {
-    "year": 2018,
-    "season": "fall",
-    "count": 79
-  },
-  {
-    "year": 2019,
-    "season": "winter",
-    "count": 86
-  },
-  {
-    "year": 2019,
-    "season": "spring",
-    "count": 62
-  },
-  {
-    "year": 2019,
-    "season": "summer",
-    "count": 64
-  },
-  {
-    "year": 2019,
-    "season": "fall",
-    "count": 72
-  },
-  {
-    "year": 2020,
-    "season": "winter",
-    "count": 95
-  },
-  {
-    "year": 2020,
-    "season": "spring",
-    "count": 72
-  },
-  {
-    "year": 2020,
-    "season": "summer",
-    "count": 46
-  },
-  {
-    "year": 2020,
-    "season": "fall",
-    "count": 71
-  },
-  {
-    "year": 2021,
-    "season": "winter",
-    "count": 77
-  },
-  {
-    "year": 2021,
     "season": "spring",
     "count": 70
   },
   {
-    "year": 2021,
+    "year": 2017,
     "season": "summer",
-    "count": 45
+    "count": 52
   },
   {
-    "year": 2021,
+    "year": 2017,
     "season": "fall",
-    "count": 66
+    "count": 60
   },
   {
-    "year": 2022,
+    "year": 2018,
     "season": "winter",
+    "count": 52
+  },
+  {
+    "year": 2018,
+    "season": "spring",
+    "count": 75
+  },
+  {
+    "year": 2018,
+    "season": "summer",
     "count": 54
   },
   {
+    "year": 2018,
+    "season": "fall",
+    "count": 59
+  },
+  {
+    "year": 2019,
+    "season": "winter",
+    "count": 45
+  },
+  {
+    "year": 2019,
+    "season": "spring",
+    "count": 51
+  },
+  {
+    "year": 2019,
+    "season": "summer",
+    "count": 40
+  },
+  {
+    "year": 2019,
+    "season": "fall",
+    "count": 50
+  },
+  {
+    "year": 2020,
+    "season": "winter",
+    "count": 47
+  },
+  {
+    "year": 2020,
+    "season": "spring",
+    "count": 52
+  },
+  {
+    "year": 2020,
+    "season": "summer",
+    "count": 25
+  },
+  {
+    "year": 2020,
+    "season": "fall",
+    "count": 53
+  },
+  {
+    "year": 2021,
+    "season": "winter",
+    "count": 58
+  },
+  {
+    "year": 2021,
+    "season": "spring",
+    "count": 54
+  },
+  {
+    "year": 2021,
+    "season": "summer",
+    "count": 36
+  },
+  {
+    "year": 2021,
+    "season": "fall",
+    "count": 52
+  },
+  {
+    "year": 2022,
+    "season": "winter",
+    "count": 45
+  },
+  {
     "year": 2022,
     "season": "spring",
-    "count": 62
+    "count": 53
   },
   {
     "year": 2022,
     "season": "summer",
-    "count": 58
+    "count": 51
   },
   {
     "year": 2022,
     "season": "fall",
-    "count": 67
+    "count": 50
   },
   {
     "year": 2023,
     "season": "winter",
+    "count": 57
+  },
+  {
+    "year": 2023,
+    "season": "spring",
+    "count": 57
+  },
+  {
+    "year": 2023,
+    "season": "summer",
+    "count": 47
+  },
+  {
+    "year": 2023,
+    "season": "fall",
+    "count": 72
+  },
+  {
+    "year": 2024,
+    "season": "winter",
+    "count": 55
+  },
+  {
+    "year": 2024,
+    "season": "spring",
+    "count": 61
+  },
+  {
+    "year": 2024,
+    "season": "summer",
+    "count": 58
+  },
+  {
+    "year": 2024,
+    "season": "fall",
+    "count": 70
+  },
+  {
+    "year": 2025,
+    "season": "winter",
+    "count": 55
+  },
+  {
+    "year": 2025,
+    "season": "spring",
     "count": 65
   },
   {
-    "year": 2023,
-    "season": "spring",
-    "count": 74
-  },
-  {
-    "year": 2023,
-    "season": "summer",
-    "count": 63
-  },
-  {
-    "year": 2023,
-    "season": "fall",
-    "count": 88
-  },
-  {
-    "year": 2024,
-    "season": "winter",
-    "count": 68
-  },
-  {
-    "year": 2024,
-    "season": "spring",
-    "count": 71
-  },
-  {
-    "year": 2024,
+    "year": 2025,
     "season": "summer",
     "count": 67
   },
   {
-    "year": 2024,
-    "season": "fall",
-    "count": 84
-  },
-  {
-    "year": 2025,
-    "season": "winter",
-    "count": 64
-  },
-  {
-    "year": 2025,
-    "season": "spring",
-    "count": 78
-  },
-  {
-    "year": 2025,
-    "season": "summer",
-    "count": 79
-  },
-  {
     "year": 2025,
     "season": "fall",
-    "count": 74
+    "count": 67
   },
   {
     "year": 2026,
@@ -407,7 +407,7 @@
   {
     "year": 2026,
     "season": "spring",
-    "count": 30
+    "count": 31
   },
   {
     "year": 2026,

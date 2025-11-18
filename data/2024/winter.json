@@ -55,7 +55,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52701,
@@ -110,7 +111,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51180,
@@ -128,10 +130,10 @@
     "background": "Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e 3rd Season was released on Blu-ray & DVD in four volumes from April 24, 2024, to July 24, 2024.",
     "episodes": 13,
     "score": 7.95,
-    "scored_by": 250979,
+    "scored_by": 251073,
     "rank": 783,
     "popularity": 506,
-    "members": 495366,
+    "members": 495506,
     "favorites": 4432,
     "type": "TV",
     "status": "Finished Airing",
@@ -170,7 +172,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55813,
@@ -186,10 +189,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.79,
-    "scored_by": 258049,
+    "scored_by": 258125,
     "rank": 1128,
     "popularity": 527,
-    "members": 478148,
+    "members": 478266,
     "favorites": 2059,
     "type": "TV",
     "status": "Finished Airing",
@@ -230,7 +233,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55866,
@@ -244,11 +248,11 @@
     "background": "Yubisaki to Renren was released on Blu-ray in four volumes from April 26, 2024, to July 26, 2024.",
     "episodes": 12,
     "score": 8.2,
-    "scored_by": 147695,
+    "scored_by": 147757,
     "rank": 423,
-    "popularity": 843,
-    "members": 322055,
-    "favorites": 4302,
+    "popularity": 842,
+    "members": 322144,
+    "favorites": 4301,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -286,7 +290,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49889,
@@ -346,7 +351,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49613,
@@ -360,10 +366,10 @@
     "background": "Chiyu Mahou no Machigatta Tsukaikata was released on Blu-ray on April 24, 2024.",
     "episodes": 13,
     "score": 7.53,
-    "scored_by": 161595,
+    "scored_by": 161671,
     "rank": 1913,
     "popularity": 905,
-    "members": 301611,
+    "members": 301742,
     "favorites": 1388,
     "type": "TV",
     "status": "Finished Airing",
@@ -402,7 +408,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55690,
@@ -418,10 +425,10 @@
     "background": "",
     "episodes": 13,
     "score": 8.72,
-    "scored_by": 161559,
+    "scored_by": 161640,
     "rank": 59,
     "popularity": 946,
-    "members": 285778,
+    "members": 285918,
     "favorites": 5915,
     "type": "TV",
     "status": "Finished Airing",
@@ -463,7 +470,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50392,
@@ -480,11 +488,11 @@
     "background": "Mato Seihei no Slave was released on Blu-ray in three volumes from April 17, 2024, to June 19, 2024.",
     "episodes": 12,
     "score": 6.85,
-    "scored_by": 94742,
-    "rank": 5243,
+    "scored_by": 94772,
+    "rank": 5245,
     "popularity": 1136,
-    "members": 241213,
-    "favorites": 1752,
+    "members": 241274,
+    "favorites": 1753,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -522,7 +530,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56352,
@@ -581,7 +590,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51648,
@@ -637,7 +647,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53421,
@@ -653,10 +664,10 @@
     "background": "Dosanko Gal wa Namara Menkoi was released on Blu-ray in three volumes from April 3, 2024, to June 5, 2024.",
     "episodes": 12,
     "score": 7.04,
-    "scored_by": 93881,
-    "rank": 4353,
-    "popularity": 1296,
-    "members": 208333,
+    "scored_by": 93931,
+    "rank": 4352,
+    "popularity": 1297,
+    "members": 208427,
     "favorites": 1085,
     "type": "TV",
     "status": "Finished Airing",
@@ -695,7 +706,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54837,
@@ -749,7 +761,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54722,
@@ -768,11 +781,11 @@
     "background": "Mahou Shoujo ni Akogarete was released on Blu-ray and DVD in three volumes from March 27, 2024, to May 29, 2024.",
     "episodes": 13,
     "score": 7.62,
-    "scored_by": 88489,
+    "scored_by": 88510,
     "rank": 1590,
     "popularity": 1397,
-    "members": 192666,
-    "favorites": 2225,
+    "members": 192704,
+    "favorites": 2227,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -812,7 +825,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56285,
@@ -826,10 +840,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.57,
-    "scored_by": 74811,
+    "scored_by": 74828,
     "rank": 6892,
     "popularity": 1405,
-    "members": 191688,
+    "members": 191714,
     "favorites": 1104,
     "type": "TV",
     "status": "Finished Airing",
@@ -862,7 +876,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 52816,
@@ -878,10 +893,10 @@
     "background": "Majo to Yajuu was released on Blu-ray in two volumes from May 29, 2024, to June 26, 2024.",
     "episodes": 12,
     "score": 7.44,
-    "scored_by": 65369,
-    "rank": 2278,
-    "popularity": 1478,
-    "members": 180726,
+    "scored_by": 65393,
+    "rank": 2276,
+    "popularity": 1477,
+    "members": 180769,
     "favorites": 1110,
     "type": "TV",
     "status": "Finished Airing",
@@ -922,7 +937,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53730,
@@ -938,10 +954,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.36,
-    "scored_by": 84324,
-    "rank": 8179,
+    "scored_by": 84376,
+    "rank": 8181,
     "popularity": 1492,
-    "members": 179662,
+    "members": 179740,
     "favorites": 651,
     "type": "TV",
     "status": "Finished Airing",
@@ -985,7 +1001,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53889,
@@ -1002,10 +1019,10 @@
     "background": "Ao no Exorcist: Shimane Illuminati-hen was released on Blu-ray and DVD in two volumes from April 24, 2024, to May 29, 2024. It adapts chapters 38-68 of the original manga.",
     "episodes": 12,
     "score": 7.1,
-    "scored_by": 56326,
-    "rank": 4042,
+    "scored_by": 56346,
+    "rank": 4043,
     "popularity": 1516,
-    "members": 176057,
+    "members": 176091,
     "favorites": 620,
     "type": "TV",
     "status": "Finished Airing",
@@ -1046,7 +1063,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53488,
@@ -1064,11 +1082,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.76,
-    "scored_by": 55613,
-    "rank": 5727,
+    "scored_by": 55636,
+    "rank": 5726,
     "popularity": 1751,
-    "members": 147068,
-    "favorites": 388,
+    "members": 147125,
+    "favorites": 389,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1103,7 +1121,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50803,
@@ -1117,11 +1136,11 @@
     "background": "",
     "episodes": 13,
     "score": 7.03,
-    "scored_by": 59418,
+    "scored_by": 59448,
     "rank": 4377,
     "popularity": 1761,
-    "members": 145543,
-    "favorites": 615,
+    "members": 145576,
+    "favorites": 616,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1162,7 +1181,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55129,
@@ -1179,10 +1199,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.91,
-    "scored_by": 53179,
-    "rank": 4940,
+    "scored_by": 53191,
+    "rank": 4939,
     "popularity": 1814,
-    "members": 140340,
+    "members": 140372,
     "favorites": 441,
     "type": "TV",
     "status": "Finished Airing",
@@ -1227,7 +1247,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54265,
@@ -1241,11 +1262,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.07,
-    "scored_by": 52144,
-    "rank": 9862,
-    "popularity": 1891,
-    "members": 133670,
-    "favorites": 385,
+    "scored_by": 52168,
+    "rank": 9860,
+    "popularity": 1890,
+    "members": 133717,
+    "favorites": 386,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1291,7 +1312,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 53590,
@@ -1352,7 +1374,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54449,
@@ -1366,10 +1389,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.72,
-    "scored_by": 40159,
-    "rank": 5958,
+    "scored_by": 40174,
+    "rank": 5957,
     "popularity": 1955,
-    "members": 127656,
+    "members": 127688,
     "favorites": 460,
     "type": "TV",
     "status": "Finished Airing",
@@ -1405,7 +1428,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 52482,
@@ -1421,10 +1445,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.84,
-    "scored_by": 51303,
+    "scored_by": 51312,
     "rank": 5335,
-    "popularity": 2135,
-    "members": 113870,
+    "popularity": 2133,
+    "members": 113919,
     "favorites": 220,
     "type": "TV",
     "status": "Finished Airing",
@@ -1462,7 +1486,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54794,
@@ -1476,10 +1501,10 @@
     "background": "Metallic Rouge was produced to celebrate Bones' 25th anniversary. The series was released on Blu-ray on August 2, 2024.",
     "episodes": 13,
     "score": 6.2,
-    "scored_by": 33780,
-    "rank": 9144,
+    "scored_by": 33783,
+    "rank": 9140,
     "popularity": 2139,
-    "members": 113496,
+    "members": 113502,
     "favorites": 394,
     "type": "TV",
     "status": "Finished Airing",
@@ -1515,7 +1540,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54632,
@@ -1534,11 +1560,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.26,
-    "scored_by": 51580,
-    "rank": 3133,
+    "scored_by": 51595,
+    "rank": 3132,
     "popularity": 2169,
-    "members": 110916,
-    "favorites": 547,
+    "members": 110948,
+    "favorites": 545,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1576,7 +1602,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55358,
@@ -1628,7 +1655,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54617,
@@ -1642,11 +1670,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.24,
-    "scored_by": 31324,
-    "rank": 3244,
+    "scored_by": 31331,
+    "rank": 3245,
     "popularity": 2285,
-    "members": 102214,
-    "favorites": 556,
+    "members": 102233,
+    "favorites": 555,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1686,7 +1714,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56845,
@@ -1743,7 +1772,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52359,
@@ -1760,10 +1790,10 @@
     "background": "Isekai de Mofumofu Nadenade suru Tame ni Ganbattemasu. was released on Blu-ray on April 26, 2024.",
     "episodes": 12,
     "score": 6.78,
-    "scored_by": 39633,
-    "rank": 5623,
-    "popularity": 2454,
-    "members": 91632,
+    "scored_by": 39642,
+    "rank": 5622,
+    "popularity": 2453,
+    "members": 91649,
     "favorites": 438,
     "type": "TV",
     "status": "Finished Airing",
@@ -1802,7 +1832,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55973,
@@ -1819,11 +1850,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.64,
-    "scored_by": 39892,
-    "rank": 1521,
+    "scored_by": 39921,
+    "rank": 1522,
     "popularity": 2542,
-    "members": 86513,
-    "favorites": 852,
+    "members": 86564,
+    "favorites": 855,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1862,7 +1893,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55774,
@@ -1880,10 +1912,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.22,
-    "scored_by": 26974,
+    "scored_by": 26984,
     "rank": 3385,
     "popularity": 2711,
-    "members": 77936,
+    "members": 77969,
     "favorites": 226,
     "type": "TV",
     "status": "Finished Airing",
@@ -1925,7 +1957,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56242,
@@ -1939,10 +1972,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.99,
-    "scored_by": 18838,
-    "rank": 4592,
-    "popularity": 2954,
-    "members": 67404,
+    "scored_by": 18839,
+    "rank": 4591,
+    "popularity": 2955,
+    "members": 67417,
     "favorites": 193,
     "type": "TV",
     "status": "Finished Airing",
@@ -1986,7 +2019,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53223,
@@ -2000,10 +2034,10 @@
     "background": "Kingdom 5th Season adapts chapters 442-489 of the original manga.",
     "episodes": 13,
     "score": 8.72,
-    "scored_by": 24495,
+    "scored_by": 24517,
     "rank": 54,
-    "popularity": 3266,
-    "members": 55887,
+    "popularity": 3264,
+    "members": 55924,
     "favorites": 590,
     "type": "TV",
     "status": "Finished Airing",
@@ -2040,7 +2074,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55998,
@@ -2054,10 +2089,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.54,
-    "scored_by": 17256,
-    "rank": 7076,
-    "popularity": 3272,
-    "members": 55722,
+    "scored_by": 17260,
+    "rank": 7075,
+    "popularity": 3273,
+    "members": 55731,
     "favorites": 237,
     "type": "TV",
     "status": "Finished Airing",
@@ -2093,7 +2128,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54829,
@@ -2109,10 +2145,10 @@
     "background": "",
     "episodes": 23,
     "score": 7.84,
-    "scored_by": 17652,
-    "rank": 1002,
+    "scored_by": 17657,
+    "rank": 1001,
     "popularity": 3278,
-    "members": 55520,
+    "members": 55527,
     "favorites": 240,
     "type": "TV",
     "status": "Finished Airing",
@@ -2151,7 +2187,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54869,
@@ -2164,11 +2201,11 @@
     "synopsis": "Second season of High Card.",
     "background": "High Card Season 2 was released on Blu-ray and DVD in four volumes from March 27, 2024, to June 26, 2024.",
     "episodes": 12,
-    "score": 7.09,
-    "scored_by": 16568,
-    "rank": 4133,
-    "popularity": 3479,
-    "members": 50015,
+    "score": 7.1,
+    "scored_by": 16574,
+    "rank": 4057,
+    "popularity": 3478,
+    "members": 50026,
     "favorites": 167,
     "type": "TV",
     "status": "Finished Airing",
@@ -2203,7 +2240,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 57315,
@@ -2221,10 +2259,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.23,
-    "scored_by": 11729,
-    "rank": 13357,
+    "scored_by": 11731,
+    "rank": 13358,
     "popularity": 3834,
-    "members": 42232,
+    "members": 42247,
     "favorites": 157,
     "type": "TV",
     "status": "Finished Airing",
@@ -2263,7 +2301,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51673,
@@ -2277,10 +2316,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.58,
-    "scored_by": 8268,
+    "scored_by": 8271,
     "rank": 6824,
     "popularity": 4152,
-    "members": 35889,
+    "members": 35898,
     "favorites": 131,
     "type": "TV",
     "status": "Finished Airing",
@@ -2312,7 +2351,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 55397,
@@ -2326,10 +2366,10 @@
     "background": "Pon no Michi was released on Blu-ray in two volumes from April 24, 2024, to May 29, 2024.",
     "episodes": 12,
     "score": 6.48,
-    "scored_by": 8885,
-    "rank": 7456,
-    "popularity": 4166,
-    "members": 35585,
+    "scored_by": 8887,
+    "rank": 7452,
+    "popularity": 4167,
+    "members": 35595,
     "favorites": 141,
     "type": "TV",
     "status": "Finished Airing",
@@ -2370,7 +2410,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55528,
@@ -2386,10 +2427,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.54,
-    "scored_by": 11152,
+    "scored_by": 11156,
     "rank": 1896,
     "popularity": 4203,
-    "members": 35105,
+    "members": 35112,
     "favorites": 241,
     "type": "TV",
     "status": "Finished Airing",
@@ -2430,7 +2471,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56731,
@@ -2444,10 +2486,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.11,
-    "scored_by": 7407,
-    "rank": 4027,
+    "scored_by": 7410,
+    "rank": 4029,
     "popularity": 5158,
-    "members": 21991,
+    "members": 21998,
     "favorites": 79,
     "type": "TV",
     "status": "Finished Airing",
@@ -2480,7 +2522,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57502,
@@ -2529,7 +2572,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 54754,
@@ -2543,10 +2587,10 @@
     "background": "",
     "episodes": 10,
     "score": 5.9,
-    "scored_by": 4800,
-    "rank": 10813,
+    "scored_by": 4801,
+    "rank": 10812,
     "popularity": 6200,
-    "members": 13652,
+    "members": 13654,
     "favorites": 11,
     "type": "TV",
     "status": "Finished Airing",
@@ -2578,7 +2622,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56691,
@@ -2592,10 +2637,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.39,
-    "scored_by": 2962,
-    "rank": 12960,
-    "popularity": 6506,
-    "members": 12068,
+    "scored_by": 2963,
+    "rank": 12962,
+    "popularity": 6505,
+    "members": 12071,
     "favorites": 11,
     "type": "TV",
     "status": "Finished Airing",
@@ -2631,7 +2676,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55636,
@@ -2645,9 +2691,9 @@
     "background": "",
     "episodes": 13,
     "score": 6.48,
-    "scored_by": 3229,
-    "rank": 7461,
-    "popularity": 6961,
+    "scored_by": 3230,
+    "rank": 7459,
+    "popularity": 6962,
     "members": 10369,
     "favorites": 22,
     "type": "TV",
@@ -2684,7 +2730,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57390,
@@ -2699,9 +2746,9 @@
     "episodes": 50,
     "score": 7.56,
     "scored_by": 2618,
-    "rank": 1814,
-    "popularity": 7402,
-    "members": 8880,
+    "rank": 1813,
+    "popularity": 7404,
+    "members": 8882,
     "favorites": 118,
     "type": "TV",
     "status": "Finished Airing",
@@ -2731,56 +2778,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57180,
-    "title": "Yami Shibai 12",
-    "title_english": "Theatre of Darkness: Yamishibai 12",
-    "title_japanese": "闇芝居 十二期",
-    "title_synonyms": [
-      "Yamishibai: Japanese Ghost Stories Twelfth Season",
-      "Yamishibai: Japanese Ghost Stories 12"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1187/139674l.jpg",
-    "trailer_url": null,
-    "synopsis": "Twelfth season of Yami Shibai.",
-    "background": "",
-    "episodes": 13,
-    "score": 5.87,
-    "scored_by": 2303,
-    "rank": 10952,
-    "popularity": 8285,
-    "members": 6669,
-    "favorites": 17,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "4 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "ILCA",
-      "ILCASHIPS"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Avant Garde",
-      "Horror",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2024-01-15T00:00:00+00:00",
-    "aired_to": "2024-04-08T00:00:00+00:00",
-    "broadcast": "Mondays at 02:35 (JST)",
-    "url": "https://myanimelist.net/anime/57180/Yami_Shibai_12",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54197,
@@ -2797,9 +2796,9 @@
     "episodes": 13,
     "score": 5.08,
     "scored_by": 499,
-    "rank": 13659,
+    "rank": 13660,
     "popularity": 8868,
-    "members": 5673,
+    "members": 5674,
     "favorites": 12,
     "type": "TV",
     "status": "Finished Airing",
@@ -2828,7 +2827,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54142,
@@ -2843,9 +2843,9 @@
     "episodes": 13,
     "score": 7.08,
     "scored_by": 1466,
-    "rank": 4145,
+    "rank": 4144,
     "popularity": 9578,
-    "members": 4559,
+    "members": 4560,
     "favorites": 20,
     "type": "TV",
     "status": "Finished Airing",
@@ -2877,7 +2877,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57012,
@@ -2926,52 +2927,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57538,
-    "title": "Sai-Kyo-Oh! Zukan: The Ultimate Battles",
-    "title_english": null,
-    "title_japanese": "最強王図鑑 ～The Ultimate Battles～",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1827/149980l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 50,
-    "score": null,
-    "scored_by": null,
-    "rank": 14618,
-    "popularity": 17619,
-    "members": 527,
-    "favorites": 5,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Book",
-    "studios": [
-      "OLM Digital"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-01-06T00:00:00+00:00",
-    "aired_to": "2024-12-14T00:00:00+00:00",
-    "broadcast": "Saturdays at 07:00 (JST)",
-    "url": "https://myanimelist.net/anime/57538/Sai-Kyo-Oh_Zukan__The_Ultimate_Battles",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57605,
@@ -2988,8 +2945,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 15052,
-    "popularity": 17843,
+    "rank": 15054,
+    "popularity": 17852,
     "members": 506,
     "favorites": 1,
     "type": "TV",
@@ -3016,7 +2973,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57950,
@@ -3031,8 +2989,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 21250,
-    "popularity": 17884,
+    "rank": 21251,
+    "popularity": 17892,
     "members": 502,
     "favorites": 1,
     "type": "TV",
@@ -3060,7 +3018,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57522,
@@ -3077,8 +3036,8 @@
     "episodes": 26,
     "score": null,
     "scored_by": null,
-    "rank": 20777,
-    "popularity": 19651,
+    "rank": 20778,
+    "popularity": 19653,
     "members": 367,
     "favorites": 0,
     "type": "TV",
@@ -3105,7 +3064,8 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57881,
@@ -3120,8 +3080,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 14644,
-    "popularity": 20458,
+    "rank": 14645,
+    "popularity": 20460,
     "members": 315,
     "favorites": 0,
     "type": "TV",
@@ -3148,500 +3108,7 @@
     "year": 2024,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57960,
-    "title": "Balala Xiao Mo Xian: Xing Yuan Die Qi 2",
-    "title_english": "Balala The Fairies: Star Fate Butterfly Awakening 2",
-    "title_japanese": "巴啦啦小魔仙之星缘蝶启2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1075/141252l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20136,
-    "popularity": 20725,
-    "members": 300,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-12-28T00:00:00+00:00",
-    "aired_to": "2024-01-09T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57960/Balala_Xiao_Mo_Xian__Xing_Yuan_Die_Qi_2",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58557,
-    "title": "Xin Xiyou Lixian Ji",
-    "title_english": null,
-    "title_japanese": "新西游历险记",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1193/142344l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16592,
-    "popularity": 21033,
-    "members": 285,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [
-      "Martial Arts"
-    ],
-    "demographics": [],
-    "aired_from": "2024-01-19T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58557/Xin_Xiyou_Lixian_Ji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58379,
-    "title": "Larva in Mars",
-    "title_english": null,
-    "title_japanese": "라바 인 마스",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1292/141918l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 20,
-    "score": null,
-    "scored_by": null,
-    "rank": 18188,
-    "popularity": 21273,
-    "members": 270,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Gag Humor",
-      "Space"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-01-13T00:00:00+00:00",
-    "aired_to": "2024-02-10T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58379/Larva_in_Mars",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57744,
-    "title": "Magical Fang",
-    "title_english": null,
-    "title_japanese": "매지컬 팡",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1117/150116l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 15,
-    "score": null,
-    "scored_by": null,
-    "rank": 18373,
-    "popularity": 21509,
-    "members": 257,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Web manga",
-    "studios": [
-      "Studio Animal"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-01-06T00:00:00+00:00",
-    "aired_to": "2024-05-04T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57744/Magical_Fang",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58933,
-    "title": "Dinoster: Gonglyongsuhodae 2nd Season",
-    "title_english": "Dinoster 2nd Season",
-    "title_japanese": "다이노스터: 공룡수호대",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1368/143290l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Dinoster: Gonglyongsuhodae.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21021,
-    "popularity": 22049,
-    "members": 229,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Funny Flux"
-    ],
-    "producers": [
-      "Alpha Group"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-02-26T00:00:00+00:00",
-    "aired_to": "2024-05-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58933/Dinoster__Gonglyongsuhodae_2nd_Season",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58376,
-    "title": "Xiong Chumo: Xiao Xiao Shijie",
-    "title_english": null,
-    "title_japanese": "熊出没之小小世界",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1329/141916l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16696,
-    "popularity": 22189,
-    "members": 221,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-03-08T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58376/Xiong_Chumo__Xiao_Xiao_Shijie",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58569,
-    "title": "Kkoma Bus Tayo 7",
-    "title_english": null,
-    "title_japanese": "꼬마버스 타요 7",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1508/142387l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17890,
-    "popularity": 22801,
-    "members": 192,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Iconix Entertainment",
-      "Studio Gale"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-02-28T00:00:00+00:00",
-    "aired_to": "2024-05-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58569/Kkoma_Bus_Tayo_7",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58577,
-    "title": "DoReMi Friends",
-    "title_english": null,
-    "title_japanese": "도레미 프렌즈",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1854/150119l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21105,
-    "popularity": 23882,
-    "members": 154,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic",
-      "Music"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-02-26T00:00:00+00:00",
-    "aired_to": "2024-05-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58577/DoReMi_Friends",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58578,
-    "title": "Charging Topspinner BX",
-    "title_english": null,
-    "title_japanese": "차징 탑스피너 BX",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1896/142399l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20599,
-    "popularity": 24884,
-    "members": 129,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-01-27T00:00:00+00:00",
-    "aired_to": "2024-08-31T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58578/Charging_Topspinner_BX",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60710,
-    "title": "Xi Yangyang Yu Hui Tailang: Xin Shijie Qiyu",
-    "title_english": "Pleasant Goat and Big Big Wolf: Explore Wolffy's Mind",
-    "title_japanese": "喜羊羊与灰太狼之心世界奇遇",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1933/147390l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16267,
-    "popularity": 26931,
-    "members": 95,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-01-19T00:00:00+00:00",
-    "aired_to": "2024-02-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60710/Xi_Yangyang_Yu_Hui_Tailang__Xin_Shijie_Qiyu",
-    "year": 2024,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60881,
-    "title": "Xin Qi Bao Long Zhan Che 7: Ju Shou Zhan Long",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车7之巨兽战龙",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1859/147807l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 30,
-    "score": null,
-    "scored_by": null,
-    "rank": 16579,
-    "popularity": 28979,
-    "members": 63,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-01-05T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60881/Xin_Qi_Bao_Long_Zhan_Che_7__Ju_Shou_Zhan_Long",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

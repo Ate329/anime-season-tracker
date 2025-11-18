@@ -1,236 +1,215 @@
 studio,total_anime,rated_anime,average_score,median_score,highest_score,lowest_score
-J.C.Staff,143,143,7.2,7.24,8.52,5.47
-Studio Deen,117,110,6.88,6.93,8.7,3.28
-OLM,113,106,6.76,6.69,8.91,5.39
-A-1 Pictures,104,103,7.41,7.47,8.97,5.84
-Madhouse,100,100,7.4,7.34,9.29,5.21
-Toei Animation,92,80,7.02,7.03,8.41,5.83
-TMS Entertainment,89,78,7.03,6.96,8.94,4.91
-DLE,81,45,5.77,5.68,7.28,4.68
-Sunrise,77,77,7.23,7.15,9.02,5.72
-LIDENFILMS,68,68,6.82,6.69,8.35,5.02
-Production I.G,67,67,7.52,7.48,8.77,5.78
-SILVER LINK.,66,66,6.92,7.0,8.35,5.6
-Doga Kobo,60,58,7.11,7.23,8.55,5.45
-Bones,54,54,7.62,7.84,9.1,5.85
-Satelight,52,52,6.98,7.08,8.19,5.39
-MAPPA,51,51,7.48,7.55,8.82,5.4
-Brain's Base,48,45,7.17,7.12,8.63,5.63
-Xebec,44,44,6.8,6.88,7.64,5.83
+J.C.Staff,148,148,7.2,7.24,8.52,5.41
+Studio Deen,115,114,6.88,6.93,8.7,3.28
+A-1 Pictures,107,107,7.39,7.41,8.97,5.84
+OLM,106,104,6.8,6.7,8.91,5.39
+Madhouse,97,97,7.47,7.37,9.29,5.5
+TMS Entertainment,84,83,7.05,6.97,8.94,4.91
+Toei Animation,83,79,7.06,7.1,8.41,5.95
+Sunrise,78,78,7.26,7.18,9.02,5.72
+DLE,78,47,5.78,5.68,7.28,4.68
+SILVER LINK.,70,70,6.93,7.0,8.35,5.6
+LIDENFILMS,70,70,6.83,6.69,8.35,5.02
+Production I.G,66,66,7.56,7.49,8.77,6.12
+Doga Kobo,63,61,7.09,7.22,8.55,5.45
+Bones,59,59,7.61,7.83,9.1,5.85
+Satelight,54,54,6.93,7.08,8.19,4.3
+MAPPA,53,53,7.49,7.55,8.82,5.4
+Brain's Base,46,46,7.22,7.13,8.63,5.58
 Gonzo,44,44,6.78,6.88,8.31,4.57
 Shaft,42,42,7.47,7.46,8.9,6.3
-feel.,41,41,6.85,6.85,8.35,4.45
-Kachidoki Studio,40,10,5.55,5.62,6.42,4.77
-Tatsunoko Production,39,36,6.69,6.82,8.63,5.29
-Studio Pierrot,39,39,7.36,7.62,9.02,4.65
-Fanworks,38,17,6.39,6.33,7.72,4.95
-CloverWorks,37,36,7.65,7.8,8.74,5.25
-P.A. Works,35,35,7.29,7.36,8.26,5.42
-Kinema Citrus,34,34,6.92,7.05,8.63,5.1
-Shin-Ei Animation,34,31,6.99,7.15,8.72,5.04
-SynergySP,33,33,6.92,6.86,8.39,5.28
-Diomedéa,33,33,6.91,6.9,7.62,5.46
-8bit,33,33,7.26,7.4,8.35,5.83
-Lerche,33,33,7.37,7.4,8.47,6.1
-Bandai Namco Pictures,33,31,7.37,7.33,9.05,5.95
+Xebec,42,42,6.85,6.92,7.64,5.83
+feel.,42,42,6.85,6.86,8.35,4.45
+Studio Pierrot,42,42,7.32,7.57,9.02,4.65
+Tatsunoko Production,38,36,6.69,6.82,8.63,5.29
+P.A. Works,36,36,7.28,7.36,8.26,5.42
+CloverWorks,36,36,7.65,7.8,8.74,5.25
+Diomedéa,35,35,6.88,6.9,7.62,5.46
+8bit,35,35,7.24,7.27,8.35,5.83
+Lerche,35,35,7.37,7.35,8.47,6.1
+Fanworks,35,18,6.57,6.54,7.72,4.95
+Kachidoki Studio,33,9,5.63,5.65,6.42,4.77
+Bandai Namco Pictures,33,33,7.33,7.33,9.05,5.73
 Zexcs,32,32,6.74,6.79,7.64,5.18
-Studio Gokumi,32,32,6.86,6.85,8.13,5.48
-Project No.9,30,30,6.55,6.67,7.85,5.16
+Shin-Ei Animation,32,31,7.04,7.18,8.72,5.04
+Studio Gokumi,32,32,6.86,6.84,8.13,5.48
+Kinema Citrus,31,31,7.13,7.06,8.63,5.51
+Project No.9,31,31,6.55,6.67,7.85,5.16
 Kyoto Animation,29,29,7.87,7.86,8.93,6.85
-Asahi Production,29,25,6.28,6.06,7.62,4.77
-Shogakukan Music & Digital Entertainment,28,15,5.96,5.82,6.41,5.63
-Studio Comet,27,23,6.81,6.74,7.97,5.91
-Wit Studio,27,26,7.59,7.91,9.05,5.25
-EMT Squared,26,26,6.18,6.53,7.36,4.73
-Nippon Animation,25,18,6.7,6.81,7.91,5.17
-White Fox,25,25,7.59,7.51,9.07,6.08
-David Production,25,25,7.42,7.39,8.58,6.14
-Zero-G,25,25,6.89,7.03,8.51,5.51
-Tezuka Productions,24,22,7.06,7.05,8.29,5.85
+SynergySP,29,29,7.08,7,8.39,5.28
+Wit Studio,28,27,7.58,7.77,9.05,5.25
+EMT Squared,28,28,6.2,6.48,7.36,4.73
+White Fox,26,26,7.61,7.54,9.07,6.08
+David Production,26,26,7.46,7.39,8.58,6.14
+Zero-G,26,26,6.84,6.89,8.51,5.51
+Studio Comet,24,24,6.81,6.75,7.97,5.91
 Seven,24,24,6.14,6.24,7.3,3.86
+Tezuka Productions,23,21,7.12,7.08,8.29,5.85
 SANZIGEN,23,23,6.87,6.68,8.23,5.8
-Passione,23,23,6.81,6.73,8.12,5.81
-ILCA,23,23,5.7,5.83,6.99,3.81
 Studio Hibari,22,22,6.83,6.8,8.21,5.29
+Bridge,22,22,6.56,6.62,7.66,5.26
+Passione,22,22,6.86,6.76,8.12,5.85
+Telecom Animation Film,21,21,7.09,7.19,8.18,5.45
+Nippon Animation,21,17,6.76,6.83,7.91,5.17
+Asahi Production,21,21,6.3,6.07,7.62,4.77
 Nomad,20,20,6.76,6.75,7.98,5.27
-Telecom Animation Film,20,20,7.06,7.13,8.18,5.45
-Bridge,20,20,6.63,6.69,7.66,5.26
 Arms,19,19,6.49,6.52,7.74,5.74
-Ajia-do,19,17,7.15,7.2,8.2,5.89
 TNK,18,18,6.41,6.35,7.46,5.51
-SAMG Entertainment,18,3,6.1,6.26,6.36,5.69
 Seven Arcs,17,17,7.09,7.01,7.84,6.47
+Ajia-do,17,17,7.15,7.19,8.2,5.89
 C2C,17,17,6.98,7.25,8.26,5.62
+ILCA,17,17,5.68,5.84,6.99,3.81
 Artland,16,16,7.04,7.09,8.72,5.76
-Studio Gale,16,4,5.73,5.74,5.87,5.57
+Millepensee,16,16,6.61,6.6,7.45,5.76
 Manglobe,15,15,7.37,7.42,7.98,6.63
 AIC,15,15,6.98,7.11,7.65,6.26
-Signal.MD,15,13,6.33,6.32,7.51,5.25
-ufotable,14,14,7.86,8.18,8.71,6.61
-Yumeta Company,14,13,6.72,6.72,7.4,5.86
-Polygon Pictures,14,13,6.77,6.68,7.71,5.67
+ufotable,15,15,7.82,8.17,8.71,6.61
+Yumeta Company,14,13,6.72,6.72,7.4,5.85
 Hoods Entertainment,14,14,6.47,6.29,7.88,5.41
-Funny Flux,14,2,5.85,5.85,5.9,5.79
+Gathering,14,14,6.24,6.53,6.8,4.94
 TROYCA,14,14,7.49,7.45,8.34,6.06
-Millepensee,14,14,6.69,6.62,7.45,6.34
-Lesprit,14,11,6.46,6.54,7.53,5.42
-Dongwoo A&E,13,10,7.01,7.08,7.58,6.38
 A.C.G.T.,13,13,6.59,6.7,7.49,5.39
 GoHands,13,13,6.7,6.67,7.67,5.23
-Gathering,13,13,6.2,6.52,6.8,4.94
-Studio A-CAT,13,13,6.06,6.19,6.54,4.74
+Connect,13,13,6.76,6.87,7.43,5.61
+Polygon Pictures,13,13,6.77,6.68,7.71,5.67
+Signal.MD,13,12,6.37,6.35,7.51,5.25
+Lesprit,13,11,6.46,6.54,7.53,5.42
 Geek Toys,13,13,6.73,6.59,7.74,5.31
 Maho Film,13,13,6.83,6.81,7.34,6.21
-Group TAC,12,9,6.68,6.56,7.44,6.05
-AIC Spirits,12,12,6.64,6.65,7.56,5.38
-Gallop,12,9,6.82,6.83,7.47,6.13
-Shirogumi,12,11,6.49,6.49,7.54,5.29
-Pierrot Plus,12,11,6.76,6.76,7.84,4.65
-Iconix Entertainment,12,4,5.73,5.74,5.87,5.57
-Connect,12,12,6.83,6.91,7.43,5.61
-Studio 3Hz,12,12,6.91,7.04,7.67,5.51
+asread.,12,12,6.76,6.9,7.56,5.35
+TYO Animations,12,10,7.11,7.2,7.9,6.4
+Pierrot Plus,12,12,6.75,7.04,7.84,4.65
+Production IMS,12,12,6.64,6.55,7.3,5.85
+Lay-duce,12,12,6.95,7.11,7.85,5.62
+Creators in Pack,12,12,5.99,5.88,6.96,5.31
+AXsiZ,12,12,6.26,6.47,7.09,5.35
 ENGI,12,12,6.91,6.77,8.37,6.26
 HAL Film Maker,11,11,7.32,7.21,8.47,6.53
-asread.,11,11,6.89,7.02,7.56,5.35
+AIC Spirits,11,11,6.71,6.67,7.56,5.38
+Gallop,11,9,6.82,6.83,7.47,6.13
 Gainax,11,11,7.15,7.22,8.64,5.73
-TYO Animations,11,9,7.17,7.2,7.9,6.4
-Lay-duce,11,11,6.87,6.95,7.85,5.62
-Creators in Pack,11,11,6.04,5.96,6.96,5.31
-AXsiZ,11,11,6.35,6.5,7.09,5.35
-Yokohama Animation Lab,11,11,6.62,6.66,7.44,5.47
+Trigger,11,11,7.58,7.43,8.59,7.04
+Studio 3Hz,11,11,7.03,7.08,7.67,6.21
+Studio A-CAT,11,11,6.11,6.19,6.54,4.74
 Studio KAI,11,11,7.35,7.43,8.27,6.67
-Imageworks Studio,11,8,6.0,5.85,6.65,5.33
 Bee Train,10,10,7.15,7.03,7.96,6.57
+Shirogumi,10,10,6.54,6.63,7.54,5.29
+Dongwoo A&E,10,10,7.01,7.08,7.58,6.36
 Encourage Films,10,10,6.5,6.89,7.92,4.66
-Graphinica,10,9,6.41,6.54,6.77,5.47
 C-Station,10,10,6.96,6.92,8.5,5.39
+Pie in the sky,10,7,6.55,6.73,6.79,6.06
 PINE JAM,10,10,6.97,7.08,7.71,5.93
 Felix Film,10,10,7.12,7.16,7.8,6.11
-Actas,9,8,6.93,6.8,7.86,6.05
+Yokohama Animation Lab,10,10,6.73,6.67,7.44,5.57
+Imageworks Studio,10,8,6.0,5.85,6.66,5.33
+Group TAC,9,9,6.68,6.56,7.44,6.05
+Actas,9,9,6.83,6.71,7.86,5.97
 AIC ASTA,9,9,7.31,7.42,7.82,6.1
-Jinnis Animation Studios,9,6,6.29,6.22,6.79,5.83
-OLM Digital,9,4,5.95,5.96,6.37,5.53
-Alpha Animation,9,6,6.19,6.12,6.76,5.89
 Seven Arcs Pictures,9,9,6.32,6.51,7.28,5.38
 Orange,9,9,7.39,7.32,8.39,6.54
-Trigger,9,9,7.61,7.43,8.59,7.04
 NAZ,9,9,6.27,6.2,7.81,4.88
-Pie in the sky,9,6,6.64,6.73,6.79,6.28
-Blade,9,9,6.59,6.49,7.52,5.37
-Typhoon Graphics,9,9,6.29,6.14,7.53,4.73
+Shuka,9,9,8.07,7.97,8.61,7.2
+Studio VOLN,9,9,7.03,7.16,8,5.7
+Platinum Vision,9,9,7.15,7.15,8.42,5.66
+Blade,9,9,6.59,6.49,7.51,5.37
 Okuruto Noboru,9,9,6.76,6.69,7.71,6.27
-CygamesPictures,9,9,7.75,7.73,8.57,6.68
+CygamesPictures,9,9,7.76,7.73,8.57,6.68
 Bibury Animation Studios,9,9,7.0,7.08,8.01,5.95
 Gift-o’-Animation,9,9,6.74,6.7,7.1,5.97
 Studio Jemi,9,9,6.74,6.7,7.1,5.97
-Imagica Infos,9,7,6.15,6.4,6.8,5.33
 Kanaban Graphics,8,8,6.44,6.26,7.04,6
-LandQ studios,8,4,6.29,6.08,7.36,5.63
 Yaoyorozu,8,8,6.37,6.75,7.51,5.06
-Ascension,8,7,5.77,5.73,6.3,5.45
-Production IMS,8,8,6.71,6.73,7.19,5.85
-Shuka,8,8,8.1,8.01,8.61,7.2
-Studio BAZOOKA,8,1,6.3,6.3,6.3,6.3
-Studio VOLN,8,8,6.92,7.13,8,5.7
 Nexus,8,8,7.35,7.29,8.27,6.66
-Platinum Vision,8,8,7.18,7.18,8.42,5.66
-Gaina,8,8,6.53,6.35,7.74,5.1
+Typhoon Graphics,8,8,6.48,6.45,7.53,5.56
+Graphinica,8,8,6.53,6.58,6.77,5.85
 Drive,8,8,7.37,7.53,8.34,6.3
-Robot Communications,7,3,5.81,5.88,6.05,5.5
+Imagica Infos,8,7,6.15,6.4,6.8,5.33
 AIC PLUS+,7,7,6.72,6.7,7.14,6.14
 Studio Blanc.,7,7,6.67,6.43,7.7,6.2
-PRA,7,7,6.19,6.38,7.2,5.13
-Geno Studio,7,7,7.17,6.98,8.43,5.99
-Science SARU,7,7,7.5,7.79,8.47,6.02
+Tomovies,7,5,6.23,6.4,6.44,5.53
+Lapin Track,7,7,6.99,7.35,8.05,5.58
+Geno Studio,7,7,7.17,6.98,8.43,5.98
+Gaina,7,7,6.59,6.57,7.74,5.1
+Science SARU,7,7,7.49,7.79,8.46,6.02
 Studio Signpost,7,7,8.13,8.72,9.02,6.57
 Studio Bind,7,7,8.05,8.21,8.62,7.11
 Yostar Pictures,7,7,7.28,7.12,7.78,7.02
 Tokyo Kids,6,6,6.49,6.29,7.85,5.78
 Magic Bus,6,5,6.35,6.62,7.07,5.3
+Jinnis Animation Studios,6,6,6.29,6.22,6.79,5.83
+Shogakukan Music & Digital Entertainment,6,5,6.28,6.27,6.41,6.1
+Alpha Animation,6,6,6.19,6.12,6.76,5.89
 Production Reed,6,5,6.04,5.84,7.26,5.43
-Oddjob,6,1,5.63,5.63,5.63,5.63
-Tomovies,6,4,6.19,6.38,6.44,5.53
-Studio PuYUKAI,6,6,7.03,7.28,7.67,6.1
+Studio PuYUKAI,6,6,7.03,7.28,7.66,6.1
 Studio Palette,6,6,6.48,6.61,7.32,5.75
-DRAWIZ,6,6,5.67,5.98,6.21,3.81
 Saetta,6,6,6.05,6.28,6.38,5.17
 Arvo Animation,6,6,7.14,7.29,7.36,6.52
-Lapin Track,6,6,7.23,7.4,8.05,5.72
 Garage Film,6,0,,,,
 Quad,6,6,6.2,6.19,7.02,5.04
 Staple Entertainment,6,6,6.41,6.39,6.8,6.07
 Gekkou,6,6,6.41,6.29,7.45,5.81
-TOHO animation STUDIO,6,4,7.98,8.04,8.91,6.92
-Puzzle Animation Studio Limited,5,2,6.54,6.54,6.64,6.44
+TOHO animation STUDIO,6,4,7.97,8.04,8.91,6.91
 Trans Arts,5,4,6.66,6.65,8.29,5.05
-The Answer Studio,5,4,7.24,7.2,7.88,6.67
+WAO World,5,5,6.78,6.84,7.38,6.37
 M.S.C,5,5,6.69,6.67,7.53,5.79
 Hotline,5,5,5.72,5.7,6.16,5.42
 Assez Finaud Fabric,5,5,5.97,6.28,6.48,4.45
-Fantawild Animation,5,2,5.55,5.55,5.69,5.41
+Ascension,5,4,5.89,5.88,6.3,5.51
 CoMix Wave Films,5,5,6.09,5.88,6.94,5.67
-A-Real,5,5,5.79,5.74,6.76,4.65
-CCTV Animation Group,5,0,,,,
+PRA,5,5,6.42,6.67,7.2,5.13
 Nut,5,5,7.0,7.35,7.96,6.16
 W-Toon Studio,5,5,6.16,6.05,6.97,5.4
 DMM.futureworks,5,5,6.16,6.05,6.97,5.4
 Studio Flad,5,5,6.88,6.92,7.13,6.5
-Toho Interactive Animation,5,4,5.3,5.75,5.91,3.81
-domerica,5,5,6.55,6.3,7.26,6.1
-yell,5,5,5.54,5.82,6.18,4.62
-studio MOTHER,5,5,7.4,7.45,7.67,7.14
+domerica,5,5,6.55,6.3,7.25,6.1
+studio MOTHER,5,5,7.4,7.44,7.67,7.14
 Cloud Hearts,5,5,6.43,6.46,7.11,5.57
-Picture Magic,4,4,6.48,6.2,7.45,6.08
-Daewon Media,4,3,6.32,6.07,6.91,5.98
-Digital Media Lab,4,1,5.94,5.94,5.94,5.94
 Daume,4,4,7.27,7.36,7.71,6.66
-Durufix,4,1,5.99,5.99,5.99,5.99
 Ashi Productions,4,4,6.77,6.87,7.39,5.95
 Sparkly Key Animation Studio,4,4,6.71,6.75,7.05,6.3
-Kate Arrow,4,4,5.57,5.54,5.76,5.44
+The Answer Studio,4,4,7.24,7.2,7.88,6.67
 Marvy Jack,4,4,6.46,6.16,8.3,5.23
 DAX Production,4,4,6.55,6.54,7.18,5.97
 AIC Build,4,4,7.07,7.04,7.26,6.92
-WAO World,4,4,6.86,6.84,7.38,6.37
 Ordet,4,4,7.11,7.12,7.4,6.79
-DandeLion Animation Studio,4,4,6.21,6.38,6.52,5.55
-Rising Force,4,2,5.48,5.48,5.58,5.39
-Usagi Ou,4,0,,,,
-Studio 4°C,4,1,7.9,7.9,7.9,7.9
+LandQ studios,4,4,6.29,6.08,7.36,5.63
+A-Real,4,4,5.8,5.9,6.76,4.65
+SAMG Entertainment,4,4,6.12,6.1,6.36,5.9
 Haoliners Animation League,4,4,6.47,6.3,7.49,5.78
-ANYZAC,4,0,,,,
 EKACHI EPILKA,4,4,5.8,5.83,6.55,4.99
+DRAWIZ,4,4,5.56,6.11,6.21,3.81
 Children's Playground Entertainment,4,4,6.46,6.75,6.91,5.43
 Space Neko Company,4,4,6.66,6.69,7.53,5.74
 Wolfsbane,4,4,5.91,5.74,6.92,5.23
 Studio Elle,4,4,5.51,5.69,6.85,3.82
 Sunrise Beyond,4,4,6.58,6.42,7.43,6.05
-Akatsuki,4,4,5.76,5.71,6.16,5.45
 Jumondou,4,4,6.64,6.55,7.13,6.34
 Liber,4,4,7.46,7.34,8.51,6.66
+Picture Magic,3,3,6.61,6.28,7.45,6.11
 Radix,3,3,6.53,6.49,6.62,6.49
-Ginga Ya,3,3,6.51,6.78,6.88,5.87
-No Side,3,2,5.84,5.84,5.85,5.84
 Bee Media,3,3,6.85,6.71,7.64,6.19
+Robot Communications,3,3,5.81,5.88,6.05,5.5
 BeSTACK,3,3,6.95,7.03,7.16,6.66
-Spooky graphic,3,1,6.25,6.25,6.25,6.25
-Olive Studio,3,0,,,,
 NHK Enterprises,3,2,6.28,6.28,6.59,5.97
-Pollyanna Graphics,3,2,5.7,5.7,5.98,5.41
-Egg,3,0,,,,
-Milky Cartoon,3,1,5.99,5.99,5.99,5.99
+OLM Digital,3,3,6.01,6.14,6.37,5.53
+Kate Arrow,3,3,5.55,5.45,5.76,5.44
 Charaction,3,3,5.89,5.86,6.07,5.73
 Animation Do,3,3,7.51,7.6,7.61,7.32
 Opera House,3,1,5.48,5.48,5.48,5.48
 Cyclone Graphics,3,3,6.18,6.29,6.3,5.95
 MMDGP,3,0,,,,
-Taomee,3,0,,,,
+Oddjob,3,1,5.63,5.63,5.63,5.63
+Kyotoma,3,3,4.58,4.62,4.71,4.4
+Joker Films,3,3,6.2,6.2,6.24,6.17
+Husio Studio,3,3,5.95,5.96,6.14,5.75
+GEMBA,3,3,6.58,6.57,6.84,6.34
+Studio 4°C,3,1,7.9,7.9,7.9,7.9
 Imagineer,3,3,6.92,7.47,7.72,5.57
+DandeLion Animation Studio,3,3,6.43,6.43,6.52,6.33
 Kamikaze Douga,3,3,7.09,7.29,7.53,6.45
 Studio Lings,3,3,6.52,6.68,7.26,5.62
 Studio Crocodile,3,3,6.21,6.24,6.38,6
 Ezόla,3,3,6.96,6.75,7.55,6.59
-Comma Studio,3,0,,,,
 Fukushima Gaina,3,3,5.45,5.36,5.84,5.15
 Silver,3,3,7.16,7.26,7.33,6.89
 Revoroot,3,3,6.65,6.73,6.89,6.33
@@ -238,83 +217,77 @@ HORNETS,3,3,7.49,7.53,7.81,7.14
 Studio CANDY BOX,3,3,6.78,7,7.02,6.32
 Super Normal Studio,3,2,4.8,4.8,5.08,4.52
 Bakken Record,3,3,6.57,6.52,7.08,6.12
-Brick Studio,3,0,,,,
+Akatsuki,3,3,5.86,5.72,6.16,5.7
+yell,3,3,5.32,5.17,6.18,4.62
 Atelier Pontdarc,3,3,7.5,7.48,7.76,7.25
 CANON RECORDINGS,3,0,,,,
-Fugaku,3,2,6.39,6.39,7.09,5.7
 Tsumugi Akita Animation Lab,3,3,7.13,7.42,7.65,6.32
-ILCASHIPS,3,2,5.95,5.95,6.03,5.87
 East Fish Studio,3,3,6.57,6.6,6.76,6.35
 Hayabusa Film,3,3,6.39,6.56,6.98,5.62
 Bones Film,3,3,8.15,8.06,8.79,7.6
 Makaria,3,3,6.95,6.92,7.1,6.84
 Trinet Entertainment,2,2,6.31,6.31,6.52,6.11
+Ginga Ya,2,2,6.83,6.83,6.88,6.78
 Remic,2,2,6.84,6.84,6.94,6.74
 G&G Entertainment,2,2,6.58,6.58,7.09,6.08
-ACC Production,2,1,5.43,5.43,5.43,5.43
-Three-d,2,0,,,,
+Daewon Media,2,2,6.49,6.49,6.91,6.07
 Palm Studio,2,2,6.58,6.58,7.31,5.85
 Studio Fantasia,2,2,6.55,6.55,7,6.11
 XEBEC M2,2,2,6.76,6.76,6.81,6.71
 Studio Barcelona,2,2,6.83,6.83,6.98,6.68
-Studio Animal,2,1,6.3,6.3,6.3,6.3
-Studio Vandal,2,0,,,,
+Puzzle Animation Studio Limited,2,2,6.54,6.54,6.64,6.44
 AIC Classic,2,2,7.42,7.42,7.68,7.15
 TUBA,2,2,6.47,6.47,6.77,6.18
-Atoonz,2,1,6.18,6.18,6.18,6.18
 LMD,2,2,6.05,6.05,6.12,5.99
 Tomason,2,2,6.37,6.37,6.92,5.81
 lxtl,2,2,6.91,6.91,7.08,6.73
 AIC Frontier,2,2,5.29,5.29,5.32,5.26
 Larx Entertainment,2,2,5.88,5.88,6.48,5.29
-Steve N' Steven,2,0,,,,
+Eiken,2,1,6.43,6.43,6.43,6.43
 I.Gzwei,2,2,7.48,7.48,7.6,7.37
-Kyotoma,2,2,4.67,4.67,4.71,4.62
+Rising Force,2,2,5.49,5.49,5.58,5.4
+Pollyanna Graphics,2,1,5.98,5.98,5.98,5.98
 KOO-KI,2,1,4.66,4.66,4.66,4.66
 DR Movie,2,2,6.27,6.27,6.53,6
+Egg Firm,2,2,8.41,8.41,8.41,8.41
+Bouncy,2,2,4.78,4.78,5.66,3.9
+Studio BAZOOKA,2,2,6.57,6.57,6.84,6.3
 Tengu Kobo,2,2,4.87,4.87,4.93,4.81
 Marza Animation Planet,2,2,6.65,6.65,6.84,6.47
 Sotsu,2,2,6.25,6.25,6.57,5.93
 Qianqi Animation,2,2,6.02,6.02,6.04,5.99
-10Gauge,2,0,,,,
-GEMBA,2,2,6.71,6.71,6.84,6.57
-Husio Studio,2,2,5.86,5.86,5.96,5.75
-Joker Films,2,2,6.21,6.21,6.24,6.17
 drop,2,2,4.83,4.83,5.4,4.25
-Dazzling Star,2,0,,,,
 Tear Studio,2,2,5.92,5.92,6.49,5.35
 P.I.C.S.,2,2,7.31,7.31,8.63,5.98
 Jumonji,2,2,5.92,5.92,6.43,5.4
-Craftar Studios,2,1,6.27,6.27,6.27,6.27
 Acca effe,2,2,6.56,6.56,6.63,6.49
 Giga Production,2,2,6.56,6.56,6.63,6.49
 I & A,2,2,5.67,5.67,6.04,5.31
-Nihon Ad Systems,2,2,6.56,6.56,6.67,6.45
+Nihon Ad Systems,2,2,6.55,6.55,6.67,6.44
 l-a-unch・BOX,2,2,5.07,5.07,6.32,3.82
+Toho Interactive Animation,2,2,4.74,4.74,5.67,3.81
 Vega Entertainment,2,2,6.54,6.54,6.75,6.33
-Flagship Line,2,2,6.19,6.19,6.52,5.86
+Flagship Line,2,2,6.18,6.18,6.52,5.85
 Indivision,2,2,5.14,5.14,5.3,4.99
 AQUA ARIS,2,2,5.7,5.7,5.98,5.42
 Scooter Films,2,2,5.69,5.69,6.08,5.29
 Studio Kafka,2,2,7.83,7.83,7.91,7.76
 CompTown,2,2,7.14,7.14,7.69,6.59
 Unend,2,2,6.01,6.01,6.2,5.82
+Fugaku,2,2,6.39,6.39,7.09,5.7
 Khara,2,2,6.67,6.67,7,6.33
-Million Volt,2,0,,,,
 E&H Production,2,2,6.98,6.98,7.39,6.57
-Studio Massket,2,2,7.79,7.79,8,7.57
+Studio Massket,2,2,7.78,7.78,7.99,7.57
 Studio Polon,2,2,6.44,6.44,6.74,6.13
 BloomZ,2,2,5.37,5.37,5.51,5.23
-Creative House Pocket,2,0,,,,
 100studio,2,2,6.53,6.53,6.53,6.52
 Elias,2,2,5.56,5.56,5.6,5.52
 Pierrot Films,2,2,7.42,7.42,8.67,6.16
 TriF Studio,2,2,6.04,6.04,6.79,5.29
-Voil,2,2,6.79,6.79,6.85,6.72
+Voil,2,2,6.79,6.79,6.86,6.72
 Ziine Studio,2,1,5.66,5.66,5.66,5.66
 Studio Kelmadick,1,1,4.49,4.49,4.49,4.49
 Viewworks,1,1,6.52,6.52,6.52,6.52
-Gonzino,1,1,5.87,5.87,5.87,5.87
 Office AO,1,0,,,,
 RAMS,1,1,3.41,3.41,3.41,3.41
 Studio Live,1,1,7.08,7.08,7.08,7.08
@@ -323,6 +296,7 @@ Ishimori Entertainment,1,1,6.2,6.2,6.2,6.2
 APPP,1,1,6.68,6.68,6.68,6.68
 Planet,1,1,6.69,6.69,6.69,6.69
 G&G Direction,1,1,6.08,6.08,6.08,6.08
+ACC Production,1,0,,,,
 Mook DLE,1,1,6.89,6.89,6.89,6.89
 Iyasakadou Film,1,0,,,,
 Minami Machi Bugyousho,1,1,7.85,7.85,7.85,7.85
@@ -335,7 +309,9 @@ Echoes,1,0,,,,
 Zuiyo,1,0,,,,
 Imagin,1,1,8.21,8.21,8.21,8.21
 Anpro,1,1,6.46,6.46,6.46,6.46
-Studio Kikan,1,1,6.16,6.16,6.16,6.16
+Studio Animal,1,1,6.3,6.3,6.3,6.3
+Spooky graphic,1,1,6.25,6.25,6.25,6.25
+No Side,1,1,5.84,5.84,5.84,5.84
 Digital Frontier,1,1,6.67,6.67,6.67,6.67
 Kenji Studio,1,0,,,,
 Code,1,1,7.64,7.64,7.64,7.64
@@ -345,12 +321,13 @@ REALTHING,1,1,7.3,7.3,7.3,7.3
 Stingray,1,1,5.61,5.61,5.61,5.61
 Future Planet,1,1,6.83,6.83,6.83,6.83
 Beijing Huihuang Animation Company,1,1,6.83,6.83,6.83,6.83
+Atoonz,1,1,6.18,6.18,6.18,6.18
+Milky Cartoon,1,1,5.99,5.99,5.99,5.99
 uzupiyo Animation & Digital Works,1,0,,,,
-Rocen,1,1,5.98,5.98,5.98,5.98
 NHK,1,1,6.42,6.42,6.42,6.42
 Sparky Animation,1,1,6.64,6.64,6.64,6.64
+Egg,1,0,,,,
 Kazami Gakuen Koushiki Douga-bu,1,1,6.49,6.49,6.49,6.49
-Eiken,1,0,,,,
 Barnum Studio,1,1,7.0,7,7,7
 happyproject,1,1,5.46,5.46,5.46,5.46
 teamKG,1,1,6.08,6.08,6.08,6.08
@@ -358,62 +335,49 @@ Sprite Animation Studios,1,1,5.53,5.53,5.53,5.53
 Fuji TV,1,1,7.51,7.51,7.51,7.51
 Tri-Slash,1,1,5.57,5.57,5.57,5.57
 Studio Ghibli,1,1,7.06,7.06,7.06,7.06
-Oyster,1,0,,,,
-Studio! Cucuri,1,1,3.34,3.34,3.34,3.34
 Office DCI,1,1,6.65,6.65,6.65,6.65
 Office Nobu,1,1,4.62,4.62,4.62,4.62
 FOREST Hunting One,1,1,5.67,5.67,5.67,5.67
-Central Animation Studio,1,0,,,,
+Studio! Cucuri,1,1,4.95,4.95,4.95,4.95
+Namu Animation,1,1,6.82,6.82,6.82,6.82
 Team YokkyuFuman,1,1,6.77,6.77,6.77,6.77
-TOCSIS,1,0,,,,
-CALF,1,0,,,,
 Issen,1,1,7.0,7,7,7
 Studio M2,1,1,7.28,7.28,7.28,7.28
 Ripromo,1,1,5.84,5.84,5.84,5.84
-pH Studio,1,0,,,,
-Liberty Animation Studio,1,0,,,,
+Funny Flux,1,1,5.79,5.79,5.79,5.79
 Maro Studio,1,1,6.75,6.75,6.75,6.75
-Egg Firm,1,1,8.41,8.41,8.41,8.41
 Emon,1,1,6.48,6.48,6.48,6.48
 helo.inc,1,1,6.82,6.82,6.82,6.82
 Strawberry Meets Pictures,1,1,5.83,5.83,5.83,5.83
 production doA,1,1,6.53,6.53,6.53,6.53
 Brio Animation,1,1,2.99,2.99,2.99,2.99
-33 Collective,1,0,,,,
 Studio W.Baba,1,1,5.98,5.98,5.98,5.98
+Iconix Entertainment,1,1,5.87,5.87,5.87,5.87
+Studio Gale,1,1,5.87,5.87,5.87,5.87
 Magia Doraglier,1,1,4.88,4.88,4.88,4.88
-Bouncy,1,1,5.66,5.66,5.66,5.66
+Craftar Studios,1,1,6.27,6.27,6.27,6.27
 MASTER LIGHTS,1,1,5.66,5.66,5.66,5.66
 Animation Planet,1,0,,,,
-Shimogumi,1,0,,,,
 Asmik Ace,1,1,5.11,5.11,5.11,5.11
 Lide,1,1,5.27,5.27,5.27,5.27
 Keyring,1,1,6.66,6.66,6.66,6.66
-2:10 Animation,1,0,,,,
 Sakura Create,1,0,,,,
 G-angle,1,1,5.12,5.12,5.12,5.12
-Monster's Egg,1,1,5.12,5.12,5.12,5.12
 qmotri,1,0,,,,
-Cocktail Media,1,0,,,,
 Anima&Co.,1,1,6.09,6.09,6.09,6.09
 HOTZIPANG,1,1,6.54,6.54,6.54,6.54
 Gainax Kyoto,1,1,6.12,6.12,6.12,6.12
-Planet Nemo Animation,1,1,5.85,5.85,5.85,5.85
 IMAGICA Lab.,1,1,5.87,5.87,5.87,5.87
 Albacrow,1,1,6.32,6.32,6.32,6.32
 Blaze Studio,1,1,6.32,6.32,6.32,6.32
-Dynamo Pictures,1,1,5.53,5.53,5.53,5.53
 Gosay Studio,1,1,6.96,6.96,6.96,6.96
-Directions,1,0,,,,
 Spell Bound,1,1,5.52,5.52,5.52,5.52
 Adonero,1,1,5.55,5.55,5.55,5.55
 Team TillDawn,1,1,7.23,7.23,7.23,7.23
-Sunny Gapen,1,1,5.37,5.37,5.37,5.37
 Visual Flight,1,1,2.87,2.87,2.87,2.87
 FIREBUG,1,0,,,,
-Tecarat,1,0,,,,
 Sola Digital Arts,1,1,6.29,6.29,6.29,6.29
-Gambit,1,1,4.67,4.67,4.67,4.67
+Gambit,1,1,4.66,4.66,4.66,4.66
 Sublimation,1,1,5.83,5.83,5.83,5.83
 Story Effect,1,1,5.57,5.57,5.57,5.57
 OZ,1,1,7.14,7.14,7.14,7.14
@@ -427,9 +391,7 @@ Studio Nanahoshi,1,1,6.63,6.63,6.63,6.63
 Studio HUIT,1,0,,,,
 soket,1,1,6.03,6.03,6.03,6.03
 maroyaka,1,1,6.03,6.03,6.03,6.03
-OSROCTION,1,0,,,,
 BUG FILMS,1,1,7.72,7.72,7.72,7.72
-MontBlanc Pictures,1,1,4.66,4.66,4.66,4.66
 New Deer,1,1,5.87,5.87,5.87,5.87
 Digital Network Animation,1,1,7.15,7.15,7.15,7.15
 evg,1,1,5.66,5.66,5.66,5.66
@@ -437,6 +399,7 @@ Point Pictures,1,1,5.88,5.88,5.88,5.88
 Studio Add,1,1,7.53,7.53,7.53,7.53
 Shogakukan-Shueisha Productions,1,0,,,,
 ROLL2,1,1,6.25,6.25,6.25,6.25
+ILCASHIPS,1,1,6.03,6.03,6.03,6.03
 Studio Outrigger,1,1,6.7,6.7,6.7,6.7
 Ga-Crew,1,1,7.59,7.59,7.59,7.59
 Studio Moe,1,1,6.96,6.96,6.96,6.96
@@ -444,16 +407,15 @@ Live2D Creative Studio,1,1,6.65,6.65,6.65,6.65
 Studio Eight Color,1,1,6.23,6.23,6.23,6.23
 Manga Productions,1,1,6.36,6.36,6.36,6.36
 Saber Works,1,1,5.78,5.78,5.78,5.78
+Million Volt,1,0,,,,
 Teddy,1,1,6.68,6.68,6.68,6.68
 Kachigarasu,1,1,6.52,6.52,6.52,6.52
 Soigne,1,1,7.73,7.73,7.73,7.73
 Reirs,1,1,5.29,5.29,5.29,5.29
 LinQ,1,1,5.29,5.29,5.29,5.29
 Front Wing,1,1,5.54,5.54,5.54,5.54
-Kumarba,1,0,,,,
-FUNNY MOVIE,1,0,,,,
+Kumarba,1,1,6.16,6.16,6.16,6.16
 WonderLand,1,1,7.08,7.08,7.08,7.08
 Studio Clutch,1,1,6.57,6.57,6.57,6.57
-Tsumupapa,1,0,,,,
-studio maf,1,1,5.99,5.99,5.99,5.99
+studio maf,1,1,5.98,5.98,5.98,5.98
 Toon Harbor Works,1,0,,,,

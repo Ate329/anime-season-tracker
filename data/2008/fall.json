@@ -13,11 +13,11 @@
     "background": "Toradora! was selected as a recommended work by the awards jury of the 13th Japan Media Arts Festival in 2009. The light novel was also adapted into a video game for PlayStation Portable, released only in Japan and published by Namco Bandai Games in 2009.",
     "episodes": 25,
     "score": 8.04,
-    "scored_by": 1449664,
+    "scored_by": 1449770,
     "rank": 652,
     "popularity": 26,
-    "members": 2326512,
-    "favorites": 58023,
+    "members": 2326671,
+    "favorites": 58026,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -54,7 +54,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4181,
@@ -68,11 +69,11 @@
     "background": "",
     "episodes": 24,
     "score": 8.93,
-    "scored_by": 690175,
+    "scored_by": 690213,
     "rank": 18,
     "popularity": 122,
-    "members": 1263533,
-    "favorites": 72865,
+    "members": 1263633,
+    "favorites": 72872,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -105,7 +106,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4898,
@@ -122,10 +124,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.65,
-    "scored_by": 639203,
-    "rank": 1499,
+    "scored_by": 639249,
+    "rank": 1500,
     "popularity": 125,
-    "members": 1255331,
+    "members": 1255420,
     "favorites": 23477,
     "type": "TV",
     "status": "Finished Airing",
@@ -169,7 +171,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4654,
@@ -185,10 +188,10 @@
     "background": "Toaru Majutsu no Index is the anime adaptation of a series of light novels created in the year 2004 by Kazuma Kamachi, illustrated by Kiyotaka Haimura, and published by ASCII Media Works. The anime produced by J.C. Staff aired in Japan from October of 2008 to March of 2009 and used the first six light novels as the source material. It was later licensed by Funimation for release in North America and has since produced a second and third season, Toaru Majutsu no Index II and Toaru Majutsu no Index III, as well as an animated movie, Toaru Majutsu no Index: Endymion no Kiseki.",
     "episodes": 24,
     "score": 7.34,
-    "scored_by": 402038,
-    "rank": 2722,
+    "scored_by": 402062,
+    "rank": 2720,
     "popularity": 245,
-    "members": 855783,
+    "members": 855824,
     "favorites": 5712,
     "type": "TV",
     "status": "Finished Airing",
@@ -227,7 +230,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4214,
@@ -244,10 +248,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.88,
-    "scored_by": 264179,
+    "scored_by": 264189,
     "rank": 5093,
     "popularity": 587,
-    "members": 436374,
+    "members": 436396,
     "favorites": 1124,
     "type": "TV",
     "status": "Finished Airing",
@@ -291,7 +295,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4752,
@@ -309,10 +314,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.06,
-    "scored_by": 230184,
-    "rank": 4251,
+    "scored_by": 230190,
+    "rank": 4250,
     "popularity": 695,
-    "members": 381024,
+    "members": 381037,
     "favorites": 2575,
     "type": "TV",
     "status": "Finished Airing",
@@ -351,7 +356,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4975,
@@ -367,10 +373,10 @@
     "background": "ChäoS;HEAd adapts parts of the original visual novel, although it differs significantly from the source material.",
     "episodes": 12,
     "score": 6.28,
-    "scored_by": 156448,
-    "rank": 8679,
+    "scored_by": 156452,
+    "rank": 8681,
     "popularity": 916,
-    "members": 295699,
+    "members": 295712,
     "favorites": 748,
     "type": "TV",
     "status": "Finished Airing",
@@ -407,7 +413,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4722,
@@ -421,10 +428,10 @@
     "background": "Following a successful Kickstarter campaign in 2016, Skip Beat! was released on DVD and Blu-ray by Pied Piper in March 2018. This North American home video release included an all-new English dub.",
     "episodes": 25,
     "score": 8.07,
-    "scored_by": 145955,
+    "scored_by": 145960,
     "rank": 602,
     "popularity": 954,
-    "members": 283337,
+    "members": 283352,
     "favorites": 5318,
     "type": "TV",
     "status": "Finished Airing",
@@ -465,7 +472,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5040,
@@ -482,11 +490,11 @@
     "background": "",
     "episodes": 25,
     "score": 8.32,
-    "scored_by": 121529,
+    "scored_by": 121535,
     "rank": 283,
     "popularity": 1071,
-    "members": 253012,
-    "favorites": 4218,
+    "members": 253027,
+    "favorites": 4217,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -522,7 +530,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4725,
@@ -538,10 +547,10 @@
     "background": "Ga-Rei: Zero is an anime only prequel to the Ga-Rei manga series.",
     "episodes": 12,
     "score": 7.56,
-    "scored_by": 98318,
+    "scored_by": 98321,
     "rank": 1791,
     "popularity": 1080,
-    "members": 250713,
+    "members": 250729,
     "favorites": 2892,
     "type": "TV",
     "status": "Finished Airing",
@@ -583,7 +592,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 5231,
@@ -597,10 +607,10 @@
     "background": "Inazuma Eleven first started out as a sports role-playing game for the Nintendo DS. The series has had numerous sequels since then. The manga was first published in the Shogakukan CoroCoro Comic and the anime series was produced by game developer Level-5 along with TV Tokyo and OLM. The anime aired in numerous countries around Asia and Europe. Aside from the anime, manga and video games, there is also an animated film and guidebooks for the series.",
     "episodes": 127,
     "score": 7.76,
-    "scored_by": 142703,
+    "scored_by": 142722,
     "rank": 1194,
     "popularity": 1164,
-    "members": 234668,
+    "members": 234711,
     "favorites": 4679,
     "type": "TV",
     "status": "Finished Airing",
@@ -633,7 +643,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4087,
@@ -650,10 +661,10 @@
     "background": "",
     "episodes": 22,
     "score": 7.83,
-    "scored_by": 64894,
-    "rank": 1026,
+    "scored_by": 64899,
+    "rank": 1025,
     "popularity": 1251,
-    "members": 217762,
+    "members": 217812,
     "favorites": 2631,
     "type": "TV",
     "status": "Finished Airing",
@@ -687,7 +698,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4814,
@@ -704,10 +716,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.67,
-    "scored_by": 110030,
+    "scored_by": 110034,
     "rank": 1441,
     "popularity": 1436,
-    "members": 186989,
+    "members": 186997,
     "favorites": 967,
     "type": "TV",
     "status": "Finished Airing",
@@ -746,7 +758,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3958,
@@ -760,10 +773,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.26,
-    "scored_by": 70924,
+    "scored_by": 70928,
     "rank": 3146,
     "popularity": 1508,
-    "members": 177457,
+    "members": 177468,
     "favorites": 392,
     "type": "TV",
     "status": "Finished Airing",
@@ -801,7 +814,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4981,
@@ -815,10 +829,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.5,
-    "scored_by": 59164,
+    "scored_by": 59166,
     "rank": 2031,
     "popularity": 1518,
-    "members": 175864,
+    "members": 175880,
     "favorites": 1890,
     "type": "TV",
     "status": "Finished Airing",
@@ -858,7 +872,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4789,
@@ -875,10 +890,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.98,
-    "scored_by": 69408,
+    "scored_by": 69412,
     "rank": 728,
     "popularity": 1574,
-    "members": 169732,
+    "members": 169739,
     "favorites": 1707,
     "type": "TV",
     "status": "Finished Airing",
@@ -911,7 +926,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4548,
@@ -928,10 +944,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.78,
-    "scored_by": 37343,
+    "scored_by": 37347,
     "rank": 5657,
     "popularity": 1599,
-    "members": 166562,
+    "members": 166567,
     "favorites": 284,
     "type": "TV",
     "status": "Finished Airing",
@@ -968,7 +984,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3927,
@@ -986,11 +1003,11 @@
     "background": "",
     "episodes": 25,
     "score": 8.07,
-    "scored_by": 98411,
+    "scored_by": 98413,
     "rank": 600,
     "popularity": 1639,
-    "members": 159584,
-    "favorites": 1414,
+    "members": 159587,
+    "favorites": 1413,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1025,7 +1042,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4744,
@@ -1083,7 +1101,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4551,
@@ -1100,10 +1119,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.19,
-    "scored_by": 57962,
-    "rank": 3562,
+    "scored_by": 57966,
+    "rank": 3563,
     "popularity": 1909,
-    "members": 132425,
+    "members": 132433,
     "favorites": 580,
     "type": "TV",
     "status": "Finished Airing",
@@ -1138,7 +1157,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4581,
@@ -1154,10 +1174,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.17,
-    "scored_by": 46833,
-    "rank": 3681,
+    "scored_by": 46843,
+    "rank": 3680,
     "popularity": 1929,
-    "members": 130089,
+    "members": 130100,
     "favorites": 250,
     "type": "TV",
     "status": "Finished Airing",
@@ -1193,7 +1213,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4477,
@@ -1254,7 +1275,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4884,
@@ -1268,10 +1290,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.26,
-    "scored_by": 51201,
-    "rank": 3168,
+    "scored_by": 51203,
+    "rank": 3167,
     "popularity": 1977,
-    "members": 126397,
+    "members": 126398,
     "favorites": 540,
     "type": "TV",
     "status": "Finished Airing",
@@ -1307,7 +1329,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5262,
@@ -1324,10 +1347,10 @@
     "background": "Shugo Chara!! Doki was released by Pony Canyon in 16 compilation DVDs, each containing three to four episodes, from June 17, 2009, to September 15, 2010. The series was dubbed in Italian by LOGOS srl.",
     "episodes": 51,
     "score": 7.42,
-    "scored_by": 57069,
-    "rank": 2355,
+    "scored_by": 57072,
+    "rank": 2353,
     "popularity": 2205,
-    "members": 108019,
+    "members": 108029,
     "favorites": 588,
     "type": "TV",
     "status": "Finished Airing",
@@ -1361,7 +1384,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3713,
@@ -1378,10 +1402,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.6,
-    "scored_by": 43648,
-    "rank": 1648,
+    "scored_by": 43649,
+    "rank": 1647,
     "popularity": 2214,
-    "members": 107070,
+    "members": 107074,
     "favorites": 284,
     "type": "TV",
     "status": "Finished Airing",
@@ -1417,7 +1441,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5039,
@@ -1434,9 +1459,9 @@
     "episodes": 12,
     "score": 6.85,
     "scored_by": 33435,
-    "rank": 5240,
+    "rank": 5243,
     "popularity": 2306,
-    "members": 101203,
+    "members": 101202,
     "favorites": 337,
     "type": "TV",
     "status": "Finished Airing",
@@ -1477,7 +1502,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4879,
@@ -1493,10 +1519,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.11,
-    "scored_by": 16986,
-    "rank": 4005,
+    "scored_by": 16987,
+    "rank": 4008,
     "popularity": 2979,
-    "members": 66560,
+    "members": 66564,
     "favorites": 264,
     "type": "TV",
     "status": "Finished Airing",
@@ -1533,7 +1559,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4550,
@@ -1547,10 +1574,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.22,
-    "scored_by": 20901,
-    "rank": 3387,
+    "scored_by": 20903,
+    "rank": 3386,
     "popularity": 3625,
-    "members": 46717,
+    "members": 46722,
     "favorites": 112,
     "type": "TV",
     "status": "Finished Airing",
@@ -1585,7 +1612,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3654,
@@ -1640,7 +1668,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3653,
@@ -1654,10 +1683,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.88,
-    "scored_by": 19298,
+    "scored_by": 19299,
     "rank": 5074,
-    "popularity": 3725,
-    "members": 44545,
+    "popularity": 3726,
+    "members": 44547,
     "favorites": 92,
     "type": "TV",
     "status": "Finished Airing",
@@ -1692,7 +1721,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3464,
@@ -1709,10 +1739,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.53,
-    "scored_by": 17851,
-    "rank": 7135,
+    "scored_by": 17854,
+    "rank": 7136,
     "popularity": 3741,
-    "members": 44150,
+    "members": 44158,
     "favorites": 59,
     "type": "TV",
     "status": "Finished Airing",
@@ -1753,7 +1783,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4903,
@@ -1771,10 +1802,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.18,
-    "scored_by": 14652,
-    "rank": 3592,
-    "popularity": 4066,
-    "members": 37569,
+    "scored_by": 14654,
+    "rank": 3593,
+    "popularity": 4067,
+    "members": 37573,
     "favorites": 54,
     "type": "TV",
     "status": "Finished Airing",
@@ -1809,7 +1840,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5005,
@@ -1862,7 +1894,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4066,
@@ -1879,10 +1912,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.79,
-    "scored_by": 7633,
-    "rank": 5569,
+    "scored_by": 7634,
+    "rank": 5567,
     "popularity": 5312,
-    "members": 20544,
+    "members": 20546,
     "favorites": 35,
     "type": "TV",
     "status": "Finished Airing",
@@ -1923,7 +1956,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4549,
@@ -1940,8 +1974,8 @@
     "episodes": 13,
     "score": 7.07,
     "scored_by": 5249,
-    "rank": 4220,
-    "popularity": 6182,
+    "rank": 4219,
+    "popularity": 6183,
     "members": 13740,
     "favorites": 30,
     "type": "TV",
@@ -1976,108 +2010,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 5027,
-    "title": "Stitch!",
-    "title_english": "Stitch!",
-    "title_japanese": "スティッチ！",
-    "title_synonyms": [
-      "Yuna & Stitch"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1603/100542l.jpg",
-    "trailer_url": null,
-    "synopsis": "A spin-off series of Disney's Lilo &amp; Stitch. \n\nIn the new story, the alien creature Stitch is running off on the mad scientist Jumba's space scooter when he gets caught in a space storm and has to make an emergency landing at Izayoi Island, the southermost tip of Japan. There, he meets Yuuna, a spirited fourth-grade girl who happens to know karate. Yuuna tells Stitch about the Stone of Chitama, a mysterious object that can make any wish come true. However, he has to perform 43 good deeds to receive his wish. \n\n(Source: ANN)",
-    "background": "",
-    "episodes": 25,
-    "score": 6.07,
-    "scored_by": 2556,
-    "rank": 9879,
-    "popularity": 8114,
-    "members": 7018,
-    "favorites": 16,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [
-      "Madhouse"
-    ],
-    "producers": [
-      "TV Asahi",
-      "Disney Platform Distribution"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-10-08T00:00:00+00:00",
-    "aired_to": "2009-03-25T00:00:00+00:00",
-    "broadcast": "Wednesdays at 19:26 (JST)",
-    "url": "https://myanimelist.net/anime/5027/Stitch",
-    "year": 2008,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 4908,
-    "title": "Bihada Ichizoku",
-    "title_english": null,
-    "title_japanese": "美肌一族",
-    "title_synonyms": [
-      "Junai Cosmetic Comic: Bihada Ichizoku",
-      "Pure Love Cosmetic Comic: Bihada Family"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/19268l.jpg",
-    "trailer_url": null,
-    "synopsis": "There is a World Beautiful-Skin Competition (WBC) to which the 3 billion women of the world aspire. Carrying on the 300-year legacy of the competition are the twin Bihada sisters, Sara and Saki.",
-    "background": "",
-    "episodes": 12,
-    "score": 5.73,
-    "scored_by": 1598,
-    "rank": 11647,
-    "popularity": 9083,
-    "members": 5317,
-    "favorites": 4,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "8 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Omnibus Japan",
-      "Sony Music Entertainment"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Drama"
-    ],
-    "themes": [
-      "Parody"
-    ],
-    "demographics": [],
-    "aired_from": "2008-10-07T00:00:00+00:00",
-    "aired_to": "2008-12-23T00:00:00+00:00",
-    "broadcast": "Tuesdays at 01:30 (JST)",
-    "url": "https://myanimelist.net/anime/4908/Bihada_Ichizoku",
-    "year": 2008,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5397,
@@ -2093,10 +2027,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.04,
-    "scored_by": 2902,
+    "scored_by": 2903,
     "rank": 4335,
-    "popularity": 9401,
-    "members": 4828,
+    "popularity": 9404,
+    "members": 4829,
     "favorites": 4,
     "type": "TV",
     "status": "Finished Airing",
@@ -2125,7 +2059,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5082,
@@ -2177,7 +2112,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5235,
@@ -2192,8 +2128,8 @@
     "episodes": 51,
     "score": 6.26,
     "scored_by": 335,
-    "rank": 8805,
-    "popularity": 13254,
+    "rank": 8804,
+    "popularity": 13256,
     "members": 1523,
     "favorites": 3,
     "type": "TV",
@@ -2225,7 +2161,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4905,
@@ -2240,7 +2177,7 @@
     "episodes": 26,
     "score": 5.29,
     "scored_by": 218,
-    "rank": 13209,
+    "rank": 13210,
     "popularity": 14194,
     "members": 1185,
     "favorites": 3,
@@ -2270,7 +2207,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5234,
@@ -2289,8 +2227,8 @@
     "episodes": 13,
     "score": 5.84,
     "scored_by": 164,
-    "rank": 11112,
-    "popularity": 15247,
+    "rank": 11113,
+    "popularity": 15249,
     "members": 901,
     "favorites": 0,
     "type": "TV",
@@ -2322,7 +2260,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5184,
@@ -2368,7 +2307,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 5089,
@@ -2383,8 +2323,8 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 19157,
-    "popularity": 17151,
+    "rank": 19158,
+    "popularity": 17155,
     "members": 574,
     "favorites": 0,
     "type": "TV",
@@ -2411,200 +2351,8 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 19501,
-    "title": "Giga Tribe",
-    "title_english": null,
-    "title_japanese": "기가 트라이브",
-    "title_synonyms": [
-      "Giga Trive",
-      "Tribe GB"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/12/52321l.jpg",
-    "trailer_url": null,
-    "synopsis": "Gang Tu-Ji is just a normal passionate and determined (pun intended) 13 year old boy trying to woo the prettiest girl in school. That is until 4 mysterious creatures crash through his roof one day. Tu-Ji ends up reluctantly helping them out by transforming into Tribe Captain via the Giga Stone's power they brought. And the creatures themselves are able to morph into fully humanoid super sentai-like warriors! Together they fight against friends and strangers who have been possessed by the evil Bavaria in a catch-phrase sitcom manner.",
-    "background": "",
-    "episodes": 39,
-    "score": null,
-    "scored_by": null,
-    "rank": 21556,
-    "popularity": 17489,
-    "members": 540,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "20 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "Studio Kaab"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Parody",
-      "Super Power"
-    ],
-    "demographics": [],
-    "aired_from": "2008-10-08T00:00:00+00:00",
-    "aired_to": "2009-02-04T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/19501/Giga_Tribe",
-    "year": 2008,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 32842,
-    "title": "Panpaka Pants",
-    "title_english": "Panpaka Pantsu",
-    "title_japanese": "パンパカパンツ",
-    "title_synonyms": [
-      "Panpaka Panties",
-      "Panpaka Underwear"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/13/84744l.jpg",
-    "trailer_url": null,
-    "synopsis": "A series of shorts about pigs who wear underpants.",
-    "background": "",
-    "episodes": 27,
-    "score": null,
-    "scored_by": null,
-    "rank": 19391,
-    "popularity": 17521,
-    "members": 536,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 sec per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "DLE"
-    ],
-    "producers": [
-      "Shizuoka Broadcasting System"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-10-01T00:00:00+00:00",
-    "aired_to": "2015-10-22T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/32842/Panpaka_Pants",
-    "year": 2008,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 34363,
-    "title": "Ocha-ken: Ryokutto Monogatari",
-    "title_english": null,
-    "title_japanese": "お茶犬 ~緑[リョク]っとものがたり~",
-    "title_synonyms": [
-      "Tea-dog",
-      "Tea Dogs"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/4/82788l.jpg",
-    "trailer_url": null,
-    "synopsis": "The third Ocha-ken series, this season focuses on environmental friendly themes.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19204,
-    "popularity": 18356,
-    "members": 463,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Four Some"
-    ],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-11-22T00:00:00+00:00",
-    "aired_to": "2009-02-21T00:00:00+00:00",
-    "broadcast": "Saturdays at 10:25 (JST)",
-    "url": "https://myanimelist.net/anime/34363/Ocha-ken__Ryokutto_Monogatari",
-    "year": 2008,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 43982,
-    "title": "Xi Yangyang Yu Hui Tailang: Yangyang Yundonghui",
-    "title_english": "Pleasant Goat Sports Game",
-    "title_japanese": "喜羊羊與灰太狼之羊羊運動會",
-    "title_synonyms": [
-      "Pleasant Goat and Big Big Wolf 2nd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1261/115268l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16271,
-    "popularity": 21393,
-    "members": 265,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sports"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-10-23T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/43982/Xi_Yangyang_Yu_Hui_Tailang__Yangyang_Yundonghui",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59358,
@@ -2621,8 +2369,8 @@
     "episodes": 23,
     "score": null,
     "scored_by": null,
-    "rank": 19066,
-    "popularity": 25716,
+    "rank": 19068,
+    "popularity": 25703,
     "members": 114,
     "favorites": 0,
     "type": "TV",
@@ -2649,214 +2397,7 @@
     "year": 2008,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45469,
-    "title": "Shikong Shaonian",
-    "title_english": null,
-    "title_japanese": "时空少年",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1009/129049l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 14998,
-    "popularity": 27688,
-    "members": 86,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2008-11-12T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45469/Shikong_Shaonian",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45973,
-    "title": "Lu Dang Jin Jian",
-    "title_english": "In Reed's Gold Arrow",
-    "title_japanese": "芦荡金箭",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1100/122741l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 30,
-    "score": null,
-    "scored_by": null,
-    "rank": 18311,
-    "popularity": 27777,
-    "members": 86,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Novel",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [],
-    "aired_from": "2008-12-01T00:00:00+00:00",
-    "aired_to": "2009-01-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45973/Lu_Dang_Jin_Jian",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45906,
-    "title": "Kuaile Jingling",
-    "title_english": null,
-    "title_japanese": "快乐精灵",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1782/127294l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18037,
-    "popularity": 27957,
-    "members": 84,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-11-10T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45906/Kuaile_Jingling",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46183,
-    "title": "Women Xiaohai You Liliang",
-    "title_english": null,
-    "title_japanese": "我们小孩有力量",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1789/128904l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16171,
-    "popularity": 28280,
-    "members": 81,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-12-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46183/Women_Xiaohai_You_Liliang",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45727,
-    "title": "Yuhang Shu",
-    "title_english": null,
-    "title_japanese": "宇航鼠",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1552/129950l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16989,
-    "popularity": 28790,
-    "members": 75,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2008-10-28T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45727/Yuhang_Shu",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

@@ -13,12 +13,12 @@
     "synopsis": "Third season of One Punch Man.",
     "background": "",
     "episodes": null,
-    "score": 5.47,
-    "scored_by": 26416,
-    "rank": 12677,
-    "popularity": 688,
-    "members": 383518,
-    "favorites": 7217,
+    "score": 5.41,
+    "scored_by": 27048,
+    "rank": 12874,
+    "popularity": 687,
+    "members": 384007,
+    "favorites": 7224,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -61,7 +61,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59027,
@@ -119,7 +120,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60098,
@@ -179,7 +181,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54703,
@@ -192,12 +195,12 @@
     "synopsis": "Third season of Fumetsu no Anata e.",
     "background": "",
     "episodes": 22,
-    "score": 8,
-    "scored_by": 7461,
-    "rank": 708,
-    "popularity": 2017,
-    "members": 122870,
-    "favorites": 442,
+    "score": 7.99,
+    "scored_by": 7545,
+    "rank": 719,
+    "popularity": 2013,
+    "members": 123091,
+    "favorites": 444,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -231,7 +234,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59846,
@@ -289,7 +293,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61026,
@@ -304,12 +309,12 @@
     "synopsis": "Oda Akira is the kind of guy who people forget is even there. His unassuming nature pays off, though, when his entire class is swept away to a fantasy world, and he slips easily into his new role as a silent assassin. Between his suspiciously high starting stats and too many details that don't fit, Akira is sure something is wrong. But digging into royal secrets is a dangerous game, and when Akira uncovers an evil scheme, he also makes a powerful enemy—the very king who brought him to this world! With the help of the elven spirit medium Amelia, can he find the power to set things right, and get his revenge?\n\n(Source: Seven Seas Entertainment)",
     "background": "",
     "episodes": 12,
-    "score": 7.08,
-    "scored_by": 13943,
-    "rank": 4139,
-    "popularity": 2394,
-    "members": 95171,
-    "favorites": 293,
+    "score": 7.07,
+    "scored_by": 14320,
+    "rank": 4201,
+    "popularity": 2385,
+    "members": 96093,
+    "favorites": 301,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -350,7 +355,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47158,
@@ -367,10 +373,10 @@
     "background": "Tomodachi no Imouto ga Ore ni dake Uzai aired on TV Asahi's NUMAnimation block.",
     "episodes": 12,
     "score": 6.45,
-    "scored_by": 6556,
+    "scored_by": 6623,
     "rank": 7658,
-    "popularity": 2567,
-    "members": 85427,
+    "popularity": 2560,
+    "members": 85711,
     "favorites": 378,
     "type": "TV",
     "status": "Currently Airing",
@@ -410,7 +416,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57025,
@@ -463,7 +470,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59267,
@@ -477,11 +485,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.46,
-    "scored_by": 7526,
+    "scored_by": 7614,
     "rank": 2184,
-    "popularity": 2982,
-    "members": 66490,
-    "favorites": 167,
+    "popularity": 2961,
+    "members": 67172,
+    "favorites": 170,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -516,7 +524,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 59644,
@@ -572,7 +581,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60564,
@@ -588,10 +598,10 @@
     "background": "",
     "episodes": null,
     "score": 8.02,
-    "scored_by": 6679,
+    "scored_by": 6746,
     "rank": 668,
-    "popularity": 3267,
-    "members": 55882,
+    "popularity": 3260,
+    "members": 56080,
     "favorites": 175,
     "type": "TV",
     "status": "Currently Airing",
@@ -632,7 +642,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61917,
@@ -647,12 +658,12 @@
     "synopsis": "After waking from a long cryogenic sleep, high school student Akira Himegami finds himself in a world he no longer recognizes. The city lies in ruins from war, society is now governed by an organization called OWEL, and traditional marriage has been replaced by a new system known as \"Elsie.\"\n\nAs Akira struggles to comprehend this drastically changed future, a familiar figure appears before him—Yuugure, who bears a strong resemblance to his girlfriend Towasa. To his shock, Yuugure smiles gently and proposes: \"Akira... please marry me.\"\n\nConfused by her sudden proposal, Akira agrees to travel with Yuugure, holding onto hope that somewhere in this world, the real Towasa is still alive.\n\nAlong their journey, they encounter the evolving forms of love in this new era and reflect on what their bond truly means.\n\n(Source: MAL News)",
     "background": "Towa no Yuugure aired on MBS and TBS' Super Animeism Turbo block.",
     "episodes": 12,
-    "score": 6.87,
-    "scored_by": 6350,
-    "rank": 5172,
-    "popularity": 3264,
-    "members": 55869,
-    "favorites": 127,
+    "score": 6.86,
+    "scored_by": 6392,
+    "rank": 5170,
+    "popularity": 3259,
+    "members": 56067,
+    "favorites": 128,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -687,7 +698,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60303,
@@ -704,10 +716,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.57,
-    "scored_by": 8250,
-    "rank": 6906,
-    "popularity": 3302,
-    "members": 54842,
+    "scored_by": 8348,
+    "rank": 6904,
+    "popularity": 3291,
+    "members": 55126,
     "favorites": 163,
     "type": "TV",
     "status": "Currently Airing",
@@ -745,7 +757,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60168,
@@ -808,7 +821,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56854,
@@ -869,7 +883,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60619,
@@ -885,10 +900,10 @@
     "background": "Each episode was streamed two days in advance of the TV broadcast starting on October 4, 2025, on ABEMA and d-anime Store. Regular broadcasting began on October 6, 2025.",
     "episodes": 11,
     "score": 7.38,
-    "scored_by": 5306,
+    "scored_by": 5357,
     "rank": 2550,
-    "popularity": 3496,
-    "members": 49518,
+    "popularity": 3495,
+    "members": 49674,
     "favorites": 127,
     "type": "TV",
     "status": "Currently Airing",
@@ -923,7 +938,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59517,
@@ -988,7 +1004,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60531,
@@ -1004,10 +1021,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.85,
-    "scored_by": 5443,
-    "rank": 5274,
-    "popularity": 3594,
-    "members": 47356,
+    "scored_by": 5480,
+    "rank": 5276,
+    "popularity": 3589,
+    "members": 47513,
     "favorites": 138,
     "type": "TV",
     "status": "Currently Airing",
@@ -1050,7 +1067,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60162,
@@ -1064,11 +1082,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.21,
-    "scored_by": 5440,
-    "rank": 3441,
-    "popularity": 3850,
-    "members": 42110,
-    "favorites": 116,
+    "scored_by": 5489,
+    "rank": 3440,
+    "popularity": 3838,
+    "members": 42276,
+    "favorites": 118,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1104,7 +1122,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61276,
@@ -1123,11 +1142,11 @@
     "background": "Mikata ga Yowasugite Hojo Mahou ni Tesshiteita Kyuutei Mahoushi, Tsuihou sarete Saikyou wo Mezasu aired on TV Asahi's IMAnimation block.",
     "episodes": 12,
     "score": 6.28,
-    "scored_by": 5570,
-    "rank": 8648,
-    "popularity": 3880,
-    "members": 41436,
-    "favorites": 61,
+    "scored_by": 5650,
+    "rank": 8649,
+    "popularity": 3868,
+    "members": 41663,
+    "favorites": 62,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1161,7 +1180,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60254,
@@ -1176,11 +1196,11 @@
     "synopsis": "Always reliable and kind-hearted, Kiyoko Yoshida is named the president of Class 2-1. On the first day of school, a boy named Tsuyoshi Yano arrives late, covered in injuries. Due to her caring nature, in addition to Yano being seated right next to her, Kiyoko cannot help but worry about him and how he got those injuries to begin with. After cautiously following him home one day, she learns the truth—he is just extremely clumsy.\n\nKiyoko soon finds herself constantly worrying about Yano, both at school and at home, not realizing that she is falling in love with him. Armed with a first aid kit, Kiyoko makes it her mission to care for Yano's mishap-related injuries as a romance between the two begins to blossom.\n\n[Written by MAL Rewrite]",
     "background": "",
     "episodes": 12,
-    "score": 7.2,
-    "scored_by": 4878,
-    "rank": 3518,
-    "popularity": 3920,
-    "members": 40551,
+    "score": 7.19,
+    "scored_by": 4917,
+    "rank": 3538,
+    "popularity": 3913,
+    "members": 40759,
     "favorites": 75,
     "type": "TV",
     "status": "Currently Airing",
@@ -1222,7 +1242,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61174,
@@ -1237,11 +1258,11 @@
     "synopsis": "Takeru Kamishiro is a normal guy with an ordinary office job but finds himself summoned to another world. Takeru starts his new life in \"Madeus,\" a world with swords and magic, fully equipped with multiple skills! Not only does he have enhanced physical and amazing magic abilities, but also the power to \"search\" for valuable items. With the cheat skills he's been provided, Takeru starts his new adventure in the new isekai!!\n\n(Source: Alpha Manga)",
     "background": "Each episode was streamed one week in advance of the TV broadcast starting on September 30, 2025, on U-NEXT. Regular broadcasting began on October 7, 2025.",
     "episodes": 12,
-    "score": 6.01,
-    "scored_by": 6064,
-    "rank": 10212,
-    "popularity": 3954,
-    "members": 39721,
+    "score": 6,
+    "scored_by": 6154,
+    "rank": 10264,
+    "popularity": 3942,
+    "members": 39926,
     "favorites": 79,
     "type": "TV",
     "status": "Currently Airing",
@@ -1279,7 +1300,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54757,
@@ -1294,12 +1316,12 @@
     "synopsis": "The spin-off anime to Gintama follows Ginpachi Sakata as a teacher in Gintama High School.",
     "background": "",
     "episodes": 12,
-    "score": 8.19,
-    "scored_by": 3837,
+    "score": 8.18,
+    "scored_by": 3864,
     "rank": 434,
-    "popularity": 4009,
-    "members": 38708,
-    "favorites": 221,
+    "popularity": 4004,
+    "members": 38777,
+    "favorites": 222,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1336,7 +1358,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57888,
@@ -1353,11 +1376,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.8,
-    "scored_by": 4762,
-    "rank": 5509,
-    "popularity": 4119,
-    "members": 36454,
-    "favorites": 73,
+    "scored_by": 4824,
+    "rank": 5507,
+    "popularity": 4109,
+    "members": 36708,
+    "favorites": 76,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1392,57 +1415,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61851,
-    "title": "Isekai Quartet 3",
-    "title_english": "Isekai Quartet3",
-    "title_japanese": "異世界かるてっと3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1044/152103l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/EWVNFG-wPMw?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Third season of Isekai Quartet.",
-    "background": "",
-    "episodes": 11,
-    "score": 7.67,
-    "scored_by": 3375,
-    "rank": 1440,
-    "popularity": 4240,
-    "members": 34534,
-    "favorites": 73,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "Studio PuYUKAI"
-    ],
-    "producers": [
-      "Magic Capsule",
-      "Kadokawa"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [
-      "Isekai",
-      "Parody"
-    ],
-    "demographics": [],
-    "aired_from": "2025-10-13T00:00:00+00:00",
-    "aired_to": "2025-12-22T00:00:00+00:00",
-    "broadcast": "Mondays at 22:30 (JST)",
-    "url": "https://myanimelist.net/anime/61851/Isekai_Quartet_3",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61159,
@@ -1458,10 +1432,10 @@
     "background": "",
     "episodes": null,
     "score": 7.68,
-    "scored_by": 5071,
+    "scored_by": 5130,
     "rank": 1421,
-    "popularity": 4240,
-    "members": 34528,
+    "popularity": 4216,
+    "members": 34941,
     "favorites": 88,
     "type": "TV",
     "status": "Currently Airing",
@@ -1499,7 +1473,59 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
+  },
+  {
+    "mal_id": 61851,
+    "title": "Isekai Quartet 3",
+    "title_english": "Isekai Quartet3",
+    "title_japanese": "異世界かるてっと3",
+    "title_synonyms": [],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1044/152103l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/EWVNFG-wPMw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "Third season of Isekai Quartet.",
+    "background": "",
+    "episodes": 11,
+    "score": 7.66,
+    "scored_by": 3447,
+    "rank": 1451,
+    "popularity": 4232,
+    "members": 34683,
+    "favorites": 74,
+    "type": "TV",
+    "status": "Currently Airing",
+    "airing": true,
+    "approved": true,
+    "duration": "12 min per ep",
+    "rating": "PG-13 - Teens 13 or older",
+    "source": "Original",
+    "studios": [
+      "Studio PuYUKAI"
+    ],
+    "producers": [
+      "Magic Capsule",
+      "Kadokawa"
+    ],
+    "licensors": [],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Isekai",
+      "Parody"
+    ],
+    "demographics": [],
+    "aired_from": "2025-10-13T00:00:00+00:00",
+    "aired_to": "2025-12-22T00:00:00+00:00",
+    "broadcast": "Mondays at 22:30 (JST)",
+    "url": "https://myanimelist.net/anime/61851/Isekai_Quartet_3",
+    "year": 2025,
+    "season": "fall",
+    "is_hentai": false,
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58515,
@@ -1561,7 +1587,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 61209,
@@ -1577,10 +1604,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.74,
-    "scored_by": 3601,
+    "scored_by": 3619,
     "rank": 5863,
-    "popularity": 4365,
-    "members": 32322,
+    "popularity": 4360,
+    "members": 32463,
     "favorites": 104,
     "type": "TV",
     "status": "Currently Airing",
@@ -1619,7 +1646,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61930,
@@ -1632,12 +1660,12 @@
     "synopsis": "Ever since horse girl Oguri Cap left the small town of Kasamatsu to chase greater heights in Tokyo, she has rapidly gained attention with her remarkable results. Her goal to become the best horse girl in Japan seems within reach, but there is a rival in her way—another running prodigy named Tamamo Cross.\n\nHowever, Tamamo is not the only threat to Oguri: several world-class racers from overseas are joining the Japan Cup, pushing the renowned race's competition to unprecedented levels. With the support from the people close to her and her intense desire to win, Oguri will do anything to conquer the Japan Cup and continue sprinting for the top.\n\n[Written by MAL Rewrite]",
     "background": "",
     "episodes": 10,
-    "score": 8.47,
-    "scored_by": 4074,
-    "rank": 167,
-    "popularity": 4445,
-    "members": 31041,
-    "favorites": 120,
+    "score": 8.48,
+    "scored_by": 4122,
+    "rank": 160,
+    "popularity": 4429,
+    "members": 31233,
+    "favorites": 122,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1674,7 +1702,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59484,
@@ -1688,11 +1717,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.66,
-    "scored_by": 3712,
-    "rank": 6353,
-    "popularity": 4521,
-    "members": 30000,
-    "favorites": 57,
+    "scored_by": 3736,
+    "rank": 6354,
+    "popularity": 4516,
+    "members": 30100,
+    "favorites": 58,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1731,7 +1760,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59623,
@@ -1747,10 +1777,10 @@
     "background": "Wandance aired on TV Asahi's IMAnimation W block.",
     "episodes": 12,
     "score": 6.3,
-    "scored_by": 2732,
-    "rank": 8563,
-    "popularity": 4653,
-    "members": 28132,
+    "scored_by": 2755,
+    "rank": 8564,
+    "popularity": 4640,
+    "members": 28293,
     "favorites": 84,
     "type": "TV",
     "status": "Currently Airing",
@@ -1788,7 +1818,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60969,
@@ -1803,12 +1834,12 @@
     "synopsis": "Sae and Koki have been friends since childhood. One fateful day at the end of middle school, she has a revelation: Koki has grown up! Now they're in high school, and she has another revelation: she has feelings for Koki! But Sae isn't the only girl who does... The question is, who does Koki have feelings for?!\n\n(Source: VIZ Media)",
     "background": "",
     "episodes": 12,
-    "score": 7.08,
-    "scored_by": 3012,
-    "rank": 4188,
-    "popularity": 4660,
-    "members": 28035,
-    "favorites": 83,
+    "score": 7.09,
+    "scored_by": 3034,
+    "rank": 4107,
+    "popularity": 4653,
+    "members": 28131,
+    "favorites": 84,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1846,7 +1877,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61142,
@@ -1862,11 +1894,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.26,
-    "scored_by": 3292,
-    "rank": 8761,
-    "popularity": 4726,
-    "members": 27284,
-    "favorites": 78,
+    "scored_by": 3325,
+    "rank": 8760,
+    "popularity": 4712,
+    "members": 27415,
+    "favorites": 80,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -1899,7 +1931,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58146,
@@ -1962,7 +1995,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60427,
@@ -1975,12 +2009,12 @@
     "synopsis": "Saddled with amnesia, Yuuri awakens on an interstellar cruiser drifting through space. Unfortunately, a lack of memories is the least of Yuuri's problems. Among the four other crew members is a Gnosia: a Gnos infectee whose goal is the eradication of humanity. The Gnosia appears human in all other respects, so the uninfected have little choice but to vote on whom they suspect to be the enemy, hoping to neutralize the Gnosia by putting them into cold sleep. If the Gnosia survives the vote, they will eliminate one crew member during the cruiser's following warp, when only the Gnosia remains conscious.\n\nVoting quickly proves to be an unreliable strategy, and Yuuri is left one-on-one with the Gnosia. Just when all hope seems lost, time seemingly loops back to when Yuuri first awakened. With each time loop, however, conditions aboard the ship change—neither the size of the crew nor the members' identities remain constant. Trapped in both time and space, Yuuri must figure out how to escape the loops and save humanity from the Gnosia.\n\n[Written by MAL Rewrite]",
     "background": "Gnosia adapts the 2019 video game of the same title. The series was released on Blu-ray and DVD in seven volumes from December 24, 2025, to June 24, 2026.",
     "episodes": null,
-    "score": 7.26,
-    "scored_by": 3088,
-    "rank": 3133,
-    "popularity": 4839,
-    "members": 25697,
-    "favorites": 85,
+    "score": 7.25,
+    "scored_by": 3122,
+    "rank": 3210,
+    "popularity": 4827,
+    "members": 25882,
+    "favorites": 86,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2016,7 +2050,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60933,
@@ -2034,11 +2069,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.71,
-    "scored_by": 2715,
-    "rank": 6027,
-    "popularity": 4904,
-    "members": 24854,
-    "favorites": 57,
+    "scored_by": 2756,
+    "rank": 6026,
+    "popularity": 4890,
+    "members": 25033,
+    "favorites": 58,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2083,7 +2118,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58772,
@@ -2099,10 +2135,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.1,
-    "scored_by": 1382,
-    "rank": 4060,
-    "popularity": 4950,
-    "members": 24426,
+    "scored_by": 1394,
+    "rank": 4061,
+    "popularity": 4946,
+    "members": 24476,
     "favorites": 131,
     "type": "TV",
     "status": "Currently Airing",
@@ -2140,7 +2176,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60765,
@@ -2159,11 +2196,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.92,
-    "scored_by": 2617,
-    "rank": 4901,
-    "popularity": 4987,
-    "members": 23765,
-    "favorites": 114,
+    "scored_by": 2647,
+    "rank": 4899,
+    "popularity": 4979,
+    "members": 23907,
+    "favorites": 115,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2198,7 +2235,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61517,
@@ -2212,11 +2250,11 @@
     "background": "",
     "episodes": null,
     "score": 9.02,
-    "scored_by": 3312,
+    "scored_by": 3338,
     "rank": 10,
-    "popularity": 5050,
-    "members": 23206,
-    "favorites": 264,
+    "popularity": 5045,
+    "members": 23319,
+    "favorites": 270,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2251,7 +2289,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61773,
@@ -2265,10 +2304,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.2,
-    "scored_by": 2785,
-    "rank": 9138,
-    "popularity": 5226,
-    "members": 21356,
+    "scored_by": 2804,
+    "rank": 9135,
+    "popularity": 5215,
+    "members": 21449,
     "favorites": 69,
     "type": "TV",
     "status": "Currently Airing",
@@ -2307,7 +2346,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60781,
@@ -2324,10 +2364,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.11,
-    "scored_by": 2747,
-    "rank": 3973,
-    "popularity": 5411,
-    "members": 19514,
+    "scored_by": 2759,
+    "rank": 3974,
+    "popularity": 5406,
+    "members": 19597,
     "favorites": 29,
     "type": "TV",
     "status": "Currently Airing",
@@ -2368,7 +2408,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61269,
@@ -2417,7 +2458,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61072,
@@ -2433,10 +2475,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.82,
-    "scored_by": 2135,
-    "rank": 5420,
-    "popularity": 5603,
-    "members": 17838,
+    "scored_by": 2147,
+    "rank": 5421,
+    "popularity": 5598,
+    "members": 17880,
     "favorites": 34,
     "type": "TV",
     "status": "Currently Airing",
@@ -2475,7 +2517,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57859,
@@ -2491,11 +2534,11 @@
     "synopsis": "New shoujo manga artist Nana Futami works hard every day while being supported by Kaede Satou, her female editor who is older than her, and Mizuki Hazama, her assistant. According to the girl herself, she sometimes drums up intense daydream delusions of occupational illness! A working girls comedy set in the entertainment industry, brought to you by an author who always draws various girls.\n\n(Source: Kodansha, translated)",
     "background": "",
     "episodes": 13,
-    "score": 6.85,
-    "scored_by": 1913,
-    "rank": 5282,
-    "popularity": 5615,
-    "members": 17731,
+    "score": 6.86,
+    "scored_by": 1938,
+    "rank": 5200,
+    "popularity": 5605,
+    "members": 17826,
     "favorites": 33,
     "type": "TV",
     "status": "Currently Airing",
@@ -2536,7 +2579,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56877,
@@ -2589,7 +2633,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60378,
@@ -2602,11 +2647,11 @@
     "synopsis": "It is the Edo period. Ichitarou, the young master of Nagasakiya, one of the largest stores in Nihonbashi, has been in poor health since birth and is unable to go out. However, Ichitarou is always protected by demons such as Shirasawa and Inugami, who serve him. One night, Ichitarou goes out secretly and witnesses a murder. From that day on, bizarre murders begin to occur one after another in Edo... With the help of the demons, Ichitarou's search for the culprit begins!\n\n(Source: Official site, translated)",
     "background": "Shabake aired on Fuji TV's noitaminA block.",
     "episodes": 13,
-    "score": 6.21,
-    "scored_by": 1290,
-    "rank": 9059,
-    "popularity": 6665,
-    "members": 11515,
+    "score": 6.2,
+    "scored_by": 1296,
+    "rank": 9080,
+    "popularity": 6656,
+    "members": 11538,
     "favorites": 21,
     "type": "TV",
     "status": "Currently Airing",
@@ -2644,7 +2689,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57189,
@@ -2658,10 +2704,10 @@
     "background": "",
     "episodes": null,
     "score": 6.24,
-    "scored_by": 1441,
+    "scored_by": 1459,
     "rank": 8886,
-    "popularity": 6748,
-    "members": 11132,
+    "popularity": 6734,
+    "members": 11202,
     "favorites": 36,
     "type": "TV",
     "status": "Currently Airing",
@@ -2707,7 +2753,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61067,
@@ -2720,11 +2767,11 @@
     "synopsis": "Since ancient times, the ninja and the yakuza have been at war, spilling blood around the world as empires rise and fall. So when, in the modern age, Shinoha, a ninja, meets Kiwami, a gangster following the path of the yakuza—the gokudo—and discovers they have common interests, the obvious assumption is that nothing good can come of it. But can it be that one burgeoning bromance will shake up a 300-year grudge?\n\nWho will win the struggle for real ultimate power?\n\n(Source: Kodansha USA)",
     "background": "",
     "episodes": null,
-    "score": 6.21,
-    "scored_by": 1293,
-    "rank": 9054,
-    "popularity": 6804,
-    "members": 10877,
+    "score": 6.2,
+    "scored_by": 1302,
+    "rank": 9146,
+    "popularity": 6792,
+    "members": 10924,
     "favorites": 31,
     "type": "TV",
     "status": "Currently Airing",
@@ -2761,7 +2808,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62144,
@@ -2812,7 +2860,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62428,
@@ -2826,11 +2875,11 @@
     "background": "",
     "episodes": null,
     "score": 5.74,
-    "scored_by": 535,
-    "rank": 11638,
-    "popularity": 7729,
-    "members": 7949,
-    "favorites": 29,
+    "scored_by": 540,
+    "rank": 11640,
+    "popularity": 7722,
+    "members": 7975,
+    "favorites": 30,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2859,7 +2908,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62126,
@@ -2872,11 +2922,11 @@
     "synopsis": "SI-VIS is a co-ed music group, led by Yosuke, shaking up the global music scene with their unmatched vocals and performances. However, they are actually heroes in disguise, battling against mysterious forces threatening the world. They convert audience energy at live performances into combat power. Luckily, the battles appear to be ordinary concerts to the public, keeping their identity a secret.\n\n(Source: Crunchyroll)",
     "background": "",
     "episodes": 24,
-    "score": 6.06,
-    "scored_by": 852,
-    "rank": 9957,
-    "popularity": 8307,
-    "members": 6649,
+    "score": 6.04,
+    "scored_by": 856,
+    "rank": 10047,
+    "popularity": 8287,
+    "members": 6673,
     "favorites": 14,
     "type": "TV",
     "status": "Currently Airing",
@@ -2909,7 +2959,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 62378,
@@ -2922,11 +2973,11 @@
     "synopsis": "Early 2000s Tokyo. Isobe, a combatant for the evil corporation Ganglion, spends his days on the battlefield. Whether it's the \"Tokyo Cedar Pollen Operation\" or the \"Mount Fuji Demolition Plan,\" he faces off in nothing but a bodysuit, only to be crushed by the hero Hopeman time and again. As he struggles under unreasonable bosses during the dawn of compliance, his story unfolds—a workplace drama dedicated to all who work, following the bittersweet life of a salaryman soldier.\n\n(Source: MAL News)",
     "background": "",
     "episodes": null,
-    "score": 5.99,
+    "score": 5.98,
     "scored_by": 554,
-    "rank": 10299,
-    "popularity": 8568,
-    "members": 6157,
+    "rank": 10377,
+    "popularity": 8559,
+    "members": 6176,
     "favorites": 16,
     "type": "TV",
     "status": "Currently Airing",
@@ -2960,7 +3011,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62066,
@@ -2975,9 +3027,9 @@
     "episodes": 10,
     "score": null,
     "scored_by": null,
-    "rank": 18836,
-    "popularity": 10614,
-    "members": 3327,
+    "rank": 18838,
+    "popularity": 10602,
+    "members": 3343,
     "favorites": 13,
     "type": "TV",
     "status": "Currently Airing",
@@ -3011,7 +3063,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61184,
@@ -3062,7 +3115,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62496,
@@ -3076,10 +3130,10 @@
     "background": "",
     "episodes": null,
     "score": 5.56,
-    "scored_by": 173,
-    "rank": 12392,
-    "popularity": 13351,
-    "members": 1484,
+    "scored_by": 174,
+    "rank": 12393,
+    "popularity": 13337,
+    "members": 1490,
     "favorites": 3,
     "type": "TV",
     "status": "Currently Airing",
@@ -3107,7 +3161,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60551,
@@ -3125,8 +3180,8 @@
     "score": 6.49,
     "scored_by": 143,
     "rank": 7408,
-    "popularity": 13614,
-    "members": 1382,
+    "popularity": 13608,
+    "members": 1385,
     "favorites": 0,
     "type": "TV",
     "status": "Currently Airing",
@@ -3154,7 +3209,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 62522,
@@ -3201,50 +3257,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 54160,
-    "title": "Future Kid Takara",
-    "title_english": null,
-    "title_japanese": null,
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1424/151473l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/QARBoL9T9aY?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Future Kid Takara will be an action-packed, family-oriented film set in a dystopian future. The adventure story will feature a girl named Sara who is time warped into the year 2100, where she and the protagonist Takara try to navigate a world ravaged by the effects of global warming. Title and story subject to change\n\n(Source: Kickstarter)",
-    "background": "",
-    "episodes": 11,
-    "score": null,
-    "scored_by": null,
-    "rank": 21427,
-    "popularity": 14990,
-    "members": 971,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "Studio 4°C"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Drama"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2025-11-08T00:00:00+00:00",
-    "aired_to": "2025-11-09T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/54160/Future_Kid_Takara",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62643,
@@ -3261,9 +3275,9 @@
     "episodes": null,
     "score": null,
     "scored_by": null,
-    "rank": 19921,
-    "popularity": 17659,
-    "members": 525,
+    "rank": 19922,
+    "popularity": 17581,
+    "members": 531,
     "favorites": 0,
     "type": "TV",
     "status": "Currently Airing",
@@ -3293,7 +3307,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60983,
@@ -3341,7 +3356,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62268,
@@ -3356,9 +3372,9 @@
     "episodes": 5,
     "score": null,
     "scored_by": null,
-    "rank": 20663,
-    "popularity": 20554,
-    "members": 310,
+    "rank": 20664,
+    "popularity": 20529,
+    "members": 312,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -3386,7 +3402,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62682,
@@ -3403,9 +3420,9 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 14725,
-    "popularity": 21141,
-    "members": 278,
+    "rank": 14726,
+    "popularity": 21116,
+    "members": 280,
     "favorites": 0,
     "type": "TV",
     "status": "Currently Airing",
@@ -3429,7 +3446,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61924,
@@ -3474,7 +3492,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61922,
@@ -3489,9 +3508,9 @@
     "episodes": null,
     "score": null,
     "scored_by": null,
-    "rank": 14986,
-    "popularity": 21562,
-    "members": 255,
+    "rank": 14989,
+    "popularity": 21549,
+    "members": 256,
     "favorites": 1,
     "type": "TV",
     "status": "Currently Airing",
@@ -3517,7 +3536,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62231,
@@ -3532,9 +3552,9 @@
     "episodes": null,
     "score": null,
     "scored_by": null,
-    "rank": 17535,
-    "popularity": 21617,
-    "members": 252,
+    "rank": 17536,
+    "popularity": 21600,
+    "members": 253,
     "favorites": 2,
     "type": "TV",
     "status": "Currently Airing",
@@ -3564,7 +3584,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62523,
@@ -3579,8 +3600,8 @@
     "episodes": 26,
     "score": null,
     "scored_by": null,
-    "rank": 15977,
-    "popularity": 22435,
+    "rank": 15980,
+    "popularity": 22429,
     "members": 210,
     "favorites": 1,
     "type": "TV",
@@ -3610,93 +3631,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62654,
-    "title": "Princess Catch! Tiniping",
-    "title_english": null,
-    "title_japanese": "프린세스 캐치! 티니핑",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1153/152436l.jpg",
-    "trailer_url": null,
-    "synopsis": "Sixth season of Catch! Tiniping.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19595,
-    "popularity": 23113,
-    "members": 180,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [],
-    "aired_from": "2025-10-30T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62654/Princess_Catch_Tiniping",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62447,
-    "title": "Bugchon 5-lagil Ssangdungine",
-    "title_english": "TwinFizz Family",
-    "title_japanese": "북촌 5라길 쌍둥이네",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1788/151966l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 20419,
-    "popularity": 23288,
-    "members": 174,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "12 min",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Atoonz"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2025-09-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62447/Bugchon_5-lagil_Ssangdungine",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62561,
@@ -3711,9 +3647,9 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 17936,
-    "popularity": 23904,
-    "members": 153,
+    "rank": 17938,
+    "popularity": 23868,
+    "members": 154,
     "favorites": 0,
     "type": "TV",
     "status": "Currently Airing",
@@ -3742,148 +3678,8 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62504,
-    "title": "Sylvanian Families: Freya no Wonder Days",
-    "title_english": null,
-    "title_japanese": "シルバニアファミリー フレアのワンダーデイズ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1126/152091l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 15445,
-    "popularity": 24001,
-    "members": 151,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "LandQ studios"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-10-02T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Thursdays at 19:22 (JST)",
-    "url": "https://myanimelist.net/anime/62504/Sylvanian_Families__Freya_no_Wonder_Days",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62664,
-    "title": "Xiong Chumo: Shenqi Baowu",
-    "title_english": "The Lost Treasures",
-    "title_japanese": "熊出没之神奇宝物",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1422/152461l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16693,
-    "popularity": 27337,
-    "members": 90,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-10-01T00:00:00+00:00",
-    "aired_to": "2025-10-12T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62664/Xiong_Chumo__Shenqi_Baowu",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62680,
-    "title": "Dinoster: Gonglyongsuhodae 3rd Season",
-    "title_english": "Dinoster 3rd Season",
-    "title_japanese": "다이노스터: 공룡수호대",
-    "title_synonyms": [
-      "Dinoster Quantum Heroes 3rd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1108/152498l.jpg",
-    "trailer_url": null,
-    "synopsis": "Third season of Dinoster: Gonglyongsuhodae.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21022,
-    "popularity": 27696,
-    "members": 86,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-09-01T00:00:00+00:00",
-    "aired_to": "2025-12-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62680/Dinoster__Gonglyongsuhodae_3rd_Season",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62915,
@@ -3898,9 +3694,9 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 15345,
-    "popularity": 29122,
-    "members": 52,
+    "rank": 15346,
+    "popularity": 29126,
+    "members": 53,
     "favorites": 0,
     "type": "TV",
     "status": "Currently Airing",
@@ -3929,50 +3725,7 @@
     "year": 2025,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62875,
-    "title": "Naui Bimilchingu Haechi",
-    "title_english": null,
-    "title_japanese": "나의 비밀친구 해치",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1151/153163l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 19028,
-    "popularity": 29151,
-    "members": 50,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "11 min",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-10-08T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62875/Naui_Bimilchingu_Haechi",
-    "year": 2025,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

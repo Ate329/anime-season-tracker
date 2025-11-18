@@ -13,10 +13,10 @@
     "background": "Enen no Shouboutai: San no Shou aired on MBS' Animeism block.",
     "episodes": 12,
     "score": 7.7,
-    "scored_by": 88168,
+    "scored_by": 88258,
     "rank": 1351,
-    "popularity": 978,
-    "members": 277022,
+    "popularity": 977,
+    "members": 277164,
     "favorites": 1796,
     "type": "TV",
     "status": "Finished Airing",
@@ -55,7 +55,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56038,
@@ -69,10 +70,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.19,
-    "scored_by": 67051,
+    "scored_by": 67169,
     "rank": 3573,
-    "popularity": 1195,
-    "members": 229811,
+    "popularity": 1194,
+    "members": 229978,
     "favorites": 1532,
     "type": "TV",
     "status": "Finished Airing",
@@ -103,7 +104,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59160,
@@ -120,11 +122,11 @@
     "background": "Wind Breaker Season 2 aired on MBS and TBS' Super Animeism Turbo block. The series was released on Blu-ray and DVD in six volumes from June 18, 2025, to November 26, 2025.",
     "episodes": 12,
     "score": 7.64,
-    "scored_by": 88900,
-    "rank": 1517,
+    "scored_by": 88981,
+    "rank": 1518,
     "popularity": 1333,
-    "members": 202725,
-    "favorites": 1076,
+    "members": 202845,
+    "favorites": 1079,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -158,7 +160,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59597,
@@ -172,11 +175,11 @@
     "background": "",
     "episodes": 25,
     "score": 7.39,
-    "scored_by": 52452,
+    "scored_by": 52580,
     "rank": 2504,
     "popularity": 1467,
-    "members": 181879,
-    "favorites": 702,
+    "members": 182033,
+    "favorites": 703,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -218,7 +221,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59452,
@@ -232,11 +236,11 @@
     "background": "Katainaka no Ossan, Kensei ni Naru aired on TV Asahi's IMAnimation block. The series was released on Blu-ray in two volumes from December 3, 2025, to January 9, 2026.",
     "episodes": 12,
     "score": 6.98,
-    "scored_by": 73169,
-    "rank": 4580,
+    "scored_by": 73237,
+    "rank": 4639,
     "popularity": 1619,
-    "members": 162189,
-    "favorites": 570,
+    "members": 162336,
+    "favorites": 572,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -275,7 +279,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60146,
@@ -291,10 +296,10 @@
     "background": "Saikyou no Ousama, Nidome no Jinsei wa Nani wo Suru? is an adaptation of the English vertical scroll comic The Beginning After the End, written by TurtleMe and illustrated by Fuyuki23. The anime aired on Fuji TV's +Ultra block.",
     "episodes": 12,
     "score": 6.19,
-    "scored_by": 75005,
-    "rank": 9176,
+    "scored_by": 75065,
+    "rank": 9173,
     "popularity": 1623,
-    "members": 161929,
+    "members": 162029,
     "favorites": 1130,
     "type": "TV",
     "status": "Finished Airing",
@@ -333,7 +338,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60593,
@@ -387,7 +393,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60083,
@@ -401,10 +408,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.36,
-    "scored_by": 45376,
+    "scored_by": 45408,
     "rank": 2614,
     "popularity": 1806,
-    "members": 141486,
+    "members": 141557,
     "favorites": 509,
     "type": "TV",
     "status": "Finished Airing",
@@ -445,7 +452,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58359,
@@ -461,11 +469,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.84,
-    "scored_by": 66879,
+    "scored_by": 66974,
     "rank": 5310,
-    "popularity": 1810,
-    "members": 140871,
-    "favorites": 402,
+    "popularity": 1809,
+    "members": 140999,
+    "favorites": 403,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -501,7 +509,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52709,
@@ -518,12 +527,12 @@
     "synopsis": "Yuu Natsume met Himari Inuzuka in middle school while trying to sell his accessories made with preserved flowers. When Yuu told her about his dream to open a shop to sell his creations, Himari decided to help him. Now, in their second year of high school, Yuu sells his accessories online thanks to Himari modeling and promoting them. As Yuu's best friend, Himari declares that if his ambition does not come to fruition by the time they turn thirty, she will have to marry him herself.\n\nThen, Yuu meets Rin Enomoto, a girl wearing one of his first designs. Yuu and Rin met as children years ago, and she was his first love. Himari pushes them together, hoping to help Yuu out of his creative slump and find a wife for him in the process. For the first time, another person understands Yuu's talent and wants to be friends with him. As Rin and Yuu get closer, however, Himari struggles to keep her feelings for her best friend in check.\n\n[Written by MAL Rewrite]",
     "background": "Danjo no Yuujou wa Seiritsu suru? (Iya, Shinai!!) was released on Blu-ray and DVD in two box sets from July 25, 2025, to August 29, 2025.",
     "episodes": 12,
-    "score": 6.57,
-    "scored_by": 56023,
-    "rank": 6869,
+    "score": 6.56,
+    "scored_by": 56075,
+    "rank": 6940,
     "popularity": 1855,
-    "members": 136967,
-    "favorites": 705,
+    "members": 137034,
+    "favorites": 707,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -563,7 +572,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50738,
@@ -580,11 +590,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.68,
-    "scored_by": 27618,
-    "rank": 6186,
-    "popularity": 2079,
-    "members": 118424,
-    "favorites": 582,
+    "scored_by": 27666,
+    "rank": 6187,
+    "popularity": 2078,
+    "members": 118489,
+    "favorites": 583,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -625,7 +635,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59457,
@@ -690,7 +701,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49778,
@@ -706,10 +718,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.31,
-    "scored_by": 26960,
+    "scored_by": 27013,
     "rank": 2898,
-    "popularity": 2175,
-    "members": 110272,
+    "popularity": 2173,
+    "members": 110342,
     "favorites": 542,
     "type": "TV",
     "status": "Finished Airing",
@@ -744,7 +756,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 58131,
@@ -761,10 +774,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.07,
-    "scored_by": 46435,
-    "rank": 4195,
-    "popularity": 2242,
-    "members": 105389,
+    "scored_by": 46487,
+    "rank": 4193,
+    "popularity": 2240,
+    "members": 105461,
     "favorites": 404,
     "type": "TV",
     "status": "Finished Airing",
@@ -805,7 +818,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60140,
@@ -822,11 +836,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.43,
-    "scored_by": 42775,
-    "rank": 7737,
+    "scored_by": 42810,
+    "rank": 7738,
     "popularity": 2525,
-    "members": 87622,
-    "favorites": 223,
+    "members": 87676,
+    "favorites": 224,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -859,7 +873,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60154,
@@ -920,7 +935,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59466,
@@ -936,10 +952,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.48,
-    "scored_by": 28258,
-    "rank": 2126,
-    "popularity": 2649,
-    "members": 81154,
+    "scored_by": 28275,
+    "rank": 2125,
+    "popularity": 2648,
+    "members": 81216,
     "favorites": 286,
     "type": "TV",
     "status": "Finished Airing",
@@ -973,7 +989,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60157,
@@ -989,11 +1006,11 @@
     "background": "Kanpekisugite Kawaige ga Nai to Konyaku Haki sareta Seijo wa Ringoku ni Urareru was released on Blu-ray in two volumes from July 30, 2025, to August 27, 2025.",
     "episodes": 12,
     "score": 7.26,
-    "scored_by": 38798,
+    "scored_by": 38837,
     "rank": 3147,
     "popularity": 2673,
-    "members": 80065,
-    "favorites": 238,
+    "members": 80122,
+    "favorites": 239,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1027,7 +1044,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59189,
@@ -1043,10 +1061,10 @@
     "background": "Sentai Daishikkaku 2nd Season aired on CBC and TBS' Agaru Anime block. The series was released on Blu-ray in three volumes from September 24, 2025, to November 26, 2025.",
     "episodes": 12,
     "score": 7.08,
-    "scored_by": 27058,
-    "rank": 4185,
+    "scored_by": 27101,
+    "rank": 4184,
     "popularity": 2752,
-    "members": 76300,
+    "members": 76343,
     "favorites": 275,
     "type": "TV",
     "status": "Finished Airing",
@@ -1080,7 +1098,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 59360,
@@ -1094,11 +1113,11 @@
     "background": "",
     "episodes": 13,
     "score": 7.9,
-    "scored_by": 27136,
-    "rank": 868,
-    "popularity": 2837,
-    "members": 72263,
-    "favorites": 486,
+    "scored_by": 27166,
+    "rank": 869,
+    "popularity": 2838,
+    "members": 72296,
+    "favorites": 485,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1138,7 +1157,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50694,
@@ -1154,11 +1174,11 @@
     "background": "Summer Pockets is an adaptation of the 2018 visual novel of the same title developed by Key.",
     "episodes": 26,
     "score": 7.36,
-    "scored_by": 17596,
-    "rank": 2632,
+    "scored_by": 17627,
+    "rank": 2631,
     "popularity": 2846,
-    "members": 71851,
-    "favorites": 796,
+    "members": 71896,
+    "favorites": 798,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1195,7 +1215,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59636,
@@ -1209,11 +1230,11 @@
     "background": "Uma Musume: Cinderella Gray was released on Blu-ray in four volumes from September 17, 2025, to December 17, 2025.",
     "episodes": 13,
     "score": 8.57,
-    "scored_by": 32310,
+    "scored_by": 32402,
     "rank": 116,
-    "popularity": 2898,
-    "members": 69804,
-    "favorites": 890,
+    "popularity": 2895,
+    "members": 69964,
+    "favorites": 891,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1250,7 +1271,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59228,
@@ -1264,10 +1286,10 @@
     "background": "",
     "episodes": 13,
     "score": 8.17,
-    "scored_by": 21281,
+    "scored_by": 21313,
     "rank": 458,
-    "popularity": 3008,
-    "members": 65097,
+    "popularity": 3007,
+    "members": 65144,
     "favorites": 509,
     "type": "TV",
     "status": "Finished Airing",
@@ -1305,7 +1327,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59935,
@@ -1323,10 +1346,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.52,
-    "scored_by": 25944,
-    "rank": 7213,
+    "scored_by": 25969,
+    "rank": 7214,
     "popularity": 3148,
-    "members": 59776,
+    "members": 59814,
     "favorites": 158,
     "type": "TV",
     "status": "Finished Airing",
@@ -1366,7 +1389,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59675,
@@ -1380,10 +1404,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.01,
-    "scored_by": 20767,
+    "scored_by": 20797,
     "rank": 682,
     "popularity": 3165,
-    "members": 58826,
+    "members": 58869,
     "favorites": 366,
     "type": "TV",
     "status": "Finished Airing",
@@ -1417,7 +1441,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60449,
@@ -1431,10 +1456,10 @@
     "background": "",
     "episodes": 12,
     "score": 7,
-    "scored_by": 22004,
+    "scored_by": 22022,
     "rank": 4529,
-    "popularity": 3226,
-    "members": 57061,
+    "popularity": 3225,
+    "members": 57085,
     "favorites": 273,
     "type": "TV",
     "status": "Finished Airing",
@@ -1469,7 +1494,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58725,
@@ -1486,10 +1512,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 20727,
-    "rank": 1697,
+    "scored_by": 20740,
+    "rank": 1696,
     "popularity": 3391,
-    "members": 52401,
+    "members": 52428,
     "favorites": 191,
     "type": "TV",
     "status": "Finished Airing",
@@ -1526,7 +1552,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59169,
@@ -1543,10 +1570,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.35,
-    "scored_by": 18438,
-    "rank": 2654,
+    "scored_by": 18451,
+    "rank": 2653,
     "popularity": 3408,
-    "members": 52031,
+    "members": 52054,
     "favorites": 137,
     "type": "TV",
     "status": "Finished Airing",
@@ -1579,7 +1606,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59828,
@@ -1635,7 +1663,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58833,
@@ -1649,10 +1678,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.51,
-    "scored_by": 13563,
+    "scored_by": 13574,
     "rank": 12562,
-    "popularity": 3488,
-    "members": 49814,
+    "popularity": 3487,
+    "members": 49841,
     "favorites": 255,
     "type": "TV",
     "status": "Finished Airing",
@@ -1688,7 +1717,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60334,
@@ -1702,10 +1732,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.88,
-    "scored_by": 13942,
-    "rank": 906,
-    "popularity": 3510,
-    "members": 49212,
+    "scored_by": 13962,
+    "rank": 907,
+    "popularity": 3508,
+    "members": 49241,
     "favorites": 268,
     "type": "TV",
     "status": "Finished Airing",
@@ -1735,7 +1765,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58492,
@@ -1751,11 +1782,11 @@
     "background": "Mono was released on Blu-ray and DVD in six volumes from July 2, 2025, to December 3, 2025.",
     "episodes": 12,
     "score": 7.73,
-    "scored_by": 16751,
+    "scored_by": 16766,
     "rank": 1282,
-    "popularity": 3700,
-    "members": 44959,
-    "favorites": 254,
+    "popularity": 3699,
+    "members": 44994,
+    "favorites": 255,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1789,7 +1820,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 60658,
@@ -1845,7 +1877,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60293,
@@ -1861,10 +1894,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.13,
-    "scored_by": 16489,
-    "rank": 3883,
-    "popularity": 3856,
-    "members": 41944,
+    "scored_by": 16501,
+    "rank": 3882,
+    "popularity": 3854,
+    "members": 41982,
     "favorites": 100,
     "type": "TV",
     "status": "Finished Airing",
@@ -1899,7 +1932,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55995,
@@ -1913,10 +1947,10 @@
     "background": "Your Forma aired on TV Asahi's IMAnimation W block.",
     "episodes": 13,
     "score": 6.25,
-    "scored_by": 8756,
-    "rank": 8850,
+    "scored_by": 8762,
+    "rank": 8848,
     "popularity": 3904,
-    "members": 40878,
+    "members": 40894,
     "favorites": 109,
     "type": "TV",
     "status": "Finished Airing",
@@ -1952,7 +1986,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59745,
@@ -1968,10 +2003,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.52,
-    "scored_by": 12911,
-    "rank": 12514,
-    "popularity": 3954,
-    "members": 39688,
+    "scored_by": 12924,
+    "rank": 12516,
+    "popularity": 3952,
+    "members": 39728,
     "favorites": 122,
     "type": "TV",
     "status": "Finished Airing",
@@ -2004,7 +2039,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58812,
@@ -2018,10 +2054,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.2,
-    "scored_by": 9778,
-    "rank": 3503,
+    "scored_by": 9784,
+    "rank": 3502,
     "popularity": 3960,
-    "members": 39601,
+    "members": 39614,
     "favorites": 130,
     "type": "TV",
     "status": "Finished Airing",
@@ -2061,7 +2097,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55514,
@@ -2117,7 +2154,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58614,
@@ -2131,10 +2169,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.9,
-    "scored_by": 15224,
-    "rank": 5014,
-    "popularity": 4141,
-    "members": 36155,
+    "scored_by": 15243,
+    "rank": 5013,
+    "popularity": 4140,
+    "members": 36185,
     "favorites": 100,
     "type": "TV",
     "status": "Finished Airing",
@@ -2169,7 +2207,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60377,
@@ -2183,10 +2222,10 @@
     "background": "Nazotoki wa Dinner no Ato de aired on Fuji TV's noitaminA block.",
     "episodes": 12,
     "score": 6.47,
-    "scored_by": 8393,
-    "rank": 7536,
+    "scored_by": 8399,
+    "rank": 7534,
     "popularity": 4616,
-    "members": 28562,
+    "members": 28575,
     "favorites": 76,
     "type": "TV",
     "status": "Finished Airing",
@@ -2225,7 +2264,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59819,
@@ -2239,10 +2279,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.17,
-    "scored_by": 5516,
-    "rank": 9301,
+    "scored_by": 5526,
+    "rank": 9299,
     "popularity": 5175,
-    "members": 21908,
+    "members": 21919,
     "favorites": 63,
     "type": "TV",
     "status": "Finished Airing",
@@ -2276,7 +2316,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59070,
@@ -2290,10 +2331,10 @@
     "background": "",
     "episodes": 8,
     "score": 5.9,
-    "scored_by": 6173,
-    "rank": 10808,
+    "scored_by": 6175,
+    "rank": 10807,
     "popularity": 5176,
-    "members": 21901,
+    "members": 21910,
     "favorites": 76,
     "type": "TV",
     "status": "Finished Airing",
@@ -2328,7 +2369,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 60009,
@@ -2344,10 +2386,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.52,
-    "scored_by": 3792,
-    "rank": 7203,
+    "scored_by": 3796,
+    "rank": 7204,
     "popularity": 5904,
-    "members": 15502,
+    "members": 15510,
     "favorites": 32,
     "type": "TV",
     "status": "Finished Airing",
@@ -2384,7 +2426,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59744,
@@ -2437,7 +2480,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60401,
@@ -2489,7 +2533,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53762,
@@ -2505,10 +2550,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.83,
-    "scored_by": 2764,
-    "rank": 11187,
-    "popularity": 6770,
-    "members": 11015,
+    "scored_by": 2765,
+    "rank": 11186,
+    "popularity": 6768,
+    "members": 11019,
     "favorites": 36,
     "type": "TV",
     "status": "Finished Airing",
@@ -2540,7 +2585,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60535,
@@ -2557,10 +2603,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.92,
-    "scored_by": 1504,
-    "rank": 4892,
-    "popularity": 7565,
-    "members": 8416,
+    "scored_by": 1509,
+    "rank": 4890,
+    "popularity": 7566,
+    "members": 8418,
     "favorites": 33,
     "type": "TV",
     "status": "Finished Airing",
@@ -2594,7 +2640,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59078,
@@ -2644,7 +2691,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59199,
@@ -2658,10 +2706,10 @@
     "background": "",
     "episodes": 13,
     "score": 5.66,
-    "scored_by": 1483,
-    "rank": 11999,
-    "popularity": 8538,
-    "members": 6208,
+    "scored_by": 1484,
+    "rank": 12001,
+    "popularity": 8537,
+    "members": 6211,
     "favorites": 28,
     "type": "TV",
     "status": "Finished Airing",
@@ -2696,7 +2744,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60534,
@@ -2711,10 +2760,10 @@
     "episodes": null,
     "score": 7.45,
     "scored_by": 735,
-    "rank": 2227,
-    "popularity": 8963,
-    "members": 5527,
-    "favorites": 70,
+    "rank": 2226,
+    "popularity": 8958,
+    "members": 5533,
+    "favorites": 71,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2744,7 +2793,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55727,
@@ -2758,10 +2808,10 @@
     "background": "",
     "episodes": 5,
     "score": 5.29,
-    "scored_by": 600,
-    "rank": 13209,
+    "scored_by": 601,
+    "rank": 13211,
     "popularity": 9325,
-    "members": 4940,
+    "members": 4941,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -2798,55 +2848,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55710,
-    "title": "Hana-Doll*: Reinterpretation of Flowering",
-    "title_english": null,
-    "title_japanese": "華Doll* -Reinterpretation of Flowering-",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1410/150097l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/0VyIiOnePrI?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "The \"Hana Ningyou Project\" (Flower Doll Project) exists to artificially create the \"perfect idol\" by implanting a special flower seed inside a body. The franchise follows the growth of young men who dedicate their lives to the project.\n\n(Source: MU)",
-    "background": "",
-    "episodes": 12,
-    "score": 5.74,
-    "scored_by": 324,
-    "rank": 11639,
-    "popularity": 9861,
-    "members": 4190,
-    "favorites": 26,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Mixed media",
-    "studios": [
-      "A-Real"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Mystery",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Adult Cast",
-      "Idols (Male)",
-      "Music"
-    ],
-    "demographics": [],
-    "aired_from": "2025-04-09T00:00:00+00:00",
-    "aired_to": "2025-06-25T00:00:00+00:00",
-    "broadcast": "Wednesdays at 22:30 (JST)",
-    "url": "https://myanimelist.net/anime/55710/Hana-Doll__Reinterpretation_of_Flowering",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61410,
@@ -2862,10 +2865,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.54,
-    "scored_by": 1357,
+    "scored_by": 1358,
     "rank": 12452,
     "popularity": 10097,
-    "members": 3925,
+    "members": 3927,
     "favorites": 12,
     "type": "TV",
     "status": "Finished Airing",
@@ -2894,7 +2897,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61206,
@@ -2911,8 +2915,8 @@
     "episodes": 13,
     "score": 5.47,
     "scored_by": 261,
-    "rank": 12677,
-    "popularity": 12276,
+    "rank": 12675,
+    "popularity": 12277,
     "members": 2078,
     "favorites": 5,
     "type": "TV",
@@ -2945,7 +2949,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60446,
@@ -2959,10 +2964,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.06,
-    "scored_by": 406,
-    "rank": 9941,
-    "popularity": 12828,
-    "members": 1739,
+    "scored_by": 407,
+    "rank": 9937,
+    "popularity": 12826,
+    "members": 1740,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -2997,7 +3002,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61092,
@@ -3012,11 +3018,11 @@
     "synopsis": "Second season of Himitsu no AiPri.",
     "background": "",
     "episodes": null,
-    "score": 6.71,
+    "score": 6.72,
     "scored_by": 146,
-    "rank": 6038,
+    "rank": 5954,
     "popularity": 12914,
-    "members": 1688,
+    "members": 1691,
     "favorites": 10,
     "type": "TV",
     "status": "Currently Airing",
@@ -3044,7 +3050,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60506,
@@ -3062,7 +3069,7 @@
     "score": 6.01,
     "scored_by": 266,
     "rank": 10227,
-    "popularity": 12955,
+    "popularity": 12956,
     "members": 1667,
     "favorites": 7,
     "type": "TV",
@@ -3092,7 +3099,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60070,
@@ -3107,8 +3115,8 @@
     "episodes": null,
     "score": null,
     "scored_by": null,
-    "rank": 17623,
-    "popularity": 14735,
+    "rank": 17624,
+    "popularity": 14737,
     "members": 1040,
     "favorites": 0,
     "type": "TV",
@@ -3139,7 +3147,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60947,
@@ -3152,11 +3161,11 @@
     "synopsis": "Follows the funny and amusing daily lives of two cats who want to live life doing only fun things.\n\n(Source: ANN)",
     "background": "",
     "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 19132,
-    "popularity": 16003,
-    "members": 739,
+    "score": 6.16,
+    "scored_by": 108,
+    "rank": 9359,
+    "popularity": 15995,
+    "members": 740,
     "favorites": 1,
     "type": "TV",
     "status": "Currently Airing",
@@ -3184,7 +3193,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61300,
@@ -3199,8 +3209,8 @@
     "episodes": null,
     "score": null,
     "scored_by": null,
-    "rank": 15410,
-    "popularity": 17138,
+    "rank": 15411,
+    "popularity": 17136,
     "members": 577,
     "favorites": 3,
     "type": "TV",
@@ -3231,7 +3241,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61238,
@@ -3248,8 +3259,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 20660,
-    "popularity": 17804,
+    "rank": 20661,
+    "popularity": 17796,
     "members": 511,
     "favorites": 0,
     "type": "TV",
@@ -3277,7 +3288,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58908,
@@ -3292,8 +3304,8 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 18927,
-    "popularity": 17825,
+    "rank": 18929,
+    "popularity": 17829,
     "members": 509,
     "favorites": 0,
     "type": "TV",
@@ -3325,7 +3337,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60612,
@@ -3340,8 +3353,8 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 14987,
-    "popularity": 19140,
+    "rank": 14988,
+    "popularity": 19143,
     "members": 404,
     "favorites": 0,
     "type": "TV",
@@ -3370,7 +3383,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61363,
@@ -3386,7 +3400,7 @@
     "score": null,
     "scored_by": null,
     "rank": 16954,
-    "popularity": 19836,
+    "popularity": 19838,
     "members": 356,
     "favorites": 0,
     "type": "TV",
@@ -3413,284 +3427,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60596,
-    "title": "Sai-Kyo-Oh! Zukan: The Ultimate Tournament",
-    "title_english": null,
-    "title_japanese": "最強王図鑑 ～The Ultimate Tournament～",
-    "title_synonyms": [
-      "Sai-Kyo-Oh! Zukan: The Ultimate Battles 2nd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1531/150143l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Sai-Kyo-Oh! Zukan: The Ultimate Battles.",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 14619,
-    "popularity": 20160,
-    "members": 334,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "11 min",
-    "rating": "G - All Ages",
-    "source": "Book",
-    "studios": [
-      "OLM Digital"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-06T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Sundays at 07:15 (JST)",
-    "url": "https://myanimelist.net/anime/60596/Sai-Kyo-Oh_Zukan__The_Ultimate_Tournament",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58631,
-    "title": "Oshiri Tantei 9th Season",
-    "title_english": null,
-    "title_japanese": "おしりたんてい",
-    "title_synonyms": [
-      "Butt Detective"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1128/149981l.jpg",
-    "trailer_url": null,
-    "synopsis": "Ninth season of Oshiri Tantei.",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 19324,
-    "popularity": 20384,
-    "members": 320,
-    "favorites": 4,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "20 min",
-    "rating": "PG - Children",
-    "source": "Picture book",
-    "studios": [
-      "Toei Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Mystery"
-    ],
-    "themes": [
-      "Detective"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-05T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Saturdays at 09:00 (JST)",
-    "url": "https://myanimelist.net/anime/58631/Oshiri_Tantei_9th_Season",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61485,
-    "title": "Jigu-ui Juin-eun Goyangi-da",
-    "title_english": null,
-    "title_japanese": "지구의 주인은 고양이다",
-    "title_synonyms": [
-      "Cats Own the World"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1013/149248l.jpg",
-    "trailer_url": null,
-    "synopsis": "Though Chichi the cat looks very cute, she has one goal: eradicate humanity and take over the world! She decides to recruit comrades to aid her in her quest, but it looks like world conquest won't be that easy?! Follow the adventures of Chichi the tyrant, Dunno the doggo who loves humans, and Kaiser Kang Taeshik, the hard-boiled wild hamster, as they face many hardships on their path to absolute dominion!\n\n(Source: Kakao Entertainment Corp., translated)",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 17419,
-    "popularity": 20409,
-    "members": 318,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "G - All Ages",
-    "source": "Web manga",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [],
-    "aired_from": "2025-04-12T00:00:00+00:00",
-    "aired_to": "2025-07-12T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61485/Jigu-ui_Juin-eun_Goyangi-da",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60280,
-    "title": "Zenryoku Usagi (2023) 2nd Season",
-    "title_english": null,
-    "title_japanese": "全力ウサギ (2023)",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1297/150031l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/8kUw8KyMrhg?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Second season of Zenryoku Usagi (2023).",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 17056,
-    "popularity": 21663,
-    "members": 250,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Manga",
-    "studios": [
-      "Rising Force"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-09T00:00:00+00:00",
-    "aired_to": "2025-06-25T00:00:00+00:00",
-    "broadcast": "Wednesdays at 21:55 (JST)",
-    "url": "https://myanimelist.net/anime/60280/Zenryoku_Usagi_2023_2nd_Season",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61279,
-    "title": "Go! Go! Vehicle Zoo: Vehicle Star-hen",
-    "title_english": null,
-    "title_japanese": "ゴー！ゴー！びーくるずー のりものスター編",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1889/148647l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 21576,
-    "popularity": 21678,
-    "members": 250,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [
-      "OLM",
-      "Lesprit"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-06T00:00:00+00:00",
-    "aired_to": "2025-06-29T00:00:00+00:00",
-    "broadcast": "Sundays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/61279/Go_Go_Vehicle_Zoo__Vehicle_Star-hen",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60689,
-    "title": "Rainbow Bubblegem 2: Secret",
-    "title_english": null,
-    "title_japanese": "레인보우 버블젬 2 시크릿",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1137/149979l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/BZ0pKJcePw0?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19756,
-    "popularity": 21838,
-    "members": 240,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-09T00:00:00+00:00",
-    "aired_to": "2025-07-03T00:00:00+00:00",
-    "broadcast": "Wednesdays at 07:45 (JST)",
-    "url": "https://myanimelist.net/anime/60689/Rainbow_Bubblegem_2__Secret",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61899,
@@ -3712,8 +3450,8 @@
     "episodes": 5,
     "score": null,
     "scored_by": null,
-    "rank": 14732,
-    "popularity": 22782,
+    "rank": 14733,
+    "popularity": 22779,
     "members": 193,
     "favorites": 0,
     "type": "TV",
@@ -3742,52 +3480,8 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61379,
-    "title": "Yurukawa Mell-chan",
-    "title_english": null,
-    "title_japanese": "ゆるかわメルちゃん",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1277/149017l.jpg",
-    "trailer_url": null,
-    "synopsis": "Mell-chan aims to become a professional \"care doll\" and overcomes various training. What exactly is that training...\n\n(Source: Official site, translated)",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 17020,
-    "popularity": 22842,
-    "members": 191,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "FUNNY MOVIE"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-03T00:00:00+00:00",
-    "aired_to": "2025-06-26T00:00:00+00:00",
-    "broadcast": "Thursdays at 21:54 (JST)",
-    "url": "https://myanimelist.net/anime/61379/Yurukawa_Mell-chan",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61792,
@@ -3802,8 +3496,8 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 15342,
-    "popularity": 23079,
+    "rank": 15345,
+    "popularity": 23092,
     "members": 181,
     "favorites": 0,
     "type": "TV",
@@ -3835,224 +3529,7 @@
     "year": 2025,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61960,
-    "title": "Turning Mecard God",
-    "title_english": null,
-    "title_japanese": "터닝메카드 갓",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1958/150855l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15890,
-    "popularity": 24538,
-    "members": 137,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [
-      "Mecha",
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-12T00:00:00+00:00",
-    "aired_to": "2025-10-25T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61960/Turning_Mecard_God",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61959,
-    "title": "Kkoma Carrie Tamgusaenghwal",
-    "title_english": "Little Carrie's Big Question",
-    "title_japanese": "꼬마캐리 탐구생활",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1652/150854l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 20,
-    "score": null,
-    "scored_by": null,
-    "rank": 17892,
-    "popularity": 26946,
-    "members": 95,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-03-05T00:00:00+00:00",
-    "aired_to": "2025-08-13T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61959/Kkoma_Carrie_Tamgusaenghwal",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62455,
-    "title": "Tobot: Daedosiui Yeongungdeul Season 3",
-    "title_english": null,
-    "title_japanese": "또봇 : 대도시의 영웅들 시즌3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1521/151975l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 15730,
-    "popularity": 29044,
-    "members": 59,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-03-10T00:00:00+00:00",
-    "aired_to": "2025-04-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62455/Tobot__Daedosiui_Yeongungdeul_Season_3",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61524,
-    "title": "Xiongmao He Gan Mi Xiong",
-    "title_english": null,
-    "title_japanese": "熊猫和甘米熊",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1216/149305l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 16724,
-    "popularity": 29125,
-    "members": 52,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-05-04T00:00:00+00:00",
-    "aired_to": "2025-04-08T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61524/Xiongmao_He_Gan_Mi_Xiong",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61523,
-    "title": "Xiongmao He Go Lu Ji",
-    "title_english": null,
-    "title_japanese": "熊猫和高卢鸡",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1242/149304l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16725,
-    "popularity": 29138,
-    "members": 51,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2025-04-04T00:00:00+00:00",
-    "aired_to": "2025-05-12T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61523/Xiongmao_He_Go_Lu_Ji",
-    "year": 2025,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

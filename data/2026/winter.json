@@ -15,9 +15,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 1223,
-    "members": 222108,
-    "favorites": 2190,
+    "popularity": 1221,
+    "members": 222505,
+    "favorites": 2199,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -48,7 +48,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55825,
@@ -68,8 +69,8 @@
     "scored_by": null,
     "rank": null,
     "popularity": 1422,
-    "members": 188694,
-    "favorites": 1793,
+    "members": 188919,
+    "favorites": 1792,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -104,7 +105,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57658,
@@ -122,9 +124,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 1677,
-    "members": 155449,
-    "favorites": 651,
+    "popularity": 1675,
+    "members": 155925,
+    "favorites": 655,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -157,7 +159,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60058,
@@ -207,7 +210,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59229,
@@ -223,9 +227,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 2644,
-    "members": 81370,
-    "favorites": 118,
+    "popularity": 2641,
+    "members": 81572,
+    "favorites": 119,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -256,7 +260,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55830,
@@ -272,8 +277,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 2796,
-    "members": 74218,
+    "popularity": 2794,
+    "members": 74289,
     "favorites": 283,
     "type": "TV",
     "status": "Not yet aired",
@@ -305,7 +310,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58505,
@@ -363,7 +369,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56009,
@@ -385,8 +392,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 4168,
-    "members": 35622,
+    "popularity": 4160,
+    "members": 35750,
     "favorites": 130,
     "type": "TV",
     "status": "Not yet aired",
@@ -416,7 +423,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61942,
@@ -432,8 +440,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 4236,
-    "members": 34548,
+    "popularity": 4233,
+    "members": 34649,
     "favorites": 32,
     "type": "TV",
     "status": "Not yet aired",
@@ -466,7 +474,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54863,
@@ -482,8 +491,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 4318,
-    "members": 33229,
+    "popularity": 4316,
+    "members": 33328,
     "favorites": 82,
     "type": "TV",
     "status": "Not yet aired",
@@ -518,7 +527,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 55772,
@@ -571,7 +581,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60371,
@@ -587,9 +598,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 5518,
-    "members": 18540,
-    "favorites": 35,
+    "popularity": 5510,
+    "members": 18643,
+    "favorites": 36,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -621,7 +632,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61335,
@@ -637,8 +649,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 5884,
-    "members": 15642,
+    "popularity": 5870,
+    "members": 15709,
     "favorites": 31,
     "type": "TV",
     "status": "Not yet aired",
@@ -671,7 +683,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61663,
@@ -687,8 +700,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 5975,
-    "members": 14966,
+    "popularity": 5961,
+    "members": 15083,
     "favorites": 75,
     "type": "TV",
     "status": "Not yet aired",
@@ -718,7 +731,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60602,
@@ -734,8 +748,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6084,
-    "members": 14284,
+    "popularity": 6077,
+    "members": 14319,
     "favorites": 40,
     "type": "TV",
     "status": "Not yet aired",
@@ -767,7 +781,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58524,
@@ -783,8 +798,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6307,
-    "members": 13085,
+    "popularity": 6300,
+    "members": 13111,
     "favorites": 19,
     "type": "TV",
     "status": "Not yet aired",
@@ -816,7 +831,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61211,
@@ -834,9 +850,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6414,
-    "members": 12567,
-    "favorites": 117,
+    "popularity": 6392,
+    "members": 12661,
+    "favorites": 118,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -871,7 +887,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59047,
@@ -890,8 +907,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6429,
-    "members": 12501,
+    "popularity": 6415,
+    "members": 12565,
     "favorites": 55,
     "type": "TV",
     "status": "Not yet aired",
@@ -926,7 +943,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58788,
@@ -945,8 +963,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 6849,
-    "members": 10749,
+    "popularity": 6814,
+    "members": 10860,
     "favorites": 28,
     "type": "TV",
     "status": "Not yet aired",
@@ -976,7 +994,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60151,
@@ -1024,7 +1043,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58886,
@@ -1042,8 +1062,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 7163,
-    "members": 9666,
+    "popularity": 7148,
+    "members": 9719,
     "favorites": 11,
     "type": "TV",
     "status": "Not yet aired",
@@ -1073,7 +1093,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60395,
@@ -1124,7 +1145,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59711,
@@ -1140,9 +1162,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 7503,
-    "members": 8608,
-    "favorites": 34,
+    "popularity": 7405,
+    "members": 8879,
+    "favorites": 35,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -1174,7 +1196,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61128,
@@ -1192,9 +1215,9 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 7553,
-    "members": 8444,
-    "favorites": 21,
+    "popularity": 7532,
+    "members": 8528,
+    "favorites": 23,
     "type": "TV",
     "status": "Not yet aired",
     "airing": false,
@@ -1225,7 +1248,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61983,
@@ -1243,8 +1267,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 7995,
-    "members": 7302,
+    "popularity": 7966,
+    "members": 7404,
     "favorites": 33,
     "type": "TV",
     "status": "Not yet aired",
@@ -1276,7 +1300,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62000,
@@ -1294,8 +1319,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8070,
-    "members": 7129,
+    "popularity": 8045,
+    "members": 7225,
     "favorites": 25,
     "type": "TV",
     "status": "Not yet aired",
@@ -1328,7 +1353,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60460,
@@ -1344,8 +1370,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8074,
-    "members": 7121,
+    "popularity": 8059,
+    "members": 7165,
     "favorites": 14,
     "type": "TV",
     "status": "Not yet aired",
@@ -1376,7 +1402,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58861,
@@ -1398,8 +1425,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8078,
-    "members": 7099,
+    "popularity": 8069,
+    "members": 7142,
     "favorites": 29,
     "type": "TV",
     "status": "Not yet aired",
@@ -1435,7 +1462,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60071,
@@ -1451,8 +1479,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8218,
-    "members": 6832,
+    "popularity": 8201,
+    "members": 6886,
     "favorites": 24,
     "type": "TV",
     "status": "Not yet aired",
@@ -1482,7 +1510,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60692,
@@ -1498,8 +1527,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8429,
-    "members": 6424,
+    "popularity": 8400,
+    "members": 6490,
     "favorites": 17,
     "type": "TV",
     "status": "Not yet aired",
@@ -1529,7 +1558,58 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
+  },
+  {
+    "mal_id": 61196,
+    "title": "Dead Account",
+    "title_english": null,
+    "title_japanese": "デッドアカウント",
+    "title_synonyms": [],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1158/151232l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/EH1JldvB4po?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "Always ready for a fight! Destruction for destruction's sake! The online streamer Aoringo is a troll, making the worst of the worst of boundary-pushing flamebait content and raking in the revenue from the hate-watchers. You may think he's nothing more than a bottom feeder and a drain on society, but in reality, he's high school dropout Soji Enishiro, a caring older brother with a sweet tooth who loves nothing more than his little sister. His viral videos? Just a way to pay his sister's medical bills. And even if all of humanity hates him, he doesn't care, so long as his little sister gets better. But then, something very strange begins to happen...  Don't miss the debut of this modern-day occult exorcism battle manga!\n\n(Source: Kodansha USA)",
+    "background": "Dead Account aired on TV Asahi's IMAnimation block.",
+    "episodes": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 8551,
+    "members": 6189,
+    "favorites": 20,
+    "type": "TV",
+    "status": "Not yet aired",
+    "airing": false,
+    "approved": true,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Manga",
+    "studios": [
+      "SynergySP"
+    ],
+    "producers": [
+      "Nippon Columbia",
+      "Bushiroad"
+    ],
+    "licensors": [],
+    "genres": [
+      "Action",
+      "Supernatural"
+    ],
+    "themes": [],
+    "demographics": [
+      "Shounen"
+    ],
+    "aired_from": "2026-01-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Saturdays at 23:30 (JST)",
+    "url": "https://myanimelist.net/anime/61196/Dead_Account",
+    "year": 2026,
+    "season": "winter",
+    "is_hentai": false,
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60509,
@@ -1576,56 +1656,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61196,
-    "title": "Dead Account",
-    "title_english": null,
-    "title_japanese": "デッドアカウント",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1158/151232l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/EH1JldvB4po?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Always ready for a fight! Destruction for destruction's sake! The online streamer Aoringo is a troll, making the worst of the worst of boundary-pushing flamebait content and raking in the revenue from the hate-watchers. You may think he's nothing more than a bottom feeder and a drain on society, but in reality, he's high school dropout Soji Enishiro, a caring older brother with a sweet tooth who loves nothing more than his little sister. His viral videos? Just a way to pay his sister's medical bills. And even if all of humanity hates him, he doesn't care, so long as his little sister gets better. But then, something very strange begins to happen...  Don't miss the debut of this modern-day occult exorcism battle manga!\n\n(Source: Kodansha USA)",
-    "background": "Dead Account aired on TV Asahi's IMAnimation block.",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": null,
-    "popularity": 8586,
-    "members": 6126,
-    "favorites": 20,
-    "type": "TV",
-    "status": "Not yet aired",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": null,
-    "source": "Manga",
-    "studios": [
-      "SynergySP"
-    ],
-    "producers": [
-      "Nippon Columbia",
-      "Bushiroad"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [
-      "Shounen"
-    ],
-    "aired_from": "2026-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Saturdays at 23:30 (JST)",
-    "url": "https://myanimelist.net/anime/61196/Dead_Account",
-    "year": 2026,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60226,
@@ -1643,8 +1675,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8646,
-    "members": 6047,
+    "popularity": 8613,
+    "members": 6086,
     "favorites": 20,
     "type": "TV",
     "status": "Not yet aired",
@@ -1678,7 +1710,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60223,
@@ -1696,8 +1729,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 8935,
-    "members": 5578,
+    "popularity": 8903,
+    "members": 5623,
     "favorites": 13,
     "type": "TV",
     "status": "Not yet aired",
@@ -1727,7 +1760,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59853,
@@ -1745,8 +1779,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 9014,
-    "members": 5423,
+    "popularity": 8992,
+    "members": 5473,
     "favorites": 33,
     "type": "TV",
     "status": "Not yet aired",
@@ -1775,7 +1809,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61587,
@@ -1794,8 +1829,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 9250,
-    "members": 5079,
+    "popularity": 9227,
+    "members": 5120,
     "favorites": 8,
     "type": "TV",
     "status": "Not yet aired",
@@ -1827,7 +1862,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61325,
@@ -1847,8 +1883,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 9327,
-    "members": 4941,
+    "popularity": 9313,
+    "members": 4960,
     "favorites": 9,
     "type": "TV",
     "status": "Not yet aired",
@@ -1880,7 +1916,107 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
+  },
+  {
+    "mal_id": 60810,
+    "title": "Majutsushi Kunon wa Mieteiru",
+    "title_english": "Kunon the Sorcerer Can See",
+    "title_japanese": "魔術師クノンは見えている",
+    "title_synonyms": [],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1138/148408l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/FInmR1F31Ho?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "Born blind, Kunon aims to be the first person to use water magic to create new eyes for himself. After five months of study, he has already surpassed his teacher, and continues to grow his talents. Not only can his magic help him sense color, but he can also use it to make handy items and even conjure a whole cat! Word of his skills and ingenuity soon reach the court and earn him a spot as disciple to the most powerful magician in the land. But is his ultimate goal even attainable?\n\n(Source: Yen Press)",
+    "background": "",
+    "episodes": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 9406,
+    "members": 4822,
+    "favorites": 4,
+    "type": "TV",
+    "status": "Not yet aired",
+    "airing": false,
+    "approved": true,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Light novel",
+    "studios": [
+      "Platinum Vision"
+    ],
+    "producers": [
+      "Kadokawa"
+    ],
+    "licensors": [],
+    "genres": [
+      "Fantasy"
+    ],
+    "themes": [],
+    "demographics": [],
+    "aired_from": "2026-01-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/60810/Majutsushi_Kunon_wa_Mieteiru",
+    "year": 2026,
+    "season": "winter",
+    "is_hentai": false,
+    "is_japanese": true,
+    "is_kid": false
+  },
+  {
+    "mal_id": 61359,
+    "title": "Osananajimi to wa Love Comedy ni Naranai",
+    "title_english": null,
+    "title_japanese": "幼馴染とはラブコメにならない",
+    "title_synonyms": [
+      "No More Love With the Girls."
+    ],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1729/153502l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/2RJrCUf_5Zw?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "High schooler Eiyuu has a dilemma—his two childhood friends, Shio and Akari, have grown up to be almost too cute! Even though they don't seem to think much of it, he can't help but see them in a different light. If they ever realized how his feelings had changed, the embarrassment would be overwhelming! However, what Eiyuu doesn't know is that Shio and Akari might have feelings of their own.\n\nA slow-burning love triangle where all the heroines are childhood friends—one that's as frustrating as it is irresistible!\n\n(Source: MAL News)",
+    "background": "",
+    "episodes": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 9429,
+    "members": 4802,
+    "favorites": 11,
+    "type": "TV",
+    "status": "Not yet aired",
+    "airing": false,
+    "approved": true,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Web manga",
+    "studios": [
+      "Tezuka Productions"
+    ],
+    "producers": [
+      "CyberAgent",
+      "Bit grooove promotion"
+    ],
+    "licensors": [],
+    "genres": [
+      "Comedy",
+      "Romance"
+    ],
+    "themes": [
+      "Harem",
+      "School"
+    ],
+    "demographics": [],
+    "aired_from": "2026-01-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/61359/Osananajimi_to_wa_Love_Comedy_ni_Naranai",
+    "year": 2026,
+    "season": "winter",
+    "is_hentai": false,
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61782,
@@ -1930,104 +2066,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60810,
-    "title": "Majutsushi Kunon wa Mieteiru",
-    "title_english": "Kunon the Sorcerer Can See",
-    "title_japanese": "魔術師クノンは見えている",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1138/148408l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/FInmR1F31Ho?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Born blind, Kunon aims to be the first person to use water magic to create new eyes for himself. After five months of study, he has already surpassed his teacher, and continues to grow his talents. Not only can his magic help him sense color, but he can also use it to make handy items and even conjure a whole cat! Word of his skills and ingenuity soon reach the court and earn him a spot as disciple to the most powerful magician in the land. But is his ultimate goal even attainable?\n\n(Source: Yen Press)",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": null,
-    "popularity": 9454,
-    "members": 4768,
-    "favorites": 4,
-    "type": "TV",
-    "status": "Not yet aired",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": null,
-    "source": "Light novel",
-    "studios": [
-      "Platinum Vision"
-    ],
-    "producers": [
-      "Kadokawa"
-    ],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2026-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60810/Majutsushi_Kunon_wa_Mieteiru",
-    "year": 2026,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61359,
-    "title": "Osananajimi to wa Love Comedy ni Naranai",
-    "title_english": null,
-    "title_japanese": "幼馴染とはラブコメにならない",
-    "title_synonyms": [
-      "No More Love With the Girls."
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1729/153502l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/2RJrCUf_5Zw?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "High schooler Eiyuu has a dilemma—his two childhood friends, Shio and Akari, have grown up to be almost too cute! Even though they don't seem to think much of it, he can't help but see them in a different light. If they ever realized how his feelings had changed, the embarrassment would be overwhelming! However, what Eiyuu doesn't know is that Shio and Akari might have feelings of their own.\n\nA slow-burning love triangle where all the heroines are childhood friends—one that's as frustrating as it is irresistible!\n\n(Source: MAL News)",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": null,
-    "popularity": 9463,
-    "members": 4752,
-    "favorites": 11,
-    "type": "TV",
-    "status": "Not yet aired",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": null,
-    "source": "Web manga",
-    "studios": [
-      "Tezuka Productions"
-    ],
-    "producers": [
-      "CyberAgent",
-      "Bit grooove promotion"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Romance"
-    ],
-    "themes": [
-      "Harem",
-      "School"
-    ],
-    "demographics": [],
-    "aired_from": "2026-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61359/Osananajimi_to_wa_Love_Comedy_ni_Naranai",
-    "year": 2026,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61549,
@@ -2078,7 +2118,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60255,
@@ -2094,8 +2135,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10078,
-    "members": 3939,
+    "popularity": 10056,
+    "members": 3967,
     "favorites": 5,
     "type": "TV",
     "status": "Not yet aired",
@@ -2126,7 +2167,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61333,
@@ -2144,8 +2186,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10081,
-    "members": 3934,
+    "popularity": 10077,
+    "members": 3944,
     "favorites": 5,
     "type": "TV",
     "status": "Not yet aired",
@@ -2176,7 +2218,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61608,
@@ -2194,8 +2237,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10161,
-    "members": 3836,
+    "popularity": 10158,
+    "members": 3848,
     "favorites": 4,
     "type": "TV",
     "status": "Not yet aired",
@@ -2226,7 +2269,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61694,
@@ -2244,8 +2288,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10325,
-    "members": 3617,
+    "popularity": 10315,
+    "members": 3629,
     "favorites": 9,
     "type": "TV",
     "status": "Not yet aired",
@@ -2276,7 +2320,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61637,
@@ -2294,8 +2339,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10437,
-    "members": 3495,
+    "popularity": 10412,
+    "members": 3526,
     "favorites": 7,
     "type": "TV",
     "status": "Not yet aired",
@@ -2328,7 +2373,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61886,
@@ -2346,8 +2392,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 10969,
-    "members": 3001,
+    "popularity": 10948,
+    "members": 3025,
     "favorites": 3,
     "type": "TV",
     "status": "Not yet aired",
@@ -2380,7 +2426,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61207,
@@ -2396,8 +2443,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 11051,
-    "members": 2936,
+    "popularity": 11016,
+    "members": 2972,
     "favorites": 5,
     "type": "TV",
     "status": "Not yet aired",
@@ -2431,7 +2478,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61217,
@@ -2447,8 +2495,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 11126,
-    "members": 2878,
+    "popularity": 11080,
+    "members": 2916,
     "favorites": 4,
     "type": "TV",
     "status": "Not yet aired",
@@ -2478,7 +2526,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62432,
@@ -2496,8 +2545,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 11251,
-    "members": 2769,
+    "popularity": 11198,
+    "members": 2813,
     "favorites": 3,
     "type": "TV",
     "status": "Not yet aired",
@@ -2531,7 +2580,58 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
+  },
+  {
+    "mal_id": 61884,
+    "title": "Maou no Musume wa Yasashisugiru!!",
+    "title_english": "The Demon King's Daughter Is Too Kind!!",
+    "title_japanese": "魔王の娘は優しすぎる!!",
+    "title_synonyms": [],
+    "image_url": "https://cdn.myanimelist.net/images/anime/1779/150643l.jpg",
+    "trailer_url": "https://www.youtube-nocookie.com/embed/lT9Ae0FsQ20?enablejsapi=1&wmode=opaque&autoplay=1",
+    "synopsis": "Demon King Ahriman has a problem: his daughter, Dou, loves everyone! Consequently, Ahriman had to halt his invasion of the world in the worry that his daughter's behavior is not one befitting someone of her kind. She loves making friends, helping others, and bringing happiness to all creatures including their enemies, the humans.\n\nAhriman, however, congratulates Dou for her good deeds instead of scolding her. With the help of his aide Jahy, who is assigned as Dou's master, the two try to get rid of her kindhearted nature—so that the Demon King's daughter goes from a cute, adorable, and nice little girl to an inhuman, cruel, and twisted little demon.\n\n[Written by MAL Rewrite]",
+    "background": "",
+    "episodes": null,
+    "score": null,
+    "scored_by": null,
+    "rank": null,
+    "popularity": 11802,
+    "members": 2377,
+    "favorites": 3,
+    "type": "TV",
+    "status": "Not yet aired",
+    "airing": false,
+    "approved": true,
+    "duration": "Unknown",
+    "rating": null,
+    "source": "Manga",
+    "studios": [
+      "EMT Squared"
+    ],
+    "producers": [
+      "DMM.com",
+      "DMM pictures"
+    ],
+    "licensors": [],
+    "genres": [
+      "Comedy",
+      "Fantasy"
+    ],
+    "themes": [
+      "Childcare"
+    ],
+    "demographics": [],
+    "aired_from": "2026-01-01T00:00:00+00:00",
+    "aired_to": null,
+    "broadcast": "Unknown",
+    "url": "https://myanimelist.net/anime/61884/Maou_no_Musume_wa_Yasashisugiru",
+    "year": 2026,
+    "season": "winter",
+    "is_hentai": false,
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61084,
@@ -2574,56 +2674,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61884,
-    "title": "Maou no Musume wa Yasashisugiru!!",
-    "title_english": "The Demon King's Daughter Is Too Kind!!",
-    "title_japanese": "魔王の娘は優しすぎる!!",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1779/150643l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/lT9Ae0FsQ20?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Demon King Ahriman has a problem: his daughter, Dou, loves everyone! Consequently, Ahriman had to halt his invasion of the world in the worry that his daughter's behavior is not one befitting someone of her kind. She loves making friends, helping others, and bringing happiness to all creatures including their enemies, the humans.\n\nAhriman, however, congratulates Dou for her good deeds instead of scolding her. With the help of his aide Jahy, who is assigned as Dou's master, the two try to get rid of her kindhearted nature—so that the Demon King's daughter goes from a cute, adorable, and nice little girl to an inhuman, cruel, and twisted little demon.\n\n[Written by MAL Rewrite]",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": null,
-    "popularity": 11842,
-    "members": 2343,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Not yet aired",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": null,
-    "source": "Manga",
-    "studios": [
-      "EMT Squared"
-    ],
-    "producers": [
-      "DMM.com",
-      "DMM pictures"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [
-      "Childcare"
-    ],
-    "demographics": [],
-    "aired_from": "2026-01-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61884/Maou_no_Musume_wa_Yasashisugiru",
-    "year": 2026,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61830,
@@ -2639,8 +2691,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 13732,
-    "members": 1339,
+    "popularity": 13714,
+    "members": 1347,
     "favorites": 4,
     "type": "TV",
     "status": "Not yet aired",
@@ -2669,7 +2721,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61969,
@@ -2685,8 +2738,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 13743,
-    "members": 1334,
+    "popularity": 13716,
+    "members": 1346,
     "favorites": 1,
     "type": "TV",
     "status": "Not yet aired",
@@ -2719,7 +2772,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62804,
@@ -2739,8 +2793,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 15662,
-    "members": 806,
+    "popularity": 15606,
+    "members": 820,
     "favorites": 3,
     "type": "TV",
     "status": "Not yet aired",
@@ -2776,7 +2830,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62521,
@@ -2795,8 +2850,8 @@
     "score": null,
     "scored_by": null,
     "rank": null,
-    "popularity": 17266,
-    "members": 564,
+    "popularity": 17131,
+    "members": 578,
     "favorites": 1,
     "type": "TV",
     "status": "Not yet aired",
@@ -2824,7 +2879,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62864,
@@ -2872,7 +2928,8 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62649,
@@ -2915,6 +2972,7 @@
     "year": 2026,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

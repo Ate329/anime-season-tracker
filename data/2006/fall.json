@@ -13,11 +13,11 @@
     "background": "",
     "episodes": 37,
     "score": 8.62,
-    "scored_by": 2935092,
+    "scored_by": 2935388,
     "rank": 98,
     "popularity": 2,
-    "members": 4194275,
-    "favorites": 182834,
+    "members": 4194704,
+    "favorites": 182850,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -54,7 +54,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1575,
@@ -114,7 +115,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1482,
@@ -131,10 +133,10 @@
     "background": "D.Gray-man is based on Katsura Hoshino's manga series of the same title. The anime adapts the first 158 chapters from the first 16 volumes, while adding anime exclusive content, mainly during the first half of the series. FUNimation Entertainment licensed and released only the first 51 episodes of D.Gray-man. The explanation they provided for not acquiring the remaining episodes was that there were licensing issues with Dentsu. However, on June 30, 2016, it was announced that Funimation acquired the rights the second half of the anime.",
     "episodes": 103,
     "score": 8,
-    "scored_by": 295055,
+    "scored_by": 295071,
     "rank": 705,
     "popularity": 313,
-    "members": 723197,
+    "members": 723273,
     "favorites": 13815,
     "type": "TV",
     "status": "Finished Airing",
@@ -174,7 +176,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1604,
@@ -235,7 +238,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1519,
@@ -252,10 +256,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.17,
-    "scored_by": 336330,
+    "scored_by": 336340,
     "rank": 466,
     "popularity": 434,
-    "members": 564979,
+    "members": 565014,
     "favorites": 3315,
     "type": "TV",
     "status": "Finished Airing",
@@ -292,7 +296,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1559,
@@ -308,10 +313,10 @@
     "background": "",
     "episodes": 50,
     "score": 8.03,
-    "scored_by": 163711,
+    "scored_by": 163714,
     "rank": 655,
     "popularity": 856,
-    "members": 319502,
+    "members": 319518,
     "favorites": 3674,
     "type": "TV",
     "status": "Finished Airing",
@@ -350,7 +355,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1530,
@@ -367,11 +373,11 @@
     "background": "",
     "episodes": 24,
     "score": 7.94,
-    "scored_by": 141388,
+    "scored_by": 141390,
     "rank": 792,
     "popularity": 944,
-    "members": 286226,
-    "favorites": 4486,
+    "members": 286249,
+    "favorites": 4488,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -405,7 +411,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1571,
@@ -419,10 +426,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.74,
-    "scored_by": 103544,
-    "rank": 1240,
+    "scored_by": 103549,
+    "rank": 1239,
     "popularity": 1141,
-    "members": 240633,
+    "members": 240644,
     "favorites": 3110,
     "type": "TV",
     "status": "Finished Airing",
@@ -459,7 +466,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1536,
@@ -477,10 +485,10 @@
     "background": "Busou Renkin was released on DVD in North America by VIZ Media from April 29, 2008, to October 7, 2008.",
     "episodes": 26,
     "score": 7.28,
-    "scored_by": 82355,
-    "rank": 3030,
+    "scored_by": 82356,
+    "rank": 3028,
     "popularity": 1505,
-    "members": 178090,
+    "members": 178091,
     "favorites": 872,
     "type": "TV",
     "status": "Finished Airing",
@@ -518,7 +526,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1594,
@@ -538,10 +547,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.87,
-    "scored_by": 70606,
+    "scored_by": 70610,
     "rank": 921,
     "popularity": 1571,
-    "members": 169915,
+    "members": 169925,
     "favorites": 694,
     "type": "TV",
     "status": "Finished Airing",
@@ -577,7 +586,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1562,
@@ -595,10 +605,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.71,
-    "scored_by": 84614,
-    "rank": 1339,
+    "scored_by": 84619,
+    "rank": 1338,
     "popularity": 1573,
-    "members": 169842,
+    "members": 169849,
     "favorites": 2422,
     "type": "TV",
     "status": "Finished Airing",
@@ -631,7 +641,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1565,
@@ -693,7 +704,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 1606,
@@ -709,10 +721,10 @@
     "background": "",
     "episodes": 52,
     "score": 7.59,
-    "scored_by": 52057,
+    "scored_by": 52058,
     "rank": 1695,
-    "popularity": 2102,
-    "members": 116965,
+    "popularity": 2103,
+    "members": 116976,
     "favorites": 642,
     "type": "TV",
     "status": "Finished Airing",
@@ -750,7 +762,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1498,
@@ -765,9 +778,9 @@
     "episodes": 12,
     "score": 7.08,
     "scored_by": 56764,
-    "rank": 4145,
+    "rank": 4142,
     "popularity": 2215,
-    "members": 107011,
+    "members": 107014,
     "favorites": 411,
     "type": "TV",
     "status": "Finished Airing",
@@ -805,7 +818,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1589,
@@ -819,10 +833,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.31,
-    "scored_by": 31742,
-    "rank": 2882,
-    "popularity": 2241,
-    "members": 105398,
+    "scored_by": 31748,
+    "rank": 2881,
+    "popularity": 2243,
+    "members": 105410,
     "favorites": 536,
     "type": "TV",
     "status": "Finished Airing",
@@ -863,7 +877,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1579,
@@ -882,10 +897,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.4,
-    "scored_by": 50243,
-    "rank": 2470,
-    "popularity": 2308,
-    "members": 101124,
+    "scored_by": 50244,
+    "rank": 2469,
+    "popularity": 2310,
+    "members": 101128,
     "favorites": 869,
     "type": "TV",
     "status": "Finished Airing",
@@ -924,7 +939,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1546,
@@ -982,7 +998,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1568,
@@ -1037,7 +1054,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1569,
@@ -1055,10 +1073,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 27112,
-    "rank": 4521,
+    "scored_by": 27113,
+    "rank": 4520,
     "popularity": 2991,
-    "members": 66034,
+    "members": 66037,
     "favorites": 180,
     "type": "TV",
     "status": "Finished Airing",
@@ -1095,7 +1113,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1557,
@@ -1113,10 +1132,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.53,
-    "scored_by": 20962,
-    "rank": 1941,
-    "popularity": 3170,
-    "members": 58683,
+    "scored_by": 20963,
+    "rank": 1942,
+    "popularity": 3171,
+    "members": 58686,
     "favorites": 275,
     "type": "TV",
     "status": "Finished Airing",
@@ -1154,7 +1173,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1212,
@@ -1207,7 +1227,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1601,
@@ -1223,10 +1244,10 @@
     "background": "",
     "episodes": 22,
     "score": 7.02,
-    "scored_by": 11776,
-    "rank": 4463,
-    "popularity": 3543,
-    "members": 48363,
+    "scored_by": 11777,
+    "rank": 4462,
+    "popularity": 3542,
+    "members": 48371,
     "favorites": 143,
     "type": "TV",
     "status": "Finished Airing",
@@ -1264,7 +1285,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1538,
@@ -1280,10 +1302,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.15,
-    "scored_by": 18238,
-    "rank": 3764,
+    "scored_by": 18239,
+    "rank": 3762,
     "popularity": 3640,
-    "members": 46373,
+    "members": 46374,
     "favorites": 143,
     "type": "TV",
     "status": "Finished Airing",
@@ -1322,7 +1344,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1543,
@@ -1339,10 +1362,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.08,
-    "scored_by": 17311,
-    "rank": 4192,
-    "popularity": 3821,
-    "members": 42679,
+    "scored_by": 17312,
+    "rank": 4190,
+    "popularity": 3822,
+    "members": 42682,
     "favorites": 156,
     "type": "TV",
     "status": "Finished Airing",
@@ -1380,7 +1403,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1555,
@@ -1394,8 +1418,8 @@
     "background": "",
     "episodes": 25,
     "score": 7.01,
-    "scored_by": 15995,
-    "rank": 4480,
+    "scored_by": 15996,
+    "rank": 4481,
     "popularity": 3987,
     "members": 39107,
     "favorites": 94,
@@ -1429,7 +1453,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1570,
@@ -1443,10 +1468,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.33,
-    "scored_by": 16783,
-    "rank": 8321,
-    "popularity": 4041,
-    "members": 38080,
+    "scored_by": 16785,
+    "rank": 8322,
+    "popularity": 4043,
+    "members": 38084,
     "favorites": 39,
     "type": "TV",
     "status": "Finished Airing",
@@ -1480,7 +1505,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1581,
@@ -1494,10 +1520,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.55,
-    "scored_by": 14447,
-    "rank": 7041,
-    "popularity": 4329,
-    "members": 33072,
+    "scored_by": 14448,
+    "rank": 7039,
+    "popularity": 4330,
+    "members": 33074,
     "favorites": 29,
     "type": "TV",
     "status": "Finished Airing",
@@ -1528,7 +1554,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1588,
@@ -1544,10 +1571,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.01,
-    "scored_by": 11191,
-    "rank": 4515,
-    "popularity": 4624,
-    "members": 28464,
+    "scored_by": 11192,
+    "rank": 4513,
+    "popularity": 4625,
+    "members": 28466,
     "favorites": 45,
     "type": "TV",
     "status": "Finished Airing",
@@ -1578,7 +1605,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1592,
@@ -1641,7 +1669,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1554,
@@ -1658,10 +1687,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 10821,
-    "rank": 4490,
+    "scored_by": 10822,
+    "rank": 4491,
     "popularity": 4798,
-    "members": 26152,
+    "members": 26156,
     "favorites": 44,
     "type": "TV",
     "status": "Finished Airing",
@@ -1695,7 +1724,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1602,
@@ -1710,9 +1740,9 @@
     "episodes": 13,
     "score": 7,
     "scored_by": 9581,
-    "rank": 4547,
-    "popularity": 4947,
-    "members": 24440,
+    "rank": 4545,
+    "popularity": 4948,
+    "members": 24441,
     "favorites": 79,
     "type": "TV",
     "status": "Finished Airing",
@@ -1749,7 +1779,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1583,
@@ -1767,8 +1798,8 @@
     "score": 6.2,
     "scored_by": 7771,
     "rank": 9098,
-    "popularity": 5000,
-    "members": 23616,
+    "popularity": 5001,
+    "members": 23615,
     "favorites": 30,
     "type": "TV",
     "status": "Finished Airing",
@@ -1805,7 +1836,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 6609,
@@ -1821,10 +1853,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.74,
-    "scored_by": 10124,
+    "scored_by": 10125,
     "rank": 5875,
-    "popularity": 5413,
-    "members": 19480,
+    "popularity": 5414,
+    "members": 19484,
     "favorites": 40,
     "type": "TV",
     "status": "Finished Airing",
@@ -1855,7 +1887,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1587,
@@ -1873,9 +1906,9 @@
     "episodes": 25,
     "score": 6.85,
     "scored_by": 4731,
-    "rank": 5258,
+    "rank": 5260,
     "popularity": 5564,
-    "members": 18118,
+    "members": 18120,
     "favorites": 26,
     "type": "TV",
     "status": "Finished Airing",
@@ -1909,7 +1942,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1591,
@@ -1965,7 +1999,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1912,
@@ -1983,9 +2018,9 @@
     "episodes": 13,
     "score": 5.78,
     "scored_by": 4450,
-    "rank": 11460,
+    "rank": 11464,
     "popularity": 5941,
-    "members": 15223,
+    "members": 15224,
     "favorites": 18,
     "type": "TV",
     "status": "Finished Airing",
@@ -2016,7 +2051,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1835,
@@ -2034,10 +2070,10 @@
     "background": "",
     "episodes": 55,
     "score": 7.09,
-    "scored_by": 6433,
+    "scored_by": 6434,
     "rank": 4102,
     "popularity": 6026,
-    "members": 14641,
+    "members": 14643,
     "favorites": 84,
     "type": "TV",
     "status": "Finished Airing",
@@ -2070,7 +2106,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1541,
@@ -2085,8 +2122,8 @@
     "episodes": 22,
     "score": 6.68,
     "scored_by": 4181,
-    "rank": 6188,
-    "popularity": 6179,
+    "rank": 6189,
+    "popularity": 6181,
     "members": 13742,
     "favorites": 24,
     "type": "TV",
@@ -2119,7 +2156,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1703,
@@ -2134,9 +2172,9 @@
     "episodes": 13,
     "score": 6.62,
     "scored_by": 2941,
-    "rank": 6580,
+    "rank": 6579,
     "popularity": 6339,
-    "members": 12872,
+    "members": 12874,
     "favorites": 32,
     "type": "TV",
     "status": "Finished Airing",
@@ -2165,7 +2203,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1561,
@@ -2179,10 +2218,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.1,
-    "scored_by": 3429,
-    "rank": 9684,
-    "popularity": 7175,
-    "members": 9630,
+    "scored_by": 3430,
+    "rank": 9683,
+    "popularity": 7178,
+    "members": 9633,
     "favorites": 9,
     "type": "TV",
     "status": "Finished Airing",
@@ -2213,7 +2252,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1868,
@@ -2232,9 +2272,9 @@
     "episodes": 12,
     "score": 6.2,
     "scored_by": 3215,
-    "rank": 9122,
+    "rank": 9120,
     "popularity": 7334,
-    "members": 9097,
+    "members": 9098,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -2268,7 +2308,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1603,
@@ -2286,9 +2327,9 @@
     "episodes": 25,
     "score": 6.77,
     "scored_by": 3340,
-    "rank": 5663,
+    "rank": 5661,
     "popularity": 7430,
-    "members": 8812,
+    "members": 8813,
     "favorites": 15,
     "type": "TV",
     "status": "Finished Airing",
@@ -2325,7 +2366,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1600,
@@ -2345,9 +2387,9 @@
     "episodes": 13,
     "score": 6.21,
     "scored_by": 2100,
-    "rank": 9034,
-    "popularity": 8515,
-    "members": 6264,
+    "rank": 9033,
+    "popularity": 8514,
+    "members": 6265,
     "favorites": 3,
     "type": "TV",
     "status": "Finished Airing",
@@ -2381,7 +2423,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1882,
@@ -2398,9 +2441,9 @@
     "episodes": 13,
     "score": 6.67,
     "scored_by": 2027,
-    "rank": 6277,
-    "popularity": 9075,
-    "members": 5333,
+    "rank": 6275,
+    "popularity": 9076,
+    "members": 5334,
     "favorites": 6,
     "type": "TV",
     "status": "Finished Airing",
@@ -2433,7 +2476,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 2717,
@@ -2453,7 +2497,7 @@
     "score": 6.69,
     "scored_by": 1471,
     "rank": 6144,
-    "popularity": 9317,
+    "popularity": 9318,
     "members": 4952,
     "favorites": 4,
     "type": "TV",
@@ -2488,7 +2532,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 17291,
@@ -2505,9 +2550,9 @@
     "episodes": 52,
     "score": 6.08,
     "scored_by": 286,
-    "rank": 9840,
-    "popularity": 14614,
-    "members": 1071,
+    "rank": 9839,
+    "popularity": 14611,
+    "members": 1072,
     "favorites": 9,
     "type": "TV",
     "status": "Finished Airing",
@@ -2543,7 +2588,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 15913,
@@ -2559,8 +2605,8 @@
     "score": 6.27,
     "scored_by": 352,
     "rank": 8720,
-    "popularity": 14774,
-    "members": 1029,
+    "popularity": 14772,
+    "members": 1030,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -2592,7 +2638,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 27811,
@@ -2609,8 +2656,8 @@
     "episodes": 26,
     "score": 6.12,
     "scored_by": 255,
-    "rank": 9620,
-    "popularity": 15520,
+    "rank": 9621,
+    "popularity": 15521,
     "members": 838,
     "favorites": 1,
     "type": "TV",
@@ -2641,58 +2688,8 @@
     "year": null,
     "season": null,
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 8900,
-    "title": "Saru Getchu: On Air 2nd",
-    "title_english": null,
-    "title_japanese": "サルゲッチュ ～オンエアー～2nd",
-    "title_synonyms": [
-      "Saru! Get You: On Air",
-      "Ape Escape"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/13/24682l.jpg",
-    "trailer_url": null,
-    "synopsis": "Saru Getchu: On Air sequel.",
-    "background": "",
-    "episodes": 51,
-    "score": 5.87,
-    "scored_by": 182,
-    "rank": 10939,
-    "popularity": 15565,
-    "members": 827,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Game",
-    "studios": [
-      "Xebec"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Fantasy",
-      "Romance"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-10-07T00:00:00+00:00",
-    "aired_to": "2007-09-29T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/8900/Saru_Getchu__On_Air_2nd",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1863,
@@ -2742,7 +2739,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 22345,
@@ -2759,9 +2757,9 @@
     "episodes": 12,
     "score": 5.56,
     "scored_by": 322,
-    "rank": 12403,
-    "popularity": 15858,
-    "members": 764,
+    "rank": 12404,
+    "popularity": 15852,
+    "members": 765,
     "favorites": 2,
     "type": "TV",
     "status": "Finished Airing",
@@ -2785,155 +2783,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 9426,
-    "title": "Pururun! Shizuku-chan",
-    "title_english": null,
-    "title_japanese": "ぷるるんっ！しずくちゃん",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1685/146428l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/DQ7OlfZOQaw?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "The series revolves around a playful young child named Shizuku-Chan. He, alongside his schoolmates, friends, and family lives a life of dangerous adventures in the Shizuku Forest.\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 51,
-    "score": null,
-    "scored_by": null,
-    "rank": 19614,
-    "popularity": 16152,
-    "members": 715,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Manga",
-    "studios": [
-      "TMS Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-10-07T00:00:00+00:00",
-    "aired_to": "2007-09-29T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/9426/Pururun_Shizuku-chan",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 8345,
-    "title": "Ukkari Pénélope",
-    "title_english": null,
-    "title_japanese": "うっかりペネロペ",
-    "title_synonyms": [
-      "Ukkari Penelope",
-      "Pénélope tête en l'air",
-      "Carelessly Penelope",
-      "Absent-minded Penelope",
-      "Head in the Air Penelope"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/21983l.jpg",
-    "trailer_url": null,
-    "synopsis": "Meet Penelope, the absent-minded young koala. Rarely seen without Deudeu – her favourite stuffed rabbit – Penelope likes nothing more than finding another adventure in the most unlikely of places. A simple gust of wind blowing her hat away can lead to Penelope running her own stall atop a tree stump where she trades flowers for apples, and paper planes for acorns. From games of hide and seek with her friends, to playing with the bubbles in the bath or counting sheep during nap time, Penelope’s life is never dull – even if she does wear odd socks when she gets herself dressed in the morning.\n\n(Source: Anime-Planet)",
-    "background": "Winner of the Excellence Award on the 11th Japan Media Arts Festival.",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15939,
-    "popularity": 17191,
-    "members": 571,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [
-      "Nippon Animation"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [
-      "Award Winning",
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-11-20T00:00:00+00:00",
-    "aired_to": "2006-12-25T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/8345/Ukkari_Pénélope",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 22651,
-    "title": "Kerokero Keroppi: Hasunoue Town Kiki Ippatsu!",
-    "title_english": null,
-    "title_japanese": "けろけろけろっぴ はすのうえタウン危機一髪!",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/59081l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/X126Sq0DtcI?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": null,
-    "background": "Short anime aired inside the anime corner of the Kitty's Paradise TV block.",
-    "episodes": 6,
-    "score": null,
-    "scored_by": null,
-    "rank": 17810,
-    "popularity": 18095,
-    "members": 485,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [
-      "Asahi Production"
-    ],
-    "producers": [
-      "Sanrio"
-    ],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-10-10T00:00:00+00:00",
-    "aired_to": "2006-12-19T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/22651/Kerokero_Keroppi__Hasunoue_Town_Kiki_Ippatsu",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 3372,
@@ -2948,9 +2799,9 @@
     "episodes": 6,
     "score": null,
     "scored_by": null,
-    "rank": 14476,
-    "popularity": 18285,
-    "members": 467,
+    "rank": 14479,
+    "popularity": 18279,
+    "members": 468,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -2976,152 +2827,8 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 25615,
-    "title": "Genki Genki Non-tan (2006)",
-    "title_english": null,
-    "title_japanese": "げんき げんき ノンタン",
-    "title_synonyms": [
-      "Genki Genki Nontan",
-      "Genki! Genki! Nontan",
-      "Genki Genki Nontan 3"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/6/65137l.jpg",
-    "trailer_url": null,
-    "synopsis": "Direct continuation of the second season. Also labeled as episode 26-35.",
-    "background": "",
-    "episodes": 10,
-    "score": null,
-    "scored_by": null,
-    "rank": 21528,
-    "popularity": 19967,
-    "members": 348,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "6 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [
-      "Polygon Pictures"
-    ],
-    "producers": [
-      "Nippon Columbia"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Music"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-10-02T00:00:00+00:00",
-    "aired_to": "2006-10-13T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/25615/Genki_Genki_Non-tan_2006",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 30048,
-    "title": "Kkurukkuru-wa Chingu-deul",
-    "title_english": "Curucuru and Friends",
-    "title_japanese": "꾸루꾸루와 친구들",
-    "title_synonyms": [
-      "Tales of Greenery",
-      "The Family of Greenwood"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1306/99071l.jpg",
-    "trailer_url": null,
-    "synopsis": "The story is set in a village called Green Forest Village, where is inhabited by friendly animals. The story were focused on 5 special animal friends whose friendship binds them together, Koori: A brown Raccoon boy and an aspiring inventor, Pinpin: A blue and white Giant Panda boy and a warm hearted artist, Lalla: a pink Tabby cat girl and an aspiring musician who wishes to be a princess, Toto: a purple Bat boy who wants to be a pilot and fly and lastly; Curucuru, a Brown bear boy who likes to cook. All of them venture through several adventures in the forest and town, making exciting and marvelous stories and also getting in and out of trouble as they learn valuable lessons in life and things around them.\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 17906,
-    "popularity": 20678,
-    "members": 303,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-11-24T00:00:00+00:00",
-    "aired_to": "2007-02-16T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/30048/Kkurukkuru-wa_Chingu-deul",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48338,
-    "title": "Kungya Kungya",
-    "title_english": null,
-    "title_japanese": "쿵야쿵야",
-    "title_synonyms": [
-      "Kung-ya Kung-ya",
-      "Koongya Koongya"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1633/114464l.jpg",
-    "trailer_url": null,
-    "synopsis": "Kyungyas, from vegetable kingdom, comes to the Kyungya Restaurant. \nThey have a mission to make children eat more vegetable and protect them from greasy, instant dishes. However, far from completing their mission, Kyungyas have hard time keeping the restaurant from bankruptcy. It is because of Onion Kyungya’s experimental dishes. His curiosity makes trouble with Celery Kyungya, the manager of Kyungya restaurant. \nHow can they solve the problems they have with the customers. Would it be possible for Kyungyas to accomplish the mission?\n\n(Source: KBS Media)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18102,
-    "popularity": 22997,
-    "members": 185,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "PG - Children",
-    "source": "Game",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-11-09T00:00:00+00:00",
-    "aired_to": "2007-05-10T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48338/Kungya_Kungya",
-    "year": 2006,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56463,
@@ -3163,91 +2870,7 @@
     "year": 2006,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45718,
-    "title": "Shaonian Huo Yuan Jia",
-    "title_english": null,
-    "title_japanese": "少年霍元甲",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1430/115330l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14833,
-    "popularity": 25893,
-    "members": 111,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Historical",
-      "Martial Arts"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-11-01T00:00:00+00:00",
-    "aired_to": "2007-01-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45718/Shaonian_Huo_Yuan_Jia",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44171,
-    "title": "Kewang Lantian",
-    "title_english": "Desire for Sky",
-    "title_japanese": "渴望藍天",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1933/118019l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17818,
-    "popularity": 26265,
-    "members": 105,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-10-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44171/Kewang_Lantian",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

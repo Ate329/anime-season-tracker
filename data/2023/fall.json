@@ -14,11 +14,11 @@
     "background": "Sousou no Frieren was released on Blu-ray and DVD in seven volumes from January 24, 2024, to July 17, 2024. The series aired on Nippon TV's Friday Anime Night block.",
     "episodes": 28,
     "score": 9.29,
-    "scored_by": 755422,
+    "scored_by": 755813,
     "rank": 1,
     "popularity": 124,
-    "members": 1256458,
-    "favorites": 78683,
+    "members": 1257017,
+    "favorites": 78720,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -56,7 +56,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54492,
@@ -73,11 +74,11 @@
     "background": "Kusuriya no Hitorigoto was released on Blu-ray in four volumes from January 24, 2024, to July 17, 2024.",
     "episodes": 24,
     "score": 8.86,
-    "scored_by": 415313,
+    "scored_by": 415584,
     "rank": 27,
     "popularity": 298,
-    "members": 747118,
-    "favorites": 24469,
+    "members": 747507,
+    "favorites": 24491,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -116,7 +117,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53887,
@@ -130,11 +132,11 @@
     "background": "Spy x Family Season 2 was released on Blu-ray and DVD in three volumes from December 20, 2023, to April 17, 2024.",
     "episodes": 12,
     "score": 8.06,
-    "scored_by": 305381,
+    "scored_by": 305648,
     "rank": 607,
     "popularity": 381,
-    "members": 632553,
-    "favorites": 3718,
+    "members": 632936,
+    "favorites": 3720,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -174,7 +176,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40357,
@@ -191,10 +194,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.09,
-    "scored_by": 151941,
-    "rank": 4108,
+    "scored_by": 152006,
+    "rank": 4109,
     "popularity": 492,
-    "members": 505326,
+    "members": 505400,
     "favorites": 6136,
     "type": "TV",
     "status": "Finished Airing",
@@ -235,7 +238,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54595,
@@ -251,11 +255,11 @@
     "background": "Kage no Jitsuryokusha ni Naritakute! 2nd Season was released on Blu-ray and DVD in three volumes by Kadokawa from January 24, 2024, to March 27, 2024. It adapts content from volumes 3 and 4 of the light novel.",
     "episodes": 12,
     "score": 8.27,
-    "scored_by": 277561,
+    "scored_by": 277669,
     "rank": 325,
     "popularity": 501,
-    "members": 499464,
-    "favorites": 5109,
+    "members": 499607,
+    "favorites": 5112,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -294,7 +298,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52347,
@@ -311,11 +316,11 @@
     "background": "Shangri-La Frontier: Kusoge Hunter, Kamige ni Idoman to su was released on Blu-ray and DVD in two volumes from March 27, 2024, to June 26, 2024.",
     "episodes": 25,
     "score": 8.1,
-    "scored_by": 220546,
+    "scored_by": 220619,
     "rank": 562,
     "popularity": 604,
-    "members": 427406,
-    "favorites": 3693,
+    "members": 427528,
+    "favorites": 3694,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -355,7 +360,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47160,
@@ -371,10 +377,10 @@
     "background": "Goblin Slayer II was released on Blu-ray and DVD in three volumes from January 31, 2024, to March 27, 2024.",
     "episodes": 12,
     "score": 7.2,
-    "scored_by": 143234,
-    "rank": 3480,
+    "scored_by": 143268,
+    "rank": 3479,
     "popularity": 657,
-    "members": 399904,
+    "members": 399957,
     "favorites": 3176,
     "type": "TV",
     "status": "Finished Airing",
@@ -414,7 +420,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55644,
@@ -430,10 +437,10 @@
     "background": "Dr. Stone: New World Part 2 adapts chapters 116-142 of the manga.",
     "episodes": 11,
     "score": 8.31,
-    "scored_by": 211929,
+    "scored_by": 212021,
     "rank": 290,
     "popularity": 662,
-    "members": 397658,
+    "members": 397791,
     "favorites": 1606,
     "type": "TV",
     "status": "Finished Airing",
@@ -468,7 +475,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52741,
@@ -482,11 +490,11 @@
     "background": "Undead Unluck was released on Blu-ray and DVD in two volumes from March 27, 2024, to June 26, 2024.",
     "episodes": 24,
     "score": 7.75,
-    "scored_by": 118046,
-    "rank": 1217,
-    "popularity": 812,
-    "members": 330397,
-    "favorites": 1851,
+    "scored_by": 118084,
+    "rank": 1216,
+    "popularity": 811,
+    "members": 330454,
+    "favorites": 1853,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -521,7 +529,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54714,
@@ -537,11 +546,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.69,
-    "scored_by": 159016,
+    "scored_by": 159077,
     "rank": 1372,
     "popularity": 891,
-    "members": 308482,
-    "favorites": 2937,
+    "members": 308574,
+    "favorites": 2939,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -585,7 +594,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51297,
@@ -599,11 +609,11 @@
     "background": "Ragna Crimson was released on Blu-ray in two collected sets by King Records from February 21, 2024, to June 5, 2024.",
     "episodes": 24,
     "score": 7.55,
-    "scored_by": 100119,
-    "rank": 1873,
+    "scored_by": 100162,
+    "rank": 1874,
     "popularity": 1027,
-    "members": 264940,
-    "favorites": 1579,
+    "members": 265067,
+    "favorites": 1581,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -641,7 +651,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54918,
@@ -657,10 +668,10 @@
     "background": "Tokyo Revengers: Tenjiku-hen was released on Blu-ray and DVD in three volumes by Kadokawa from January 17, 2024, to March 6, 2024. The anime adapts the manga chapters 126-185.",
     "episodes": 13,
     "score": 7.82,
-    "scored_by": 123941,
+    "scored_by": 123974,
     "rank": 1041,
     "popularity": 1057,
-    "members": 258178,
+    "members": 258245,
     "favorites": 1591,
     "type": "TV",
     "status": "Finished Airing",
@@ -700,7 +711,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53439,
@@ -714,10 +726,10 @@
     "background": "Boushoku no Berserk was released on Blu-ray in four volumes from December 20, 2023, to March 20, 2024. It adapts the first three volumes of the light novel.",
     "episodes": 12,
     "score": 6.73,
-    "scored_by": 122053,
-    "rank": 5919,
+    "scored_by": 122085,
+    "rank": 5918,
     "popularity": 1130,
-    "members": 242497,
+    "members": 242554,
     "favorites": 1003,
     "type": "TV",
     "status": "Finished Airing",
@@ -754,7 +766,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54362,
@@ -768,10 +781,10 @@
     "background": "Hametsu no Oukoku was released on Blu-ray in three volumes from February 2, 2024, to April 3, 2024.",
     "episodes": 12,
     "score": 6.22,
-    "scored_by": 88078,
-    "rank": 9020,
+    "scored_by": 88089,
+    "rank": 9018,
     "popularity": 1231,
-    "members": 221302,
+    "members": 221323,
     "favorites": 998,
     "type": "TV",
     "status": "Finished Airing",
@@ -815,7 +828,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52990,
@@ -831,10 +845,10 @@
     "background": "Keikenzumi na Kimi to, Keiken Zero na Ore ga, Otsukiai suru Hanashi. was released on Blu-ray and DVD in three volumes by Kadokawa from December 22, 2023, to February 28, 2024.",
     "episodes": 12,
     "score": 6.75,
-    "scored_by": 97190,
-    "rank": 5788,
+    "scored_by": 97223,
+    "rank": 5787,
     "popularity": 1248,
-    "members": 217818,
+    "members": 217880,
     "favorites": 1599,
     "type": "TV",
     "status": "Finished Airing",
@@ -870,7 +884,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50184,
@@ -886,11 +901,11 @@
     "background": "Seiken Gakuin no Makentsukai was released on Blu-ray in two volumes by Nippon Colombia from December 27, 2023, to February 28, 2024. The anime adapts material from the light novel series beginning from the first chapter.",
     "episodes": 12,
     "score": 6.2,
-    "scored_by": 68063,
-    "rank": 9083,
+    "scored_by": 68078,
+    "rank": 9079,
     "popularity": 1567,
-    "members": 170185,
-    "favorites": 865,
+    "members": 170211,
+    "favorites": 864,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -931,7 +946,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54852,
@@ -987,7 +1003,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53879,
@@ -1003,10 +1020,10 @@
     "background": "Kamonohashi Ron no Kindan Suiri was released on Blu-ray and DVD in three volumes from January 24, 2024, to March 27, 2024.",
     "episodes": 13,
     "score": 7.51,
-    "scored_by": 56728,
-    "rank": 1989,
+    "scored_by": 56744,
+    "rank": 1986,
     "popularity": 1638,
-    "members": 159634,
+    "members": 159658,
     "favorites": 1033,
     "type": "TV",
     "status": "Finished Airing",
@@ -1045,7 +1062,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53833,
@@ -1062,11 +1080,11 @@
     "background": "Watashi no Oshi wa Akuyaku Reijou. was released on Blu-ray on February 14, 2024.",
     "episodes": 12,
     "score": 7.35,
-    "scored_by": 67171,
+    "scored_by": 67206,
     "rank": 2698,
     "popularity": 1788,
-    "members": 143243,
-    "favorites": 1340,
+    "members": 143295,
+    "favorites": 1341,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1101,7 +1119,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50664,
@@ -1117,10 +1136,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.43,
-    "scored_by": 48338,
+    "scored_by": 48359,
     "rank": 2294,
     "popularity": 1816,
-    "members": 140081,
+    "members": 140113,
     "favorites": 381,
     "type": "TV",
     "status": "Finished Airing",
@@ -1157,7 +1176,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54743,
@@ -1173,10 +1193,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.44,
-    "scored_by": 60776,
+    "scored_by": 60789,
     "rank": 2266,
     "popularity": 1823,
-    "members": 139460,
+    "members": 139489,
     "favorites": 374,
     "type": "TV",
     "status": "Finished Airing",
@@ -1217,7 +1237,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52934,
@@ -1233,11 +1254,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.15,
-    "scored_by": 51643,
-    "rank": 3753,
+    "scored_by": 51658,
+    "rank": 3751,
     "popularity": 1903,
-    "members": 132498,
-    "favorites": 545,
+    "members": 132524,
+    "favorites": 546,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1273,7 +1294,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54103,
@@ -1289,11 +1311,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.14,
-    "scored_by": 48719,
+    "scored_by": 48728,
     "rank": 3826,
     "popularity": 1951,
-    "members": 128171,
-    "favorites": 828,
+    "members": 128197,
+    "favorites": 829,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1333,7 +1355,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53040,
@@ -1393,7 +1416,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55742,
@@ -1407,10 +1431,10 @@
     "background": "Mahoutsukai no Yome Season 2 Part 2 was released on Blu-ray in two volumes from February 28, 2024, to March 27, 2024.",
     "episodes": 12,
     "score": 7.91,
-    "scored_by": 47950,
+    "scored_by": 47968,
     "rank": 855,
     "popularity": 2091,
-    "members": 117386,
+    "members": 117408,
     "favorites": 333,
     "type": "TV",
     "status": "Finished Airing",
@@ -1452,7 +1476,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51215,
@@ -1469,10 +1494,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.44,
-    "scored_by": 42750,
-    "rank": 2283,
+    "scored_by": 42764,
+    "rank": 2282,
     "popularity": 2268,
-    "members": 103766,
+    "members": 103789,
     "favorites": 361,
     "type": "TV",
     "status": "Finished Airing",
@@ -1512,7 +1537,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53494,
@@ -1528,10 +1554,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.76,
-    "scored_by": 43729,
+    "scored_by": 43739,
     "rank": 5745,
     "popularity": 2305,
-    "members": 101123,
+    "members": 101149,
     "favorites": 215,
     "type": "TV",
     "status": "Finished Airing",
@@ -1566,7 +1592,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50586,
@@ -1580,10 +1607,10 @@
     "background": "Migi to Dali was released on Blu-ray in two volumes from February 14, 2024, to March 13, 2024.",
     "episodes": 13,
     "score": 7.69,
-    "scored_by": 38923,
+    "scored_by": 38932,
     "rank": 1374,
-    "popularity": 2335,
-    "members": 99651,
+    "popularity": 2336,
+    "members": 99672,
     "favorites": 635,
     "type": "TV",
     "status": "Finished Airing",
@@ -1623,7 +1650,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54431,
@@ -1679,7 +1707,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52962,
@@ -1695,10 +1724,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.2,
-    "scored_by": 44899,
-    "rank": 3509,
+    "scored_by": 44916,
+    "rank": 3508,
     "popularity": 2417,
-    "members": 93553,
+    "members": 93578,
     "favorites": 357,
     "type": "TV",
     "status": "Finished Airing",
@@ -1734,7 +1763,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51794,
@@ -1748,10 +1778,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.25,
-    "scored_by": 27143,
-    "rank": 3230,
+    "scored_by": 27154,
+    "rank": 3231,
     "popularity": 2482,
-    "members": 90109,
+    "members": 90153,
     "favorites": 433,
     "type": "TV",
     "status": "Finished Airing",
@@ -1791,7 +1821,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53300,
@@ -1807,10 +1838,10 @@
     "background": "Ojou to Banken-kun was released on Blu-ray in three volumes from January 17, 2024, to March 20, 2024.",
     "episodes": 13,
     "score": 5.67,
-    "scored_by": 30316,
-    "rank": 11961,
-    "popularity": 2570,
-    "members": 85300,
+    "scored_by": 30327,
+    "rank": 11958,
+    "popularity": 2569,
+    "members": 85325,
     "favorites": 519,
     "type": "TV",
     "status": "Finished Airing",
@@ -1849,7 +1880,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50695,
@@ -1863,10 +1895,10 @@
     "background": "MF Ghost was released on Blu-ray in two volumes from January 26, 2024, to February 28, 2024. The series adapts the first 56 chapters of the manga.",
     "episodes": 12,
     "score": 7.56,
-    "scored_by": 37321,
+    "scored_by": 37326,
     "rank": 1803,
-    "popularity": 2619,
-    "members": 82671,
+    "popularity": 2618,
+    "members": 82694,
     "favorites": 710,
     "type": "TV",
     "status": "Finished Airing",
@@ -1903,7 +1935,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53237,
@@ -1917,10 +1950,10 @@
     "background": "Shy was released on Blu-ray in three volumes from March 27, 2024, to May 29, 2024.",
     "episodes": 12,
     "score": 6.71,
-    "scored_by": 27100,
-    "rank": 6011,
-    "popularity": 2671,
-    "members": 80102,
+    "scored_by": 27109,
+    "rank": 6010,
+    "popularity": 2669,
+    "members": 80125,
     "favorites": 221,
     "type": "TV",
     "status": "Finished Airing",
@@ -1959,7 +1992,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49766,
@@ -1973,10 +2007,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.89,
-    "scored_by": 25902,
-    "rank": 5033,
+    "scored_by": 25905,
+    "rank": 5032,
     "popularity": 2741,
-    "members": 76840,
+    "members": 76852,
     "favorites": 339,
     "type": "TV",
     "status": "Finished Airing",
@@ -2013,7 +2047,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56425,
@@ -2027,10 +2062,10 @@
     "background": "",
     "episodes": 4,
     "score": 7.12,
-    "scored_by": 23418,
-    "rank": 3969,
+    "scored_by": 23422,
+    "rank": 3970,
     "popularity": 2782,
-    "members": 74728,
+    "members": 74738,
     "favorites": 440,
     "type": "TV",
     "status": "Finished Airing",
@@ -2063,7 +2098,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54301,
@@ -2077,10 +2113,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.48,
-    "scored_by": 25518,
-    "rank": 2115,
+    "scored_by": 25520,
+    "rank": 2114,
     "popularity": 2862,
-    "members": 71290,
+    "members": 71301,
     "favorites": 482,
     "type": "TV",
     "status": "Finished Airing",
@@ -2118,7 +2154,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55153,
@@ -2132,10 +2169,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.87,
-    "scored_by": 25962,
+    "scored_by": 25976,
     "rank": 938,
-    "popularity": 2879,
-    "members": 70727,
+    "popularity": 2877,
+    "members": 70753,
     "favorites": 388,
     "type": "TV",
     "status": "Finished Airing",
@@ -2176,7 +2213,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55310,
@@ -2190,10 +2228,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.91,
-    "scored_by": 26875,
-    "rank": 840,
-    "popularity": 2907,
-    "members": 69464,
+    "scored_by": 26890,
+    "rank": 839,
+    "popularity": 2906,
+    "members": 69496,
     "favorites": 652,
     "type": "TV",
     "status": "Finished Airing",
@@ -2233,7 +2271,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52985,
@@ -2249,10 +2288,10 @@
     "background": "Dekoboko Majo no Oyako Jijou was released on Blu-ray on March 13, 2024.",
     "episodes": 12,
     "score": 6.76,
-    "scored_by": 21561,
-    "rank": 5756,
+    "scored_by": 21563,
+    "rank": 5755,
     "popularity": 3013,
-    "members": 64950,
+    "members": 64959,
     "favorites": 151,
     "type": "TV",
     "status": "Finished Airing",
@@ -2288,7 +2327,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54041,
@@ -2341,7 +2381,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53262,
@@ -2357,11 +2398,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.15,
-    "scored_by": 17098,
-    "rank": 3802,
+    "scored_by": 17099,
+    "rank": 3801,
     "popularity": 3179,
-    "members": 58490,
-    "favorites": 344,
+    "members": 58497,
+    "favorites": 343,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2401,7 +2442,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53881,
@@ -2418,10 +2460,10 @@
     "background": "",
     "episodes": 8,
     "score": 7.59,
-    "scored_by": 18218,
-    "rank": 1679,
-    "popularity": 3262,
-    "members": 55873,
+    "scored_by": 18224,
+    "rank": 1678,
+    "popularity": 3264,
+    "members": 55890,
     "favorites": 324,
     "type": "TV",
     "status": "Finished Airing",
@@ -2453,7 +2495,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54616,
@@ -2469,10 +2512,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.55,
-    "scored_by": 27026,
-    "rank": 7005,
-    "popularity": 3265,
-    "members": 55845,
+    "scored_by": 27039,
+    "rank": 7003,
+    "popularity": 3266,
+    "members": 55863,
     "favorites": 79,
     "type": "TV",
     "status": "Finished Airing",
@@ -2509,7 +2552,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53526,
@@ -2523,10 +2567,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.69,
-    "scored_by": 25029,
+    "scored_by": 25120,
     "rank": 1385,
-    "popularity": 3491,
-    "members": 49752,
+    "popularity": 3489,
+    "members": 49842,
     "favorites": 166,
     "type": "TV",
     "status": "Finished Airing",
@@ -2560,7 +2604,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50583,
@@ -2577,10 +2622,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.29,
-    "scored_by": 17572,
-    "rank": 8597,
+    "scored_by": 17575,
+    "rank": 8598,
     "popularity": 3522,
-    "members": 48791,
+    "members": 48802,
     "favorites": 101,
     "type": "TV",
     "status": "Finished Airing",
@@ -2615,7 +2660,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55894,
@@ -2632,10 +2678,10 @@
     "episodes": 12,
     "score": 6.08,
     "scored_by": 13199,
-    "rank": 9825,
+    "rank": 9824,
     "popularity": 3751,
-    "members": 43938,
-    "favorites": 124,
+    "members": 43940,
+    "favorites": 123,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2677,7 +2723,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51956,
@@ -2695,8 +2742,8 @@
     "score": 6.87,
     "scored_by": 9762,
     "rank": 5160,
-    "popularity": 3824,
-    "members": 42638,
+    "popularity": 3825,
+    "members": 42641,
     "favorites": 446,
     "type": "TV",
     "status": "Finished Airing",
@@ -2731,7 +2778,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 53848,
@@ -2745,10 +2793,10 @@
     "background": "Megumi no Daigo: Kyuukoku no Orange was released on Blu-ray and DVD by Aniplex in two volumes from March 13, 2024, to June 5, 2024.",
     "episodes": 23,
     "score": 6.7,
-    "scored_by": 9300,
-    "rank": 6071,
+    "scored_by": 9301,
+    "rank": 6067,
     "popularity": 4502,
-    "members": 30290,
+    "members": 30294,
     "favorites": 74,
     "type": "TV",
     "status": "Finished Airing",
@@ -2784,7 +2832,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54798,
@@ -2799,10 +2848,10 @@
     "episodes": 12,
     "score": 5.82,
     "scored_by": 6902,
-    "rank": 11227,
+    "rank": 11225,
     "popularity": 4631,
-    "members": 28392,
-    "favorites": 77,
+    "members": 28395,
+    "favorites": 78,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -2838,7 +2887,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51305,
@@ -2852,10 +2902,10 @@
     "background": "",
     "episodes": 3,
     "score": 6.16,
-    "scored_by": 5035,
+    "scored_by": 5036,
     "rank": 9402,
     "popularity": 5074,
-    "members": 22854,
+    "members": 22858,
     "favorites": 58,
     "type": "TV",
     "status": "Finished Airing",
@@ -2892,7 +2942,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54803,
@@ -2906,10 +2957,10 @@
     "background": "",
     "episodes": 39,
     "score": 7.43,
-    "scored_by": 6658,
-    "rank": 2314,
+    "scored_by": 6662,
+    "rank": 2313,
     "popularity": 5747,
-    "members": 16643,
+    "members": 16647,
     "favorites": 116,
     "type": "TV",
     "status": "Finished Airing",
@@ -2946,7 +2997,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53633,
@@ -2959,11 +3011,11 @@
     "synopsis": "A young engineer, Tetsurou Okino, is transferred to a vermin extermination company called Hato Industries with the new robot Bullbuster that he developed himself. There, Hato Industries, a small company with little money, and its president Tajima are against a mysterious creature. There are fuel costs for robots, labor costs for pilots, and of course, wasting even a single bullet is unacceptable. Between their ideals of extermination and the reality of budgets, what does the future hold for Hato?\n\n(Source: Translated, edited from official website)",
     "background": "",
     "episodes": 12,
-    "score": 6.17,
-    "scored_by": 4309,
-    "rank": 9300,
+    "score": 6.16,
+    "scored_by": 4310,
+    "rank": 9393,
     "popularity": 6111,
-    "members": 14110,
+    "members": 14112,
     "favorites": 24,
     "type": "TV",
     "status": "Finished Airing",
@@ -3001,7 +3053,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54858,
@@ -3020,10 +3073,10 @@
     "background": "Hypnosis Mic: Division Rap Battle - Rhyme Anima + was released on Blu-ray and DVD in six volumes by Aniplex from December 20, 2023, to June 26, 2024.",
     "episodes": 13,
     "score": 6.86,
-    "scored_by": 3597,
+    "scored_by": 3599,
     "rank": 5209,
-    "popularity": 6342,
-    "members": 12856,
+    "popularity": 6343,
+    "members": 12859,
     "favorites": 108,
     "type": "TV",
     "status": "Finished Airing",
@@ -3056,7 +3109,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42385,
@@ -3070,10 +3124,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.94,
-    "scored_by": 3312,
+    "scored_by": 3313,
     "rank": 4798,
     "popularity": 6645,
-    "members": 11571,
+    "members": 11574,
     "favorites": 53,
     "type": "TV",
     "status": "Finished Airing",
@@ -3104,7 +3158,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54716,
@@ -3118,10 +3173,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.55,
-    "scored_by": 2698,
-    "rank": 6986,
-    "popularity": 7185,
-    "members": 9587,
+    "scored_by": 2699,
+    "rank": 6984,
+    "popularity": 7186,
+    "members": 9592,
     "favorites": 29,
     "type": "TV",
     "status": "Finished Airing",
@@ -3151,7 +3206,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54294,
@@ -3165,10 +3221,10 @@
     "background": "",
     "episodes": 20,
     "score": 7.09,
-    "scored_by": 1697,
-    "rank": 4126,
+    "scored_by": 1698,
+    "rank": 4127,
     "popularity": 7587,
-    "members": 8351,
+    "members": 8354,
     "favorites": 38,
     "type": "TV",
     "status": "Finished Airing",
@@ -3203,7 +3259,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54638,
@@ -3254,7 +3311,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44583,
@@ -3271,7 +3329,7 @@
     "episodes": 13,
     "score": 5.57,
     "scored_by": 918,
-    "rank": 12369,
+    "rank": 12371,
     "popularity": 7906,
     "members": 7516,
     "favorites": 10,
@@ -3300,7 +3358,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44081,
@@ -3316,9 +3375,9 @@
     "background": "",
     "episodes": 12,
     "score": 6.29,
-    "scored_by": 997,
-    "rank": 8594,
-    "popularity": 8435,
+    "scored_by": 998,
+    "rank": 8593,
+    "popularity": 8437,
     "members": 6405,
     "favorites": 29,
     "type": "TV",
@@ -3355,7 +3414,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56566,
@@ -3369,10 +3429,10 @@
     "background": "",
     "episodes": null,
     "score": 6.86,
-    "scored_by": 1614,
+    "scored_by": 1615,
     "rank": 5196,
     "popularity": 8521,
-    "members": 6235,
+    "members": 6238,
     "favorites": 58,
     "type": "TV",
     "status": "Currently Airing",
@@ -3403,7 +3463,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 55775,
@@ -3420,8 +3481,8 @@
     "episodes": 12,
     "score": 5.69,
     "scored_by": 1524,
-    "rank": 11867,
-    "popularity": 9044,
+    "rank": 11868,
+    "popularity": 9045,
     "members": 5366,
     "favorites": 16,
     "type": "TV",
@@ -3461,7 +3522,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54914,
@@ -3477,7 +3539,7 @@
     "score": 5.42,
     "scored_by": 612,
     "rank": 12843,
-    "popularity": 10453,
+    "popularity": 10455,
     "members": 3469,
     "favorites": 5,
     "type": "TV",
@@ -3513,7 +3575,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56487,
@@ -3528,7 +3591,7 @@
     "episodes": 12,
     "score": 5.88,
     "scored_by": 168,
-    "rank": 10918,
+    "rank": 10917,
     "popularity": 13944,
     "members": 1270,
     "favorites": 2,
@@ -3558,7 +3621,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56588,
@@ -3573,7 +3637,7 @@
     "episodes": 24,
     "score": 6.33,
     "scored_by": 326,
-    "rank": 8341,
+    "rank": 8343,
     "popularity": 14112,
     "members": 1209,
     "favorites": 2,
@@ -3609,7 +3673,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 56997,
@@ -3656,7 +3721,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56505,
@@ -3699,53 +3765,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56677,
-    "title": "Saekomdalkom Catch! Tiniping",
-    "title_english": null,
-    "title_japanese": "새콤달콤 캐치! 티니핑",
-    "title_synonyms": [
-      "Dessert Catch! Teenieping",
-      "Catch! Teenieping 4th Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1673/141592l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/9F0j75zX70o?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Puffping stole the Magic Sugar Ball! This has created a strange magical phenomenon where all the Dessert Teeniepings get sucked into a mirror which releases them on Earth for Romi to catch! Along with the Royal Dessert Teeniepings, Jellyping, Shashaping, and Fluffyping, Romi will have to accomplish her mission as fast as possible, otherwise, the Cake Castle will inevitably collapse!\n\n(Source: Catch Teenieping Wiki)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14594,
-    "popularity": 17477,
-    "members": 540,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [],
-    "aired_from": "2023-09-27T00:00:00+00:00",
-    "aired_to": "2024-04-03T00:00:00+00:00",
-    "broadcast": "Wednesdays at Unknown",
-    "url": "https://myanimelist.net/anime/56677/Saekomdalkom_Catch_Tiniping",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57436,
@@ -3790,56 +3811,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57132,
-    "title": "Hero Inside",
-    "title_english": null,
-    "title_japanese": "히어로 인사이드",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1668/139595l.jpg",
-    "trailer_url": null,
-    "synopsis": "Heroes can pop out of their comic books when summoned in this comedic action-adventure.\n\nThe cartoonist Scott mysteriously disappears, leaving behind 100 volumes of superhero comic books that spread throughout San Francisco. The protagonist, Mike, stumbles upon \"Crying Man\" and ends up summoning the superhero from the book, forever changing his life. But it's not just Mike, but many people begin to summon superheroes from these comic books, leading to a series of events unfolding throughout San Francisco.",
-    "background": "",
-    "episodes": 11,
-    "score": null,
-    "scored_by": null,
-    "rank": 21930,
-    "popularity": 18478,
-    "members": 455,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "Million Volt"
-    ],
-    "producers": [
-      "CJ ENM",
-      "Studio Goindol"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [],
-    "aired_from": "2023-11-08T00:00:00+00:00",
-    "aired_to": "2024-01-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57132/Hero_Inside",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56504,
@@ -3854,8 +3827,8 @@
     "episodes": 26,
     "score": null,
     "scored_by": null,
-    "rank": 20645,
-    "popularity": 18673,
+    "rank": 20646,
+    "popularity": 18677,
     "members": 440,
     "favorites": 1,
     "type": "TV",
@@ -3884,95 +3857,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56986,
-    "title": "Riseman",
-    "title_english": null,
-    "title_japanese": "라이즈맨",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1974/139295l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 14488,
-    "popularity": 19745,
-    "members": 360,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [],
-    "aired_from": "2023-10-18T00:00:00+00:00",
-    "aired_to": "2024-01-10T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56986/Riseman",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50995,
-    "title": "Zenryoku Usagi (2023)",
-    "title_english": null,
-    "title_japanese": "全力ウサギ (2023)",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1654/120887l.jpg",
-    "trailer_url": null,
-    "synopsis": "New anime project for Zenryoku Usagi.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 17057,
-    "popularity": 20146,
-    "members": 336,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Manga",
-    "studios": [
-      "Rising Force"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-10-07T00:00:00+00:00",
-    "aired_to": "2023-12-30T00:00:00+00:00",
-    "broadcast": "Saturdays at 17:55 (JST)",
-    "url": "https://myanimelist.net/anime/50995/Zenryoku_Usagi_2023",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57077,
@@ -3987,8 +3873,8 @@
     "episodes": 11,
     "score": null,
     "scored_by": null,
-    "rank": 15799,
-    "popularity": 20261,
+    "rank": 15800,
+    "popularity": 20262,
     "members": 327,
     "favorites": 0,
     "type": "TV",
@@ -4017,470 +3903,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57006,
-    "title": "Sinbi Apartment: Ghost Ball Zero - Du Beonjjae Iyagi",
-    "title_english": null,
-    "title_japanese": "신비아파트 고스트볼 ZERO: 두 번째 이야기",
-    "title_synonyms": [
-      "Sinbi Apartment: Ghost Ball Zero Second Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1918/139337l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 15,
-    "score": null,
-    "scored_by": null,
-    "rank": 15225,
-    "popularity": 21093,
-    "members": 281,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "26 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Studio BAZOOKA"
-    ],
-    "producers": [
-      "CJ ENM"
-    ],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-30T00:00:00+00:00",
-    "aired_to": "2024-03-14T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57006/Sinbi_Apartment__Ghost_Ball_Zero_-_Du_Beonjjae_Iyagi",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56485,
-    "title": "Shasha and Milo",
-    "title_english": null,
-    "title_japanese": "샤샤 앤 마일로",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1635/149971l.jpg",
-    "trailer_url": null,
-    "synopsis": "Shasha and Milo are the newly activated Crescent Moon Guardians. Imbued with the power to transform between human, cat and a formidable hybrid form, Shasha and Milo are tasked with protecting Crescent Island from the dark forces that lurk beneath it... whilst navigating the daily complexities of preteen life.\n\n(Source: Pingo)",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 14861,
-    "popularity": 21240,
-    "members": 272,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": null,
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Studio Goindol"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-03T00:00:00+00:00",
-    "aired_to": "2024-01-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56485/Shasha_and_Milo",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56484,
-    "title": "Cabeon",
-    "title_english": null,
-    "title_japanese": "카비온",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1864/150163l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 20465,
-    "popularity": 21264,
-    "members": 270,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-09-02T00:00:00+00:00",
-    "aired_to": "2024-11-09T00:00:00+00:00",
-    "broadcast": "Saturdays at 14:45 (JST)",
-    "url": "https://myanimelist.net/anime/56484/Cabeon",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57131,
-    "title": "Choeganggyeongchal Miniforce",
-    "title_english": null,
-    "title_japanese": "최강경찰 미니특공대",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1259/139593l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20684,
-    "popularity": 22136,
-    "members": 223,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic",
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-28T00:00:00+00:00",
-    "aired_to": "2024-05-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57131/Choeganggyeongchal_Miniforce",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56892,
-    "title": "Kkomimanyeo Lara Season 2",
-    "title_english": null,
-    "title_japanese": "꼬미마녀 라라 시즌2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1348/139060l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 17901,
-    "popularity": 22282,
-    "members": 217,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Mahou Shoujo",
-      "School"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-10-14T00:00:00+00:00",
-    "aired_to": "2023-01-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56892/Kkomimanyeo_Lara_Season_2",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57106,
-    "title": "Hello Carbot Season 14",
-    "title_english": null,
-    "title_japanese": "헬로 카봇 시즌14",
-    "title_synonyms": [
-      "Hello Carbot X"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1449/139570l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21885,
-    "popularity": 22632,
-    "members": 199,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-05T00:00:00+00:00",
-    "aired_to": "2024-05-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57106/Hello_Carbot_Season_14",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57218,
-    "title": "Geomeongsupeul Jikyeola! Birdy Friends",
-    "title_english": null,
-    "title_japanese": "거멍숲을 지켜라! 버디프렌즈",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1488/139750l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21538,
-    "popularity": 23173,
-    "members": 177,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-23T00:00:00+00:00",
-    "aired_to": "2024-05-16T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57218/Geomeongsupeul_Jikyeola_Birdy_Friends",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57337,
-    "title": "Mythteria 2nd Season",
-    "title_english": "Mythteria 2nd Season",
-    "title_japanese": "미스테리야 시즌2",
-    "title_synonyms": [
-      "Miseuteliya 2nd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1561/139978l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18938,
-    "popularity": 23319,
-    "members": 172,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-27T00:00:00+00:00",
-    "aired_to": "2024-02-20T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57337/Mythteria_2nd_Season",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57598,
-    "title": "Maca and Roni 3",
-    "title_english": null,
-    "title_japanese": "마카앤로니3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1872/140546l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 18360,
-    "popularity": 23487,
-    "members": 166,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brick Studio"
-    ],
-    "producers": [
-      "Studio BAZOOKA",
-      "CJ ENM",
-      "ACOMMZ"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-10-28T00:00:00+00:00",
-    "aired_to": "2024-02-03T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57598/Maca_and_Roni_3",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57952,
-    "title": "Jijia Yingxiong: Ji Dou Yongzhe 2nd Season",
-    "title_english": "Hero of Robots 2nd Season",
-    "title_japanese": "機甲英雄 機鬥勇者",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1109/141139l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 17425,
-    "popularity": 24129,
-    "members": 147,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Asahi Production"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-11-10T00:00:00+00:00",
-    "aired_to": "2023-12-29T00:00:00+00:00",
-    "broadcast": "Fridays at Unknown",
-    "url": "https://myanimelist.net/anime/57952/Jijia_Yingxiong__Ji_Dou_Yongzhe_2nd_Season",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 60092,
@@ -4497,8 +3921,8 @@
     "episodes": 4,
     "score": null,
     "scored_by": null,
-    "rank": 15504,
-    "popularity": 25086,
+    "rank": 15507,
+    "popularity": 25059,
     "members": 125,
     "favorites": 0,
     "type": "TV",
@@ -4528,7 +3952,8 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 61187,
@@ -4574,94 +3999,7 @@
     "year": 2023,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60888,
-    "title": "Xin Qi Bao Long Zhan Che X3: Chao Dou Bao Long",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车X3 超斗爆龙",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1450/147814l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16582,
-    "popularity": 29006,
-    "members": 62,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-10-27T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60888/Xin_Qi_Bao_Long_Zhan_Che_X3__Chao_Dou_Bao_Long",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62451,
-    "title": "Tobot: Daedosiui Yeongungdeul Part 3",
-    "title_english": null,
-    "title_japanese": "또봇 : 대도시의 영웅들 파트 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1229/151971l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 15729,
-    "popularity": 29126,
-    "members": 52,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2023-10-06T00:00:00+00:00",
-    "aired_to": "2023-11-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62451/Tobot__Daedosiui_Yeongungdeul_Part_3",
-    "year": 2023,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

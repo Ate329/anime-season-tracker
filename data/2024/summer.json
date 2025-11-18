@@ -13,11 +13,11 @@
     "background": "[Oshi no Ko] 2nd Season was released on Blu-ray and DVD in six volumes from October 25, 2024, to March 26, 2025.",
     "episodes": 13,
     "score": 8.54,
-    "scored_by": 227359,
+    "scored_by": 227451,
     "rank": 133,
     "popularity": 530,
-    "members": 475929,
-    "favorites": 5878,
+    "members": 476066,
+    "favorites": 5877,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -54,7 +54,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54744,
@@ -73,11 +74,11 @@
     "background": "The series was released on Blu-ray and DVD in three volumes from September 25, 2024, to November 27, 2024.",
     "episodes": 12,
     "score": 7.56,
-    "scored_by": 243859,
-    "rank": 1809,
+    "scored_by": 243971,
+    "rank": 1808,
     "popularity": 549,
-    "members": 458882,
-    "favorites": 5480,
+    "members": 459040,
+    "favorites": 5483,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -111,7 +112,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58059,
@@ -127,11 +129,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.86,
-    "scored_by": 174869,
+    "scored_by": 174935,
     "rank": 966,
     "popularity": 816,
-    "members": 329253,
-    "favorites": 1807,
+    "members": 329366,
+    "favorites": 1808,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -170,7 +172,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57524,
@@ -227,7 +230,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52635,
@@ -246,10 +250,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.67,
-    "scored_by": 107910,
-    "rank": 6264,
-    "popularity": 972,
-    "members": 279039,
+    "scored_by": 107952,
+    "rank": 6263,
+    "popularity": 971,
+    "members": 279086,
     "favorites": 1300,
     "type": "TV",
     "status": "Finished Airing",
@@ -284,7 +288,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58426,
@@ -298,11 +303,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.96,
-    "scored_by": 109373,
-    "rank": 4721,
+    "scored_by": 109402,
+    "rank": 4720,
     "popularity": 1030,
-    "members": 264341,
-    "favorites": 1674,
+    "members": 264406,
+    "favorites": 1673,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -335,7 +340,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52367,
@@ -351,10 +357,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.25,
-    "scored_by": 92420,
-    "rank": 3215,
+    "scored_by": 92489,
+    "rank": 3214,
     "popularity": 1220,
-    "members": 222696,
+    "members": 222806,
     "favorites": 839,
     "type": "TV",
     "status": "Finished Airing",
@@ -393,7 +399,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 57892,
@@ -410,10 +417,10 @@
     "background": "Hazurewaku no \"Joutai Ijou Skill\" de Saikyou ni Natta Ore ga Subete wo Juurin suru made was released on Blu-ray in three volumes from September 18, 2024, to November 20, 2024.",
     "episodes": 12,
     "score": 6.48,
-    "scored_by": 109262,
-    "rank": 7427,
+    "scored_by": 109311,
+    "rank": 7426,
     "popularity": 1269,
-    "members": 212890,
+    "members": 212962,
     "favorites": 839,
     "type": "TV",
     "status": "Finished Airing",
@@ -453,7 +460,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54968,
@@ -467,10 +475,10 @@
     "background": "Giji Harem was released on Blu-ray in a box set on November 22, 2024.",
     "episodes": 12,
     "score": 7.83,
-    "scored_by": 85437,
-    "rank": 1018,
+    "scored_by": 85472,
+    "rank": 1017,
     "popularity": 1307,
-    "members": 206871,
+    "members": 206936,
     "favorites": 1619,
     "type": "TV",
     "status": "Finished Airing",
@@ -507,7 +515,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57058,
@@ -524,10 +533,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.88,
-    "scored_by": 99301,
-    "rank": 5089,
+    "scored_by": 99331,
+    "rank": 5088,
     "popularity": 1344,
-    "members": 201061,
+    "members": 201135,
     "favorites": 676,
     "type": "TV",
     "status": "Finished Airing",
@@ -568,7 +577,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52481,
@@ -582,10 +592,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.32,
-    "scored_by": 83141,
-    "rank": 2818,
+    "scored_by": 83179,
+    "rank": 2819,
     "popularity": 1371,
-    "members": 197368,
+    "members": 197429,
     "favorites": 1534,
     "type": "TV",
     "status": "Finished Airing",
@@ -620,7 +630,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54724,
@@ -636,11 +647,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.79,
-    "scored_by": 78984,
+    "scored_by": 79005,
     "rank": 1132,
     "popularity": 1392,
-    "members": 193204,
-    "favorites": 831,
+    "members": 193258,
+    "favorites": 830,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -679,7 +690,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54913,
@@ -695,11 +707,11 @@
     "background": "Shinmai Ossan Boukensha, Saikyou Party ni Shinu hodo Kitaerarete Muteki ni Naru. was released on Blu-ray as a two-disc box set on September 25, 2024.",
     "episodes": 12,
     "score": 7.37,
-    "scored_by": 100305,
+    "scored_by": 100345,
     "rank": 2567,
     "popularity": 1400,
-    "members": 192036,
-    "favorites": 689,
+    "members": 192107,
+    "favorites": 691,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -738,7 +750,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49785,
@@ -789,7 +802,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55848,
@@ -803,10 +817,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.39,
-    "scored_by": 49086,
-    "rank": 7999,
+    "scored_by": 49097,
+    "rank": 7997,
     "popularity": 1664,
-    "members": 156594,
+    "members": 156615,
     "favorites": 568,
     "type": "TV",
     "status": "Finished Airing",
@@ -840,7 +854,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53802,
@@ -858,11 +873,11 @@
     "background": "",
     "episodes": 24,
     "score": 7.42,
-    "scored_by": 48671,
-    "rank": 2372,
+    "scored_by": 48688,
+    "rank": 2370,
     "popularity": 1731,
-    "members": 148462,
-    "favorites": 945,
+    "members": 148497,
+    "favorites": 946,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -904,7 +919,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57876,
@@ -920,10 +936,10 @@
     "background": "Maougun Saikyou no Majutsushi wa Ningen datta was released on Blu-ray and DVD as a box set on November 29, 2024.",
     "episodes": 12,
     "score": 6.41,
-    "scored_by": 60661,
-    "rank": 7906,
+    "scored_by": 60693,
+    "rank": 7907,
     "popularity": 1771,
-    "members": 144309,
+    "members": 144348,
     "favorites": 419,
     "type": "TV",
     "status": "Finished Airing",
@@ -965,7 +981,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57810,
@@ -979,10 +996,10 @@
     "background": "Shoushimin Series aired on TV Asahi's NUMAnimation block. The series was released on Blu-ray in three volumes from October 30, 2024, to December 27, 2024.",
     "episodes": 10,
     "score": 7.35,
-    "scored_by": 44588,
-    "rank": 2691,
+    "scored_by": 44606,
+    "rank": 2689,
     "popularity": 1889,
-    "members": 133786,
+    "members": 133821,
     "favorites": 658,
     "type": "TV",
     "status": "Finished Airing",
@@ -1022,7 +1039,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56062,
@@ -1039,10 +1057,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.23,
-    "scored_by": 50340,
+    "scored_by": 50350,
     "rank": 8961,
     "popularity": 1911,
-    "members": 132102,
+    "members": 132139,
     "favorites": 385,
     "type": "TV",
     "status": "Finished Airing",
@@ -1085,7 +1103,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49981,
@@ -1104,10 +1123,10 @@
     "background": "The broadcast was put on hiatus on August 7, 2024, in order to maintain the quality of the production. Broadcasting resumed, starting from episode 1, on April 10, 2025.",
     "episodes": 12,
     "score": 6.76,
-    "scored_by": 20265,
-    "rank": 5711,
+    "scored_by": 20287,
+    "rank": 5710,
     "popularity": 2237,
-    "members": 105458,
+    "members": 105476,
     "favorites": 563,
     "type": "TV",
     "status": "Finished Airing",
@@ -1146,7 +1165,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56063,
@@ -1160,11 +1180,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.05,
-    "scored_by": 35487,
-    "rank": 629,
+    "scored_by": 35498,
+    "rank": 628,
     "popularity": 2256,
-    "members": 104724,
-    "favorites": 537,
+    "members": 104743,
+    "favorites": 538,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1196,7 +1216,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57217,
@@ -1215,11 +1236,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.55,
-    "scored_by": 36356,
+    "scored_by": 36365,
     "rank": 1860,
     "popularity": 2333,
-    "members": 99595,
-    "favorites": 463,
+    "members": 99628,
+    "favorites": 464,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1256,7 +1277,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57380,
@@ -1273,11 +1295,11 @@
     "background": "Beginning from episode 2, each episode was streamed one week in advance of the TV broadcast from July 8, 2024, on U-NEXT and Anime Houdai. Regular broadcasting began July 8, 2024.",
     "episodes": 12,
     "score": 6.68,
-    "scored_by": 39837,
-    "rank": 6227,
+    "scored_by": 39857,
+    "rank": 6226,
     "popularity": 2470,
-    "members": 90679,
-    "favorites": 323,
+    "members": 90724,
+    "favorites": 322,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1318,7 +1340,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54855,
@@ -1336,11 +1359,11 @@
     "background": "Senpai wa Otokonoko was released on Blu-ray and DVD in four volumes from October 30, 2024, to January 29, 2025.",
     "episodes": 12,
     "score": 7.29,
-    "scored_by": 27736,
-    "rank": 2987,
+    "scored_by": 27746,
+    "rank": 2988,
     "popularity": 2597,
-    "members": 84306,
-    "favorites": 448,
+    "members": 84329,
+    "favorites": 449,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1376,7 +1399,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53128,
@@ -1390,10 +1414,10 @@
     "background": "Atri: My Dear Moments is an adaptation of Frontwing and Makura's visual novel of the same title.",
     "episodes": 13,
     "score": 7.2,
-    "scored_by": 23869,
-    "rank": 3466,
-    "popularity": 2669,
-    "members": 80088,
+    "scored_by": 23873,
+    "rank": 3465,
+    "popularity": 2670,
+    "members": 80098,
     "favorites": 430,
     "type": "TV",
     "status": "Finished Airing",
@@ -1426,7 +1450,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 57646,
@@ -1444,11 +1469,11 @@
     "background": "",
     "episodes": 12,
     "score": 5.81,
-    "scored_by": 33212,
-    "rank": 11309,
+    "scored_by": 33216,
+    "rank": 11308,
     "popularity": 2677,
-    "members": 79867,
-    "favorites": 160,
+    "members": 79877,
+    "favorites": 159,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1486,7 +1511,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55749,
@@ -1544,7 +1570,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56449,
@@ -1562,10 +1589,10 @@
     "background": "Madougushi Dahliya wa Utsumukanai was released on Blu-ray in two collected boxes from October 30, 2024, to December 25, 2024.",
     "episodes": 12,
     "score": 6.8,
-    "scored_by": 30255,
+    "scored_by": 30269,
     "rank": 5530,
-    "popularity": 2711,
-    "members": 77924,
+    "popularity": 2710,
+    "members": 77964,
     "favorites": 197,
     "type": "TV",
     "status": "Finished Airing",
@@ -1607,7 +1634,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54284,
@@ -1621,10 +1649,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.01,
-    "scored_by": 25609,
-    "rank": 4484,
+    "scored_by": 25619,
+    "rank": 4485,
     "popularity": 2835,
-    "members": 72385,
+    "members": 72403,
     "favorites": 236,
     "type": "TV",
     "status": "Finished Airing",
@@ -1661,7 +1689,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55996,
@@ -1677,11 +1706,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.25,
-    "scored_by": 23857,
-    "rank": 8824,
+    "scored_by": 23868,
+    "rank": 8822,
     "popularity": 2917,
-    "members": 69064,
-    "favorites": 215,
+    "members": 69083,
+    "favorites": 214,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1720,7 +1749,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53626,
@@ -1734,10 +1764,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.05,
-    "scored_by": 21096,
+    "scored_by": 21106,
     "rank": 9991,
     "popularity": 2926,
-    "members": 68663,
+    "members": 68670,
     "favorites": 142,
     "type": "TV",
     "status": "Finished Airing",
@@ -1772,7 +1802,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58272,
@@ -1788,10 +1819,10 @@
     "background": "Each episode was streamed three days in advance of the TV broadcast starting on June 29, 2024, on ABEMA, Crunchyroll, and ANIPLUS Asia. Regular broadcasting began on July 2, 2024. Boku no Tsuma wa Kanjou ga Nai was released on Blu-ray as a box set on November 8, 2024.",
     "episodes": 12,
     "score": 6.75,
-    "scored_by": 24289,
-    "rank": 5773,
+    "scored_by": 24301,
+    "rank": 5772,
     "popularity": 3051,
-    "members": 63628,
+    "members": 63638,
     "favorites": 233,
     "type": "TV",
     "status": "Finished Airing",
@@ -1832,7 +1863,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57947,
@@ -1849,10 +1881,10 @@
     "background": "Episodes 1-2 received an advance release on Kadokawa's YouTube channel on June 2, 2024. Regular broadcasting began July 8, 2024.",
     "episodes": 12,
     "score": 7.35,
-    "scored_by": 19651,
-    "rank": 2678,
-    "popularity": 3209,
-    "members": 57423,
+    "scored_by": 19658,
+    "rank": 2676,
+    "popularity": 3207,
+    "members": 57442,
     "favorites": 242,
     "type": "TV",
     "status": "Finished Airing",
@@ -1888,7 +1920,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 55844,
@@ -1902,10 +1935,10 @@
     "background": "Tasogare Out Focus was released on Blu-ray in three volumes from October 25, 2024, to December 27, 2024.",
     "episodes": 12,
     "score": 7.47,
-    "scored_by": 18518,
+    "scored_by": 18535,
     "rank": 2181,
     "popularity": 3281,
-    "members": 55394,
+    "members": 55415,
     "favorites": 469,
     "type": "TV",
     "status": "Finished Airing",
@@ -1941,7 +1974,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56179,
@@ -1955,10 +1989,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.79,
-    "scored_by": 12686,
-    "rank": 5588,
+    "scored_by": 12691,
+    "rank": 5587,
     "popularity": 3297,
-    "members": 54859,
+    "members": 54874,
     "favorites": 271,
     "type": "TV",
     "status": "Finished Airing",
@@ -1995,7 +2029,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54835,
@@ -2011,10 +2046,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.53,
-    "scored_by": 18309,
-    "rank": 7138,
-    "popularity": 3410,
-    "members": 51939,
+    "scored_by": 18320,
+    "rank": 7139,
+    "popularity": 3409,
+    "members": 51969,
     "favorites": 68,
     "type": "TV",
     "status": "Finished Airing",
@@ -2053,7 +2088,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56348,
@@ -2067,10 +2103,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.12,
-    "scored_by": 19763,
-    "rank": 3958,
+    "scored_by": 19766,
+    "rank": 3957,
     "popularity": 3466,
-    "members": 50310,
+    "members": 50325,
     "favorites": 110,
     "type": "TV",
     "status": "Finished Airing",
@@ -2107,7 +2143,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57845,
@@ -2124,10 +2161,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.6,
-    "scored_by": 17181,
-    "rank": 12251,
+    "scored_by": 17187,
+    "rank": 12252,
     "popularity": 3472,
-    "members": 50081,
+    "members": 50097,
     "favorites": 198,
     "type": "TV",
     "status": "Finished Airing",
@@ -2163,7 +2200,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57099,
@@ -2177,10 +2215,10 @@
     "background": "Na Nare Hana Nare was released on Blu-ray in three volumes from October 30, 2024, to December 18, 2024.",
     "episodes": 12,
     "score": 6.36,
-    "scored_by": 9753,
-    "rank": 8167,
+    "scored_by": 9754,
+    "rank": 8169,
     "popularity": 4336,
-    "members": 32848,
+    "members": 32859,
     "favorites": 78,
     "type": "TV",
     "status": "Finished Airing",
@@ -2211,7 +2249,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57567,
@@ -2228,10 +2267,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.91,
-    "scored_by": 10409,
-    "rank": 4949,
+    "scored_by": 10413,
+    "rank": 4948,
     "popularity": 4460,
-    "members": 30791,
+    "members": 30797,
     "favorites": 70,
     "type": "TV",
     "status": "Finished Airing",
@@ -2270,7 +2309,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58488,
@@ -2288,9 +2328,9 @@
     "episodes": 22,
     "score": 7.58,
     "scored_by": 8464,
-    "rank": 1713,
-    "popularity": 4645,
-    "members": 28150,
+    "rank": 1712,
+    "popularity": 4646,
+    "members": 28161,
     "favorites": 92,
     "type": "TV",
     "status": "Finished Airing",
@@ -2334,64 +2374,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57945,
-    "title": "Tasuuketsu",
-    "title_english": "Tasuketsu: Fate of the Majority",
-    "title_japanese": "多数欠",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1482/143629l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/NZU34NPoGLk?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "During his school computer class, Saneatsu Narita is presented with a strange screen posing a yes-or-no question that quickly disappears. The next day, Saneatsu wakes up to a world where everyone, save for himself and a few others, is dead.\n\nAn announcement from a mysterious figure known only as the Emperor begins to shed light on the situation. The question that Saneatsu saw on the screen is part of a game called Tasuuketsu. Every day, the survivors will see a question appear on a screen, and answering it will determine who lives to see the next day. Responding the same as the majority will guarantee death, and the last player standing will earn the right to meet the Emperor.\n\nSaneatsu resolves to beat the Emperor at their own game, making use of the hidden envelopes containing powers that can aid the players. With the help of his small group of friends, Saneatsu must avoid falling into the machinations of the other players and win this wicked game.\n\n[Written by MAL Rewrite]",
-    "background": "",
-    "episodes": 24,
-    "score": 5.55,
-    "scored_by": 7558,
-    "rank": 12430,
-    "popularity": 4869,
-    "members": 25296,
-    "favorites": 44,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Web manga",
-    "studios": [
-      "Satelight"
-    ],
-    "producers": [
-      "VAP",
-      "Nippon Television Network",
-      "Nippon Television Music",
-      "BS NTV",
-      "Marui Group",
-      "COMICSMART",
-      "NetEase",
-      "Team Kawadon"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Drama",
-      "Suspense"
-    ],
-    "themes": [
-      "High Stakes Game",
-      "Psychological"
-    ],
-    "demographics": [],
-    "aired_from": "2024-07-03T00:00:00+00:00",
-    "aired_to": "2024-12-25T00:00:00+00:00",
-    "broadcast": "Wednesdays at 01:59 (JST)",
-    "url": "https://myanimelist.net/anime/57945/Tasuuketsu",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58357,
@@ -2441,7 +2425,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 57325,
@@ -2457,10 +2442,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.39,
-    "scored_by": 6171,
-    "rank": 2500,
-    "popularity": 5669,
-    "members": 17301,
+    "scored_by": 6177,
+    "rank": 2498,
+    "popularity": 5668,
+    "members": 17313,
     "favorites": 95,
     "type": "TV",
     "status": "Finished Airing",
@@ -2499,7 +2484,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58985,
@@ -2515,10 +2501,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.43,
-    "scored_by": 2613,
-    "rank": 12793,
+    "scored_by": 2614,
+    "rank": 12792,
     "popularity": 6424,
-    "members": 12494,
+    "members": 12498,
     "favorites": 27,
     "type": "TV",
     "status": "Finished Airing",
@@ -2546,7 +2532,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 54730,
@@ -2603,7 +2590,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56189,
@@ -2618,8 +2606,8 @@
     "episodes": 13,
     "score": 5.82,
     "scored_by": 2074,
-    "rank": 11222,
-    "popularity": 7598,
+    "rank": 11220,
+    "popularity": 7599,
     "members": 8325,
     "favorites": 36,
     "type": "TV",
@@ -2651,7 +2639,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59010,
@@ -2668,10 +2657,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.03,
-    "scored_by": 1862,
-    "rank": 10140,
+    "scored_by": 1864,
+    "rank": 10141,
     "popularity": 9358,
-    "members": 4893,
+    "members": 4894,
     "favorites": 15,
     "type": "TV",
     "status": "Finished Airing",
@@ -2700,7 +2689,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 54143,
@@ -2715,7 +2705,7 @@
     "episodes": 13,
     "score": 7.1,
     "scored_by": 1047,
-    "rank": 4045,
+    "rank": 4047,
     "popularity": 10844,
     "members": 3120,
     "favorites": 12,
@@ -2749,7 +2739,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59049,
@@ -2764,9 +2755,9 @@
     "episodes": 6,
     "score": 5.87,
     "scored_by": 173,
-    "rank": 10977,
-    "popularity": 11669,
-    "members": 2462,
+    "rank": 10978,
+    "popularity": 11667,
+    "members": 2463,
     "favorites": 12,
     "type": "TV",
     "status": "Finished Airing",
@@ -2795,7 +2786,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59148,
@@ -2843,7 +2835,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58926,
@@ -2857,9 +2850,9 @@
     "background": "",
     "episodes": 12,
     "score": 6.7,
-    "scored_by": 786,
-    "rank": 6115,
-    "popularity": 12451,
+    "scored_by": 787,
+    "rank": 6113,
+    "popularity": 12453,
     "members": 1964,
     "favorites": 11,
     "type": "TV",
@@ -2895,7 +2888,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59649,
@@ -2910,9 +2904,9 @@
     "episodes": 5,
     "score": null,
     "scored_by": null,
-    "rank": 18991,
-    "popularity": 14134,
-    "members": 1205,
+    "rank": 18992,
+    "popularity": 14132,
+    "members": 1206,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -2939,51 +2933,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59685,
-    "title": "Yongisanda",
-    "title_english": "The Dragon Next Door",
-    "title_japanese": "용이산다",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1894/145130l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/16HCL74184k?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Meet my neighbor—a typical fantasy novelist, more than a little scatterbrained, likes to gossip, borrow things without asking, and play MMORPGs. Oh, and by the way, he's a dragon in disguise named Dragon Kim.\n\n(Source: MU)",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 16909,
-    "popularity": 15212,
-    "members": 910,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Web manga",
-    "studios": [
-      "Durufix"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2024-08-27T00:00:00+00:00",
-    "aired_to": "2024-11-22T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/59685/Yongisanda",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59290,
@@ -2998,8 +2949,8 @@
     "episodes": 12,
     "score": 5.42,
     "scored_by": 284,
-    "rank": 12859,
-    "popularity": 15237,
+    "rank": 12860,
+    "popularity": 15238,
     "members": 904,
     "favorites": 1,
     "type": "TV",
@@ -3027,7 +2978,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58944,
@@ -3076,7 +3028,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 58506,
@@ -3094,8 +3047,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 21821,
-    "popularity": 17778,
+    "rank": 21822,
+    "popularity": 17790,
     "members": 512,
     "favorites": 0,
     "type": "TV",
@@ -3126,50 +3079,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59011,
-    "title": "Gendai Goyaku",
-    "title_english": "Modern Mistranslation",
-    "title_japanese": "現代誤訳",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1189/144078l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/hRMnNtsRZFY?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "The series focuses on teaching students famous quotations from historical figures from all over the world by presenting the quotations incorrectly at first as \"mistranslations\" in the \"modern day,\" encouraging the students to learn the correct quotes in the process.\n\n(Source: Crunchyroll)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 21521,
-    "popularity": 17810,
-    "members": 510,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "ILCASHIPS"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2024-07-07T00:00:00+00:00",
-    "aired_to": "2024-09-22T00:00:00+00:00",
-    "broadcast": "Sundays at 00:00 (JST)",
-    "url": "https://myanimelist.net/anime/59011/Gendai_Goyaku",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59752,
@@ -3214,7 +3125,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 59409,
@@ -3231,8 +3143,8 @@
     "episodes": 50,
     "score": null,
     "scored_by": null,
-    "rank": 19217,
-    "popularity": 20029,
+    "rank": 19218,
+    "popularity": 20032,
     "members": 344,
     "favorites": 1,
     "type": "TV",
@@ -3259,228 +3171,8 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59387,
-    "title": "Hello Carbot Season 15",
-    "title_english": "Hello Carbot Star Guardian",
-    "title_japanese": "헬로 카봇 시즌15",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1333/144451l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 39,
-    "score": null,
-    "scored_by": null,
-    "rank": 21885,
-    "popularity": 22901,
-    "members": 189,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-06-30T00:00:00+00:00",
-    "aired_to": "2025-04-20T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/59387/Hello_Carbot_Season_15",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59883,
-    "title": "Metal Cardbot S",
-    "title_english": "Metal Cardbot S",
-    "title_japanese": "메탈카드봇S",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1685/145585l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18622,
-    "popularity": 23070,
-    "members": 182,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "OSROCTION"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-08-26T00:00:00+00:00",
-    "aired_to": "2025-02-11T00:00:00+00:00",
-    "broadcast": "Tuesdays at 07:45 (JST)",
-    "url": "https://myanimelist.net/anime/59883/Metal_Cardbot_S",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60911,
-    "title": "Pongdangpaemilli",
-    "title_english": null,
-    "title_japanese": "퐁당패밀리",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1972/147843l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19531,
-    "popularity": 23601,
-    "members": 162,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Other",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-08-25T00:00:00+00:00",
-    "aired_to": "2025-04-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60911/Pongdangpaemilli",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 61475,
-    "title": "Lanqiu Xuanfeng 2nd Season",
-    "title_english": "Basketball Whirlwind 2nd Season",
-    "title_japanese": "篮球旋风 第二季",
-    "title_synonyms": [
-      "Dream for Rim 2nd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1046/149237l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Lanqiu Xuanfeng.",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 18161,
-    "popularity": 25619,
-    "members": 115,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "19 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "CCTV Animation Group"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sports"
-    ],
-    "themes": [
-      "Team Sports"
-    ],
-    "demographics": [],
-    "aired_from": "2024-07-26T00:00:00+00:00",
-    "aired_to": "2025-01-17T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/61475/Lanqiu_Xuanfeng_2nd_Season",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60711,
-    "title": "Xi Yangyang Yu Hui Tailang: Fengkuang Chao Neng Ying",
-    "title_english": "Pleasant Goat and Big Big Wolf: Crazy Hubs",
-    "title_japanese": "喜羊羊与灰太狼之疯狂超能营",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1689/147391l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16246,
-    "popularity": 27269,
-    "members": 91,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-07-05T00:00:00+00:00",
-    "aired_to": "2024-07-19T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60711/Xi_Yangyang_Yu_Hui_Tailang__Fengkuang_Chao_Neng_Ying",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62560,
@@ -3495,9 +3187,9 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 17935,
-    "popularity": 29057,
-    "members": 58,
+    "rank": 17937,
+    "popularity": 29041,
+    "members": 59,
     "favorites": 0,
     "type": "TV",
     "status": "Finished Airing",
@@ -3526,51 +3218,7 @@
     "year": 2024,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62453,
-    "title": "Tobot: Daedosiui Yeongungdeul Season 2 Part 2",
-    "title_english": null,
-    "title_japanese": "또봇 : 대도시의 영웅들 시즌2 파트 2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1721/151973l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 8,
-    "score": null,
-    "scored_by": null,
-    "rank": 15728,
-    "popularity": 29111,
-    "members": 54,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2024-07-05T00:00:00+00:00",
-    "aired_to": "2023-08-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62453/Tobot__Daedosiui_Yeongungdeul_Season_2_Part_2",
-    "year": 2024,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

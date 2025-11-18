@@ -13,10 +13,10 @@
     "background": "Geneon Entertainment USA licensed the anime up until it's closure. Funimation later picked up the series until it was dropped due to poor sales. Sentai Filmworks later picked the series up and re-released it.",
     "episodes": 13,
     "score": 7.2,
-    "scored_by": 481268,
-    "rank": 3521,
+    "scored_by": 481291,
+    "rank": 3519,
     "popularity": 244,
-    "members": 858054,
+    "members": 858118,
     "favorites": 8136,
     "type": "TV",
     "status": "Finished Airing",
@@ -60,7 +60,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1210,
@@ -76,11 +77,11 @@
     "background": "",
     "episodes": 24,
     "score": 8.31,
-    "scored_by": 362736,
+    "scored_by": 362786,
     "rank": 295,
     "popularity": 269,
-    "members": 812143,
-    "favorites": 29185,
+    "members": 812247,
+    "favorites": 29192,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -116,7 +117,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1222,
@@ -132,10 +134,10 @@
     "background": "",
     "episodes": 26,
     "score": 7.23,
-    "scored_by": 102524,
+    "scored_by": 102525,
     "rank": 3303,
     "popularity": 1143,
-    "members": 239834,
+    "members": 239846,
     "favorites": 1948,
     "type": "TV",
     "status": "Finished Airing",
@@ -170,7 +172,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1142,
@@ -233,7 +236,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1454,
@@ -249,10 +253,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.34,
-    "scored_by": 21219,
-    "rank": 2742,
+    "scored_by": 21218,
+    "rank": 2739,
     "popularity": 2657,
-    "members": 80840,
+    "members": 80848,
     "favorites": 527,
     "type": "TV",
     "status": "Finished Airing",
@@ -289,7 +293,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1013,
@@ -303,10 +308,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.16,
-    "scored_by": 16345,
-    "rank": 3739,
+    "scored_by": 16347,
+    "rank": 3737,
     "popularity": 3035,
-    "members": 64092,
+    "members": 64101,
     "favorites": 262,
     "type": "TV",
     "status": "Finished Airing",
@@ -344,7 +349,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1218,
@@ -360,10 +366,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.66,
-    "scored_by": 23950,
-    "rank": 6370,
+    "scored_by": 23951,
+    "rank": 6373,
     "popularity": 3399,
-    "members": 52211,
+    "members": 52217,
     "favorites": 56,
     "type": "TV",
     "status": "Finished Airing",
@@ -399,7 +405,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1221,
@@ -451,7 +458,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1243,
@@ -465,10 +473,10 @@
     "background": "Night Head Genesis is an adaptation of the 1992 Japanese television drama Night Head. The series was released on DVD in five volumes by Media Blasters from October 28, 2008 to May 12, 2009.",
     "episodes": 24,
     "score": 6.71,
-    "scored_by": 10639,
-    "rank": 6054,
-    "popularity": 4317,
-    "members": 33236,
+    "scored_by": 10640,
+    "rank": 6051,
+    "popularity": 4318,
+    "members": 33237,
     "favorites": 71,
     "type": "TV",
     "status": "Finished Airing",
@@ -506,7 +514,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1230,
@@ -520,10 +529,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.76,
-    "scored_by": 10813,
-    "rank": 5708,
-    "popularity": 4625,
-    "members": 28450,
+    "scored_by": 10814,
+    "rank": 5707,
+    "popularity": 4626,
+    "members": 28455,
     "favorites": 51,
     "type": "TV",
     "status": "Finished Airing",
@@ -558,7 +567,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1509,
@@ -572,10 +582,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.61,
-    "scored_by": 13491,
-    "rank": 6641,
+    "scored_by": 13493,
+    "rank": 6639,
     "popularity": 4692,
-    "members": 27679,
+    "members": 27684,
     "favorites": 122,
     "type": "TV",
     "status": "Finished Airing",
@@ -609,7 +619,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1214,
@@ -626,10 +637,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.84,
-    "scored_by": 7545,
-    "rank": 5296,
-    "popularity": 4990,
-    "members": 23743,
+    "scored_by": 7547,
+    "rank": 5295,
+    "popularity": 4989,
+    "members": 23748,
     "favorites": 43,
     "type": "TV",
     "status": "Finished Airing",
@@ -659,7 +670,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1219,
@@ -709,7 +721,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1194,
@@ -763,7 +776,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1738,
@@ -822,7 +836,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 1198,
@@ -838,10 +853,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.52,
-    "scored_by": 8141,
-    "rank": 7186,
+    "scored_by": 8142,
+    "rank": 7187,
     "popularity": 5245,
-    "members": 21214,
+    "members": 21215,
     "favorites": 23,
     "type": "TV",
     "status": "Finished Airing",
@@ -874,7 +889,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1578,
@@ -892,10 +908,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.81,
-    "scored_by": 4175,
-    "rank": 5469,
+    "scored_by": 4176,
+    "rank": 5468,
     "popularity": 6347,
-    "members": 12843,
+    "members": 12846,
     "favorites": 23,
     "type": "TV",
     "status": "Finished Airing",
@@ -935,7 +951,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 607,
@@ -954,8 +971,8 @@
     "score": 6.92,
     "scored_by": 2315,
     "rank": 4920,
-    "popularity": 7460,
-    "members": 8730,
+    "popularity": 7462,
+    "members": 8731,
     "favorites": 23,
     "type": "TV",
     "status": "Finished Airing",
@@ -988,7 +1005,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1812,
@@ -1002,10 +1020,10 @@
     "background": "Hanoka is the first anime television series to be entirely produced in Adobe Flash animation. It aired between August 7, 2006 and October 23, 2006 on the Japanese TV channel Kids Station.",
     "episodes": 12,
     "score": 3.41,
-    "scored_by": 2582,
-    "rank": 14403,
-    "popularity": 8765,
-    "members": 5872,
+    "scored_by": 2584,
+    "rank": 14405,
+    "popularity": 8764,
+    "members": 5876,
     "favorites": 19,
     "type": "TV",
     "status": "Finished Airing",
@@ -1033,7 +1051,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1247,
@@ -1047,10 +1066,10 @@
     "background": "",
     "episodes": 6,
     "score": 6.6,
-    "scored_by": 1260,
-    "rank": 6713,
-    "popularity": 9659,
-    "members": 4462,
+    "scored_by": 1261,
+    "rank": 6714,
+    "popularity": 9656,
+    "members": 4464,
     "favorites": 9,
     "type": "TV",
     "status": "Finished Airing",
@@ -1081,7 +1100,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 2518,
@@ -1098,8 +1118,8 @@
     "episodes": 12,
     "score": 7.08,
     "scored_by": 1594,
-    "rank": 4164,
-    "popularity": 10146,
+    "rank": 4163,
+    "popularity": 10147,
     "members": 3859,
     "favorites": 2,
     "type": "TV",
@@ -1135,7 +1155,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 1740,
@@ -1152,9 +1173,9 @@
     "episodes": 11,
     "score": 5.05,
     "scored_by": 728,
-    "rank": 13694,
+    "rank": 13695,
     "popularity": 11711,
-    "members": 2436,
+    "members": 2437,
     "favorites": 3,
     "type": "TV",
     "status": "Finished Airing",
@@ -1189,7 +1210,8 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 4316,
@@ -1204,9 +1226,9 @@
     "episodes": 16,
     "score": 6.05,
     "scored_by": 225,
-    "rank": 10022,
-    "popularity": 16204,
-    "members": 706,
+    "rank": 10021,
+    "popularity": 16201,
+    "members": 707,
     "favorites": 1,
     "type": "TV",
     "status": "Finished Airing",
@@ -1235,458 +1257,7 @@
     "year": 2006,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 7629,
-    "title": "The Arari Show",
-    "title_english": "The Arari Show",
-    "title_japanese": "아라리쇼",
-    "title_synonyms": [
-      "Arari Syo",
-      "Surviving in Korea",
-      "Arirang",
-      "Homey Korean"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/3/18351l.jpg",
-    "trailer_url": null,
-    "synopsis": "Enter the Arari Show and meet the host Mr Arari, an over-dynamic showman who really knows how to liven up an audience.\n\nEver wanted to learn more about the culture, language and lifestyle in Korea? Learn some words and phrases? And be amused and entertained at the same time?\n\nCome and meet the 3 foreign visitors Michael, Jenny and Lala. See how they cope with being exposed to a culture so very different from their own.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15618,
-    "popularity": 19199,
-    "members": 399,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Drama",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2006-08-31T00:00:00+00:00",
-    "aired_to": "2006-11-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/7629/The_Arari_Show",
-    "year": 2006,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 24121,
-    "title": "Patta Potta Monta",
-    "title_english": "Going Wild",
-    "title_japanese": "パッタ ポッタ モン太",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/10/62463l.jpg",
-    "trailer_url": null,
-    "synopsis": "Three monkey brothers from the from an urban city go to live in the countryside. There's no convenience store nor arcades there; truly bare-bones. The story follows their daily lives trying to make friends and have fun amongst the villagers.",
-    "background": "This show was made to celebrate Tokyo Kids' 15th anniversary on making anime for children. Shortly after the show aired on Japanese TV, 5 DVD volumes spanning the complete series were periodically released.",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19424,
-    "popularity": 19407,
-    "members": 384,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "Tokyo Kids"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-08-01T00:00:00+00:00",
-    "aired_to": "2007-01-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/24121/Patta_Potta_Monta",
-    "year": 2006,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 38118,
-    "title": "Zhu Zhu Xia: Mo Huan Zhu Luo Ji",
-    "title_english": "GG Bond Season 1: Magic Jurassic",
-    "title_japanese": "猪猪侠 魔幻猪猡纪",
-    "title_synonyms": [
-      "GG Bond 01"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1912/93345l.jpg",
-    "trailer_url": null,
-    "synopsis": "The \"first\" season of Zhu Zhu Xia, its release format set the pattern and story style for later seasons.\n\nGG Bond was a martial artist pig in a prehistoric world where resources are strained by overpopulation. At the cost of his own life, he entrusted a powerful \"Magic Wisdom Ball\" to Wang Xiaoer that could be used to save the environment. Wang Xiaoer instead used the ball for his own gain. When G.G. Bond is reincarnated and sees what Wang Xiaoer has done, he knows it is up to him to fix the problem, no matter what Wang Xiaoer tries to do to stop him.\n\n(Source: Wikipedia)",
-    "background": "",
-    "episodes": 20,
-    "score": null,
-    "scored_by": null,
-    "rank": 17204,
-    "popularity": 20401,
-    "members": 317,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Martial Arts",
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-07-01T00:00:00+00:00",
-    "aired_to": "2006-01-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/38118/Zhu_Zhu_Xia__Mo_Huan_Zhu_Luo_Ji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 33083,
-    "title": "Wa Wa Wa Wappi-chan",
-    "title_english": null,
-    "title_japanese": "和・和・和 ワッピちゃん",
-    "title_synonyms": [
-      "Wa-Wa-Wa Wappi-chan"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/11/79393l.jpg",
-    "trailer_url": null,
-    "synopsis": "In a world where past and future connect, cute little catgirl Wappi-chan learns the meaning of Japanese culture by interacting with the strange beings and spirits who inhabit Watt Warp Town. \n\n(Source: The Anime Encyclopedia)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16001,
-    "popularity": 20534,
-    "members": 312,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "30 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "WOWOW"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-07-03T00:00:00+00:00",
-    "aired_to": "2006-10-01T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/33083/Wa_Wa_Wa_Wappi-chan",
-    "year": 2006,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 39129,
-    "title": "Hong Mao Lan Tu: Qi Xia Chuan",
-    "title_english": null,
-    "title_japanese": "虹猫蓝兔七侠传",
-    "title_synonyms": [
-      "Rainbow Cat & Blue Rabbit: Legend of the Seven Swords"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1125/106396l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 108,
-    "score": null,
-    "scored_by": null,
-    "rank": 22018,
-    "popularity": 21674,
-    "members": 250,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "G - All Ages",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-09-05T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/39129/Hong_Mao_Lan_Tu__Qi_Xia_Chuan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48288,
-    "title": "Apple Candy Girl",
-    "title_english": null,
-    "title_japanese": "애플캔디걸",
-    "title_synonyms": [
-      "Aepeulkaendigeol"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1216/115321l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 39,
-    "score": null,
-    "scored_by": null,
-    "rank": 19969,
-    "popularity": 22439,
-    "members": 209,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-07-15T00:00:00+00:00",
-    "aired_to": "2007-04-14T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48288/Apple_Candy_Girl",
-    "year": 2006,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48346,
-    "title": "Tori Go! Go!",
-    "title_english": null,
-    "title_japanese": "토리 GO! GO!",
-    "title_synonyms": [
-      "Toli Go! Go!"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1592/114456l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 17,
-    "score": null,
-    "scored_by": null,
-    "rank": 15793,
-    "popularity": 22698,
-    "members": 196,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Manga",
-    "studios": [
-      "Durufix"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-07-25T00:00:00+00:00",
-    "aired_to": "2006-11-28T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48346/Tori_Go_Go",
-    "year": 2006,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44366,
-    "title": "QiQi KeKe Lixian Ji",
-    "title_english": null,
-    "title_japanese": "奇奇颗颗历险记",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1328/123970l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 210,
-    "score": null,
-    "scored_by": null,
-    "rank": 19733,
-    "popularity": 26585,
-    "members": 100,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [
-      "Historical"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-09-28T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44366/QiQi_KeKe_Lixian_Ji",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45174,
-    "title": "Keke Ke Xin Yijia Ren 2",
-    "title_english": null,
-    "title_japanese": "可可可心一家人2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1895/128526l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17779,
-    "popularity": 28098,
-    "members": 83,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-07-02T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45174/Keke_Ke_Xin_Yijia_Ren_2",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46152,
-    "title": "Hanbagui De Gushi",
-    "title_english": null,
-    "title_japanese": "憨八龟的故事",
-    "title_synonyms": [
-      "The Stories of Hanbagui"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1770/128873l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21788,
-    "popularity": 28334,
-    "members": 81,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2006-09-30T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/46152/Hanbagui_De_Gushi",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   }
 ]

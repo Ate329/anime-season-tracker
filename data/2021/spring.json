@@ -11,11 +11,11 @@
     "background": "",
     "episodes": 24,
     "score": 7.84,
-    "scored_by": 760256,
+    "scored_by": 760343,
     "rank": 998,
     "popularity": 105,
-    "members": 1373474,
-    "favorites": 25324,
+    "members": 1373631,
+    "favorites": 25322,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -56,7 +56,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41587,
@@ -72,11 +73,11 @@
     "background": "",
     "episodes": 25,
     "score": 7.35,
-    "scored_by": 680737,
-    "rank": 2655,
+    "scored_by": 680876,
+    "rank": 2654,
     "popularity": 111,
-    "members": 1311161,
-    "favorites": 10243,
+    "members": 1311368,
+    "favorites": 10242,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -114,7 +115,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41025,
@@ -131,11 +133,11 @@
     "background": "",
     "episodes": 20,
     "score": 8.35,
-    "scored_by": 410291,
+    "scored_by": 410377,
     "rank": 253,
     "popularity": 194,
-    "members": 966567,
-    "favorites": 15894,
+    "members": 966749,
+    "favorites": 15897,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -169,7 +171,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41457,
@@ -185,11 +188,11 @@
     "background": "",
     "episodes": 11,
     "score": 8.34,
-    "scored_by": 483977,
+    "scored_by": 484088,
     "rank": 261,
     "popularity": 211,
-    "members": 926261,
-    "favorites": 25549,
+    "members": 926485,
+    "favorites": 25557,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -222,7 +225,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42361,
@@ -277,7 +281,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40938,
@@ -294,11 +299,11 @@
     "background": "Hige wo Soru. Soshite Joshikousei wo Hirou. was released on Blu-ray in four volumes from June 9, 2021, to September 29, 2021.",
     "episodes": 13,
     "score": 7.26,
-    "scored_by": 353866,
-    "rank": 3138,
+    "scored_by": 353898,
+    "rank": 3137,
     "popularity": 361,
-    "members": 660536,
-    "favorites": 6318,
+    "members": 660588,
+    "favorites": 6321,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -337,7 +342,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46095,
@@ -351,11 +357,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.38,
-    "scored_by": 266318,
+    "scored_by": 266358,
     "rank": 224,
     "popularity": 411,
-    "members": 593141,
-    "favorites": 11362,
+    "members": 593215,
+    "favorites": 11363,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -389,7 +395,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42938,
@@ -407,11 +414,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.94,
-    "scored_by": 271115,
+    "scored_by": 271154,
     "rank": 17,
     "popularity": 448,
-    "members": 545487,
-    "favorites": 21157,
+    "members": 545570,
+    "favorites": 21160,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -450,7 +457,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46102,
@@ -464,10 +472,10 @@
     "background": "Winner of the New Face Award at the 25th Japan Media Arts Festival.",
     "episodes": 13,
     "score": 8.63,
-    "scored_by": 242794,
+    "scored_by": 242826,
     "rank": 92,
     "popularity": 510,
-    "members": 492963,
+    "members": 493018,
     "favorites": 8972,
     "type": "TV",
     "status": "Finished Airing",
@@ -510,7 +518,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41623,
@@ -577,7 +586,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40586,
@@ -593,11 +603,11 @@
     "background": "",
     "episodes": 12,
     "score": 6.89,
-    "scored_by": 211386,
+    "scored_by": 211406,
     "rank": 5026,
     "popularity": 590,
-    "members": 436029,
-    "favorites": 2307,
+    "members": 436084,
+    "favorites": 2310,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -639,7 +649,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41456,
@@ -653,10 +664,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.13,
-    "scored_by": 193241,
+    "scored_by": 193265,
     "rank": 3866,
     "popularity": 630,
-    "members": 412785,
+    "members": 412826,
     "favorites": 2087,
     "type": "TV",
     "status": "Finished Airing",
@@ -691,7 +702,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41488,
@@ -705,10 +717,10 @@
     "background": "Tensura Nikki: Tensei shitara Slime Datta Ken was initially scheduled to begin airing in January 2021, but it was delayed for three months due to the COVID-19 pandemic.",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 168720,
-    "rank": 1704,
+    "scored_by": 168745,
+    "rank": 1703,
     "popularity": 707,
-    "members": 373757,
+    "members": 373805,
     "favorites": 2133,
     "type": "TV",
     "status": "Finished Airing",
@@ -749,7 +761,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41402,
@@ -765,10 +778,10 @@
     "background": "",
     "episodes": 21,
     "score": 8.02,
-    "scored_by": 180344,
+    "scored_by": 180371,
     "rank": 666,
     "popularity": 739,
-    "members": 361040,
+    "members": 361085,
     "favorites": 2470,
     "type": "TV",
     "status": "Finished Airing",
@@ -804,7 +817,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43007,
@@ -821,10 +835,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.06,
-    "scored_by": 126919,
-    "rank": 9946,
+    "scored_by": 126927,
+    "rank": 9945,
     "popularity": 937,
-    "members": 287769,
+    "members": 287791,
     "favorites": 1672,
     "type": "TV",
     "status": "Finished Airing",
@@ -859,7 +873,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43325,
@@ -876,11 +891,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.29,
-    "scored_by": 133144,
+    "scored_by": 133189,
     "rank": 317,
     "popularity": 951,
-    "members": 283937,
-    "favorites": 3282,
+    "members": 283978,
+    "favorites": 3281,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -921,7 +936,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42192,
@@ -935,10 +951,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.25,
-    "scored_by": 105399,
-    "rank": 3204,
+    "scored_by": 105406,
+    "rank": 3203,
     "popularity": 962,
-    "members": 280711,
+    "members": 280733,
     "favorites": 1974,
     "type": "TV",
     "status": "Finished Airing",
@@ -975,7 +991,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42205,
@@ -989,10 +1006,10 @@
     "background": "",
     "episodes": 52,
     "score": 6.9,
-    "scored_by": 80251,
-    "rank": 5009,
-    "popularity": 971,
-    "members": 279140,
+    "scored_by": 80256,
+    "rank": 5008,
+    "popularity": 972,
+    "members": 279150,
     "favorites": 1751,
     "type": "TV",
     "status": "Finished Airing",
@@ -1024,7 +1041,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 43439,
@@ -1078,7 +1096,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44276,
@@ -1094,10 +1113,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.47,
-    "scored_by": 124894,
-    "rank": 7527,
+    "scored_by": 124916,
+    "rank": 7525,
     "popularity": 1000,
-    "members": 271843,
+    "members": 271876,
     "favorites": 1163,
     "type": "TV",
     "status": "Finished Airing",
@@ -1135,7 +1154,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41103,
@@ -1197,7 +1217,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42826,
@@ -1213,10 +1234,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.31,
-    "scored_by": 111858,
+    "scored_by": 111881,
     "rank": 2858,
     "popularity": 1154,
-    "members": 237319,
+    "members": 237365,
     "favorites": 1336,
     "type": "TV",
     "status": "Finished Airing",
@@ -1252,7 +1273,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40174,
@@ -1268,11 +1290,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.98,
-    "scored_by": 94787,
+    "scored_by": 94797,
     "rank": 736,
     "popularity": 1168,
-    "members": 233730,
-    "favorites": 1624,
+    "members": 233747,
+    "favorites": 1623,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1309,7 +1331,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40729,
@@ -1323,10 +1346,10 @@
     "background": "",
     "episodes": 13,
     "score": 8.18,
-    "scored_by": 90138,
-    "rank": 453,
+    "scored_by": 90154,
+    "rank": 452,
     "popularity": 1208,
-    "members": 227056,
+    "members": 227082,
     "favorites": 2232,
     "type": "TV",
     "status": "Finished Airing",
@@ -1362,7 +1385,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42590,
@@ -1376,10 +1400,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.52,
-    "scored_by": 63540,
-    "rank": 1980,
-    "popularity": 1653,
-    "members": 158099,
+    "scored_by": 63547,
+    "rank": 1978,
+    "popularity": 1654,
+    "members": 158118,
     "favorites": 802,
     "type": "TV",
     "status": "Finished Airing",
@@ -1413,7 +1437,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40870,
@@ -1427,11 +1452,11 @@
     "background": "SSSS.Dynazenon is a part of the 2018 Gridman Universe shared media project by Tsuburaya Productions. It was first announced in December 2019 during Tsuburaya Productions' Tsubucon convention.",
     "episodes": 12,
     "score": 7.43,
-    "scored_by": 47726,
+    "scored_by": 47732,
     "rank": 2299,
     "popularity": 1768,
-    "members": 145044,
-    "favorites": 923,
+    "members": 145062,
+    "favorites": 924,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1468,7 +1493,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41265,
@@ -1482,10 +1508,10 @@
     "background": "Mars Red is based on a 2013 dramatic stage reading of the same name that was written by Bunoh Fujisawa, the sound director for the anime.",
     "episodes": 13,
     "score": 6.58,
-    "scored_by": 38070,
+    "scored_by": 38071,
     "rank": 6813,
     "popularity": 1915,
-    "members": 131960,
+    "members": 131967,
     "favorites": 605,
     "type": "TV",
     "status": "Finished Airing",
@@ -1525,7 +1551,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 40685,
@@ -1539,11 +1566,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.45,
-    "scored_by": 51961,
+    "scored_by": 51971,
     "rank": 2241,
-    "popularity": 1946,
-    "members": 128441,
-    "favorites": 1093,
+    "popularity": 1947,
+    "members": 128459,
+    "favorites": 1094,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1578,7 +1605,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43756,
@@ -1592,10 +1620,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.48,
-    "scored_by": 41726,
+    "scored_by": 41729,
     "rank": 2130,
-    "popularity": 2143,
-    "members": 113364,
+    "popularity": 2144,
+    "members": 113375,
     "favorites": 921,
     "type": "TV",
     "status": "Finished Airing",
@@ -1632,7 +1660,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40752,
@@ -1648,10 +1677,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.06,
-    "scored_by": 34325,
+    "scored_by": 34327,
     "rank": 4258,
     "popularity": 2200,
-    "members": 108499,
+    "members": 108503,
     "favorites": 611,
     "type": "TV",
     "status": "Finished Airing",
@@ -1690,7 +1719,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42395,
@@ -1705,9 +1735,9 @@
     "episodes": 12,
     "score": 7,
     "scored_by": 42845,
-    "rank": 4546,
+    "rank": 4543,
     "popularity": 2208,
-    "members": 107744,
+    "members": 107749,
     "favorites": 750,
     "type": "TV",
     "status": "Finished Airing",
@@ -1739,7 +1769,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47250,
@@ -1753,10 +1784,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.12,
-    "scored_by": 30952,
-    "rank": 9594,
+    "scored_by": 30956,
+    "rank": 9592,
     "popularity": 2315,
-    "members": 100758,
+    "members": 100766,
     "favorites": 393,
     "type": "TV",
     "status": "Finished Airing",
@@ -1794,7 +1825,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 42307,
@@ -1814,10 +1846,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.15,
-    "scored_by": 23821,
-    "rank": 9448,
+    "scored_by": 23826,
+    "rank": 9447,
     "popularity": 2751,
-    "members": 76420,
+    "members": 76432,
     "favorites": 330,
     "type": "TV",
     "status": "Finished Airing",
@@ -1854,7 +1886,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43229,
@@ -1868,10 +1901,10 @@
     "background": "Godzilla: S.P was nominated for the 42nd Nihon SF Taisho Award in 2022. In the same year, the anime won the 53rd Seiun Award in the Best Media category. The series was released on Blu-ray and DVD in three volumes from August 18, 2021, to October 20, 2021.",
     "episodes": 13,
     "score": 6.65,
-    "scored_by": 31766,
-    "rank": 6406,
+    "scored_by": 31770,
+    "rank": 6410,
     "popularity": 2801,
-    "members": 74027,
+    "members": 74032,
     "favorites": 404,
     "type": "TV",
     "status": "Finished Airing",
@@ -1905,7 +1938,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40526,
@@ -1922,10 +1956,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.43,
-    "scored_by": 25304,
-    "rank": 7781,
+    "scored_by": 25311,
+    "rank": 7784,
     "popularity": 2883,
-    "members": 70588,
+    "members": 70613,
     "favorites": 220,
     "type": "TV",
     "status": "Finished Airing",
@@ -1959,7 +1993,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47391,
@@ -1973,10 +2008,10 @@
     "background": "Based on the Seven Knights smartphone role-playing game by Netmarble.",
     "episodes": 12,
     "score": 6.3,
-    "scored_by": 24323,
-    "rank": 8551,
+    "scored_by": 24322,
+    "rank": 8553,
     "popularity": 3084,
-    "members": 62421,
+    "members": 62425,
     "favorites": 187,
     "type": "TV",
     "status": "Finished Airing",
@@ -2008,7 +2043,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42568,
@@ -2024,10 +2060,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.54,
-    "scored_by": 16353,
-    "rank": 7094,
+    "scored_by": 16354,
+    "rank": 7095,
     "popularity": 3475,
-    "members": 50087,
+    "members": 50094,
     "favorites": 138,
     "type": "TV",
     "status": "Finished Airing",
@@ -2068,7 +2104,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42774,
@@ -2088,7 +2125,7 @@
     "scored_by": 16268,
     "rank": 9693,
     "popularity": 3691,
-    "members": 45238,
+    "members": 45241,
     "favorites": 134,
     "type": "TV",
     "status": "Finished Airing",
@@ -2123,7 +2160,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47639,
@@ -2136,11 +2174,11 @@
     "synopsis": "Individual pieces of human emotion usually take form as flowers known as \"Fragments.\" The select few who possess strong enough Fragments can become \"Reflectors,\" beings who equip specialized rings that allow them to connect their thoughts, memories, and emotions to those whose feelings waver. There are two types of Reflectors—those who wear blue rings to protect those falling into depravity by preserving their Fragments, and those who wear red rings to prevent negative emotions by stealing the Fragments of those who begin to develop severe woe.\n\nDespite wanting to socialize with people around her, transfer student Ruka Hanari's shy and introverted personality always gets in her way. In a chance encounter, however, she bumps into a woman who happens to drop a blue ring as she hurries away. Unable to return it, Ruka brings it back with her to her dorm. There, she meets the outgoing Hiori Hirahara, who also has a blue ring. They find themselves in several conflicts against red Reflectors, slowly realizing the true power of the rings that they hold.\n\nNow striving to become Reflectors themselves, Ruka and Hiori must learn to work together and become stronger so that they can save not only the people around them, but also themselves from the emotions that hold them back.\n\n[Written by MAL Rewrite]",
     "background": "",
     "episodes": 24,
-    "score": 5.88,
-    "scored_by": 7344,
-    "rank": 10886,
+    "score": 5.87,
+    "scored_by": 7346,
+    "rank": 10959,
     "popularity": 4355,
-    "members": 32538,
+    "members": 32543,
     "favorites": 109,
     "type": "TV",
     "status": "Finished Airing",
@@ -2175,7 +2213,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45665,
@@ -2190,9 +2229,9 @@
     "episodes": 12,
     "score": 5.91,
     "scored_by": 6346,
-    "rank": 10741,
-    "popularity": 4702,
-    "members": 27513,
+    "rank": 10739,
+    "popularity": 4704,
+    "members": 27514,
     "favorites": 166,
     "type": "TV",
     "status": "Finished Airing",
@@ -2222,7 +2261,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43763,
@@ -2282,7 +2322,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42516,
@@ -2298,8 +2339,8 @@
     "background": "",
     "episodes": 12,
     "score": 5.97,
-    "scored_by": 5812,
-    "rank": 10396,
+    "scored_by": 5814,
+    "rank": 10394,
     "popularity": 5626,
     "members": 17670,
     "favorites": 69,
@@ -2335,7 +2376,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42321,
@@ -2349,10 +2391,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.11,
-    "scored_by": 2866,
-    "rank": 13599,
+    "scored_by": 2867,
+    "rank": 13601,
     "popularity": 7268,
-    "members": 9275,
+    "members": 9277,
     "favorites": 13,
     "type": "TV",
     "status": "Finished Airing",
@@ -2398,7 +2440,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45587,
@@ -2413,8 +2456,8 @@
     "episodes": 12,
     "score": 5.28,
     "scored_by": 4212,
-    "rank": 13240,
-    "popularity": 7326,
+    "rank": 13242,
+    "popularity": 7328,
     "members": 9109,
     "favorites": 45,
     "type": "TV",
@@ -2446,7 +2489,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42071,
@@ -2460,10 +2504,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.05,
-    "scored_by": 1684,
-    "rank": 9984,
-    "popularity": 7738,
-    "members": 7906,
+    "scored_by": 1686,
+    "rank": 9983,
+    "popularity": 7739,
+    "members": 7910,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -2496,7 +2540,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48365,
@@ -2511,9 +2556,9 @@
     "episodes": 98,
     "score": 6.69,
     "scored_by": 863,
-    "rank": 6181,
-    "popularity": 10842,
-    "members": 3120,
+    "rank": 6182,
+    "popularity": 10841,
+    "members": 3121,
     "favorites": 29,
     "type": "TV",
     "status": "Finished Airing",
@@ -2544,7 +2589,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 48442,
@@ -2559,9 +2605,9 @@
     "episodes": null,
     "score": null,
     "scored_by": null,
-    "rank": 14993,
-    "popularity": 10889,
-    "members": 3075,
+    "rank": 14996,
+    "popularity": 10888,
+    "members": 3076,
     "favorites": 18,
     "type": "TV",
     "status": "Currently Airing",
@@ -2585,7 +2631,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44273,
@@ -2600,9 +2647,9 @@
     "episodes": 37,
     "score": 6.85,
     "scored_by": 754,
-    "rank": 5245,
-    "popularity": 11133,
-    "members": 2871,
+    "rank": 5247,
+    "popularity": 11132,
+    "members": 2872,
     "favorites": 16,
     "type": "TV",
     "status": "Finished Airing",
@@ -2633,7 +2680,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 45618,
@@ -2680,7 +2728,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48391,
@@ -2696,8 +2745,8 @@
     "score": 5.78,
     "scored_by": 283,
     "rank": 11464,
-    "popularity": 12221,
-    "members": 2103,
+    "popularity": 12223,
+    "members": 2102,
     "favorites": 11,
     "type": "TV",
     "status": "Finished Airing",
@@ -2728,7 +2777,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46381,
@@ -2743,9 +2793,9 @@
     "episodes": 41,
     "score": 6.47,
     "scored_by": 311,
-    "rank": 7479,
-    "popularity": 12743,
-    "members": 1777,
+    "rank": 7477,
+    "popularity": 12744,
+    "members": 1778,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -2778,7 +2828,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 42870,
@@ -2793,7 +2844,7 @@
     "episodes": 64,
     "score": null,
     "scored_by": null,
-    "rank": 15920,
+    "rank": 15921,
     "popularity": 14407,
     "members": 1129,
     "favorites": 3,
@@ -2824,202 +2875,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 46652,
-    "title": "Duel Masters King!",
-    "title_english": null,
-    "title_japanese": "DUEL MASTERS キング!",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1159/111981l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 43,
-    "score": 5.73,
-    "scored_by": 142,
-    "rank": 11655,
-    "popularity": 14612,
-    "members": 1071,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brain's Base",
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [
-      "TV Tokyo",
-      "Shogakukan-Shueisha Productions",
-      "Half H.P Studio"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-04T00:00:00+00:00",
-    "aired_to": "2022-03-27T00:00:00+00:00",
-    "broadcast": "Sundays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/46652/Duel_Masters_King",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 43778,
-    "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 2nd Season",
-    "title_english": null,
-    "title_japanese": "もっと! まじめにふまじめ かいけつゾロリ 第2シリーズ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1337/118275l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/l63l0grZiDE?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Sequel to Motto! Majime ni Fumajime Kaiketsu Zorori",
-    "background": "",
-    "episodes": 25,
-    "score": null,
-    "scored_by": null,
-    "rank": 18862,
-    "popularity": 16029,
-    "members": 734,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Book",
-    "studios": [
-      "Ajia-do",
-      "Bandai Namco Pictures"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-02T00:00:00+00:00",
-    "aired_to": "2021-10-22T00:00:00+00:00",
-    "broadcast": "Fridays at 18:55 (JST)",
-    "url": "https://myanimelist.net/anime/43778/Motto_Majime_ni_Fumajime_Kaiketsu_Zorori_2nd_Season",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48517,
-    "title": "Dosukoi Sushi Zumou",
-    "title_english": "Sushi Sumo",
-    "title_japanese": "どすこいすしずもう",
-    "title_synonyms": [
-      "Dosukoi Sushi Sumo"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1619/118276l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": 5.97,
-    "scored_by": 156,
-    "rank": 10400,
-    "popularity": 16380,
-    "members": 678,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "4 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "Shirogumi"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Gourmet",
-      "Sports"
-    ],
-    "themes": [
-      "Martial Arts"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-03T00:00:00+00:00",
-    "aired_to": "2022-03-26T00:00:00+00:00",
-    "broadcast": "Saturdays at 08:40 (JST)",
-    "url": "https://myanimelist.net/anime/48517/Dosukoi_Sushi_Zumou",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44848,
-    "title": "Iii Icecrin",
-    "title_english": null,
-    "title_japanese": "iiiあいすくりん",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1654/113385l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/4YVG5ucZ4-I?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Icecrins are the sweetly peculiar inhabitants of Ice Cream Town. Every day is a fresh start, with each Icecrin bringing their own unique flavor wherever they go. They may lose their cool at times, but in the end, they always do their best to help their friends have a very 'ice day!\n\n[Written by MAL Rewrite]",
-    "background": "",
-    "episodes": 12,
-    "score": 5.91,
-    "scored_by": 147,
-    "rank": 10749,
-    "popularity": 16822,
-    "members": 616,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Shin-Ei Animation",
-      "Toho Interactive Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-06T00:00:00+00:00",
-    "aired_to": "2021-06-29T00:00:00+00:00",
-    "broadcast": "Tuesdays at 07:30 (JST)",
-    "url": "https://myanimelist.net/anime/44848/Iii_Icecrin",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48770,
@@ -3034,8 +2891,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 22193,
-    "popularity": 17118,
+    "rank": 22194,
+    "popularity": 17119,
     "members": 580,
     "favorites": 3,
     "type": "TV",
@@ -3065,7 +2922,8 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42068,
@@ -3080,8 +2938,8 @@
     "episodes": 12,
     "score": null,
     "scored_by": null,
-    "rank": 15982,
-    "popularity": 17323,
+    "rank": 15985,
+    "popularity": 17335,
     "members": 557,
     "favorites": 1,
     "type": "TV",
@@ -3108,576 +2966,7 @@
     "year": 2021,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48486,
-    "title": "Oshiri Tantei 5th Season",
-    "title_english": null,
-    "title_japanese": "おしりたんてい",
-    "title_synonyms": [
-      "Butt Detective"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1378/113506l.jpg",
-    "trailer_url": null,
-    "synopsis": "Fifth season of Oshiri Tantei.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19321,
-    "popularity": 18647,
-    "members": 442,
-    "favorites": 6,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "19 min per ep",
-    "rating": "PG - Children",
-    "source": "Picture book",
-    "studios": [
-      "Toei Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Mystery"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-03T00:00:00+00:00",
-    "aired_to": "2021-06-26T00:00:00+00:00",
-    "broadcast": "Saturdays at 09:00 (JST)",
-    "url": "https://myanimelist.net/anime/48486/Oshiri_Tantei_5th_Season",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48790,
-    "title": "Neko Jockey",
-    "title_english": null,
-    "title_japanese": "猫ジョッキー",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1769/114535l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 4,
-    "score": null,
-    "scored_by": null,
-    "rank": 19036,
-    "popularity": 20000,
-    "members": 346,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "DLE"
-    ],
-    "producers": [
-      "Asahi Broadcasting"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-05-06T00:00:00+00:00",
-    "aired_to": "2021-05-27T00:00:00+00:00",
-    "broadcast": "Thursdays at 23:10 (JST)",
-    "url": "https://myanimelist.net/anime/48790/Neko_Jockey",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50998,
-    "title": "Ma-eum-uisoli Season 3",
-    "title_english": "The Sound of Your Heart: Season 3",
-    "title_japanese": "마음의 소리 시즌 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1655/120892l.jpg",
-    "trailer_url": null,
-    "synopsis": "Third Season of Ma-eum-uisoli.",
-    "background": "",
-    "episodes": 22,
-    "score": null,
-    "scored_by": null,
-    "rank": 18346,
-    "popularity": 20823,
-    "members": 296,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Web manga",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2021-05-05T00:00:00+00:00",
-    "aired_to": "2021-09-29T00:00:00+00:00",
-    "broadcast": "Wednesdays at Unknown",
-    "url": "https://myanimelist.net/anime/50998/Ma-eum-uisoli_Season_3",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48789,
-    "title": "ColoColo Animal Otogibanashi",
-    "title_english": null,
-    "title_japanese": "コロコロアニマルおとぎばなし",
-    "title_synonyms": [
-      "ColoColo Animal Folktale"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1248/114534l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/qkS0iFmnLxs?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": null,
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 20775,
-    "popularity": 21073,
-    "members": 282,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Milky Cartoon"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-12T00:00:00+00:00",
-    "aired_to": "2021-07-05T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48789/ColoColo_Animal_Otogibanashi",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48539,
-    "title": "Washimo 9th Season",
-    "title_english": null,
-    "title_japanese": "わしも-wasimo-",
-    "title_synonyms": [
-      "Wasimo 9"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1780/119071l.jpg",
-    "trailer_url": null,
-    "synopsis": "Ninth season of the Washimo series.",
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 16078,
-    "popularity": 21596,
-    "members": 254,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [
-      "Studio Deen"
-    ],
-    "producers": [
-      "NHK Enterprises"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi",
-      "Slice of Life"
-    ],
-    "themes": [
-      "School"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-03-30T00:00:00+00:00",
-    "aired_to": "2021-12-07T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/48539/Washimo_9th_Season",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56264,
-    "title": "Chuldong! Super Wings 5",
-    "title_english": "Super Wings 5",
-    "title_japanese": "출동! 슈퍼윙스5",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1833/137795l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 40,
-    "score": null,
-    "scored_by": null,
-    "rank": 20733,
-    "popularity": 23617,
-    "members": 162,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Funny Flux"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-03-29T00:00:00+00:00",
-    "aired_to": "2021-08-04T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56264/Chuldong_Super_Wings_5",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56360,
-    "title": "Poten Dogs",
-    "title_english": "PotenDogs",
-    "title_japanese": "포텐독",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1915/137905l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 18,
-    "score": null,
-    "scored_by": null,
-    "rank": 19577,
-    "popularity": 24404,
-    "members": 140,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-03-29T00:00:00+00:00",
-    "aired_to": "2021-05-05T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56360/Poten_Dogs",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56361,
-    "title": "Poten Dogs Season 2",
-    "title_english": "PotenDogs 2",
-    "title_japanese": "포텐독 시즌2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1885/137906l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 18,
-    "score": null,
-    "scored_by": null,
-    "rank": 19579,
-    "popularity": 24554,
-    "members": 137,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "9 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Super Power"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-05-27T00:00:00+00:00",
-    "aired_to": "2021-07-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56361/Poten_Dogs_Season_2",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56410,
-    "title": "Maca and Roni",
-    "title_english": null,
-    "title_japanese": "마카앤로니",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1782/137994l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 18,
-    "score": null,
-    "scored_by": null,
-    "rank": 18358,
-    "popularity": 24942,
-    "members": 128,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brick Studio"
-    ],
-    "producers": [
-      "Studio BAZOOKA",
-      "CJ ENM"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-03-11T00:00:00+00:00",
-    "aired_to": "2021-07-15T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56410/Maca_and_Roni",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58016,
-    "title": "Mabeobsonyeo Dee Dee 2",
-    "title_english": null,
-    "title_japanese": "마법소녀 디디 2",
-    "title_synonyms": [
-      "Mabeobsonyeo Deedee",
-      "Mabeobsonyeo Didi"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1447/141249l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 18356,
-    "popularity": 25261,
-    "members": 121,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic",
-      "Mahou Shoujo"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-04-29T00:00:00+00:00",
-    "aired_to": "2021-12-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58016/Mabeobsonyeo_Dee_Dee_2",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59888,
-    "title": "On-chan no Kyou wa Donna Kanji?",
-    "title_english": null,
-    "title_japanese": "onちゃんのきょうはどんなかんじ？",
-    "title_synonyms": [
-      "How is On-chan Today?"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1505/145592l.jpg",
-    "trailer_url": null,
-    "synopsis": "On-chan no Kyou wa Donna Kanji? selects kanji related to Hokkaido that are compulsory for elementary school students in the lower grades, and aims to help with local education. On-chan, a popular mascot character of Hokkaido Television Broadcasting (HTB) that is loved by all generations, takes a single kanji character as a theme and freely imagines its meaning and shape, and performs a cute dance according to the stroke order.\n\n(Source: Taiyo Kikaku, translated)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 19263,
-    "popularity": 26152,
-    "members": 107,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "1 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Tecarat"
-    ],
-    "producers": [
-      "Taiyo Kikaku"
-    ],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Educational"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-05-08T00:00:00+00:00",
-    "aired_to": "2021-07-24T00:00:00+00:00",
-    "broadcast": "Saturdays at Unknown",
-    "url": "https://myanimelist.net/anime/59888/On-chan_no_Kyou_wa_Donna_Kanji",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 59147,
-    "title": "Tobot V: Ujusuhodae",
-    "title_english": "Tobot: Galaxy Detectives Season 3",
-    "title_japanese": "또봇V 우주수호대",
-    "title_synonyms": [
-      "Tobot V Season 3"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1691/143736l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "rank": 15723,
-    "popularity": 26479,
-    "members": 102,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-05-26T00:00:00+00:00",
-    "aired_to": "2021-12-15T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/59147/Tobot_V__Ujusuhodae",
-    "year": 2021,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

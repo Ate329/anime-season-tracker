@@ -57,7 +57,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40776,
@@ -74,10 +75,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.56,
-    "scored_by": 538890,
+    "scored_by": 538998,
     "rank": 123,
     "popularity": 218,
-    "members": 903745,
+    "members": 903902,
     "favorites": 6435,
     "type": "TV",
     "status": "Finished Airing",
@@ -117,7 +118,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41389,
@@ -134,11 +136,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.84,
-    "scored_by": 458371,
-    "rank": 1000,
+    "scored_by": 458422,
+    "rank": 999,
     "popularity": 263,
-    "members": 816229,
-    "favorites": 10407,
+    "members": 816323,
+    "favorites": 10408,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -174,7 +176,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40454,
@@ -191,10 +194,10 @@
     "background": "The series adapts the volumes 9-11 of the light novel of Fujino Omori's series of the same title. Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka III was initially planned to broadcast in July 2020, but was delayed to October 2020 due to the COVID-19 pandemic. The series was released on Blu-ray and DVD in four volumes from December 23, 2020 to March 26, 2021.",
     "episodes": 12,
     "score": 7.46,
-    "scored_by": 348205,
-    "rank": 2203,
+    "scored_by": 348240,
+    "rank": 2202,
     "popularity": 359,
-    "members": 664885,
+    "members": 664936,
     "favorites": 1950,
     "type": "TV",
     "status": "Finished Airing",
@@ -233,7 +236,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40911,
@@ -294,7 +298,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41433,
@@ -308,10 +313,10 @@
     "background": "Each episode of the series shares a title with famous movies whose story shares themes and plot elements with the episode.",
     "episodes": 12,
     "score": 7.57,
-    "scored_by": 221283,
+    "scored_by": 221310,
     "rank": 1769,
-    "popularity": 526,
-    "members": 478339,
+    "popularity": 525,
+    "members": 478387,
     "favorites": 4000,
     "type": "TV",
     "status": "Finished Airing",
@@ -354,7 +359,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40571,
@@ -368,10 +374,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.56,
-    "scored_by": 203702,
+    "scored_by": 203722,
     "rank": 1801,
     "popularity": 574,
-    "members": 445762,
+    "members": 445800,
     "favorites": 4288,
     "type": "TV",
     "status": "Finished Airing",
@@ -407,7 +413,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40497,
@@ -424,10 +431,10 @@
     "background": "Mahouka Koukou no Rettousei: Raihousha-hen was released on Blu-ray and DVD in five volumes from December 16, 2020, to April 14, 2021.",
     "episodes": 13,
     "score": 7.27,
-    "scored_by": 178384,
-    "rank": 3070,
+    "scored_by": 178399,
+    "rank": 3069,
     "popularity": 679,
-    "members": 388920,
+    "members": 388952,
     "favorites": 1245,
     "type": "TV",
     "status": "Finished Airing",
@@ -468,7 +475,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41619,
@@ -482,10 +490,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.17,
-    "scored_by": 179481,
-    "rank": 3662,
+    "scored_by": 179501,
+    "rank": 3661,
     "popularity": 716,
-    "members": 369132,
+    "members": 369169,
     "favorites": 1722,
     "type": "TV",
     "status": "Finished Airing",
@@ -531,7 +539,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40595,
@@ -549,10 +558,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.71,
-    "scored_by": 151456,
-    "rank": 6045,
+    "scored_by": 151476,
+    "rank": 6044,
     "popularity": 784,
-    "members": 341573,
+    "members": 341618,
     "favorites": 1465,
     "type": "TV",
     "status": "Finished Airing",
@@ -592,7 +601,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41380,
@@ -608,10 +618,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.52,
-    "scored_by": 162815,
-    "rank": 7193,
+    "scored_by": 162830,
+    "rank": 7194,
     "popularity": 829,
-    "members": 326087,
+    "members": 326112,
     "favorites": 699,
     "type": "TV",
     "status": "Finished Airing",
@@ -649,7 +659,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41345,
@@ -702,7 +713,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41006,
@@ -722,10 +734,10 @@
     "background": "",
     "episodes": 24,
     "score": 7.2,
-    "scored_by": 99967,
-    "rank": 3484,
+    "scored_by": 99974,
+    "rank": 3483,
     "popularity": 911,
-    "members": 297609,
+    "members": 297630,
     "favorites": 1645,
     "type": "TV",
     "status": "Finished Airing",
@@ -768,7 +780,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41930,
@@ -782,10 +795,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.8,
-    "scored_by": 124914,
-    "rank": 5524,
+    "scored_by": 124924,
+    "rank": 5523,
     "popularity": 965,
-    "members": 280365,
+    "members": 280382,
     "favorites": 1628,
     "type": "TV",
     "status": "Finished Airing",
@@ -822,7 +835,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41312,
@@ -840,10 +854,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.96,
-    "scored_by": 127165,
-    "rank": 4706,
-    "popularity": 1100,
-    "members": 246557,
+    "scored_by": 127180,
+    "rank": 4705,
+    "popularity": 1101,
+    "members": 246596,
     "favorites": 1157,
     "type": "TV",
     "status": "Finished Airing",
@@ -890,7 +904,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40397,
@@ -906,10 +921,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.95,
-    "scored_by": 109899,
+    "scored_by": 109914,
     "rank": 776,
     "popularity": 1137,
-    "members": 241315,
+    "members": 241341,
     "favorites": 2503,
     "type": "TV",
     "status": "Finished Airing",
@@ -945,7 +960,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39790,
@@ -961,10 +977,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.08,
-    "scored_by": 82580,
+    "scored_by": 82594,
     "rank": 4138,
-    "popularity": 1306,
-    "members": 207180,
+    "popularity": 1305,
+    "members": 207213,
     "favorites": 1646,
     "type": "TV",
     "status": "Finished Airing",
@@ -1001,7 +1017,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40059,
@@ -1015,10 +1032,10 @@
     "background": "Golden Kamuy 3rd Season was released on Blu-ray and DVD in Japan in three volumes from January 29, 2021, to March 26, 2021. The series was released in the same formats in North America by Funimation Entertainment on October 5, 2021.",
     "episodes": 12,
     "score": 8.43,
-    "scored_by": 94404,
+    "scored_by": 94435,
     "rank": 191,
     "popularity": 1402,
-    "members": 191989,
+    "members": 192026,
     "favorites": 1581,
     "type": "TV",
     "status": "Finished Airing",
@@ -1057,7 +1074,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40974,
@@ -1117,7 +1135,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41911,
@@ -1131,10 +1150,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.69,
-    "scored_by": 39598,
-    "rank": 6151,
+    "scored_by": 39605,
+    "rank": 6150,
     "popularity": 1926,
-    "members": 130943,
+    "members": 130951,
     "favorites": 653,
     "type": "TV",
     "status": "Finished Airing",
@@ -1171,7 +1190,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40359,
@@ -1187,10 +1207,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.87,
-    "scored_by": 39294,
-    "rank": 5144,
+    "scored_by": 39298,
+    "rank": 5145,
     "popularity": 1963,
-    "members": 127220,
+    "members": 127226,
     "favorites": 373,
     "type": "TV",
     "status": "Finished Airing",
@@ -1224,7 +1244,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41783,
@@ -1241,9 +1262,9 @@
     "episodes": 12,
     "score": 6.49,
     "scored_by": 39200,
-    "rank": 7351,
+    "rank": 7349,
     "popularity": 2280,
-    "members": 102680,
+    "members": 102689,
     "favorites": 221,
     "type": "TV",
     "status": "Finished Airing",
@@ -1285,7 +1306,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40550,
@@ -1299,11 +1321,11 @@
     "background": "The anime adaptation is part of a media project based on the Assault Lily dolls, which also includes a theatrical play.",
     "episodes": 12,
     "score": 6.5,
-    "scored_by": 32238,
-    "rank": 7305,
+    "scored_by": 32241,
+    "rank": 7303,
     "popularity": 2411,
-    "members": 93753,
-    "favorites": 321,
+    "members": 93759,
+    "favorites": 322,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1333,7 +1355,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40879,
@@ -1347,10 +1370,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.48,
-    "scored_by": 35011,
+    "scored_by": 35012,
     "rank": 2107,
     "popularity": 2593,
-    "members": 84441,
+    "members": 84444,
     "favorites": 1116,
     "type": "TV",
     "status": "Finished Airing",
@@ -1387,7 +1410,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42571,
@@ -1404,9 +1428,9 @@
     "episodes": 12,
     "score": 5.55,
     "scored_by": 30670,
-    "rank": 12414,
-    "popularity": 2652,
-    "members": 80994,
+    "rank": 12415,
+    "popularity": 2653,
+    "members": 80997,
     "favorites": 209,
     "type": "TV",
     "status": "Finished Airing",
@@ -1437,7 +1461,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40906,
@@ -1453,10 +1478,10 @@
     "background": "",
     "episodes": 100,
     "score": 7.72,
-    "scored_by": 26715,
-    "rank": 1308,
+    "scored_by": 26714,
+    "rank": 1307,
     "popularity": 2684,
-    "members": 79483,
+    "members": 79490,
     "favorites": 660,
     "type": "TV",
     "status": "Finished Airing",
@@ -1490,7 +1515,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41834,
@@ -1504,10 +1530,10 @@
     "background": "",
     "episodes": 26,
     "score": 6.05,
-    "scored_by": 21944,
-    "rank": 10015,
-    "popularity": 2737,
-    "members": 76981,
+    "scored_by": 21947,
+    "rank": 10014,
+    "popularity": 2738,
+    "members": 76990,
     "favorites": 167,
     "type": "TV",
     "status": "Finished Airing",
@@ -1538,7 +1564,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38337,
@@ -1555,10 +1582,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.92,
-    "scored_by": 25808,
+    "scored_by": 25809,
     "rank": 819,
     "popularity": 2867,
-    "members": 71146,
+    "members": 71149,
     "favorites": 501,
     "type": "TV",
     "status": "Finished Airing",
@@ -1590,7 +1617,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40803,
@@ -1606,10 +1634,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.81,
-    "scored_by": 22016,
-    "rank": 5458,
-    "popularity": 2966,
-    "members": 66869,
+    "scored_by": 22020,
+    "rank": 5457,
+    "popularity": 2969,
+    "members": 66876,
     "favorites": 739,
     "type": "TV",
     "status": "Finished Airing",
@@ -1644,7 +1672,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42668,
@@ -1660,10 +1689,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.23,
-    "scored_by": 21736,
-    "rank": 3340,
+    "scored_by": 21738,
+    "rank": 3339,
     "popularity": 3078,
-    "members": 62602,
+    "members": 62608,
     "favorites": 135,
     "type": "TV",
     "status": "Finished Airing",
@@ -1691,7 +1720,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41372,
@@ -1707,10 +1737,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.45,
-    "scored_by": 15267,
+    "scored_by": 15270,
     "rank": 7652,
-    "popularity": 3514,
-    "members": 49121,
+    "popularity": 3513,
+    "members": 49127,
     "favorites": 77,
     "type": "TV",
     "status": "Finished Airing",
@@ -1745,7 +1775,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39681,
@@ -1796,7 +1827,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 39609,
@@ -1812,10 +1844,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.76,
-    "scored_by": 12787,
-    "rank": 5720,
-    "popularity": 3823,
-    "members": 42658,
+    "scored_by": 12790,
+    "rank": 5719,
+    "popularity": 3824,
+    "members": 42660,
     "favorites": 85,
     "type": "TV",
     "status": "Finished Airing",
@@ -1854,7 +1886,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37599,
@@ -1870,10 +1903,10 @@
     "background": "Magatsu Wahrheit: Zuerst is an adaptation of the mobile MMORPG Magatsu Wahrheit, developed and published by KLab. The game company announced the adaptation on March 24, 2018 as an \"animation project\" upon the launch of the smartphone game's website. On April 23, 2020, an official website revealed the production of the television series.",
     "episodes": 12,
     "score": 6.53,
-    "scored_by": 13160,
-    "rank": 7143,
+    "scored_by": 13161,
+    "rank": 7144,
     "popularity": 3982,
-    "members": 39201,
+    "members": 39203,
     "favorites": 68,
     "type": "TV",
     "status": "Finished Airing",
@@ -1912,7 +1945,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41364,
@@ -1957,7 +1991,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42238,
@@ -1974,10 +2009,10 @@
     "background": "The anime's fourth season was distributed in China via the Tencent Video streaming platform in August 2020. It was broadcast on Tokyo MX1 in Japan in October 2020.",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 14983,
-    "rank": 1678,
+    "scored_by": 14986,
+    "rank": 1677,
     "popularity": 4360,
-    "members": 32439,
+    "members": 32447,
     "favorites": 39,
     "type": "TV",
     "status": "Finished Airing",
@@ -2009,7 +2044,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40958,
@@ -2025,10 +2061,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.17,
-    "scored_by": 11542,
-    "rank": 13487,
-    "popularity": 4399,
-    "members": 31774,
+    "scored_by": 11543,
+    "rank": 13489,
+    "popularity": 4400,
+    "members": 31776,
     "favorites": 24,
     "type": "TV",
     "status": "Finished Airing",
@@ -2054,7 +2090,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38005,
@@ -2070,10 +2107,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.35,
-    "scored_by": 9080,
-    "rank": 2695,
+    "scored_by": 9083,
+    "rank": 2694,
     "popularity": 4444,
-    "members": 31065,
+    "members": 31067,
     "favorites": 101,
     "type": "TV",
     "status": "Finished Airing",
@@ -2113,7 +2150,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42391,
@@ -2128,7 +2166,7 @@
     "episodes": 25,
     "score": 7.4,
     "scored_by": 8811,
-    "rank": 2481,
+    "rank": 2482,
     "popularity": 4882,
     "members": 25138,
     "favorites": 121,
@@ -2166,7 +2204,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40272,
@@ -2183,9 +2222,9 @@
     "episodes": 12,
     "score": 7.23,
     "scored_by": 8000,
-    "rank": 3295,
+    "rank": 3293,
     "popularity": 4919,
-    "members": 24752,
+    "members": 24753,
     "favorites": 174,
     "type": "TV",
     "status": "Finished Airing",
@@ -2219,7 +2258,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40833,
@@ -2234,8 +2274,8 @@
     "episodes": 24,
     "score": 7.23,
     "scored_by": 8435,
-    "rank": 3320,
-    "popularity": 5761,
+    "rank": 3318,
+    "popularity": 5762,
     "members": 16551,
     "favorites": 46,
     "type": "TV",
@@ -2267,7 +2307,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41574,
@@ -2284,9 +2325,9 @@
     "episodes": 12,
     "score": 5.8,
     "scored_by": 4670,
-    "rank": 11374,
+    "rank": 11373,
     "popularity": 5892,
-    "members": 15600,
+    "members": 15602,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -2316,7 +2357,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40085,
@@ -2333,7 +2375,7 @@
     "scored_by": 4079,
     "rank": 11322,
     "popularity": 6346,
-    "members": 12852,
+    "members": 12854,
     "favorites": 8,
     "type": "TV",
     "status": "Finished Airing",
@@ -2368,7 +2410,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 38669,
@@ -2386,9 +2429,9 @@
     "episodes": 13,
     "score": 6.63,
     "scored_by": 1961,
-    "rank": 6559,
-    "popularity": 7503,
-    "members": 8625,
+    "rank": 6558,
+    "popularity": 7502,
+    "members": 8627,
     "favorites": 31,
     "type": "TV",
     "status": "Finished Airing",
@@ -2419,7 +2462,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42883,
@@ -2435,8 +2479,8 @@
     "score": 5.67,
     "scored_by": 3219,
     "rank": 11969,
-    "popularity": 8103,
-    "members": 7036,
+    "popularity": 8104,
+    "members": 7037,
     "favorites": 3,
     "type": "TV",
     "status": "Finished Airing",
@@ -2464,7 +2508,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42514,
@@ -2483,7 +2528,7 @@
     "scored_by": 2342,
     "rank": 6204,
     "popularity": 9500,
-    "members": 4682,
+    "members": 4684,
     "favorites": 46,
     "type": "TV",
     "status": "Finished Airing",
@@ -2514,7 +2559,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 44056,
@@ -2529,7 +2575,7 @@
     "episodes": 5,
     "score": 5.4,
     "scored_by": 166,
-    "rank": 12941,
+    "rank": 12944,
     "popularity": 9969,
     "members": 4067,
     "favorites": 4,
@@ -2559,7 +2605,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42295,
@@ -2574,9 +2621,9 @@
     "episodes": null,
     "score": 6.13,
     "scored_by": 230,
-    "rank": 9566,
-    "popularity": 11927,
-    "members": 2282,
+    "rank": 9564,
+    "popularity": 11926,
+    "members": 2283,
     "favorites": 5,
     "type": "TV",
     "status": "Currently Airing",
@@ -2606,7 +2653,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 43350,
@@ -2623,9 +2671,9 @@
     "episodes": 10,
     "score": 6.18,
     "scored_by": 725,
-    "rank": 9215,
-    "popularity": 12414,
-    "members": 1986,
+    "rank": 9213,
+    "popularity": 12413,
+    "members": 1987,
     "favorites": 5,
     "type": "TV",
     "status": "Finished Airing",
@@ -2652,7 +2700,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42482,
@@ -2667,8 +2716,8 @@
     "episodes": 25,
     "score": 6.28,
     "scored_by": 161,
-    "rank": 8661,
-    "popularity": 13345,
+    "rank": 8662,
+    "popularity": 13348,
     "members": 1487,
     "favorites": 2,
     "type": "TV",
@@ -2698,7 +2747,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42657,
@@ -2714,7 +2764,7 @@
     "score": 6.14,
     "scored_by": 564,
     "rank": 9496,
-    "popularity": 13429,
+    "popularity": 13430,
     "members": 1452,
     "favorites": 4,
     "type": "TV",
@@ -2744,52 +2794,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 42717,
-    "title": "Kaeru no Pickles: Kimochi no Iro",
-    "title_english": null,
-    "title_japanese": "かえるのピクルス -きもちのいろ-",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1850/108933l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/F7OjSioVZBM?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "",
-    "background": "",
-    "episodes": 12,
-    "score": 5.37,
-    "scored_by": 209,
-    "rank": 13010,
-    "popularity": 14472,
-    "members": 1106,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Sunny Gapen"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-10-04T00:00:00+00:00",
-    "aired_to": "2020-12-27T00:00:00+00:00",
-    "broadcast": "Sundays at 09:55 (JST)",
-    "url": "https://myanimelist.net/anime/42717/Kaeru_no_Pickles__Kimochi_no_Iro",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43416,
@@ -2804,7 +2810,7 @@
     "episodes": 50,
     "score": null,
     "scored_by": null,
-    "rank": 17730,
+    "rank": 17733,
     "popularity": 15938,
     "members": 749,
     "favorites": 0,
@@ -2834,99 +2840,8 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 42998,
-    "title": "Awajishima no Shichifukujin",
-    "title_english": "Seven Lucky Gods",
-    "title_japanese": "あわじしまの七福神",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1860/109576l.jpg",
-    "trailer_url": null,
-    "synopsis": "The story centers on the Seven Gods of Fortune in Japanese mythology as they reside on Awaji Island in Hyogo. In the shorts' story, the Seven Gods of Fortune slack in their duties in heaven, and Susanoo-no-Mikoto banishes them to Awaji Island. In order to return to the heavenly realm, they must help bring happiness to humans and rebuild their virtue. The outcast gods reluctantly grant human wishes and accumulate points in their \"god phones\" to be able to return to heaven. They aim to perform good deeds on particularly auspicious days to maximize point accumulation. Despite their best efforts at accumulating virtue, sometimes the Seven Gods of Fortune end up bringing misfortune to humans. When they fail, they lose points, further prolonging their stay on Awaji Island.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 25,
-    "score": null,
-    "scored_by": null,
-    "rank": 20035,
-    "popularity": 18988,
-    "members": 419,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-10-05T00:00:00+00:00",
-    "aired_to": "2021-03-05T00:00:00+00:00",
-    "broadcast": "Mondays at 07:30 (JST)",
-    "url": "https://myanimelist.net/anime/42998/Awajishima_no_Shichifukujin",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 41813,
-    "title": "Kaijuu Step Wandabada 2nd Season",
-    "title_english": null,
-    "title_japanese": "かいじゅうステップ ワンダバダ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1934/109054l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Kaijuu Step Wandabada.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17628,
-    "popularity": 20935,
-    "members": 290,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [
-      "Usagi Ou"
-    ],
-    "producers": [
-      "Tsuburaya Productions",
-      "NHK Enterprises"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-09-25T00:00:00+00:00",
-    "aired_to": "2021-03-26T00:00:00+00:00",
-    "broadcast": "Fridays at 17:20 (JST)",
-    "url": "https://myanimelist.net/anime/41813/Kaijuu_Step_Wandabada_2nd_Season",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52030,
@@ -2969,679 +2884,7 @@
     "year": 2020,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48245,
-    "title": "Porong Porong Pororo 7",
-    "title_english": "Pororo the Little Penguin 7",
-    "title_japanese": "뽀롱뽀롱 뽀로로 7",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1029/130303l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19549,
-    "popularity": 22672,
-    "members": 199,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-11-23T00:00:00+00:00",
-    "aired_to": "2021-02-16T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48245/Porong_Porong_Pororo_7",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52968,
-    "title": "Sylvanian Families: Mini Story - Peony",
-    "title_english": "Calico Critters: Mini Episodes - Peony",
-    "title_japanese": "シルバニアファミリー ミニストーリー ピオニー",
-    "title_synonyms": [
-      "Sylvanian Families: Mini Episodes - Peony",
-      "Sylvanian Families: Mini Story 4th Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1747/127711l.jpg",
-    "trailer_url": null,
-    "synopsis": "The story takes place in a village called Sylvania, and centers on Chocolate Usagi-chan, Kurumi Risu-kun, and their friends and families.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 15446,
-    "popularity": 22687,
-    "members": 198,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-10-01T00:00:00+00:00",
-    "aired_to": "2020-12-17T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/52968/Sylvanian_Families__Mini_Story_-_Peony",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56902,
-    "title": "In:App",
-    "title_english": null,
-    "title_japanese": "인앱",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1671/139079l.jpg",
-    "trailer_url": null,
-    "synopsis": "Inside our small smart device is a world very much like our own, where countless Appmen work to run their apps as smoothly as possible. Each of our thoughtless taps or pretty selfies can easily drive Smart World into chaos. But the same goes the other way – when our smartphone malfunctions our days can easily be ruined. \n\nIn this oddly balanced back and forth – where what seems small in one world can become huge in the other – are our protagonists Jackie and Robin. These two don’t quite mesh. They are a team with no teamwork. They just don’t seem reliable enough for us to entrust our smart devices. But they do remind us that their, and our \"Smart Life\" can easily become comedy.\n\n(Source: WelCon)",
-    "background": "",
-    "episodes": 56,
-    "score": null,
-    "scored_by": null,
-    "rank": 17286,
-    "popularity": 23074,
-    "members": 182,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "7 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "ANYZAC"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [],
-    "aired_from": "2020-11-21T00:00:00+00:00",
-    "aired_to": "2021-12-18T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56902/In_App",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 54293,
-    "title": "Myeongtamjeong Pinkfong-gwa Hogi",
-    "title_english": "Pinkfong Wonderstar Part 2",
-    "title_japanese": "명탐정 핑크퐁과 호기",
-    "title_synonyms": [
-      "Pinkfong and Hogi"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1098/132877l.jpg",
-    "trailer_url": null,
-    "synopsis": "Pinkfong and Hogi are back, helping friends in Wonderville and making memories! Watch them zoom around in their magical car and collect 'cube-cubes' every time they solve a friend's problem. Wonderville can count on Pinkfong and Hogi because no problem is too big (or too small) for team Wonderstar!\n\n(Source: Official YouTube Channel)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18936,
-    "popularity": 23981,
-    "members": 151,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [
-      "Pinkfong"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-09-24T00:00:00+00:00",
-    "aired_to": "2021-04-29T00:00:00+00:00",
-    "broadcast": "Thursdays at 14:30 (JST)",
-    "url": "https://myanimelist.net/anime/54293/Myeongtamjeong_Pinkfong-gwa_Hogi",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44138,
-    "title": "Xiong Chumo: Quaishou Jihua",
-    "title_english": null,
-    "title_japanese": "熊出没之怪兽计划",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1734/122985l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 16693,
-    "popularity": 24542,
-    "members": 137,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-10-01T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44138/Xiong_Chumo__Quaishou_Jihua",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48030,
-    "title": "Bianma Xueyuan",
-    "title_english": "Coding Battle",
-    "title_japanese": "编码学院",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1761/118266l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 20278,
-    "popularity": 24878,
-    "members": 129,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-12-03T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48030/Bianma_Xueyuan",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56919,
-    "title": "Bugsbot G",
-    "title_english": null,
-    "title_japanese": "벅스봇 G",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1238/139114l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 15,
-    "score": null,
-    "scored_by": null,
-    "rank": 20420,
-    "popularity": 24901,
-    "members": 128,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "4 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-09-29T00:00:00+00:00",
-    "aired_to": "2021-01-05T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56919/Bugsbot_G",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44396,
-    "title": "Shen Shou Jin Gang 5: Chao Neng Jing Jia",
-    "title_english": null,
-    "title_japanese": "神兽金刚5：超能晶甲",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1360/123095l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 45,
-    "score": null,
-    "scored_by": null,
-    "rank": 14889,
-    "popularity": 25895,
-    "members": 111,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-11-19T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44396/Shen_Shou_Jin_Gang_5__Chao_Neng_Jing_Jia",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 48032,
-    "title": "Qi Qi He Nu Na",
-    "title_english": "Kiki & Nuna",
-    "title_japanese": "奇奇和努娜",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1093/118305l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 104,
-    "score": null,
-    "scored_by": null,
-    "rank": 19632,
-    "popularity": 25947,
-    "members": 110,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "6 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-11-06T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/48032/Qi_Qi_He_Nu_Na",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44297,
-    "title": "Gangtie Feilong 3: Shanhai Shenshou Lu",
-    "title_english": "Dragon Force 3",
-    "title_japanese": "钢铁飞龙3山海神兽录",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1969/123074l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 21496,
-    "popularity": 25938,
-    "members": 110,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2020-11-06T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44297/Gangtie_Feilong_3__Shanhai_Shenshou_Lu",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 44119,
-    "title": "Kaixin Chaoren Lianmeng: Xingzhi Li",
-    "title_english": null,
-    "title_japanese": "开心超人联盟之星之力",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1051/122971l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17654,
-    "popularity": 26220,
-    "members": 106,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Sci-Fi"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-10-12T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/44119/Kaixin_Chaoren_Lianmeng__Xingzhi_Li",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47826,
-    "title": "Bai Bian Xiao Ba: Chao Xue Xianfeng",
-    "title_english": null,
-    "title_japanese": "百变校巴之超学先锋",
-    "title_synonyms": [
-      "GoGoBus and TeamSteam"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1818/129313l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20086,
-    "popularity": 26678,
-    "members": 99,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-10-24T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47826/Bai_Bian_Xiao_Ba__Chao_Xue_Xianfeng",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58949,
-    "title": "Tish Tash",
-    "title_english": null,
-    "title_japanese": "티시태시",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1551/143346l.jpg",
-    "trailer_url": null,
-    "synopsis": "Growing up can be tough, especially when you're a family of bears and your younger brother is a bit of a wild animal. Luckily Tish has a ridiculously huge imagination and a larger than life, imaginary friend Tash. No matter what troubles they face, be it tackling the age-old terror of boredom or maybe just helping your baby brother not to be sad about losing his favorite toy; Together they can create new worlds around themselves, embarking on imaginative adventures and finding their own creative angle to help solve any problems that life throws at them.\n\n(Source: WelCon)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15705,
-    "popularity": 26800,
-    "members": 97,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Studio Gale"
-    ],
-    "producers": [
-      "EBS"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-09-28T00:00:00+00:00",
-    "aired_to": "2020-12-22T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58949/Tish_Tash",
-    "year": 2020,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 47804,
-    "title": "Xin Qi Bao Long Zhan Che 3: Tuoluo Zhan Che",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车3陀螺战车",
-    "title_synonyms": [
-      "몬스터 탑",
-      "Monster Top"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1207/129292l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 36,
-    "score": null,
-    "scored_by": null,
-    "rank": 16575,
-    "popularity": 27432,
-    "members": 89,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-11-20T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/47804/Xin_Qi_Bao_Long_Zhan_Che_3__Tuoluo_Zhan_Che",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 45802,
-    "title": "Meng Zhou Shaonian Zhi: Xihan Gongzhu",
-    "title_english": null,
-    "title_japanese": "梦舟少年志之西汉公主",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1608/129552l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 38,
-    "score": null,
-    "scored_by": null,
-    "rank": 18581,
-    "popularity": 28450,
-    "members": 79,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2020-12-20T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/45802/Meng_Zhou_Shaonian_Zhi__Xihan_Gongzhu",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

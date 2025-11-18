@@ -59,7 +59,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48580,
@@ -121,7 +122,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39247,
@@ -138,11 +140,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.21,
-    "scored_by": 301784,
+    "scored_by": 301823,
     "rank": 404,
     "popularity": 407,
-    "members": 600017,
-    "favorites": 5766,
+    "members": 600086,
+    "favorites": 5764,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -174,7 +176,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43523,
@@ -190,11 +193,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.71,
-    "scored_by": 285719,
-    "rank": 1336,
+    "scored_by": 285784,
+    "rank": 1335,
     "popularity": 458,
-    "members": 535246,
-    "favorites": 4704,
+    "members": 535350,
+    "favorites": 4705,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -236,7 +239,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41710,
@@ -254,10 +258,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.25,
-    "scored_by": 228336,
+    "scored_by": 228355,
     "rank": 3207,
     "popularity": 576,
-    "members": 445098,
+    "members": 445146,
     "favorites": 2764,
     "type": "TV",
     "status": "Finished Airing",
@@ -298,7 +302,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44203,
@@ -314,11 +319,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.06,
-    "scored_by": 226010,
-    "rank": 4243,
+    "scored_by": 226040,
+    "rank": 4242,
     "popularity": 581,
-    "members": 440090,
-    "favorites": 3438,
+    "members": 440143,
+    "favorites": 3437,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -364,7 +369,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43969,
@@ -380,10 +386,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.51,
-    "scored_by": 201535,
-    "rank": 7245,
+    "scored_by": 201557,
+    "rank": 7246,
     "popularity": 626,
-    "members": 413498,
+    "members": 413529,
     "favorites": 2531,
     "type": "TV",
     "status": "Finished Airing",
@@ -423,7 +429,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46471,
@@ -479,7 +486,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40904,
@@ -495,10 +503,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.39,
-    "scored_by": 173136,
+    "scored_by": 173148,
     "rank": 2510,
     "popularity": 706,
-    "members": 373889,
+    "members": 373912,
     "favorites": 2466,
     "type": "TV",
     "status": "Finished Airing",
@@ -535,7 +543,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48849,
@@ -588,7 +597,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47257,
@@ -604,11 +614,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.58,
-    "scored_by": 106134,
-    "rank": 1715,
+    "scored_by": 106143,
+    "rank": 1714,
     "popularity": 984,
-    "members": 275992,
-    "favorites": 1760,
+    "members": 276009,
+    "favorites": 1761,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -647,7 +657,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42282,
@@ -665,10 +676,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.25,
-    "scored_by": 118187,
-    "rank": 3234,
+    "scored_by": 118206,
+    "rank": 3235,
     "popularity": 1018,
-    "members": 268069,
+    "members": 268117,
     "favorites": 1109,
     "type": "TV",
     "status": "Finished Airing",
@@ -705,7 +716,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48753,
@@ -721,10 +733,10 @@
     "background": "Jahy-sama wa Kujikenai! was released on Blu-ray in five volumes from December 22, 2021 to April 27, 2022.",
     "episodes": 20,
     "score": 7.01,
-    "scored_by": 92015,
-    "rank": 4504,
-    "popularity": 1031,
-    "members": 264162,
+    "scored_by": 92018,
+    "rank": 4505,
+    "popularity": 1032,
+    "members": 264174,
     "favorites": 1450,
     "type": "TV",
     "status": "Finished Airing",
@@ -760,7 +772,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40620,
@@ -774,10 +787,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.7,
-    "scored_by": 102073,
+    "scored_by": 102091,
     "rank": 1344,
     "popularity": 1044,
-    "members": 262422,
+    "members": 262481,
     "favorites": 2644,
     "type": "TV",
     "status": "Finished Airing",
@@ -818,7 +831,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42340,
@@ -832,10 +846,10 @@
     "background": "Meikyuu Black Company was released on Blu-ray and DVD in three volumes from September 29, 2021 to November 26, 2021.",
     "episodes": 12,
     "score": 7.21,
-    "scored_by": 111943,
-    "rank": 3417,
+    "scored_by": 111949,
+    "rank": 3416,
     "popularity": 1087,
-    "members": 249812,
+    "members": 249836,
     "favorites": 880,
     "type": "TV",
     "status": "Finished Airing",
@@ -871,7 +885,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43814,
@@ -888,10 +903,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.75,
-    "scored_by": 110184,
-    "rank": 5777,
+    "scored_by": 110207,
+    "rank": 5776,
     "popularity": 1177,
-    "members": 232850,
+    "members": 232914,
     "favorites": 956,
     "type": "TV",
     "status": "Finished Airing",
@@ -934,7 +949,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41812,
@@ -948,10 +964,10 @@
     "background": "Megami-ryou no Ryoubo-kun. was released on Blu-ray in two volumes from October 27, 2021, to November 26, 2021.",
     "episodes": 10,
     "score": 6.49,
-    "scored_by": 87618,
-    "rank": 7361,
+    "scored_by": 87628,
+    "rank": 7359,
     "popularity": 1240,
-    "members": 219539,
+    "members": 219559,
     "favorites": 1308,
     "type": "TV",
     "status": "Finished Airing",
@@ -989,7 +1005,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42625,
@@ -1005,10 +1022,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.61,
-    "scored_by": 82656,
-    "rank": 1626,
+    "scored_by": 82664,
+    "rank": 1625,
     "popularity": 1309,
-    "members": 206509,
+    "members": 206524,
     "favorites": 1665,
     "type": "TV",
     "status": "Finished Airing",
@@ -1044,7 +1061,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42627,
@@ -1108,7 +1126,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44881,
@@ -1124,10 +1143,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.79,
-    "scored_by": 86271,
-    "rank": 5575,
+    "scored_by": 86274,
+    "rank": 5574,
     "popularity": 1459,
-    "members": 183297,
+    "members": 183312,
     "favorites": 644,
     "type": "TV",
     "status": "Finished Airing",
@@ -1162,7 +1181,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46093,
@@ -1218,7 +1238,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40960,
@@ -1234,11 +1255,11 @@
     "background": "Cheat Kusushi no Slow Life: Isekai ni Tsukurou Drugstore was first announced at Comiket 97 on December 28, 2019.",
     "episodes": 12,
     "score": 6.45,
-    "scored_by": 63030,
-    "rank": 7617,
+    "scored_by": 63040,
+    "rank": 7616,
     "popularity": 1618,
-    "members": 162431,
-    "favorites": 627,
+    "members": 162451,
+    "favorites": 626,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1279,7 +1300,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48406,
@@ -1293,10 +1315,10 @@
     "background": "Re-Main is also streamed on the Ani-One Asia channel on Youtube. Episode three of the anime was delayed for one week due to the special broadcast of the British Open 2021.",
     "episodes": 12,
     "score": 7.19,
-    "scored_by": 55718,
-    "rank": 3523,
+    "scored_by": 55720,
+    "rank": 3521,
     "popularity": 1750,
-    "members": 147257,
+    "members": 147273,
     "favorites": 880,
     "type": "TV",
     "status": "Finished Airing",
@@ -1329,7 +1351,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45572,
@@ -1343,10 +1366,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.68,
-    "scored_by": 45901,
-    "rank": 6237,
+    "scored_by": 45906,
+    "rank": 6236,
     "popularity": 1789,
-    "members": 143071,
+    "members": 143084,
     "favorites": 736,
     "type": "TV",
     "status": "Finished Airing",
@@ -1380,7 +1403,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48488,
@@ -1433,7 +1457,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48492,
@@ -1447,10 +1472,10 @@
     "background": "Scarlet Nexus is inspired by the Japanese action role-playing game developed by Bandai Namco Studios and Tose of the same name. Published by Bandai Namco Entertainment, the game was released just prior to the airing of the television series on June 25, 2021 for Windows, PlayStation 4, Playstation 5, Xbox One, and Xbox Series X/S.",
     "episodes": 26,
     "score": 5.72,
-    "scored_by": 28423,
-    "rank": 11686,
+    "scored_by": 28427,
+    "rank": 11684,
     "popularity": 2260,
-    "members": 104455,
+    "members": 104467,
     "favorites": 503,
     "type": "TV",
     "status": "Finished Airing",
@@ -1485,7 +1510,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43691,
@@ -1502,10 +1528,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.71,
-    "scored_by": 28905,
-    "rank": 1324,
+    "scored_by": 28904,
+    "rank": 1323,
     "popularity": 2461,
-    "members": 91500,
+    "members": 91502,
     "favorites": 521,
     "type": "TV",
     "status": "Finished Airing",
@@ -1541,7 +1567,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41169,
@@ -1555,11 +1582,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.91,
-    "scored_by": 29938,
-    "rank": 853,
-    "popularity": 2725,
-    "members": 77367,
-    "favorites": 1141,
+    "scored_by": 29939,
+    "rank": 854,
+    "popularity": 2726,
+    "members": 77371,
+    "favorites": 1142,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1593,7 +1620,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41530,
@@ -1607,10 +1635,10 @@
     "background": "Magia Record: Mahou Shoujo Madoka☆Magica Gaiden 2nd Season - Kakusei Zenya is based on the 2017 mobile game Magia Record: Puella Magi Madoka Magica [Side Story]. The series was released on Blu-ray and DVD in three volumes from November 24, 2021 to January 26, 2022.",
     "episodes": 8,
     "score": 7.02,
-    "scored_by": 22747,
+    "scored_by": 22753,
     "rank": 4453,
     "popularity": 2831,
-    "members": 72643,
+    "members": 72652,
     "favorites": 450,
     "type": "TV",
     "status": "Finished Airing",
@@ -1646,7 +1674,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43767,
@@ -1660,10 +1689,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.49,
-    "scored_by": 10672,
-    "rank": 7365,
-    "popularity": 3593,
-    "members": 47392,
+    "scored_by": 10676,
+    "rank": 7363,
+    "popularity": 3594,
+    "members": 47396,
     "favorites": 312,
     "type": "TV",
     "status": "Finished Airing",
@@ -1701,7 +1730,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 45577,
@@ -1721,7 +1751,7 @@
     "scored_by": 8981,
     "rank": 379,
     "popularity": 4779,
-    "members": 26437,
+    "members": 26440,
     "favorites": 406,
     "type": "TV",
     "status": "Finished Airing",
@@ -1752,7 +1782,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48470,
@@ -1803,7 +1834,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48252,
@@ -1820,9 +1852,9 @@
     "episodes": 12,
     "score": 6.93,
     "scored_by": 8572,
-    "rank": 4842,
+    "rank": 4840,
     "popularity": 5334,
-    "members": 20319,
+    "members": 20320,
     "favorites": 173,
     "type": "TV",
     "status": "Finished Airing",
@@ -1855,57 +1887,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 49110,
-    "title": "Yami Shibai 9",
-    "title_english": "Theatre of Darkness: Yamishibai 9",
-    "title_japanese": "闇芝居 九期",
-    "title_synonyms": [
-      "Yamishibai: Japanese Ghost Stories Ninth Season",
-      "Yamishibai: Japanese Ghost Stories 9"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1880/115566l.jpg",
-    "trailer_url": null,
-    "synopsis": "Ninth season of Yami Shibai.",
-    "background": "",
-    "episodes": 13,
-    "score": 5.92,
-    "scored_by": 5516,
-    "rank": 10707,
-    "popularity": 6136,
-    "members": 13993,
-    "favorites": 40,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "4 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Original",
-    "studios": [
-      "ILCA",
-      "DRAWIZ",
-      "yell"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Avant Garde",
-      "Horror",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2021-07-12T00:00:00+00:00",
-    "aired_to": "2021-10-04T00:00:00+00:00",
-    "broadcast": "Mondays at 03:05 (JST)",
-    "url": "https://myanimelist.net/anime/49110/Yami_Shibai_9",
-    "year": 2021,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 37008,
@@ -1920,9 +1903,9 @@
     "episodes": 13,
     "score": 6.38,
     "scored_by": 1403,
-    "rank": 8042,
-    "popularity": 7612,
-    "members": 8300,
+    "rank": 8041,
+    "popularity": 7611,
+    "members": 8301,
     "favorites": 49,
     "type": "TV",
     "status": "Finished Airing",
@@ -1953,7 +1936,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 43741,
@@ -1972,9 +1956,9 @@
     "episodes": 13,
     "score": 6.19,
     "scored_by": 2479,
-    "rank": 9203,
+    "rank": 9201,
     "popularity": 8212,
-    "members": 6845,
+    "members": 6846,
     "favorites": 27,
     "type": "TV",
     "status": "Finished Airing",
@@ -2010,7 +1994,8 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48859,
@@ -2025,8 +2010,8 @@
     "episodes": 16,
     "score": 6.73,
     "scored_by": 231,
-    "rank": 5891,
-    "popularity": 11776,
+    "rank": 5890,
+    "popularity": 11778,
     "members": 2393,
     "favorites": 18,
     "type": "TV",
@@ -2055,373 +2040,7 @@
     "year": 2021,
     "season": "summer",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 49079,
-    "title": "Xi Yangyang Yu Hui Tailang: Juezhan Ci Shidai",
-    "title_english": "Pleasant Goat and Big Big Wolf: Decisive Battle Times",
-    "title_japanese": "喜羊羊与灰太狼之决战次时代",
-    "title_synonyms": [
-      "Pleasant Goat and Big Big Wolf: Ultimate Battle The Next Generation (Mighty Little Defenders 4)"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1492/115307l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 60,
-    "score": null,
-    "scored_by": null,
-    "rank": 16248,
-    "popularity": 17640,
-    "members": 527,
-    "favorites": 4,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-07-09T00:00:00+00:00",
-    "aired_to": "2021-07-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/49079/Xi_Yangyang_Yu_Hui_Tailang__Juezhan_Ci_Shidai",
-    "year": 2021,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 49221,
-    "title": "Kick & Slide",
-    "title_english": null,
-    "title_japanese": "KICK&SLIDE",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1340/115899l.jpg",
-    "trailer_url": null,
-    "synopsis": "The third generation of J SOUL BROTHERS from EXILE TRIBE is reimagined as 7 unique and diverse characters in \"KICK &amp; SLIDE\". This is a slapstick story where the characters solve difficult cases!? and rare cases!? that occur in the colorful and pop vibrant city \"Nakame Town\" with dance and music.\n\n(Source: Official website)",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 17825,
-    "popularity": 17712,
-    "members": 519,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Craftar Studios"
-    ],
-    "producers": [
-      "TV Tokyo"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Music"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-07-07T00:00:00+00:00",
-    "aired_to": "2021-09-22T00:00:00+00:00",
-    "broadcast": "Wednesdays at Unknown",
-    "url": "https://myanimelist.net/anime/49221/Kick___Slide",
-    "year": 2021,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55219,
-    "title": "Tian Zhen Yu Kung Fu Wa",
-    "title_english": "Kung Fu Sock",
-    "title_japanese": "天真与功夫袜",
-    "title_synonyms": [
-      "Tianzhen Yu Gongfu wa"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1934/135708l.jpg",
-    "trailer_url": null,
-    "synopsis": "The series follows the adventures of a curious 8-year-old girl named TZ who always dreamed of going on adventures and exploring wonderful places, and then one day she finds an odd-looking sock in her mother’s laundry that…. Talks. It was originally a Kung Fu Master from another world charged with guarding an ancient scroll. When the Master came through a vortex into TZ’s time, his powers were weakened, and he was transformed into a sock.  However, when the little girl puts the sock on her foot she transforms into a super heroine – a kick-ass Kung Fu girl, and together they must complete Kung Fu Wa’s mission and follow the ancient scroll to defeat evil and protect their world.\n\n(Source: Federation Studios)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 15659,
-    "popularity": 21728,
-    "members": 247,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Comedy"
-    ],
-    "themes": [
-      "Anthropomorphic",
-      "Mahou Shoujo",
-      "Martial Arts",
-      "Reincarnation"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-08-03T00:00:00+00:00",
-    "aired_to": "2022-07-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/55219/Tian_Zhen_Yu_Kung_Fu_Wa",
-    "year": 2021,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56306,
-    "title": "Hello Carbot Season 11",
-    "title_english": null,
-    "title_japanese": "헬로 카봇 시즌11",
-    "title_synonyms": [
-      "Hello Carbot: Samba"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1347/137815l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 21882,
-    "popularity": 22563,
-    "members": 204,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-08-29T00:00:00+00:00",
-    "aired_to": "2022-03-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56306/Hello_Carbot_Season_11",
-    "year": 2021,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56478,
-    "title": "Cricket Pang",
-    "title_english": "Cricket Pang",
-    "title_japanese": "크리켓팡",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1087/138128l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 20809,
-    "popularity": 23210,
-    "members": 177,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-06-08T00:00:00+00:00",
-    "aired_to": "2021-09-14T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56478/Cricket_Pang",
-    "year": 2021,
-    "season": "summer",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 58377,
-    "title": "Xiong Chumo: Xiongxiong Leyuan 4",
-    "title_english": null,
-    "title_japanese": "熊熊乐园4",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1262/141917l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16707,
-    "popularity": 26769,
-    "members": 97,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-07-15T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/58377/Xiong_Chumo__Xiongxiong_Leyuan_4",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57317,
-    "title": "Yuzhou Huwei Dui: Gang Jia Bawang Long",
-    "title_english": "Cosmicrew S4",
-    "title_japanese": "宇宙护卫队之钢甲霸王龙",
-    "title_synonyms": [
-      "Yuzhou Huwei Dui 4"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1685/139933l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17042,
-    "popularity": 28523,
-    "members": 79,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Sci-Fi"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-09-06T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57317/Yuzhou_Huwei_Dui__Gang_Jia_Bawang_Long",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60878,
-    "title": "Xin Qi Bao Long Zhan Che 4: Zhan Long Heti",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车4 战龙合体",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1928/147804l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "rank": 16574,
-    "popularity": 29003,
-    "members": 62,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-08-12T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60878/Xin_Qi_Bao_Long_Zhan_Che_4__Zhan_Long_Heti",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

@@ -11,11 +11,11 @@
     "background": "Kimetsu no Yaiba: Yuukaku-hen adapts chapters 67 to 97 of the original manga.",
     "episodes": 11,
     "score": 8.71,
-    "scored_by": 1071603,
+    "scored_by": 1071821,
     "rank": 63,
     "popularity": 74,
-    "members": 1672524,
-    "favorites": 25133,
+    "members": 1672850,
+    "favorites": 25137,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -52,7 +52,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48583,
@@ -69,11 +70,11 @@
     "background": "Shingeki no Kyojin: The Final Season Part 2 adapts content from volumes 29-32 of the original manga.",
     "episodes": 12,
     "score": 8.77,
-    "scored_by": 888539,
+    "scored_by": 888734,
     "rank": 45,
     "popularity": 93,
-    "members": 1495547,
-    "favorites": 31834,
+    "members": 1495857,
+    "favorites": 31835,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -115,7 +116,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48736,
@@ -132,11 +134,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.14,
-    "scored_by": 767882,
-    "rank": 496,
+    "scored_by": 768135,
+    "rank": 497,
     "popularity": 123,
-    "members": 1258522,
-    "favorites": 22933,
+    "members": 1258883,
+    "favorites": 22939,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -173,7 +175,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40507,
@@ -189,10 +192,10 @@
     "background": "Arifureta Shokugyou de Sekai Saikyou 2nd Season was released on Blu-ray from March 23, 2022, to July 27, 2022.",
     "episodes": 12,
     "score": 7.14,
-    "scored_by": 194482,
-    "rank": 3806,
+    "scored_by": 194515,
+    "rank": 3805,
     "popularity": 572,
-    "members": 447540,
+    "members": 447593,
     "favorites": 4314,
     "type": "TV",
     "status": "Finished Airing",
@@ -228,7 +231,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49114,
@@ -246,11 +250,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.19,
-    "scored_by": 145206,
-    "rank": 429,
-    "popularity": 803,
-    "members": 334445,
-    "favorites": 2901,
+    "scored_by": 145236,
+    "rank": 428,
+    "popularity": 804,
+    "members": 334502,
+    "favorites": 2902,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -290,7 +294,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47159,
@@ -304,10 +309,10 @@
     "background": "Tensai Ouji no Akaji Kokka Saisei Jutsu was released on Blu-ray in four volumes from March 30, 2022 to June 29, 2022.",
     "episodes": 12,
     "score": 7.38,
-    "scored_by": 150949,
+    "scored_by": 150977,
     "rank": 2558,
     "popularity": 835,
-    "members": 323849,
+    "members": 323893,
     "favorites": 1704,
     "type": "TV",
     "status": "Finished Airing",
@@ -345,7 +350,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49930,
@@ -362,10 +368,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.43,
-    "scored_by": 150454,
-    "rank": 2320,
+    "scored_by": 150476,
+    "rank": 2319,
     "popularity": 928,
-    "members": 290250,
+    "members": 290282,
     "favorites": 1446,
     "type": "TV",
     "status": "Finished Airing",
@@ -406,7 +412,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47161,
@@ -464,7 +471,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41946,
@@ -478,10 +486,10 @@
     "background": "",
     "episodes": 11,
     "score": 5.89,
-    "scored_by": 107364,
+    "scored_by": 107373,
     "rank": null,
-    "popularity": 981,
-    "members": 276147,
+    "popularity": 982,
+    "members": 276160,
     "favorites": 2066,
     "type": "TV",
     "status": "Finished Airing",
@@ -523,7 +531,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48414,
@@ -539,11 +548,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.14,
-    "scored_by": 110437,
+    "scored_by": 110454,
     "rank": 3846,
     "popularity": 996,
-    "members": 273364,
-    "favorites": 1460,
+    "members": 273403,
+    "favorites": 1461,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -582,7 +591,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44055,
@@ -598,11 +608,11 @@
     "background": "",
     "episodes": 12,
     "score": 8.19,
-    "scored_by": 102519,
-    "rank": 425,
+    "scored_by": 102544,
+    "rank": 424,
     "popularity": 1205,
-    "members": 227777,
-    "favorites": 5529,
+    "members": 227823,
+    "favorites": 5530,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -640,7 +650,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48553,
@@ -692,7 +703,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49721,
@@ -709,10 +721,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.37,
-    "scored_by": 93743,
+    "scored_by": 93748,
     "rank": 238,
     "popularity": 1306,
-    "members": 207199,
+    "members": 207210,
     "favorites": 2350,
     "type": "TV",
     "status": "Finished Airing",
@@ -753,7 +765,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48997,
@@ -770,10 +783,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.12,
-    "scored_by": 91457,
-    "rank": 3960,
+    "scored_by": 91465,
+    "rank": 3961,
     "popularity": 1340,
-    "members": 201466,
+    "members": 201497,
     "favorites": 866,
     "type": "TV",
     "status": "Finished Airing",
@@ -812,7 +825,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 44516,
@@ -826,10 +840,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.9,
-    "scored_by": 70075,
+    "scored_by": 70097,
     "rank": 4995,
     "popularity": 1401,
-    "members": 191938,
+    "members": 191984,
     "favorites": 1017,
     "type": "TV",
     "status": "Finished Airing",
@@ -869,7 +883,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48239,
@@ -885,11 +900,11 @@
     "background": "Leadale no Daichi nite will be released on Blu-ray and DVD in three volumes from March 30, 2022 to May 25, 2022.",
     "episodes": 12,
     "score": 6.95,
-    "scored_by": 90313,
+    "scored_by": 90323,
     "rank": 4762,
     "popularity": 1458,
-    "members": 183437,
-    "favorites": 968,
+    "members": 183450,
+    "favorites": 969,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -927,7 +942,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42072,
@@ -943,10 +959,10 @@
     "background": "Kenja no Deshi wo Nanoru Kenja was set to premiere in Fall 2021 but was delayed until January 2022. The series was released on Blu-ray and DVD in three volumes from April 27, 2022 to June 24, 2022.",
     "episodes": 12,
     "score": 6.33,
-    "scored_by": 57263,
-    "rank": 8329,
-    "popularity": 1818,
-    "members": 140040,
+    "scored_by": 57280,
+    "rank": 8327,
+    "popularity": 1817,
+    "members": 140082,
     "favorites": 654,
     "type": "TV",
     "status": "Finished Airing",
@@ -985,7 +1001,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42670,
@@ -1002,10 +1019,10 @@
     "background": "Princess Connect! Re:Dive Season 2 was released on Blu-ray in three volumes from March 22, 2022 to May 17, 2022.",
     "episodes": 12,
     "score": 7.73,
-    "scored_by": 51409,
+    "scored_by": 51416,
     "rank": 1284,
     "popularity": 1827,
-    "members": 139293,
+    "members": 139307,
     "favorites": 837,
     "type": "TV",
     "status": "Finished Airing",
@@ -1040,7 +1057,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45560,
@@ -1054,10 +1072,10 @@
     "background": "Orient was released on Blu-ray in Japan in three volumes from March 25, 2022 to May 27, 2022.",
     "episodes": 12,
     "score": 6.61,
-    "scored_by": 44945,
-    "rank": 6648,
-    "popularity": 1963,
-    "members": 127199,
+    "scored_by": 44954,
+    "rank": 6646,
+    "popularity": 1962,
+    "members": 127217,
     "favorites": 527,
     "type": "TV",
     "status": "Finished Airing",
@@ -1097,7 +1115,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49738,
@@ -1111,10 +1130,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.79,
-    "scored_by": 28400,
+    "scored_by": 28406,
     "rank": 1120,
     "popularity": 2476,
-    "members": 90619,
+    "members": 90628,
     "favorites": 835,
     "type": "TV",
     "status": "Finished Airing",
@@ -1153,7 +1172,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 50185,
@@ -1202,7 +1222,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50204,
@@ -1218,10 +1239,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.34,
-    "scored_by": 22508,
-    "rank": 8275,
+    "scored_by": 22511,
+    "rank": 8277,
     "popularity": 2825,
-    "members": 72816,
+    "members": 72824,
     "favorites": 207,
     "type": "TV",
     "status": "Finished Airing",
@@ -1259,7 +1280,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45425,
@@ -1273,10 +1295,10 @@
     "background": "Slow Loop was released on Blu-ray and DVD in three volumes from March 30, 2022 to May 25, 2022.",
     "episodes": 12,
     "score": 7.25,
-    "scored_by": 25221,
-    "rank": 3184,
+    "scored_by": 25226,
+    "rank": 3183,
     "popularity": 2905,
-    "members": 69538,
+    "members": 69546,
     "favorites": 294,
     "type": "TV",
     "status": "Finished Airing",
@@ -1313,7 +1335,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42892,
@@ -1367,7 +1390,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49385,
@@ -1381,10 +1405,10 @@
     "background": "Kaijin Kaihatsu-bu no Kuroitsu-san was released on Blu-ray on June 29, 2022.",
     "episodes": 12,
     "score": 6.69,
-    "scored_by": 20671,
+    "scored_by": 20676,
     "rank": 6155,
-    "popularity": 3050,
-    "members": 63788,
+    "popularity": 3049,
+    "members": 63795,
     "favorites": 184,
     "type": "TV",
     "status": "Finished Airing",
@@ -1419,7 +1443,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49519,
@@ -1433,10 +1458,10 @@
     "background": "Hakozume: Kouban Joshi no Gyakushuu was released on Blu-ray and DVD in two volumes from March 30, 2022 to April 27, 2022.",
     "episodes": 13,
     "score": 7.16,
-    "scored_by": 24110,
-    "rank": 3728,
+    "scored_by": 24112,
+    "rank": 3727,
     "popularity": 3208,
-    "members": 57482,
+    "members": 57490,
     "favorites": 163,
     "type": "TV",
     "status": "Finished Airing",
@@ -1472,7 +1497,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46604,
@@ -1486,10 +1512,10 @@
     "background": "Dolls' Frontline is based on the mobile strategy role-playing game Girls' Frontline developed by MICA Team and Sunborn Network Technology. The original Chinese version of the game launched in May 2016 and the Japanese version of the game—from which the anime takes its name—launched in August 2018.",
     "episodes": 12,
     "score": 5.86,
-    "scored_by": 15828,
-    "rank": 11027,
-    "popularity": 3249,
-    "members": 56275,
+    "scored_by": 15831,
+    "rank": 11029,
+    "popularity": 3250,
+    "members": 56284,
     "favorites": 294,
     "type": "TV",
     "status": "Finished Airing",
@@ -1524,7 +1550,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49969,
@@ -1538,10 +1565,10 @@
     "background": "Tribe Nine is a part of the Japanese multimedia franchise of the same name, collaborated by Too Kyo Games, Akatsuki Inc., and LIDENFILMS. The series was released on Blu-ray in a special limited version on April 27, 2022",
     "episodes": 12,
     "score": 6.08,
-    "scored_by": 14011,
-    "rank": 9812,
+    "scored_by": 14012,
+    "rank": 9811,
     "popularity": 3476,
-    "members": 50072,
+    "members": 50075,
     "favorites": 233,
     "type": "TV",
     "status": "Finished Airing",
@@ -1577,7 +1604,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40488,
@@ -1591,10 +1619,10 @@
     "background": "Futsal Boys!!!!! is a part of the Japanese multimedia franchise of the same name, collaborated by Bandai Namco Arts, Bandai Namco Entertainment, and Diomedéa. The anime was set to premiere in 2021, but was delayed to 2022 due to quality concerns regarding its partner smartphone game. The series was released on Blu-ray and DVD in six volumes from April 27, 2022 to September 28, 2022.",
     "episodes": 12,
     "score": 5.46,
-    "scored_by": 11334,
-    "rank": 12713,
+    "scored_by": 11335,
+    "rank": 12710,
     "popularity": 4202,
-    "members": 35150,
+    "members": 35152,
     "favorites": 233,
     "type": "TV",
     "status": "Finished Airing",
@@ -1628,7 +1656,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43735,
@@ -1643,9 +1672,9 @@
     "episodes": 24,
     "score": 6.77,
     "scored_by": 8043,
-    "rank": 5681,
+    "rank": 5680,
     "popularity": 4672,
-    "members": 27923,
+    "members": 27921,
     "favorites": 153,
     "type": "TV",
     "status": "Finished Airing",
@@ -1677,7 +1706,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 42808,
@@ -1691,10 +1721,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.64,
-    "scored_by": 7683,
+    "scored_by": 7684,
     "rank": 6458,
     "popularity": 4917,
-    "members": 24744,
+    "members": 24746,
     "favorites": 150,
     "type": "TV",
     "status": "Finished Airing",
@@ -1725,7 +1755,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49514,
@@ -1741,10 +1772,10 @@
     "background": "Gensou Sangokushi: Tengen Reishinki is based on the Taiwanese role-playing video game series Fantasia Sango by UserJoy Technology.",
     "episodes": 12,
     "score": 5.31,
-    "scored_by": 4819,
-    "rank": 13161,
-    "popularity": 5046,
-    "members": 23270,
+    "scored_by": 4820,
+    "rank": 13163,
+    "popularity": 5047,
+    "members": 23275,
     "favorites": 102,
     "type": "TV",
     "status": "Finished Airing",
@@ -1776,7 +1807,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45783,
@@ -1793,9 +1825,9 @@
     "episodes": 13,
     "score": 6.66,
     "scored_by": 3138,
-    "rank": 6365,
+    "rank": 6368,
     "popularity": 6017,
-    "members": 14685,
+    "members": 14686,
     "favorites": 75,
     "type": "TV",
     "status": "Finished Airing",
@@ -1833,7 +1865,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50281,
@@ -1848,9 +1881,9 @@
     "episodes": 45,
     "score": 6.85,
     "scored_by": 3627,
-    "rank": 5278,
-    "popularity": 6487,
-    "members": 12198,
+    "rank": 5279,
+    "popularity": 6486,
+    "members": 12202,
     "favorites": 124,
     "type": "TV",
     "status": "Finished Airing",
@@ -1884,7 +1917,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50267,
@@ -1899,9 +1933,9 @@
     "episodes": 8,
     "score": 5.72,
     "scored_by": 3415,
-    "rank": 11719,
+    "rank": 11717,
     "popularity": 6540,
-    "members": 11971,
+    "members": 11972,
     "favorites": 48,
     "type": "TV",
     "status": "Finished Airing",
@@ -1933,7 +1967,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50599,
@@ -1950,10 +1985,10 @@
     "background": "",
     "episodes": 13,
     "score": 6.18,
-    "scored_by": 4507,
-    "rank": 9273,
-    "popularity": 6544,
-    "members": 11955,
+    "scored_by": 4508,
+    "rank": 9272,
+    "popularity": 6545,
+    "members": 11956,
     "favorites": 35,
     "type": "TV",
     "status": "Finished Airing",
@@ -1983,7 +2018,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 49780,
@@ -2000,7 +2036,7 @@
     "episodes": 24,
     "score": 5.72,
     "scored_by": 3842,
-    "rank": 11704,
+    "rank": 11703,
     "popularity": 7150,
     "members": 9710,
     "favorites": 31,
@@ -2028,7 +2064,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 39917,
@@ -2042,10 +2079,10 @@
     "background": "",
     "episodes": 12,
     "score": 3.8,
-    "scored_by": 2060,
-    "rank": 14374,
+    "scored_by": 2061,
+    "rank": 14376,
     "popularity": 7915,
-    "members": 7508,
+    "members": 7509,
     "favorites": 22,
     "type": "TV",
     "status": "Finished Airing",
@@ -2076,7 +2113,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50418,
@@ -2091,8 +2129,8 @@
     "episodes": null,
     "score": 5.61,
     "scored_by": 457,
-    "rank": 12217,
-    "popularity": 10186,
+    "rank": 12218,
+    "popularity": 10189,
     "members": 3802,
     "favorites": 25,
     "type": "TV",
@@ -2123,7 +2161,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50285,
@@ -2138,9 +2177,9 @@
     "episodes": 12,
     "score": 5.74,
     "scored_by": 251,
-    "rank": 11611,
-    "popularity": 11018,
-    "members": 2969,
+    "rank": 11613,
+    "popularity": 11019,
+    "members": 2970,
     "favorites": 11,
     "type": "TV",
     "status": "Finished Airing",
@@ -2173,7 +2212,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50495,
@@ -2190,9 +2230,9 @@
     "episodes": 50,
     "score": 5.88,
     "scored_by": 195,
-    "rank": 10902,
-    "popularity": 12410,
-    "members": 1989,
+    "rank": 10901,
+    "popularity": 12414,
+    "members": 1988,
     "favorites": 11,
     "type": "TV",
     "status": "Finished Airing",
@@ -2220,7 +2260,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50522,
@@ -2235,8 +2276,8 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 15589,
-    "popularity": 13768,
+    "rank": 15592,
+    "popularity": 13770,
     "members": 1324,
     "favorites": 7,
     "type": "TV",
@@ -2261,7 +2302,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51132,
@@ -2278,7 +2320,7 @@
     "episodes": 8,
     "score": null,
     "scored_by": null,
-    "rank": 19862,
+    "rank": 19863,
     "popularity": 15555,
     "members": 832,
     "favorites": 0,
@@ -2313,7 +2355,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51997,
@@ -2331,7 +2374,7 @@
     "score": null,
     "scored_by": null,
     "rank": 19864,
-    "popularity": 16778,
+    "popularity": 16781,
     "members": 622,
     "favorites": 0,
     "type": "TV",
@@ -2362,7 +2405,8 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52053,
@@ -2377,8 +2421,8 @@
     "episodes": 5,
     "score": null,
     "scored_by": null,
-    "rank": 17049,
-    "popularity": 17528,
+    "rank": 17050,
+    "popularity": 17522,
     "members": 536,
     "favorites": 0,
     "type": "TV",
@@ -2409,408 +2453,7 @@
     "year": 2022,
     "season": "winter",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50681,
-    "title": "Baby-Hamitang",
-    "title_english": null,
-    "title_japanese": "BABY-HAMITANG",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1571/120513l.jpg",
-    "trailer_url": null,
-    "synopsis": "The episodes will present topics from the list of 17 Sustainable Development Goals (SDG) such as global warming, food waste, and gender equality, in an easy-to-understand manner. Baby Hamitang will then solve the issues.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 6,
-    "score": null,
-    "scored_by": null,
-    "rank": 20061,
-    "popularity": 17825,
-    "members": 509,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Robot Communications"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Educational"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-01-12T00:00:00+00:00",
-    "aired_to": "2022-02-16T00:00:00+00:00",
-    "broadcast": "Wednesdays at 19:26 (JST)",
-    "url": "https://myanimelist.net/anime/50681/Baby-Hamitang",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55048,
-    "title": "Baempaieosonyeo Dalja",
-    "title_english": null,
-    "title_japanese": "뱀파이어소녀 달자",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1779/135378l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20065,
-    "popularity": 19007,
-    "members": 417,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [
-      "Vampire"
-    ],
-    "demographics": [],
-    "aired_from": "2022-01-04T00:00:00+00:00",
-    "aired_to": "2022-06-07T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/55048/Baempaieosonyeo_Dalja",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51154,
-    "title": "I Love Me",
-    "title_english": null,
-    "title_japanese": "アイラブみー",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1659/121189l.jpg",
-    "trailer_url": null,
-    "synopsis": "The anime is related to the #BeyondGender project, which aims to foster a society where people can live as they are, without being bound by social and cultural gender differences such as \"masculinity\" and \"femininity.\" The anime follows Mii, who has daydreams and thoughts triggered by questions about mind, body, and life.\n\nProfessors of developmental psychology, gender theory, sex education, and other related subjects are supervising the program.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 3,
-    "score": null,
-    "scored_by": null,
-    "rank": 22196,
-    "popularity": 19814,
-    "members": 357,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Oddjob"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-03-28T00:00:00+00:00",
-    "aired_to": "2022-03-30T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/51154/I_Love_Me",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55105,
-    "title": "Jifeng Jingshe",
-    "title_english": null,
-    "title_japanese": "疾风劲射",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1637/135511l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 17418,
-    "popularity": 20461,
-    "members": 316,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "15 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sports"
-    ],
-    "themes": [
-      "Team Sports"
-    ],
-    "demographics": [],
-    "aired_from": "2022-02-16T00:00:00+00:00",
-    "aired_to": "2022-04-07T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/55105/Jifeng_Jingshe",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51755,
-    "title": "Titipo Titipo 3",
-    "title_english": "Titipo Titipo Season 3",
-    "title_japanese": "띠띠뽀 띠띠뽀 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1387/123607l.jpg",
-    "trailer_url": null,
-    "synopsis": "The third season of Titipo Titipo.",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15709,
-    "popularity": 20726,
-    "members": 301,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Unknown",
-    "studios": [
-      "Iconix Entertainment",
-      "Studio Gale"
-    ],
-    "producers": [
-      "EBS"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-02-28T00:00:00+00:00",
-    "aired_to": "2022-05-24T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/51755/Titipo_Titipo_3",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 53372,
-    "title": "Beuledeu Ibalso 3",
-    "title_english": "Bread Barbershop 3",
-    "title_japanese": "브레드 이발소 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1447/129262l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 25,
-    "score": null,
-    "scored_by": null,
-    "rank": 20270,
-    "popularity": 21987,
-    "members": 232,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-12-25T00:00:00+00:00",
-    "aired_to": "2022-10-20T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/53372/Beuledeu_Ibalso_3",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56265,
-    "title": "Chuldong! Super Wings 6",
-    "title_english": "Super Wings 6",
-    "title_japanese": "출동! 슈퍼윙스6",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1826/137796l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 39,
-    "score": null,
-    "scored_by": null,
-    "rank": 20735,
-    "popularity": 23291,
-    "members": 174,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "Funny Flux"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-02-28T00:00:00+00:00",
-    "aired_to": "2022-07-11T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56265/Chuldong_Super_Wings_6",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56275,
-    "title": "Tea Tea Cherry",
-    "title_english": null,
-    "title_japanese": "티티체리",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1580/137766l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 15579,
-    "popularity": 23791,
-    "members": 156,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2021-12-30T00:00:00+00:00",
-    "aired_to": "2022-07-07T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56275/Tea_Tea_Cherry",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62142,
-    "title": "Bingqiu Xuanfeng",
-    "title_english": null,
-    "title_japanese": "冰球旋风",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1792/151254l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20315,
-    "popularity": 28786,
-    "members": 75,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "22 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "CCTV Animation Group"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Sports"
-    ],
-    "themes": [
-      "Team Sports"
-    ],
-    "demographics": [],
-    "aired_from": "2022-01-30T00:00:00+00:00",
-    "aired_to": "2022-02-09T00:00:00+00:00",
-    "broadcast": "Not scheduled once per week",
-    "url": "https://myanimelist.net/anime/62142/Bingqiu_Xuanfeng",
-    "year": 2022,
-    "season": "winter",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

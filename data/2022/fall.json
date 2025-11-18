@@ -13,11 +13,11 @@
     "background": "Chainsaw Man was released in four volumes on Blu-ray and DVD from January 27, 2023, to April 28, 2023. It adapts chapters 1-38 of the original manga.",
     "episodes": 12,
     "score": 8.44,
-    "scored_by": 1059508,
+    "scored_by": 1059976,
     "rank": 185,
     "popularity": 54,
-    "members": 1848613,
-    "favorites": 52972,
+    "members": 1849202,
+    "favorites": 52993,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -52,7 +52,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50602,
@@ -66,10 +67,10 @@
     "background": "Spy x Family Part 2 was released on Blu-ray and DVD in three volumes from January 18, 2023, to May 17, 2023.",
     "episodes": 13,
     "score": 8.21,
-    "scored_by": 587005,
-    "rank": 402,
+    "scored_by": 587248,
+    "rank": 401,
     "popularity": 159,
-    "members": 1084913,
+    "members": 1085258,
     "favorites": 7644,
     "type": "TV",
     "status": "Finished Airing",
@@ -107,7 +108,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49596,
@@ -121,10 +123,10 @@
     "background": "Blue Lock was released on Blu-ray and DVD in four volumes from January 27, 2023, to July 28, 2023.",
     "episodes": 24,
     "score": 8.15,
-    "scored_by": 469240,
+    "scored_by": 469370,
     "rank": 483,
     "popularity": 247,
-    "members": 852440,
+    "members": 852623,
     "favorites": 14262,
     "type": "TV",
     "status": "Finished Airing",
@@ -164,7 +166,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50172,
@@ -220,7 +223,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48316,
@@ -236,11 +240,11 @@
     "background": "Kage no Jitsuryokusha ni Naritakute! was released on Blu-ray and DVD in four volumes from January 25, 2023, to April 26, 2023. The anime adapts volumes 1 and 2 of the light novel series.",
     "episodes": 20,
     "score": 8.23,
-    "scored_by": 442586,
-    "rank": 371,
+    "scored_by": 442716,
+    "rank": 372,
     "popularity": 260,
-    "members": 818645,
-    "favorites": 17616,
+    "members": 818849,
+    "favorites": 17621,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -278,7 +282,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49918,
@@ -294,11 +299,11 @@
     "background": "Boku no Hero Academia 6th Season adapts chapters 258-328 of the manga.",
     "episodes": 25,
     "score": 8.22,
-    "scored_by": 391281,
+    "scored_by": 391514,
     "rank": 395,
     "popularity": 288,
-    "members": 774346,
-    "favorites": 7354,
+    "members": 774644,
+    "favorites": 7358,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -337,7 +342,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47917,
@@ -351,11 +357,11 @@
     "background": "Bocchi the Rock! was released on Blu-ray and DVD in six volumes from December 28, 2022, to May 24, 2023.",
     "episodes": 12,
     "score": 8.74,
-    "scored_by": 447523,
+    "scored_by": 447635,
     "rank": 49,
     "popularity": 301,
-    "members": 741643,
-    "favorites": 34920,
+    "members": 741836,
+    "favorites": 34930,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -388,7 +394,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41467,
@@ -404,10 +411,10 @@
     "background": "Bleach: Sennen Kessen-hen adapts volume 55 to volume 61 of the original manga. It was released on Blu-ray on April 26, 2023.",
     "episodes": 13,
     "score": 8.99,
-    "scored_by": 358219,
+    "scored_by": 358312,
     "rank": 14,
     "popularity": 355,
-    "members": 668191,
+    "members": 668335,
     "favorites": 22712,
     "type": "TV",
     "status": "Finished Airing",
@@ -444,7 +451,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50425,
@@ -462,11 +470,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.59,
-    "scored_by": 217115,
-    "rank": 1689,
-    "popularity": 655,
-    "members": 400884,
-    "favorites": 4613,
+    "scored_by": 217197,
+    "rank": 1688,
+    "popularity": 654,
+    "members": 401000,
+    "favorites": 4616,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -505,7 +513,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": false,
+    "is_kid": false
   },
   {
     "mal_id": 49891,
@@ -567,7 +576,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49709,
@@ -621,7 +631,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42962,
@@ -640,10 +651,10 @@
     "background": "Uzaki-chan wa Asobitai! Double was released on Blu-ray and DVD in three volumes from February 22, 2023 to April 26, 2023.",
     "episodes": 13,
     "score": 7.24,
-    "scored_by": 95021,
+    "scored_by": 95040,
     "rank": 3267,
     "popularity": 1107,
-    "members": 245198,
+    "members": 245230,
     "favorites": 945,
     "type": "TV",
     "status": "Finished Airing",
@@ -680,7 +691,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49784,
@@ -696,10 +708,10 @@
     "background": "",
     "episodes": 21,
     "score": 7.83,
-    "scored_by": 111146,
+    "scored_by": 111166,
     "rank": 1024,
     "popularity": 1151,
-    "members": 238065,
+    "members": 238107,
     "favorites": 1315,
     "type": "TV",
     "status": "Finished Airing",
@@ -735,7 +747,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52046,
@@ -751,10 +764,10 @@
     "background": "Yuusha Party wo Tsuihou sareta Beast Tamer, Saikyoushu no Nekomimi Shoujo to Deau was released on Blu-ray and DVD in four volumes from January 11, 2023 to April 5, 2023.",
     "episodes": 13,
     "score": 6.91,
-    "scored_by": 115396,
+    "scored_by": 115417,
     "rank": 4958,
     "popularity": 1166,
-    "members": 234081,
+    "members": 234119,
     "favorites": 1140,
     "type": "TV",
     "status": "Finished Airing",
@@ -791,7 +804,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49979,
@@ -807,10 +821,10 @@
     "background": "A special program featuring highlights of the story and characters was broadcasted on AbemaTV prior to the airing of the first episode.",
     "episodes": 12,
     "score": 7.2,
-    "scored_by": 101666,
+    "scored_by": 101697,
     "rank": 3464,
     "popularity": 1284,
-    "members": 210178,
+    "members": 210243,
     "favorites": 1164,
     "type": "TV",
     "status": "Finished Airing",
@@ -854,7 +868,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50710,
@@ -876,7 +891,7 @@
     "scored_by": 54328,
     "rank": 2451,
     "popularity": 1355,
-    "members": 199333,
+    "members": 199352,
     "favorites": 1241,
     "type": "TV",
     "status": "Finished Airing",
@@ -915,7 +930,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52193,
@@ -931,11 +947,11 @@
     "background": "The word \"Meido\" (冥途) in the title is a play on words, where the kanji means \"underworld,\" and is pronounced the same as \"maid\" in Japanese pronunciation.",
     "episodes": 12,
     "score": 7.58,
-    "scored_by": 75862,
-    "rank": 1724,
+    "scored_by": 75878,
+    "rank": 1723,
     "popularity": 1438,
-    "members": 186325,
-    "favorites": 1251,
+    "members": 186378,
+    "favorites": 1250,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -974,7 +990,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51098,
@@ -990,10 +1007,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.06,
-    "scored_by": 66176,
-    "rank": 9956,
-    "popularity": 1440,
-    "members": 186119,
+    "scored_by": 66184,
+    "rank": 9955,
+    "popularity": 1441,
+    "members": 186144,
     "favorites": 708,
     "type": "TV",
     "status": "Finished Airing",
@@ -1028,7 +1045,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49828,
@@ -1044,11 +1062,11 @@
     "background": "A short novel set before the events of Kidou Senshi Gundam: Suisei no Majo titled Yuri Kago no Hoshi was written by Ichirou Ookouchi and published on the anime's official Japanese website. The novel was used in the production of the opening theme. The Kidou Senshi Gundam: Suisei no Majo - Asticassia School of Technology Radio Committee program hosted by the series' voice actors has streamed on the Onsen internet radio station since October 9, 2022.",
     "episodes": 12,
     "score": 7.84,
-    "scored_by": 90690,
+    "scored_by": 90704,
     "rank": 989,
     "popularity": 1479,
-    "members": 180741,
-    "favorites": 1825,
+    "members": 180772,
+    "favorites": 1826,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1081,7 +1099,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51403,
@@ -1095,10 +1114,10 @@
     "background": "Renai Flops was released on Blu-ray in two volumes from January 25, 2023, to March 24, 2023. The Renai Flops Rajio Oideyo! Asaichi program hosted by the series' voice actors has streamed on the Onsen internet radio station since October 11, 2022.",
     "episodes": 12,
     "score": 6.7,
-    "scored_by": 66660,
-    "rank": 6085,
+    "scored_by": 66672,
+    "rank": 6082,
     "popularity": 1542,
-    "members": 173575,
+    "members": 173601,
     "favorites": 853,
     "type": "TV",
     "status": "Finished Airing",
@@ -1141,7 +1160,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51128,
@@ -1155,10 +1175,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.96,
-    "scored_by": 64167,
-    "rank": 10482,
+    "scored_by": 64171,
+    "rank": 10481,
     "popularity": 1612,
-    "members": 163501,
+    "members": 163517,
     "favorites": 490,
     "type": "TV",
     "status": "Finished Airing",
@@ -1197,7 +1217,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51212,
@@ -1213,10 +1234,10 @@
     "background": "Futoku no Guild was released on Blu-ray and DVD in three volumes from December 23, 2022, to February 22, 2023.",
     "episodes": 12,
     "score": 6.54,
-    "scored_by": 45964,
+    "scored_by": 45969,
     "rank": 7057,
     "popularity": 1975,
-    "members": 126440,
+    "members": 126456,
     "favorites": 532,
     "type": "TV",
     "status": "Finished Airing",
@@ -1257,7 +1278,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50205,
@@ -1273,10 +1295,10 @@
     "background": "Arknights: Reimei Zensou adapts the Hour of An Awakening main story arc of Hypergryph's 2019 mobile game Arknights. The anime supports 5.1ch surround audio and a 2.35:1 CinemaScope screen ratio to provide a movie-like watching experience. The series was released in a Blu-ray box on February 22, 2023.",
     "episodes": 8,
     "score": 7.07,
-    "scored_by": 42670,
-    "rank": 4205,
+    "scored_by": 42679,
+    "rank": 4203,
     "popularity": 2019,
-    "members": 122704,
+    "members": 122727,
     "favorites": 1114,
     "type": "TV",
     "status": "Finished Airing",
@@ -1308,7 +1330,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48542,
@@ -1324,10 +1347,10 @@
     "background": "Do It Yourself! was released on Blu-ray and DVD in four volumes from December 23, 2022 to March 24, 2023. The anime's official partner Takagi, a tool manufacturer from Niigata, participated in the Japan DIY Homecenter Show 2022 exhibition of home living products held at the Makuhari Messe center in Chiba from August 25 to 27. At its booth, the company distributed uchiwa fans for free with Do It Yourself!! illustrations.",
     "episodes": 12,
     "score": 7.45,
-    "scored_by": 45700,
+    "scored_by": 45703,
     "rank": 2255,
     "popularity": 2048,
-    "members": 120461,
+    "members": 120477,
     "favorites": 653,
     "type": "TV",
     "status": "Finished Airing",
@@ -1364,7 +1387,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50590,
@@ -1380,11 +1404,11 @@
     "background": "Koukyuu no Karasu was released on Blu-ray and DVD in six volumes from December 21, 2022 to May 24, 2023.",
     "episodes": 13,
     "score": 7.54,
-    "scored_by": 42997,
-    "rank": 1880,
-    "popularity": 2078,
-    "members": 118429,
-    "favorites": 810,
+    "scored_by": 43004,
+    "rank": 1879,
+    "popularity": 2079,
+    "members": 118442,
+    "favorites": 812,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1421,7 +1445,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50528,
@@ -1434,11 +1459,11 @@
     "synopsis": "The race to obtain the lost Ainu gold is nearing its peak, as even more formidable ex-prisoners are set on keeping their tattooed skins intact. Saichi \"The Immortal\" Sugimoto and Asirpa can finally move forward together, but Asirpa's time with Kiroranke and Ogata Hyakunosuke has slightly altered her ambition and strengthened her determination. As their party leaves the Russian territory, they gain a peculiar follower.\n\nMeanwhile, Toshizou Hijikata's crew makes major moves to get invaluable skins, falling into the poisonous trap of a dangerous convict. Although each group possesses a strong advantage over the others, even First Lieutenant Tokushirou Tsurumi—the most powerful and ruthless contender—cannot advance without Asirpa's help. However, his ominous plans for when they will inevitably meet remain a mystery.\n\n[Written by MAL Rewrite]",
     "background": "Golden Kamuy 4th Season was released on Blu-ray and DVD in three volumes from July 26, 2023, to September 27, 2023.",
     "episodes": 13,
-    "score": 8.12,
-    "scored_by": 43467,
-    "rank": 524,
+    "score": 8.13,
+    "scored_by": 43487,
+    "rank": 507,
     "popularity": 2127,
-    "members": 114613,
+    "members": 114632,
     "favorites": 644,
     "type": "TV",
     "status": "Finished Airing",
@@ -1479,7 +1504,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51680,
@@ -1493,11 +1519,11 @@
     "background": "",
     "episodes": 24,
     "score": 7.85,
-    "scored_by": 33005,
+    "scored_by": 33014,
     "rank": 980,
-    "popularity": 2183,
-    "members": 109981,
-    "favorites": 1136,
+    "popularity": 2182,
+    "members": 110004,
+    "favorites": 1137,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1530,7 +1556,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50923,
@@ -1546,11 +1573,11 @@
     "background": "Mushikaburi-hime was released on Blu-ray and DVD in three volumes from January 25, 2023, to March 24, 2023.",
     "episodes": 12,
     "score": 6.87,
-    "scored_by": 31244,
+    "scored_by": 31255,
     "rank": 5155,
     "popularity": 2532,
-    "members": 86999,
-    "favorites": 495,
+    "members": 87017,
+    "favorites": 497,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1587,7 +1614,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49849,
@@ -1601,11 +1629,11 @@
     "background": "Shinmai Renkinjutsushi no Tenpo Keiei was released on Blu-ray and DVD in three volumes from December 23, 2022 to February 22, 2023.",
     "episodes": 12,
     "score": 6.62,
-    "scored_by": 32422,
-    "rank": 6571,
+    "scored_by": 32428,
+    "rank": 6570,
     "popularity": 2682,
-    "members": 79590,
-    "favorites": 230,
+    "members": 79602,
+    "favorites": 231,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -1640,7 +1668,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50348,
@@ -1656,10 +1685,10 @@
     "background": "",
     "episodes": 12,
     "score": 5.94,
-    "scored_by": 23727,
+    "scored_by": 23730,
     "rank": null,
     "popularity": 2915,
-    "members": 69125,
+    "members": 69128,
     "favorites": 208,
     "type": "TV",
     "status": "Finished Airing",
@@ -1700,7 +1729,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 30455,
@@ -1718,10 +1748,10 @@
     "background": "To improve the series' quality, KanColle: Itsuka Ano Umi de was shortened to eight episodes instead of 12.",
     "episodes": 8,
     "score": 6.26,
-    "scored_by": 6271,
-    "rank": 8795,
-    "popularity": 3312,
-    "members": 54499,
+    "scored_by": 6275,
+    "rank": 8793,
+    "popularity": 3313,
+    "members": 54501,
     "favorites": 220,
     "type": "TV",
     "status": "Finished Airing",
@@ -1752,7 +1782,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52976,
@@ -1817,7 +1848,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50663,
@@ -1831,10 +1863,10 @@
     "background": "Poputepipikku 2nd Season was released on Blu-ray in three volumes from November 23, 2022 to January 25, 2023.",
     "episodes": 11,
     "score": 7.53,
-    "scored_by": 17581,
+    "scored_by": 17582,
     "rank": 1937,
-    "popularity": 3516,
-    "members": 49040,
+    "popularity": 3517,
+    "members": 49039,
     "favorites": 156,
     "type": "TV",
     "status": "Finished Airing",
@@ -1867,7 +1899,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51464,
@@ -1884,10 +1917,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.13,
-    "scored_by": 16167,
-    "rank": 3879,
+    "scored_by": 16169,
+    "rank": 3877,
     "popularity": 3861,
-    "members": 41885,
+    "members": 41892,
     "favorites": 135,
     "type": "TV",
     "status": "Finished Airing",
@@ -1926,52 +1959,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51306,
-    "title": "C Danchi",
-    "title_english": "Housing Complex C",
-    "title_japanese": "C団地",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1378/121573l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/zhyGKfW8Sv4?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "\"Housing Complex C\" centers around Kimi, who lives in a small, low-cost housing complex located in the seaside town of Kurosaki. Trouble seems to follow her wherever she goes, and horrific incidents begin to occur. Is an ancient evil stalking the residents of Housing Complex C? \n\n(Source: Variety, edited)",
-    "background": "",
-    "episodes": 4,
-    "score": 5.45,
-    "scored_by": 11946,
-    "rank": 12749,
-    "popularity": 4210,
-    "members": 35013,
-    "favorites": 171,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "25 min per ep",
-    "rating": "R - 17+ (violence & profanity)",
-    "source": "Original",
-    "studios": [
-      "Akatsuki"
-    ],
-    "producers": [
-      "Production I.G"
-    ],
-    "licensors": [],
-    "genres": [
-      "Horror"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2022-10-02T00:00:00+00:00",
-    "aired_to": "2022-10-23T00:00:00+00:00",
-    "broadcast": "Sundays at 13:00 (JST)",
-    "url": "https://myanimelist.net/anime/51306/C_Danchi",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50552,
@@ -1988,10 +1977,10 @@
     "background": "",
     "episodes": 25,
     "score": 7.42,
-    "scored_by": 10245,
-    "rank": 2372,
-    "popularity": 4567,
-    "members": 29338,
+    "scored_by": 10247,
+    "rank": 2371,
+    "popularity": 4568,
+    "members": 29343,
     "favorites": 148,
     "type": "TV",
     "status": "Finished Airing",
@@ -2027,7 +2016,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48491,
@@ -2082,7 +2072,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49533,
@@ -2097,9 +2088,9 @@
     "episodes": 13,
     "score": 6.73,
     "scored_by": 7969,
-    "rank": 5908,
-    "popularity": 4705,
-    "members": 27486,
+    "rank": 5906,
+    "popularity": 4706,
+    "members": 27487,
     "favorites": 58,
     "type": "TV",
     "status": "Finished Airing",
@@ -2141,7 +2132,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52381,
@@ -2157,10 +2149,10 @@
     "background": "",
     "episodes": 12,
     "score": 4.99,
-    "scored_by": 7559,
+    "scored_by": 7560,
     "rank": 13781,
-    "popularity": 5042,
-    "members": 23313,
+    "popularity": 5045,
+    "members": 23314,
     "favorites": 72,
     "type": "TV",
     "status": "Finished Airing",
@@ -2189,57 +2181,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 49304,
-    "title": "Seiken Densetsu: Legend of Mana - The Teardrop Crystal",
-    "title_english": "Legend of Mana -The Teardrop Crystal-",
-    "title_japanese": "聖剣伝説 Legend of Mana -The Teardrop Crystal-",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1637/123397l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/fghzYfngr1w?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Not far from the town of Domina lives Shiloh, a boy who keeps hearing a voice in his dreams about a mission he must fulfill. But what mission could he be needed for remains unknown. That all changes when he meets two Jumi, a race that’s hunted for their unique gemstones, as a sudden outbreak of attacks against the Jumi occurs. His dream, his quest, becomes clear—help the Jumi and their gemstones!\n\n(Source: Crunchyroll)",
-    "background": "",
-    "episodes": 12,
-    "score": 5.47,
-    "scored_by": 5982,
-    "rank": 12679,
-    "popularity": 5156,
-    "members": 22063,
-    "favorites": 70,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Game",
-    "studios": [
-      "Graphinica",
-      "Yokohama Animation Lab"
-    ],
-    "producers": [
-      "Square Enix",
-      "Mainichi Broadcasting System",
-      "Movic",
-      "Warner Bros. Japan",
-      "Good Smile Company"
-    ],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [],
-    "aired_from": "2022-10-08T00:00:00+00:00",
-    "aired_to": "2022-12-24T00:00:00+00:00",
-    "broadcast": "Saturdays at 01:25 (JST)",
-    "url": "https://myanimelist.net/anime/49304/Seiken_Densetsu__Legend_of_Mana_-_The_Teardrop_Crystal",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50638,
@@ -2253,10 +2196,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.52,
-    "scored_by": 6448,
+    "scored_by": 6449,
     "rank": 7169,
     "popularity": 5344,
-    "members": 20236,
+    "members": 20240,
     "favorites": 67,
     "type": "TV",
     "status": "Finished Airing",
@@ -2297,7 +2240,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 46654,
@@ -2314,7 +2258,7 @@
     "scored_by": 5846,
     "rank": 265,
     "popularity": 5642,
-    "members": 17539,
+    "members": 17538,
     "favorites": 276,
     "type": "TV",
     "status": "Finished Airing",
@@ -2343,7 +2287,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50010,
@@ -2360,10 +2305,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.86,
-    "scored_by": 6798,
-    "rank": 5223,
+    "scored_by": 6800,
+    "rank": 5225,
     "popularity": 5902,
-    "members": 15524,
+    "members": 15523,
     "favorites": 45,
     "type": "TV",
     "status": "Finished Airing",
@@ -2394,7 +2339,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51293,
@@ -2411,9 +2357,9 @@
     "episodes": 24,
     "score": 6.53,
     "scored_by": 2442,
-    "rank": 7128,
-    "popularity": 5977,
-    "members": 14947,
+    "rank": 7129,
+    "popularity": 5978,
+    "members": 14948,
     "favorites": 71,
     "type": "TV",
     "status": "Finished Airing",
@@ -2454,7 +2400,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53012,
@@ -2468,10 +2415,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.68,
-    "scored_by": 3984,
-    "rank": 6226,
+    "scored_by": 3985,
+    "rank": 6225,
     "popularity": 6910,
-    "members": 10507,
+    "members": 10510,
     "favorites": 26,
     "type": "TV",
     "status": "Finished Airing",
@@ -2506,51 +2453,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 43771,
-    "title": "Vazzrock The Animation",
-    "title_english": "Vazzrock the Animation",
-    "title_japanese": "VAZZROCK THE ANIMATION",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1488/127334l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/OcN0l1qDsHk?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "VAZZY and ROCK DOWN are the two units that make up Tsukino Talent Production's all-male VAZZROCK group. Led by Takaaki Mamiya and Shou Onoda respectively, both units announce via a round-table livestream that they are working hard to prepare for the upcoming VAZZROCK Live Flawless event. From taking extra dancing and singing lessons to starring in a TV period drama, these 12 idols must give it their all as they work toward a spectacular show that will impress their fans.\n\n[Written by MAL Rewrite]",
-    "background": "Vazzrock The Animation was released on Blu-ray in seven volumes by Movic from January 27, 2023 to July 28, 2023.",
-    "episodes": 13,
-    "score": 5.44,
-    "scored_by": 1289,
-    "rank": 12784,
-    "popularity": 7922,
-    "members": 7487,
-    "favorites": 30,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "23 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Music",
-    "studios": [
-      "PRA"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Idols (Male)",
-      "Music"
-    ],
-    "demographics": [],
-    "aired_from": "2022-10-05T00:00:00+00:00",
-    "aired_to": "2022-12-28T00:00:00+00:00",
-    "broadcast": "Wednesdays at 22:30 (JST)",
-    "url": "https://myanimelist.net/anime/43771/Vazzrock_The_Animation",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51986,
@@ -2565,9 +2469,9 @@
     "episodes": 12,
     "score": 7.23,
     "scored_by": 2732,
-    "rank": 3334,
-    "popularity": 8722,
-    "members": 5938,
+    "rank": 3333,
+    "popularity": 8720,
+    "members": 5940,
     "favorites": 30,
     "type": "TV",
     "status": "Finished Airing",
@@ -2597,7 +2501,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 49179,
@@ -2612,9 +2517,9 @@
     "episodes": 16,
     "score": 6.09,
     "scored_by": 1401,
-    "rank": 9774,
-    "popularity": 8814,
-    "members": 5812,
+    "rank": 9775,
+    "popularity": 8815,
+    "members": 5811,
     "favorites": 18,
     "type": "TV",
     "status": "Finished Airing",
@@ -2640,7 +2545,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50559,
@@ -2686,7 +2592,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53907,
@@ -2736,7 +2643,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": true
   },
   {
     "mal_id": 53011,
@@ -2751,8 +2659,8 @@
     "episodes": 48,
     "score": null,
     "scored_by": null,
-    "rank": 18415,
-    "popularity": 14543,
+    "rank": 18417,
+    "popularity": 14551,
     "members": 1091,
     "favorites": 3,
     "type": "TV",
@@ -2779,102 +2687,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52460,
-    "title": "Duel Masters Win",
-    "title_english": null,
-    "title_japanese": "デュエル・マスターズWIN",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1836/126594l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 29,
-    "score": null,
-    "scored_by": null,
-    "rank": 21194,
-    "popularity": 14601,
-    "members": 1073,
-    "favorites": 3,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brain's Base",
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-09-04T00:00:00+00:00",
-    "aired_to": "2023-03-26T00:00:00+00:00",
-    "broadcast": "Sundays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/52460/Duel_Masters_Win",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52935,
-    "title": "Punirunes",
-    "title_english": null,
-    "title_japanese": "ぷにるんず",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1246/128731l.jpg",
-    "trailer_url": null,
-    "synopsis": "The anime follows the daily life of PuniRunes—mysterious creatures who love to be coddled—and Yuka, a fourth-grade girl who loves soft, squishy things.\n\n(Source: ANN, edited)",
-    "background": "",
-    "episodes": 25,
-    "score": 5.77,
-    "scored_by": 164,
-    "rank": 11484,
-    "popularity": 16039,
-    "members": 732,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "OLM Digital"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy",
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-02T00:00:00+00:00",
-    "aired_to": "2023-03-26T00:00:00+00:00",
-    "broadcast": "Sundays at 09:45 (JST)",
-    "url": "https://myanimelist.net/anime/52935/Punirunes",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 53320,
@@ -2919,516 +2733,8 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52964,
-    "title": "Sylvanian Families: Freya no Happy Diary",
-    "title_english": "Calico Critters: Freya's Happy Diary",
-    "title_japanese": "シルバニアファミリー フレアのハッピーダイアリー",
-    "title_synonyms": [
-      "Sylvanian Families: Freya's Happy Diary"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1452/151860l.jpg",
-    "trailer_url": null,
-    "synopsis": "A TV series based on the Sylvanian Families toy line.",
-    "background": "",
-    "episodes": 12,
-    "score": null,
-    "scored_by": null,
-    "rank": 15442,
-    "popularity": 17992,
-    "members": 494,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "G - All Ages",
-    "source": "Other",
-    "studios": [
-      "LandQ studios"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [
-      "Anthropomorphic"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-06T00:00:00+00:00",
-    "aired_to": "2022-12-22T00:00:00+00:00",
-    "broadcast": "Thursdays at 19:22 (JST)",
-    "url": "https://myanimelist.net/anime/52964/Sylvanian_Families__Freya_no_Happy_Diary",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 52319,
-    "title": "Obake Zukan!",
-    "title_english": null,
-    "title_japanese": "おばけずかん！",
-    "title_synonyms": [
-      "Obake Zukan 2nd Season"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1064/126825l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second Season of Obake Zukan.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19199,
-    "popularity": 18388,
-    "members": 461,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "2 min per ep",
-    "rating": "PG - Children",
-    "source": "Picture book",
-    "studios": [
-      "Fanworks"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "themes": [
-      "Mythology"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-05T00:00:00+00:00",
-    "aired_to": "2023-03-29T00:00:00+00:00",
-    "broadcast": "Wednesdays at 07:20 (JST)",
-    "url": "https://myanimelist.net/anime/52319/Obake_Zukan",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55660,
-    "title": "Alssongdalssong Catch! Tiniping",
-    "title_english": "Secret Catch! Teenieping",
-    "title_japanese": "알쏭달쏭 캐치! 티니핑",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1368/144626l.jpg",
-    "trailer_url": null,
-    "synopsis": "Secret Key teeniepings appear in Harmony Town! And there’s a mysterious secret teenieping too! Will Romi and the new Royal teeniepings be able to catch all the Key Teeniepings scattered in Harmony Town and reveal the identity of the mysterious secret Teenieping?\n\n(Source: Official Site)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 19899,
-    "popularity": 19531,
-    "members": 374,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mahou Shoujo",
-      "School"
-    ],
-    "demographics": [],
-    "aired_from": "2022-09-14T00:00:00+00:00",
-    "aired_to": "2023-03-08T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/55660/Alssongdalssong_Catch_Tiniping",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 53408,
-    "title": "I Love Me 2nd Season",
-    "title_english": null,
-    "title_japanese": "アイラブみー",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1581/132395l.jpg",
-    "trailer_url": null,
-    "synopsis": "The second season of I Love Me.",
-    "background": "",
-    "episodes": null,
-    "score": null,
-    "scored_by": null,
-    "rank": 22198,
-    "popularity": 20306,
-    "members": 324,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Currently Airing",
-    "airing": true,
-    "approved": true,
-    "duration": "10 min",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Oddjob"
-    ],
-    "producers": [
-      "NHK"
-    ],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-23T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/53408/I_Love_Me_2nd_Season",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56274,
-    "title": "Mecard Ball Mega",
-    "title_english": null,
-    "title_japanese": "메카드볼 메가",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1967/137765l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18522,
-    "popularity": 23489,
-    "members": 167,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha",
-      "Racing",
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-11-05T00:00:00+00:00",
-    "aired_to": "2023-05-06T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56274/Mecard_Ball_Mega",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57130,
-    "title": "Miniforce V Rangers",
-    "title_english": "Miniforce V Rangers",
-    "title_japanese": "미니특공대 브이레인저스",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1097/139592l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 18706,
-    "popularity": 23977,
-    "members": 151,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "SAMG Entertainment"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Anthropomorphic",
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-09-01T00:00:00+00:00",
-    "aired_to": "2023-02-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57130/Miniforce_V_Rangers",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 55838,
-    "title": "Zombie Dumb 3",
-    "title_english": "ZombieDumb 3",
-    "title_japanese": "좀비덤 3",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1419/136850l.jpg",
-    "trailer_url": null,
-    "synopsis": "The third season of Zombie Dumb.",
-    "background": "",
-    "episodes": 17,
-    "score": null,
-    "scored_by": null,
-    "rank": 17233,
-    "popularity": 24419,
-    "members": 140,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [
-      "ANYZAC"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-27T00:00:00+00:00",
-    "aired_to": "2023-03-23T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/55838/Zombie_Dumb_3",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56411,
-    "title": "Maca and Roni 2",
-    "title_english": null,
-    "title_japanese": "마카앤로니2",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1542/137995l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 16,
-    "score": null,
-    "scored_by": null,
-    "rank": 18359,
-    "popularity": 24620,
-    "members": 135,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "Unknown",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brick Studio"
-    ],
-    "producers": [
-      "Studio BAZOOKA",
-      "CJ ENM"
-    ],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-09-07T00:00:00+00:00",
-    "aired_to": "2022-12-21T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56411/Maca_and_Roni_2",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 57866,
-    "title": "Zhandou Wang Zhi Jufeng Zhan Hun 6",
-    "title_english": null,
-    "title_japanese": "飓风战魂之剑旋陀螺",
-    "title_synonyms": [
-      "Infinity Nado 6"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1879/140956l.jpg",
-    "trailer_url": null,
-    "synopsis": "A teenager called Lin wants to become a World Nado champion. Lin travels with his master and meets young Nado players, and their hard-work will have an impact on him. He will make new friends, achieve his goals and become famous in all championships! \n\n(Source: alphagroupanimation.com)",
-    "background": "",
-    "episodes": 52,
-    "score": null,
-    "scored_by": null,
-    "rank": 17068,
-    "popularity": 25235,
-    "members": 122,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [
-      "Alpha Group"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-27T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/57866/Zhandou_Wang_Zhi_Jufeng_Zhan_Hun_6",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60706,
-    "title": "Xiong Chumo: Xiongxiong Huanle Song 2",
-    "title_english": "Boonie Cub Tune Club 2",
-    "title_japanese": "熊出没之熊熊欢乐颂",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1465/147384l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 16706,
-    "popularity": 28896,
-    "members": 69,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "3 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Fantawild Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Music"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-12-23T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60706/Xiong_Chumo__Xiongxiong_Huanle_Song_2",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 60880,
-    "title": "Xin Qi Bao Long Zhan Che 6: Mofang Bianxing",
-    "title_english": null,
-    "title_japanese": "心奇爆龙战车6之魔方变形",
-    "title_synonyms": [
-      "Mind Strange Explosive Dragon Chariot 6 Rubik's Cube Transformation"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1990/147806l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 32,
-    "score": null,
-    "scored_by": null,
-    "rank": 16579,
-    "popularity": 29046,
-    "members": 59,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "13 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-26T00:00:00+00:00",
-    "aired_to": null,
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/60880/Xin_Qi_Bao_Long_Zhan_Che_6__Mofang_Bianxing",
-    "year": null,
-    "season": null,
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62558,
@@ -3444,7 +2750,7 @@
     "score": null,
     "scored_by": null,
     "rank": 17935,
-    "popularity": 29090,
+    "popularity": 29104,
     "members": 55,
     "favorites": 0,
     "type": "TV",
@@ -3474,53 +2780,7 @@
     "year": 2022,
     "season": "fall",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 62457,
-    "title": "Sigantamheomdae Dinoman",
-    "title_english": null,
-    "title_japanese": "시간탐험대 다이노맨",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1208/151977l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 20,
-    "score": null,
-    "scored_by": null,
-    "rank": 15197,
-    "popularity": 29171,
-    "members": 47,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "10 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure"
-    ],
-    "themes": [
-      "Anthropomorphic",
-      "Super Power",
-      "Time Travel"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-10-04T00:00:00+00:00",
-    "aired_to": "2023-03-02T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/62457/Sigantamheomdae_Dinoman",
-    "year": 2022,
-    "season": "fall",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]

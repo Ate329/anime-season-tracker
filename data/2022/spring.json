@@ -11,11 +11,11 @@
     "background": "Winner of the Anime of the Year (TV Series) at the 2023 Tokyo Anime Award Festival (TAAF).",
     "episodes": 12,
     "score": 8.44,
-    "scored_by": 1114973,
+    "scored_by": 1115199,
     "rank": 189,
     "popularity": 59,
-    "members": 1813557,
-    "favorites": 40709,
+    "members": 1813904,
+    "favorites": 40715,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -55,7 +55,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43608,
@@ -72,11 +73,11 @@
     "background": "",
     "episodes": 13,
     "score": 8.97,
-    "scored_by": 608008,
+    "scored_by": 608104,
     "rank": 16,
     "popularity": 165,
-    "members": 1067887,
-    "favorites": 32757,
+    "members": 1068057,
+    "favorites": 32756,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -114,7 +115,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 40356,
@@ -130,10 +132,10 @@
     "background": "Tate no Yuusha no Nariagari Season 2 was set to premiere in October 2021, but was postponed due to various reasons. The series was released on Blu-ray and DVD in three volumes from July 27, 2022 to September 28, 2022.",
     "episodes": 13,
     "score": 6.53,
-    "scored_by": 319567,
-    "rank": 7103,
+    "scored_by": 319665,
+    "rank": 7104,
     "popularity": 249,
-    "members": 846064,
+    "members": 846195,
     "favorites": 12331,
     "type": "TV",
     "status": "Finished Airing",
@@ -176,7 +178,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47194,
@@ -190,11 +193,11 @@
     "background": "",
     "episodes": 25,
     "score": 8.47,
-    "scored_by": 276855,
+    "scored_by": 276966,
     "rank": 166,
     "popularity": 371,
-    "members": 648719,
-    "favorites": 10997,
+    "members": 648914,
+    "favorites": 11000,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -233,7 +236,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 45613,
@@ -251,10 +255,10 @@
     "background": "Due to the airing of urgent special news bulletins regarding the Hunga Tonga-Hunga Ha'apai volcano eruption on January 15, 2022, the previous series that was occupying the same time slot required a scheduling adjustment. Thus, Kawaii dake ja Nai Shikimori-san's own TV broadcast premiere was delayed by one week from April 2, 2022 to April 9, 2022. The series was released on Blu-ray and DVD in six volumes from June 29, 2022 to November 30, 2022.",
     "episodes": 12,
     "score": 6.94,
-    "scored_by": 263579,
+    "scored_by": 263616,
     "rank": 4773,
     "popularity": 402,
-    "members": 605676,
+    "members": 605764,
     "favorites": 5231,
     "type": "TV",
     "status": "Finished Airing",
@@ -290,7 +294,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50631,
@@ -307,10 +312,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.99,
-    "scored_by": 272365,
-    "rank": 714,
+    "scored_by": 272413,
+    "rank": 713,
     "popularity": 454,
-    "members": 541325,
+    "members": 541404,
     "favorites": 3979,
     "type": "TV",
     "status": "Finished Airing",
@@ -346,7 +351,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50273,
@@ -362,11 +368,11 @@
     "background": "",
     "episodes": 12,
     "score": 7.71,
-    "scored_by": 246450,
-    "rank": 1335,
+    "scored_by": 246486,
+    "rank": 1334,
     "popularity": 532,
-    "members": 472340,
-    "favorites": 4373,
+    "members": 472420,
+    "favorites": 4375,
     "type": "TV",
     "status": "Finished Airing",
     "airing": false,
@@ -404,7 +410,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49520,
@@ -459,7 +466,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50461,
@@ -477,10 +485,10 @@
     "background": "Otome Game Sekai wa Mob ni Kibishii Sekai desu was released on Blu-ray in two volumes from July 27, 2022 to September 28, 2022.",
     "episodes": 12,
     "score": 7.31,
-    "scored_by": 190749,
+    "scored_by": 190786,
     "rank": 2909,
     "popularity": 726,
-    "members": 366482,
+    "members": 366535,
     "favorites": 2353,
     "type": "TV",
     "status": "Finished Airing",
@@ -523,7 +531,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48760,
@@ -582,7 +591,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50175,
@@ -598,10 +608,10 @@
     "background": "",
     "episodes": 12,
     "score": 7,
-    "scored_by": 160988,
+    "scored_by": 161007,
     "rank": 4552,
     "popularity": 775,
-    "members": 343875,
+    "members": 343907,
     "favorites": 1743,
     "type": "TV",
     "status": "Finished Airing",
@@ -638,7 +648,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48415,
@@ -654,10 +665,10 @@
     "background": "Shijou Saikyou no Daimaou, Murabito A ni Tensei suru was released on Blu-ray and DVD in three volumes from June 24, 2022 to August 24, 2022.",
     "episodes": 12,
     "score": 6.29,
-    "scored_by": 153825,
-    "rank": 8575,
+    "scored_by": 153851,
+    "rank": 8576,
     "popularity": 814,
-    "members": 329511,
+    "members": 329565,
     "favorites": 1534,
     "type": "TV",
     "status": "Finished Airing",
@@ -699,7 +710,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48675,
@@ -755,7 +767,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50380,
@@ -771,10 +784,10 @@
     "background": "",
     "episodes": 12,
     "score": 8.1,
-    "scored_by": 156990,
+    "scored_by": 157008,
     "rank": 558,
     "popularity": 833,
-    "members": 324281,
+    "members": 324318,
     "favorites": 2606,
     "type": "TV",
     "status": "Finished Airing",
@@ -813,7 +826,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 41461,
@@ -831,10 +845,10 @@
     "background": "Date A Live IV adapts novels 13-16 of Koushi Tachibana's light novel series of the same name. Date A Live IV was scheduled to premiere in October 2021, but was delayed to 2022 due to various undisclosed circumstances. The series was released on Blu-ray and DVD in two volumes from August 24, 2022 to September 28, 2022.",
     "episodes": 12,
     "score": 7.74,
-    "scored_by": 102725,
-    "rank": 1234,
+    "scored_by": 102746,
+    "rank": 1233,
     "popularity": 958,
-    "members": 282297,
+    "members": 282342,
     "favorites": 3418,
     "type": "TV",
     "status": "Finished Airing",
@@ -875,7 +889,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48643,
@@ -891,10 +906,10 @@
     "background": "Koi wa Sekai Seifuku no Ato de was released on Blu-ray in two volumes from July 13, 2022 to August 3, 2022.",
     "episodes": 12,
     "score": 7.38,
-    "scored_by": 113920,
+    "scored_by": 113939,
     "rank": 2542,
     "popularity": 1009,
-    "members": 269523,
+    "members": 269557,
     "favorites": 1080,
     "type": "TV",
     "status": "Finished Airing",
@@ -945,7 +960,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49052,
@@ -999,7 +1015,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42429,
@@ -1015,10 +1032,10 @@
     "background": "Honzuki no Gekokujou: Shisho ni Naru Tame ni wa Shudan wo Erandeiraremasen 3rd Season was released on Blu-ray on June 8, 2022, and on DVD from April 20, 2022, to June 8, 2022.",
     "episodes": 10,
     "score": 8.07,
-    "scored_by": 90937,
+    "scored_by": 90949,
     "rank": 597,
-    "popularity": 1442,
-    "members": 185857,
+    "popularity": 1443,
+    "members": 185875,
     "favorites": 992,
     "type": "TV",
     "status": "Finished Airing",
@@ -1059,7 +1076,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 47162,
@@ -1075,10 +1093,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.76,
-    "scored_by": 63659,
+    "scored_by": 63667,
     "rank": 5728,
     "popularity": 1444,
-    "members": 185816,
+    "members": 185841,
     "favorites": 772,
     "type": "TV",
     "status": "Finished Airing",
@@ -1116,7 +1134,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48842,
@@ -1132,10 +1151,10 @@
     "background": "Mahoutsukai Reimeiki was released on Blu-ray on September 28, 2022.",
     "episodes": 12,
     "score": 6.39,
-    "scored_by": 61003,
-    "rank": 8010,
-    "popularity": 1493,
-    "members": 179600,
+    "scored_by": 61016,
+    "rank": 8007,
+    "popularity": 1494,
+    "members": 179610,
     "favorites": 765,
     "type": "TV",
     "status": "Finished Airing",
@@ -1177,7 +1196,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 43470,
@@ -1196,10 +1216,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.3,
-    "scored_by": 57814,
-    "rank": 2927,
+    "scored_by": 57823,
+    "rank": 2926,
     "popularity": 1594,
-    "members": 167105,
+    "members": 167119,
     "favorites": 530,
     "type": "TV",
     "status": "Finished Airing",
@@ -1244,7 +1264,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": false
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48779,
@@ -1295,7 +1316,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48702,
@@ -1309,10 +1331,10 @@
     "background": "",
     "episodes": 11,
     "score": 7.8,
-    "scored_by": 48578,
+    "scored_by": 48584,
     "rank": 1081,
-    "popularity": 2266,
-    "members": 104036,
+    "popularity": 2265,
+    "members": 104052,
     "favorites": 650,
     "type": "TV",
     "status": "Finished Airing",
@@ -1348,7 +1370,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50160,
@@ -1362,10 +1385,10 @@
     "background": "Kingdom 4th Season adapts chapters 364-441 of the original manga. Kingdom 4th Season was released on Blu-ray in three volumes from August 26, 2022 to November 25, 2022.",
     "episodes": 26,
     "score": 8.73,
-    "scored_by": 36907,
+    "scored_by": 36924,
     "rank": 50,
     "popularity": 2602,
-    "members": 83861,
+    "members": 83899,
     "favorites": 1155,
     "type": "TV",
     "status": "Finished Airing",
@@ -1401,7 +1424,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 42745,
@@ -1418,10 +1442,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.84,
-    "scored_by": 27657,
-    "rank": 991,
+    "scored_by": 27662,
+    "rank": 990,
     "popularity": 2762,
-    "members": 75697,
+    "members": 75708,
     "favorites": 341,
     "type": "TV",
     "status": "Finished Airing",
@@ -1460,7 +1484,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49692,
@@ -1476,10 +1501,10 @@
     "background": "Heroine Tarumono! Kiraware Heroine to Naisho no Oshigoto was released on Blu-ray and DVD in four volumes from July 29, 2022 to October 28, 2022.",
     "episodes": 12,
     "score": 7.27,
-    "scored_by": 27409,
+    "scored_by": 27413,
     "rank": 3114,
     "popularity": 2769,
-    "members": 75511,
+    "members": 75522,
     "favorites": 422,
     "type": "TV",
     "status": "Finished Airing",
@@ -1520,7 +1545,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50248,
@@ -1534,10 +1560,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.47,
-    "scored_by": 27609,
-    "rank": 2146,
+    "scored_by": 27610,
+    "rank": 2145,
     "popularity": 2843,
-    "members": 72063,
+    "members": 72068,
     "favorites": 444,
     "type": "TV",
     "status": "Finished Airing",
@@ -1565,7 +1591,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48742,
@@ -1581,10 +1608,10 @@
     "background": "Kono Healer, Mendokusai was released on Blu-ray and DVD in three volumes from June 24, 2022 to August 24, 2022.",
     "episodes": 12,
     "score": 6.34,
-    "scored_by": 24384,
-    "rank": 8254,
+    "scored_by": 24388,
+    "rank": 8255,
     "popularity": 2935,
-    "members": 68253,
+    "members": 68261,
     "favorites": 173,
     "type": "TV",
     "status": "Finished Airing",
@@ -1620,7 +1647,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50338,
@@ -1636,10 +1664,10 @@
     "background": "Kunoichi Tsubaki no Mune no Uchi was released on Blu-ray and DVD in seven volumes from July 6, 2022 to January 11, 2023.",
     "episodes": 13,
     "score": 7.1,
-    "scored_by": 24953,
-    "rank": 4068,
+    "scored_by": 24955,
+    "rank": 4069,
     "popularity": 2992,
-    "members": 65990,
+    "members": 65999,
     "favorites": 271,
     "type": "TV",
     "status": "Finished Airing",
@@ -1677,7 +1705,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48363,
@@ -1691,10 +1720,10 @@
     "background": "RPG Fudousan was released on Blu-ray and DVD in three volumes from June 24, 2022 to August 24, 2022.",
     "episodes": 12,
     "score": 6.69,
-    "scored_by": 17300,
-    "rank": 6169,
+    "scored_by": 17303,
+    "rank": 6170,
     "popularity": 3420,
-    "members": 51842,
+    "members": 51846,
     "favorites": 122,
     "type": "TV",
     "status": "Finished Airing",
@@ -1730,7 +1759,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49831,
@@ -1744,10 +1774,10 @@
     "background": "Black★★Rock Shooter: Dawn Fall was released on Blu-ray in four volumes from July 27, 2022 to October 28, 2022.",
     "episodes": 12,
     "score": 5.95,
-    "scored_by": 9924,
-    "rank": 10534,
+    "scored_by": 9926,
+    "rank": 10535,
     "popularity": 3658,
-    "members": 46041,
+    "members": 46043,
     "favorites": 351,
     "type": "TV",
     "status": "Finished Airing",
@@ -1778,7 +1808,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48916,
@@ -1794,10 +1825,10 @@
     "background": "",
     "episodes": 13,
     "score": 7.65,
-    "scored_by": 17395,
-    "rank": 1500,
+    "scored_by": 17402,
+    "rank": 1501,
     "popularity": 3786,
-    "members": 43317,
+    "members": 43329,
     "favorites": 447,
     "type": "TV",
     "status": "Finished Airing",
@@ -1834,7 +1865,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49556,
@@ -1848,10 +1880,10 @@
     "background": "",
     "episodes": 24,
     "score": 6.54,
-    "scored_by": 13192,
+    "scored_by": 13194,
     "rank": 7073,
-    "popularity": 3787,
-    "members": 43296,
+    "popularity": 3789,
+    "members": 43301,
     "favorites": 274,
     "type": "TV",
     "status": "Finished Airing",
@@ -1883,7 +1915,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49160,
@@ -1900,10 +1933,10 @@
     "background": "",
     "episodes": 12,
     "score": 7.11,
-    "scored_by": 14211,
+    "scored_by": 14212,
     "rank": 4021,
     "popularity": 3800,
-    "members": 43062,
+    "members": 43066,
     "favorites": 153,
     "type": "TV",
     "status": "Finished Airing",
@@ -1940,7 +1973,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48857,
@@ -1954,10 +1988,10 @@
     "background": "Healer Girl was released on Blu-ray in two volumes from July 27, 2022 to September 28, 2022.",
     "episodes": 12,
     "score": 7.29,
-    "scored_by": 12293,
-    "rank": 2964,
-    "popularity": 4090,
-    "members": 36981,
+    "scored_by": 12294,
+    "rank": 2965,
+    "popularity": 4091,
+    "members": 36982,
     "favorites": 177,
     "type": "TV",
     "status": "Finished Airing",
@@ -1992,7 +2026,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49342,
@@ -2010,10 +2045,10 @@
     "background": "Shin Ikkitousen was released on Blu-ray and DVD on June 24, 2022.",
     "episodes": 3,
     "score": 5.83,
-    "scored_by": 6295,
-    "rank": 11169,
-    "popularity": 4508,
-    "members": 30223,
+    "scored_by": 6296,
+    "rank": 11170,
+    "popularity": 4509,
+    "members": 30226,
     "favorites": 135,
     "type": "TV",
     "status": "Finished Airing",
@@ -2053,7 +2088,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 49691,
@@ -2070,7 +2106,7 @@
     "scored_by": 7491,
     "rank": 9426,
     "popularity": 4753,
-    "members": 26853,
+    "members": 26858,
     "favorites": 130,
     "type": "TV",
     "status": "Finished Airing",
@@ -2106,7 +2142,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 48777,
@@ -2125,9 +2162,9 @@
     "episodes": 12,
     "score": 6.63,
     "scored_by": 5977,
-    "rank": 6497,
+    "rank": 6496,
     "popularity": 5088,
-    "members": 22711,
+    "members": 22714,
     "favorites": 80,
     "type": "TV",
     "status": "Finished Airing",
@@ -2159,7 +2196,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50955,
@@ -2173,8 +2211,8 @@
     "background": "",
     "episodes": 60,
     "score": 6.5,
-    "scored_by": 4737,
-    "rank": 7340,
+    "scored_by": 4738,
+    "rank": 7337,
     "popularity": 5681,
     "members": 17181,
     "favorites": 44,
@@ -2209,7 +2247,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50012,
@@ -2227,9 +2266,9 @@
     "background": "",
     "episodes": 6,
     "score": 6.97,
-    "scored_by": 6917,
+    "scored_by": 6916,
     "rank": 4663,
-    "popularity": 5763,
+    "popularity": 5764,
     "members": 16530,
     "favorites": 68,
     "type": "TV",
@@ -2263,7 +2302,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50678,
@@ -2277,10 +2317,10 @@
     "background": "",
     "episodes": 12,
     "score": 6.53,
-    "scored_by": 5595,
+    "scored_by": 5597,
     "rank": 7139,
     "popularity": 5854,
-    "members": 15789,
+    "members": 15792,
     "favorites": 75,
     "type": "TV",
     "status": "Finished Airing",
@@ -2308,7 +2348,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50685,
@@ -2323,9 +2364,9 @@
     "episodes": 12,
     "score": 7.35,
     "scored_by": 6164,
-    "rank": 2671,
-    "popularity": 5954,
-    "members": 15140,
+    "rank": 2669,
+    "popularity": 5955,
+    "members": 15141,
     "favorites": 59,
     "type": "TV",
     "status": "Finished Airing",
@@ -2351,7 +2392,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50250,
@@ -2365,11 +2407,11 @@
     "background": "",
     "episodes": null,
     "score": 8.44,
-    "scored_by": 3993,
+    "scored_by": 4000,
     "rank": 186,
-    "popularity": 6179,
-    "members": 13743,
-    "favorites": 427,
+    "popularity": 6173,
+    "members": 13775,
+    "favorites": 426,
     "type": "TV",
     "status": "Currently Airing",
     "airing": true,
@@ -2396,7 +2438,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50862,
@@ -2410,8 +2453,8 @@
     "background": "Estab-Life: Great Escape is an anime adaptation that is a part of the Estab-Life multimedia project created by Gorou Taniguchi. The series was released on Blu-ray in Japan on September 2, 2022.",
     "episodes": 12,
     "score": 6.46,
-    "scored_by": 3725,
-    "rank": 7600,
+    "scored_by": 3726,
+    "rank": 7601,
     "popularity": 6283,
     "members": 13174,
     "favorites": 44,
@@ -2448,7 +2491,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50438,
@@ -2464,10 +2508,10 @@
     "background": "",
     "episodes": 10,
     "score": 6.3,
-    "scored_by": 3688,
-    "rank": 8564,
+    "scored_by": 3689,
+    "rank": 8566,
     "popularity": 6953,
-    "members": 10412,
+    "members": 10413,
     "favorites": 19,
     "type": "TV",
     "status": "Finished Airing",
@@ -2499,7 +2543,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50789,
@@ -2514,9 +2559,9 @@
     "episodes": 11,
     "score": 6.08,
     "scored_by": 4077,
-    "rank": 9839,
-    "popularity": 7222,
-    "members": 9457,
+    "rank": 9838,
+    "popularity": 7223,
+    "members": 9456,
     "favorites": 18,
     "type": "TV",
     "status": "Finished Airing",
@@ -2544,7 +2589,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50607,
@@ -2561,8 +2607,8 @@
     "episodes": 151,
     "score": 6.19,
     "scored_by": 1497,
-    "rank": 9191,
-    "popularity": 7845,
+    "rank": 9186,
+    "popularity": 7846,
     "members": 7636,
     "favorites": 60,
     "type": "TV",
@@ -2596,7 +2642,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 50060,
@@ -2613,9 +2660,9 @@
     "episodes": 50,
     "score": 6.73,
     "scored_by": 1669,
-    "rank": 5896,
+    "rank": 5895,
     "popularity": 7973,
-    "members": 7375,
+    "members": 7377,
     "favorites": 38,
     "type": "TV",
     "status": "Finished Airing",
@@ -2645,55 +2692,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51685,
-    "title": "Zombie-ga Doeeo Beorin Naui Ttal",
-    "title_english": "My Daughter is a Zombie",
-    "title_japanese": "좀비가 되어버린 나의 딸",
-    "title_synonyms": [
-      "Zombie-ttal"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1955/123249l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/hM2ZwYR1Ph4?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "One year after an unprecedented zombie attack that killed hundreds of thousands, South Korea has finally been declared zombie-free. But Jeonghwan holds a secret: his daughter is the last zombie left on earth. When her cravings are satisfied and her violent tendencies die down, it almost seems like there's hope for her to have a normal life. But how long can he keep Su-ah a secret from everyone else?\n\n(Source: Webtoon)",
-    "background": "",
-    "episodes": 26,
-    "score": 5.99,
-    "scored_by": 228,
-    "rank": 10284,
-    "popularity": 9646,
-    "members": 4472,
-    "favorites": 31,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG-13 - Teens 13 or older",
-    "source": "Web manga",
-    "studios": [
-      "Durufix"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Supernatural"
-    ],
-    "themes": [
-      "Gag Humor"
-    ],
-    "demographics": [],
-    "aired_from": "2022-04-03T00:00:00+00:00",
-    "aired_to": "2022-06-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/51685/Zombie-ga_Doeeo_Beorin_Naui_Ttal",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51569,
@@ -2710,8 +2710,8 @@
     "episodes": 9,
     "score": 6.55,
     "scored_by": 344,
-    "rank": 6986,
-    "popularity": 11313,
+    "rank": 6985,
+    "popularity": 11314,
     "members": 2718,
     "favorites": 13,
     "type": "TV",
@@ -2742,54 +2742,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51155,
-    "title": "Cap Kakumei Bottleman DX",
-    "title_english": "Cap Revolution Bottleman DX",
-    "title_japanese": "キャップ革命 ボトルマンDX",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1699/121192l.jpg",
-    "trailer_url": null,
-    "synopsis": "Second season of Cap Kakumei Bottleman.",
-    "background": "",
-    "episodes": 51,
-    "score": 6.09,
-    "scored_by": 198,
-    "rank": 9738,
-    "popularity": 14338,
-    "members": 1146,
-    "favorites": 8,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "12 min per ep",
-    "rating": "G - All Ages",
-    "source": "Game",
-    "studios": [
-      "Gaina"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Action"
-    ],
-    "themes": [
-      "Strategy Game"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-03T00:00:00+00:00",
-    "aired_to": "2023-03-26T00:00:00+00:00",
-    "broadcast": "Sundays at 09:30 (JST)",
-    "url": "https://myanimelist.net/anime/51155/Cap_Kakumei_Bottleman_DX",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 51636,
@@ -2805,7 +2759,7 @@
     "score": 5.5,
     "scored_by": 247,
     "rank": 12575,
-    "popularity": 14541,
+    "popularity": 14540,
     "members": 1089,
     "favorites": 5,
     "type": "TV",
@@ -2832,155 +2786,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 51037,
-    "title": "Duel Masters King Max",
-    "title_english": null,
-    "title_japanese": "DUEL MASTERS キングMAX",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1191/122796l.jpg",
-    "trailer_url": null,
-    "synopsis": "The story of Duel Masters King entered the \"next stage\" with the new series. The theme of the new series is \"time travel.\"\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 17,
-    "score": null,
-    "scored_by": null,
-    "rank": 21192,
-    "popularity": 15256,
-    "members": 898,
-    "favorites": 9,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "G - All Ages",
-    "source": "Original",
-    "studios": [
-      "Brain's Base",
-      "Shogakukan Music & Digital Entertainment"
-    ],
-    "producers": [
-      "TV Tokyo",
-      "Shogakukan-Shueisha Productions"
-    ],
-    "licensors": [],
-    "genres": [
-      "Action",
-      "Adventure",
-      "Comedy",
-      "Fantasy"
-    ],
-    "themes": [
-      "Time Travel"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-03T00:00:00+00:00",
-    "aired_to": "2022-08-28T00:00:00+00:00",
-    "broadcast": "Sundays at 08:30 (JST)",
-    "url": "https://myanimelist.net/anime/51037/Duel_Masters_King_Max",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50193,
-    "title": "Motto! Majime ni Fumajime Kaiketsu Zorori 3rd Season",
-    "title_english": null,
-    "title_japanese": "もっと! まじめにふまじめ かいけつゾロリ 第3シリーズ",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1186/118941l.jpg",
-    "trailer_url": null,
-    "synopsis": "Third season of Motto! Majime ni Fumajime Kaiketsu Zorori.",
-    "background": "",
-    "episodes": 25,
-    "score": null,
-    "scored_by": null,
-    "rank": 18863,
-    "popularity": 16366,
-    "members": 682,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "24 min per ep",
-    "rating": "PG - Children",
-    "source": "Book",
-    "studios": [
-      "Ajia-do",
-      "Bandai Namco Pictures"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Adventure",
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-06T00:00:00+00:00",
-    "aired_to": "2022-09-21T00:00:00+00:00",
-    "broadcast": "Wednesdays at 19:00 (JST)",
-    "url": "https://myanimelist.net/anime/50193/Motto_Majime_ni_Fumajime_Kaiketsu_Zorori_3rd_Season",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50600,
-    "title": "Insect Land",
-    "title_english": null,
-    "title_japanese": "インセクトランド",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1991/120109l.jpg",
-    "trailer_url": "https://www.youtube-nocookie.com/embed/OHBUDV71Lkg?enablejsapi=1&wmode=opaque&autoplay=1",
-    "synopsis": "Anime based on \"nature learning picture books\" which explore the lives of insects, while also celebrating the themes of ecology and diversity.\n\n(Source: ANN)",
-    "background": "",
-    "episodes": 22,
-    "score": null,
-    "scored_by": null,
-    "rank": 17295,
-    "popularity": 17280,
-    "members": 562,
-    "favorites": 2,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "5 min per ep",
-    "rating": "G - All Ages",
-    "source": "Picture book",
-    "studios": [
-      "Jinnis Animation Studios"
-    ],
-    "producers": [
-      "TMS Entertainment"
-    ],
-    "licensors": [],
-    "genres": [
-      "Slice of Life"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-04T00:00:00+00:00",
-    "aired_to": "2022-08-29T00:00:00+00:00",
-    "broadcast": "Mondays at 08:45 (JST)",
-    "url": "https://myanimelist.net/anime/50600/Insect_Land",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 52463,
@@ -2995,8 +2802,8 @@
     "episodes": 50,
     "score": null,
     "scored_by": null,
-    "rank": 18368,
-    "popularity": 19367,
+    "rank": 18369,
+    "popularity": 19370,
     "members": 388,
     "favorites": 0,
     "type": "TV",
@@ -3025,101 +2832,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 50799,
-    "title": "Oshiri Tantei 6th Season",
-    "title_english": null,
-    "title_japanese": "おしりたんてい",
-    "title_synonyms": [
-      "Butt Detective"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1569/120464l.jpg",
-    "trailer_url": null,
-    "synopsis": "Sixth season of Oshiri Tantei.",
-    "background": "",
-    "episodes": 13,
-    "score": null,
-    "scored_by": null,
-    "rank": 19321,
-    "popularity": 19981,
-    "members": 347,
-    "favorites": 1,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "20 min per ep",
-    "rating": "PG - Children",
-    "source": "Picture book",
-    "studios": [
-      "Toei Animation"
-    ],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy",
-      "Fantasy",
-      "Mystery"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-09T00:00:00+00:00",
-    "aired_to": "2022-07-02T00:00:00+00:00",
-    "broadcast": "Saturdays at 09:00 (JST)",
-    "url": "https://myanimelist.net/anime/50799/Oshiri_Tantei_6th_Season",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56132,
-    "title": "Balala Xiao Mo Xian: Mofa Xing Yuan Bao",
-    "title_english": "Balala the Fairies: Magic Star Fate Castle",
-    "title_japanese": "巴啦啦小魔仙之魔法星缘堡",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1928/137447l.jpg",
-    "trailer_url": null,
-    "synopsis": "Normal Girls who live a normal life until they discover a Magical Fairy Kingdom, magical elves grant them magical powers from Magic Star Fate Castle, to save the Magic Star Fate castle they will need to fight a villain called \"Fesna\". Will they be able to recover all the Magic Stones?\n\n(Source: Balala the Fairies Wiki)",
-    "background": "",
-    "episodes": 26,
-    "score": null,
-    "scored_by": null,
-    "rank": 20134,
-    "popularity": 20807,
-    "members": 297,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "20 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Fantasy"
-    ],
-    "themes": [
-      "Mahou Shoujo"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-21T00:00:00+00:00",
-    "aired_to": "2022-05-16T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56132/Balala_Xiao_Mo_Xian__Mofa_Xing_Yuan_Bao",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 56345,
@@ -3165,95 +2879,8 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56307,
-    "title": "Hello Carbot Season 12",
-    "title_english": null,
-    "title_japanese": "헬로 카봇 시즌12",
-    "title_synonyms": [
-      "Hello Carbot: Boom Bar"
-    ],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1259/137817l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 39,
-    "score": null,
-    "scored_by": null,
-    "rank": 21883,
-    "popularity": 23547,
-    "members": 164,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "11 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [],
-    "themes": [
-      "Mecha"
-    ],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-04-03T00:00:00+00:00",
-    "aired_to": "2023-03-26T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56307/Hello_Carbot_Season_12",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
-  },
-  {
-    "mal_id": 56362,
-    "title": "Robocar Poli 5",
-    "title_english": null,
-    "title_japanese": "로보카 폴리 시즌5",
-    "title_synonyms": [],
-    "image_url": "https://cdn.myanimelist.net/images/anime/1181/137907l.jpg",
-    "trailer_url": null,
-    "synopsis": null,
-    "background": "",
-    "episodes": 16,
-    "score": null,
-    "scored_by": null,
-    "rank": 14497,
-    "popularity": 23948,
-    "members": 152,
-    "favorites": 0,
-    "type": "TV",
-    "status": "Finished Airing",
-    "airing": false,
-    "approved": true,
-    "duration": "14 min per ep",
-    "rating": "PG - Children",
-    "source": "Original",
-    "studios": [],
-    "producers": [],
-    "licensors": [],
-    "genres": [
-      "Comedy"
-    ],
-    "themes": [],
-    "demographics": [
-      "Kids"
-    ],
-    "aired_from": "2022-03-04T00:00:00+00:00",
-    "aired_to": "2022-12-13T00:00:00+00:00",
-    "broadcast": "Unknown",
-    "url": "https://myanimelist.net/anime/56362/Robocar_Poli_5",
-    "year": 2022,
-    "season": "spring",
-    "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   },
   {
     "mal_id": 62557,
@@ -3268,8 +2895,8 @@
     "episodes": 13,
     "score": null,
     "scored_by": null,
-    "rank": 17932,
-    "popularity": 29106,
+    "rank": 17934,
+    "popularity": 29122,
     "members": 54,
     "favorites": 0,
     "type": "TV",
@@ -3299,6 +2926,7 @@
     "year": 2022,
     "season": "spring",
     "is_hentai": false,
-    "is_japanese": true
+    "is_japanese": true,
+    "is_kid": false
   }
 ]
