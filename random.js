@@ -7,8 +7,6 @@ let allAnimeCache = []; // Cache all anime for reuse
 let allAnimePromise = null; // Track in-flight data fetch
 let showHentai = false; // Default OFF
 let hideNotRated = true; // Default ON
-let japaneseOnly = true; // Default ON (match main app)
-
 /**
  * Load the manifest of all available seasons
  */
@@ -198,8 +196,6 @@ function setupFilterModeToggle() {
 function setupContentFilters() {
     const hentaiToggle = document.getElementById('picker-hentai-toggle');
     const notRatedToggle = document.getElementById('picker-not-rated-toggle');
-    const japaneseToggle = document.getElementById('picker-japanese-toggle');
-
     if (hentaiToggle) {
         hentaiToggle.checked = showHentai;
         hentaiToggle.addEventListener('change', (e) => {
@@ -215,12 +211,6 @@ function setupContentFilters() {
         });
     }
 
-    if (japaneseToggle) {
-        japaneseToggle.checked = japaneseOnly;
-        japaneseToggle.addEventListener('change', (e) => {
-            japaneseOnly = e.target.checked;
-        });
-    }
 }
 
 /**
@@ -291,10 +281,6 @@ async function getRandomAnime() {
                 return false;
             }
 
-            // Japanese only
-            if (japaneseOnly && anime.is_japanese === false) {
-                return false;
-            }
 
             // Genre filter (multi-select with OR/AND mode)
             if (selectedGenres.size > 0) {

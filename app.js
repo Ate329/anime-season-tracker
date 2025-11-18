@@ -3,7 +3,6 @@ let manifest = [];
 let allAnimeData = [];
 let showHentai = false; // Default: OFF
 let hideNotRated = false; // Will be set based on season timing
-let japaneseOnly = false; // Default: OFF (matching adult content filter style)
 let selectedGenres = new Set(); // Selected genres for filtering
 let allGenres = []; // All available genres for current season
 let filterMode = 'OR'; // 'OR' or 'AND' - default is OR
@@ -45,7 +44,6 @@ document.addEventListener('DOMContentLoaded', () => {
     loadManifest();
     setupHentaiToggles();
     setupNotRatedToggle();
-    setupJapaneseOnlyToggle();
     setupFilterModeToggle();
     setupSortButtons();
     setupBackButton();
@@ -564,13 +562,6 @@ function filterAnime(animeList) {
             return false;
         }
         
-        // Filter Japanese only
-        if (japaneseOnly) {
-            // Check if anime is marked as non-Japanese
-            if (anime.is_japanese === false) {
-                return false;
-            }
-        }
         
         // Filter by genres (if any selected)
         if (selectedGenres.size > 0) {
@@ -664,23 +655,6 @@ function setupNotRatedToggle() {
     });
 }
 
-/**
- * Setup Japanese only toggle
- */
-function setupJapaneseOnlyToggle() {
-    const toggle = document.getElementById('japanese-only-toggle');
-    
-    // Default to ON (checked)
-    toggle.checked = true;
-    japaneseOnly = true;
-    
-    toggle.addEventListener('change', (e) => {
-        japaneseOnly = e.target.checked;
-        if (allAnimeData.length > 0) {
-            renderAnime();
-        }
-    });
-}
 
 /**
  * Setup filter mode toggle (OR/AND)

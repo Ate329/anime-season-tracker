@@ -33,7 +33,6 @@ A beautiful, free anime tracker that helps you explore seasonal anime from 2006 
 ### Filter Results
 - **Adult Content Filter** - Toggle mature content visibility
 - **Hide Not Rated** - Filter out unrated anime
-- **Japanese Anime Only** - Show only Japanese productions
 - **Genre Filters** - Select multiple genres with OR/AND logic
 
 ### Genre Filtering
