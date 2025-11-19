@@ -157,6 +157,29 @@
             </div>
         </div>
 
+        <!-- Anime Rating vs Popularity Scatter Plot -->
+        <div id="anime-rating-popularity-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">⭐ Anime Rating vs Popularity</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Relationship between anime ratings and popularity - discover hidden gems and mainstream hits (Logarithmic Scale)</p>
+            <div class="relative" style="height: 600px;">
+                <canvas id="anime-rating-popularity-chart"></canvas>
+            </div>
+            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-rated-anime">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Total Rated Anime</div>
+                </div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold text-red-600" id="mean-anime-rating">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Rating</div>
+                </div>
+                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
+                    <div class="text-2xl font-bold text-green-600" id="mean-anime-popularity">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">Mean Popularity Rank</div>
+                </div>
+            </div>
+        </div>
+
         <!-- Genre Trends -->
         <div id="genre-trends-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By Year)</h2>
@@ -333,28 +356,6 @@
             </div>
         </div>
 
-        <!-- Anime Rating vs Popularity Scatter Plot -->
-        <div id="anime-rating-popularity-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">⭐ Anime Rating vs Popularity</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Relationship between anime ratings and popularity - discover hidden gems and mainstream hits</p>
-            <div class="relative" style="height: 600px;">
-                <canvas id="anime-rating-popularity-chart"></canvas>
-            </div>
-            <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-rated-anime">-</div>
-                    <div class="text-sm" style="color: var(--text-secondary);">Total Rated Anime</div>
-                </div>
-                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold text-red-600" id="mean-anime-rating">-</div>
-                    <div class="text-sm" style="color: var(--text-secondary);">Mean Rating</div>
-                </div>
-                <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold text-green-600" id="mean-anime-popularity">-</div>
-                    <div class="text-sm" style="color: var(--text-secondary);">Mean Popularity Rank</div>
-                </div>
-            </div>
-        </div>
     </main>
     
     <!-- Footer -->
@@ -1947,6 +1948,7 @@
                             y: {
                                 display: true,
                                 reverse: true,
+                                type: 'logarithmic',
                                 title: {
                                     display: true,
                                     text: 'Popularity Rank (lower = more popular)',
@@ -1955,7 +1957,16 @@
                                         weight: 'bold'
                                     }
                                 },
-                                beginAtZero: false
+                                beginAtZero: false,
+                                ticks: {
+                                    callback: function(value, index, values) {
+                                        // Show only 1, 10, 100, 1000, 10000, etc.
+                                        if (value === 1 || value === 10 || value === 100 || value === 1000 || value === 10000 || value === 100000) {
+                                            return value.toLocaleString();
+                                        }
+                                        return null;
+                                    }
+                                }
                             }
                         }
                     },
