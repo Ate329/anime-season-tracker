@@ -1178,6 +1178,9 @@ def generate_anime_rating_popularity_scatter():
     # Create scatter plot
     fig, ax = plt.subplots(figsize=(14, 10))
     
+    # Use log scale for Y-axis to spread out the dense top-popularity region
+    ax.set_yscale('log')
+    
     # Plot scatter points with alpha for overlapping points
     scatter = ax.scatter(scores, popularities, alpha=0.5, s=30, c='#3b82f6', edgecolors='white', linewidth=0.5)
     
@@ -1207,7 +1210,7 @@ def generate_anime_rating_popularity_scatter():
     ax.set_ylabel('Popularity Rank (lower = more popular)', fontsize=12, fontweight='bold')
     ax.set_title('Anime Rating vs Popularity', fontsize=14, fontweight='bold', pad=20)
     ax.grid(True, alpha=0.3, linestyle='--')
-    ax.legend(loc='lower right', fontsize=11, framealpha=0.9)
+    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
     
     # Invert y-axis so more popular anime (lower rank) appear at top
     ax.invert_yaxis()
