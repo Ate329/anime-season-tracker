@@ -1,6 +1,6 @@
 # 🎬 Anime Season Tracker
 
-**[中文版 README](README_CN.md)** | **English**
+**[中文](README_CN.md)** | **[English](README.md)**
 
 ![Stack: 100% Free](https://img.shields.io/badge/Stack-Free%20100%25-brightgreen) ![Auto Updates](https://img.shields.io/badge/Updates-Automated-blue) ![Data Source](https://img.shields.io/badge/Data-MyAnimeList-2E51A2) ![Open Source](https://img.shields.io/badge/Open%20Source-MIT-yellow)
 
