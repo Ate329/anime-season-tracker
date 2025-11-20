@@ -1,0 +1,104 @@
+{
+  "studios": [
+    {
+      "name": "P.A.WORKS",
+      "avg_rating": 6.65,
+      "anime_count": 6,
+      "rated_count": 6
+    },
+    {
+      "name": "A-1 Pictures",
+      "avg_rating": 7.26,
+      "anime_count": 7,
+      "rated_count": 7
+    },
+    {
+      "name": "\u30b5\u30f3\u30b8\u30b2\u30f3",
+      "avg_rating": 6.46,
+      "anime_count": 7,
+      "rated_count": 7
+    },
+    {
+      "name": "J.C.STAFF",
+      "avg_rating": 6.9,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "\u30b9\u30bf\u30b8\u30aa\u96f2\u96c0",
+      "avg_rating": 5.88,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "Warner Bros. Animation",
+      "avg_rating": 6.07,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Production I.G",
+      "avg_rating": 6.57,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "SHAFT",
+      "avg_rating": 7.56,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
+      "name": "GONZO",
+      "avg_rating": 6.81,
+      "anime_count": 8,
+      "rated_count": 8
+    },
+    {
+      "name": "\u30c8\u30e0\u30b9\u30fb\u30a8\u30f3\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8",
+      "avg_rating": 6.45,
+      "anime_count": 6,
+      "rated_count": 6
+    },
+    {
+      "name": "SILVER LINK.",
+      "avg_rating": 7.08,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "\u304e\u3083\u308d\u3063\u3077",
+      "avg_rating": 6.4,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "NHK\u3001NHK\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
+      "avg_rating": 6.4,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "XEBEC",
+      "avg_rating": 6.46,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "MADHOUSE",
+      "avg_rating": 7.0,
+      "anime_count": 9,
+      "rated_count": 9
+    },
+    {
+      "name": "\u4eac\u90fd\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
+      "avg_rating": 8.0,
+      "anime_count": 6,
+      "rated_count": 6
+    }
+  ],
+  "mean_rating": 6.75,
+  "mean_count": 7.6,
+  "total_studios": 16,
+  "min_anime_count": 5
+}

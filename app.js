@@ -11,12 +11,86 @@ let currentYear = null;
 let currentSeason = null;
 let searchResults = []; // Store search results
 let isSearching = false; // Track if in search mode
+
+// Language detection
+const isChinese = document.documentElement.lang === 'zh';
+const dataDir = isChinese ? 'data_cn' : 'data';
+
+// Localization strings
+const STRINGS = {
+    en: {
+        winter: 'Winter',
+        spring: 'Spring',
+        summer: 'Summer',
+        fall: 'Fall',
+        noGenres: 'No genres available',
+        noAnime: 'No anime found with current filters.',
+        readMore: 'Read more',
+        readLess: 'Read less',
+        notRated: '❓ Not rated',
+        ratings: 'ratings',
+        popularity: 'Popularity',
+        studio: 'Studio',
+        source: 'Source',
+        aired: 'Aired',
+        genres: 'Genres',
+        themes: 'Themes',
+        viewOnMAL: 'View on MyAnimeList →',
+        viewOnBangumi: 'View on Bangumi →',
+        filterModeOr: 'Show anime with <strong>any</strong> of the selected genres',
+        filterModeAnd: 'Show anime with <strong>all</strong> of the selected genres',
+        failedLoad: 'Failed to load anime data. Please try again later.',
+        failedManifest: 'Failed to load manifest',
+        collectionStatsError: 'Collection stats not available',
+        loading: 'Loading anime...',
+        searching: 'Searching across all seasons...',
+        searchResults: 'Search Results:',
+        clearSearch: 'Clear Search',
+        noResults: 'No results found for',
+        foundResults: 'Found {count} results for',
+        enterToSearch: 'Press Enter or click search to find anime across all years and seasons'
+    },
+    zh: {
+        winter: '冬',
+        spring: '春',
+        summer: '夏',
+        fall: '秋',
+        noGenres: '暂无类型',
+        noAnime: '当前过滤条件下未找到动画。',
+        readMore: '阅读更多',
+        readLess: '收起',
+        notRated: '❓ 未评分',
+        ratings: '评分',
+        popularity: '热度',
+        studio: '制作',
+        source: '来源',
+        aired: '播出',
+        genres: '类型',
+        themes: '题材',
+        viewOnMAL: '在 MyAnimeList 上查看 →',
+        viewOnBangumi: '在 Bangumi 上查看 →',
+        filterModeOr: '显示包含 <strong>任意</strong> 选定类型的动画',
+        filterModeAnd: '显示包含 <strong>所有</strong> 选定类型的动画',
+        failedLoad: '加载动画数据失败，请稍后重试。',
+        failedManifest: '加载清单失败',
+        collectionStatsError: '无法加载收藏统计',
+        loading: '正在加载动画...',
+        searching: '正在搜索...',
+        searchResults: '搜索结果:',
+        clearSearch: '清除搜索',
+        noResults: '未找到结果:',
+        foundResults: '找到 {count} 个结果:',
+        enterToSearch: '按回车或点击搜索图标在所有年份和季节中查找'
+    }
+};
+
+const t = isChinese ? STRINGS.zh : STRINGS.en;
 /**
  * Load and display collection statistics
  */
 async function loadCollectionStats() {
     try {
-        const response = await fetch('data/collection-stats.json');
+        const response = await fetch(`${dataDir}/collection-stats.json`);
         if (!response.ok) {
             console.log('Collection stats not available');
             return;
@@ -99,14 +173,14 @@ function showAnimePage(year, season) {
  */
 async function loadManifest() {
     try {
-        const response = await fetch('data/manifest.json');
+        const response = await fetch(`${dataDir}/manifest.json`);
         if (!response.ok) throw new Error('Failed to load manifest');
         
         manifest = await response.json();
         displayYears();
     } catch (error) {
         console.error('Error loading manifest:', error);
-        showError('Failed to load data. Please try again later.');
+        showError(t.failedLoad);
     }
 }
 
@@ -159,6 +233,8 @@ function createYearSection(year, seasons) {
         'fall': '🍂'
     };
     
+    const seasonName = (s) => isChinese ? t[s] : capitalize(s);
+
     section.innerHTML = `
         <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">${year}</h2>
         <div class="flex flex-wrap gap-2">
@@ -168,7 +244,7 @@ function createYearSection(year, seasons) {
                     style="border: 1px solid var(--border-color); color: var(--text-primary);"
                     data-year="${year}"
                     data-season="${s.season}">
-                    ${seasonIcons[s.season]} ${capitalize(s.season)} 
+                    ${seasonIcons[s.season]} ${seasonName(s.season)} 
                     <span class="text-sm" style="color: var(--text-secondary);">(${s.count})</span>
                 </button>
             `).join('')}
@@ -268,7 +344,8 @@ async function loadSeason(year, season) {
     gridEl.innerHTML = '';
     
     // Update title
-    titleEl.textContent = `${capitalize(season)} ${year}`;
+    const seasonDisplay = isChinese ? t[season] : capitalize(season);
+    titleEl.textContent = `${seasonDisplay} ${year}`;
     
     // Set default for "Hide Not Rated" based on season timing
     hideNotRated = shouldHideNotRatedByDefault(currentYear, currentSeason);
@@ -278,7 +355,7 @@ async function loadSeason(year, season) {
     }
     
     try {
-        const response = await fetch(`data/${year}/${season}.json`);
+        const response = await fetch(`${dataDir}/${year}/${season}.json`);
         if (!response.ok) throw new Error('Failed to load anime data');
         
         allAnimeData = await response.json();
@@ -296,7 +373,7 @@ async function loadSeason(year, season) {
     } catch (error) {
         console.error('Error loading season:', error);
         loadingEl.classList.add('hidden');
-        gridEl.innerHTML = '<div class="col-span-full text-center text-gray-600 py-8">Failed to load anime data.</div>';
+        gridEl.innerHTML = `<div class="col-span-full text-center text-gray-600 py-8">${t.failedLoad}</div>`;
     }
 }
 
@@ -330,7 +407,7 @@ function renderGenreFilters() {
         const p = document.createElement('p');
         p.className = 'text-sm';
         p.style.color = 'var(--text-secondary)';
-        p.textContent = 'No genres available';
+        p.textContent = t.noGenres;
         container.appendChild(p);
         return;
     }
@@ -346,7 +423,7 @@ function renderGenreFilters() {
         allBtn.style.color = 'var(--text-primary)';
         allBtn.style.border = '1px solid var(--border-color)';
     }
-    allBtn.textContent = 'All';
+    allBtn.textContent = isChinese ? '全部' : 'All';
     allBtn.addEventListener('click', () => {
         selectedGenres.clear();
         renderGenreFilters();
@@ -397,7 +474,7 @@ function renderAnime() {
         const div = document.createElement('div');
         div.className = 'col-span-full text-center py-8';
         div.style.color = 'var(--text-secondary)';
-        div.textContent = 'No anime found with current filters.';
+        div.textContent = t.noAnime;
         gridEl.appendChild(div);
         return;
     }
@@ -418,12 +495,12 @@ function createAnimeCard(anime) {
     card.style.border = '1px solid var(--border-color)';
     
     // Prepare data
-    const synopsis = anime.synopsis || 'No synopsis available.';
+    const synopsis = anime.synopsis || (isChinese ? '暂无简介。' : 'No synopsis available.');
     const synopsisPreview = synopsis.length > 150 ? synopsis.substring(0, 150) + '...' : synopsis;
     const showReadMore = synopsis.length > 150;
     
-    const score = anime.score ? `⭐ ${anime.score}` : '❓ Not rated';
-    const scoredBy = anime.scored_by ? `${(anime.scored_by / 1000).toFixed(1)}K ratings` : '';
+    const score = anime.score ? `⭐ ${anime.score}` : t.notRated;
+    const scoredBy = anime.scored_by ? `${(anime.scored_by / 1000).toFixed(1)}K ${t.ratings}` : '';
     const popularity = anime.popularity ? `#${anime.popularity.toLocaleString()}` : 'N/A';
     
     const genres = anime.genres && anime.genres.length > 0 ? 
@@ -433,16 +510,19 @@ function createAnimeCard(anime) {
         anime.themes.join(', ') : null;
     
     const studios = anime.studios && anime.studios.length > 0 ?
-        anime.studios.join(', ') : 'Unknown';
+        anime.studios.join(', ') : (isChinese ? '未知' : 'Unknown');
     
-    const source = anime.source || 'Unknown';
+    const source = anime.source || (isChinese ? '未知' : 'Unknown');
     
-    const airedFrom = anime.aired_from ? new Date(anime.aired_from).toLocaleDateString('en-US', { 
+    const airedFrom = anime.aired_from ? new Date(anime.aired_from).toLocaleDateString(isChinese ? 'zh-CN' : 'en-US', { 
         year: 'numeric', month: 'short', day: 'numeric' 
     }) : 'TBA';
     
     const englishTitle = anime.title_english && anime.title_english !== anime.title ? 
         anime.title_english : null;
+
+    // For Chinese, show Japanese title as subtitle if available
+    const subTitle = isChinese ? anime.title_japanese : englishTitle;
     
     card.innerHTML = `
         <div class="aspect-[2/3] bg-gray-100 relative">
@@ -463,8 +543,8 @@ function createAnimeCard(anime) {
                     <h3 class="font-semibold text-sm line-clamp-2 mb-0.5" style="color: var(--text-primary);" title="${anime.title}">
                         ${anime.title}
                     </h3>
-                    ${englishTitle ? 
-                        `<p class="text-xs line-clamp-1" style="color: var(--text-secondary);" title="${englishTitle}">${englishTitle}</p>` 
+                    ${subTitle ? 
+                        `<p class="text-xs line-clamp-1" style="color: var(--text-secondary);" title="${subTitle}">${subTitle}</p>` 
                         : ''}
                 </div>
                 
@@ -474,33 +554,33 @@ function createAnimeCard(anime) {
                 </div>
                 
                 <div class="flex items-center justify-between text-xs">
-                    <span style="color: var(--text-secondary);">Popularity:</span>
+                    <span style="color: var(--text-secondary);">${t.popularity}:</span>
                     <span class="font-medium" style="color: var(--text-primary);">${popularity}</span>
                 </div>
                 
                 <div class="space-y-1 text-xs">
                     <div class="flex">
-                        <span style="color: var(--text-secondary);" class="min-w-[60px]">Studio:</span>
+                        <span style="color: var(--text-secondary);" class="min-w-[60px]">${t.studio}:</span>
                         <span style="color: var(--text-primary);" class="font-medium line-clamp-1">${studios}</span>
                     </div>
                     <div class="flex">
-                        <span style="color: var(--text-secondary);" class="min-w-[60px]">Source:</span>
+                        <span style="color: var(--text-secondary);" class="min-w-[60px]">${t.source}:</span>
                         <span style="color: var(--text-primary);">${source}</span>
                     </div>
                     <div class="flex">
-                        <span style="color: var(--text-secondary);" class="min-w-[60px]">Aired:</span>
+                        <span style="color: var(--text-secondary);" class="min-w-[60px]">${t.aired}:</span>
                         <span style="color: var(--text-primary);">${airedFrom}</span>
                     </div>
                 </div>
                 
                 <div class="text-xs">
-                    <div style="color: var(--text-secondary);" class="mb-1">Genres:</div>
+                    <div style="color: var(--text-secondary);" class="mb-1">${t.genres}:</div>
                     <div style="color: var(--text-primary);" class="line-clamp-2">${genres}</div>
                 </div>
                 
                 ${themes ? `
                     <div class="text-xs">
-                        <div style="color: var(--text-secondary);" class="mb-1">Themes:</div>
+                        <div style="color: var(--text-secondary);" class="mb-1">${t.themes}:</div>
                         <div style="color: var(--text-primary);" class="line-clamp-2">${themes}</div>
                     </div>
                 ` : ''}
@@ -509,7 +589,7 @@ function createAnimeCard(anime) {
                     <p class="synopsis-text text-xs leading-relaxed ${showReadMore ? 'line-clamp-3' : ''}" style="color: var(--text-secondary);" data-full-text="${synopsis.replace(/"/g, '&quot;')}">${synopsisPreview}</p>
                     ${showReadMore ? 
                         `<button class="read-more-btn text-xs font-medium mt-1 hover:underline" style="color: var(--text-primary);">
-                            Read more
+                            ${t.readMore}
                         </button>` 
                         : ''}
                 </div>
@@ -518,7 +598,7 @@ function createAnimeCard(anime) {
             ${anime.url ? 
                 `<a href="${anime.url}" target="_blank" 
                     class="block text-center text-xs bg-gray-900 text-white py-2 rounded hover:bg-gray-800 transition-colors mt-2">
-                    View on MyAnimeList →
+                    ${isChinese ? t.viewOnBangumi : t.viewOnMAL}
                 </a>` : 
                 ''}
         </div>
@@ -535,11 +615,11 @@ function createAnimeCard(anime) {
             if (isExpanded) {
                 synopsisText.classList.remove('line-clamp-3');
                 synopsisText.textContent = synopsis;
-                readMoreBtn.textContent = 'Read less';
+                readMoreBtn.textContent = t.readLess;
             } else {
                 synopsisText.classList.add('line-clamp-3');
                 synopsisText.textContent = synopsisPreview;
-                readMoreBtn.textContent = 'Read more';
+                readMoreBtn.textContent = t.readMore;
             }
         });
     }
@@ -671,11 +751,11 @@ function setupFilterModeToggle() {
         if (mode === 'OR') {
             orBtn.className = 'filter-mode-btn px-3 py-1 text-sm font-medium bg-gray-900 text-white';
             andBtn.className = 'filter-mode-btn px-3 py-1 text-sm font-medium bg-white text-gray-700 hover:bg-gray-50';
-            descriptionEl.innerHTML = 'Show anime with <strong>any</strong> of the selected genres';
+            descriptionEl.innerHTML = t.filterModeOr;
         } else {
             orBtn.className = 'filter-mode-btn px-3 py-1 text-sm font-medium bg-white text-gray-700 hover:bg-gray-50';
             andBtn.className = 'filter-mode-btn px-3 py-1 text-sm font-medium bg-gray-900 text-white';
-            descriptionEl.innerHTML = 'Show anime with <strong>all</strong> of the selected genres';
+            descriptionEl.innerHTML = t.filterModeAnd;
         }
         
         // Re-render anime with new filter mode

@@ -10,11 +10,85 @@ import matplotlib.dates as mdates
 from datetime import datetime
 from collections import defaultdict, Counter
 import statistics
+import argparse
+
+# Parse arguments
+parser = argparse.ArgumentParser(description='Generate anime data visualizations.')
+parser.add_argument('--lang', type=str, default='en', choices=['en', 'cn'], help='Language for data generation (en/cn)')
+args = parser.parse_args()
 
 # Configuration
-DATA_DIR = pathlib.Path("data")
-ASSETS_DIR = pathlib.Path("assets")
+if args.lang == 'cn':
+    DATA_DIR = pathlib.Path("data_cn")
+    ASSETS_DIR = pathlib.Path("assets_cn")
+    print(f"Mode: Chinese (Data: {DATA_DIR}, Assets: {ASSETS_DIR})")
+else:
+    DATA_DIR = pathlib.Path("data")
+    ASSETS_DIR = pathlib.Path("assets")
+    print(f"Mode: English (Data: {DATA_DIR}, Assets: {ASSETS_DIR})")
+
 ASSETS_DIR.mkdir(exist_ok=True)
+
+# Localization
+TRANSLATIONS = {
+    'en': {
+        'rating_trend_title': 'Average Anime Rating Trend Over Time',
+        'year': 'Year',
+        'avg_rating': 'Average Rating',
+        'seasonal_avg': 'Seasonal Average',
+        'moving_avg': 'Moving Average (4 seasons)',
+        'overall_avg': 'Overall Average',
+        'genre_trend_title': 'Top 10 Genre Trends Over Time',
+        'count': 'Number of Anime',
+        'production_title': 'Anime Production Volume by Year',
+        'total_anime': 'Total Anime',
+        'seasonal_rating_title': 'Seasonal Patterns: Average Rating',
+        'seasonal_volume_title': 'Seasonal Patterns: Production Volume',
+        'season': 'Season',
+        'studio_scatter_title': 'Studio Performance: Quantity vs Quality',
+        'studio_count': 'Number of Anime Produced',
+        'studio_rank_qty': 'Top 15 Studios by Production Volume',
+        'studio_rank_qual': 'Top 15 Studios by Average Quality',
+        'studio_scatter_filtered': 'Studio Performance (Filtered: 5+ Anime)',
+        'popularity_rank': 'Popularity Rank',
+        'score': 'Score',
+        'rating_vs_popularity_title': 'Anime Rating vs Popularity',
+    },
+    'cn': {
+        'rating_trend_title': '动画平均评分趋势',
+        'year': '年份',
+        'avg_rating': '平均评分',
+        'seasonal_avg': '季度平均',
+        'moving_avg': '移动平均 (4季度)',
+        'overall_avg': '总平均',
+        'genre_trend_title': '十大类型趋势随时间变化',
+        'count': '动画数量',
+        'production_title': '年度动画产量',
+        'total_anime': '动画总数',
+        'seasonal_rating_title': '季节性模式：平均评分',
+        'seasonal_volume_title': '季节性模式：产量',
+        'season': '季节',
+        'studio_scatter_title': '制作公司表现：产量 vs 质量',
+        'studio_count': '制作动画数量',
+        'studio_rank_qty': '产量前 15 名制作公司',
+        'studio_rank_qual': '质量前 15 名制作公司',
+        'studio_scatter_filtered': '制作公司表现 (过滤: 5+ 动画)',
+        'popularity_rank': '热度排名',
+        'score': '评分',
+        'rating_vs_popularity_title': '动画评分 vs 热度',
+    }
+}
+
+TEXT = TRANSLATIONS[args.lang]
+
+# Font Configuration for Chinese
+if args.lang == 'cn':
+    # Try Chinese fonts in order of preference
+    plt.rcParams['font.sans-serif'] = ['Microsoft YaHei', 'SimHei', 'STSong', 'STHeiti', 'Arial Unicode MS', 'sans-serif']
+    plt.rcParams['axes.unicode_minus'] = False  # Fix minus sign display
+    # Increase font rendering quality
+    plt.rcParams['font.serif'] = ['Microsoft YaHei', 'SimHei', 'STSong', 'serif']
+    plt.rcParams['mathtext.fontset'] = 'stix'  # Better math rendering
 
 def load_all_anime_data():
     """Load all anime data from JSON files."""
@@ -45,12 +119,20 @@ def generate_rating_trend():
     with open(manifest_path, 'r', encoding='utf-8') as f:
         manifest = json.load(f)
     
+    # Get current year for filtering
+    current_year = datetime.now().year
+    
     # Collect rating data
     season_data = []
     
     for entry in manifest:
         year = entry['year']
         season = entry['season']
+        
+        # Filter to only include 2006 to current year
+        if year < 2006 or year > current_year:
+            continue
+        
         season_file = DATA_DIR / str(year) / f"{season}.json"
         
         if not season_file.exists():
@@ -82,6 +164,10 @@ def generate_rating_trend():
     dates = [d['date'] for d in season_data]
     ratings = [d['avg_rating'] for d in season_data]
     
+    if not ratings:
+        print("No rating data found. Skipping rating trend generation.")
+        return
+
     # Calculate moving average
     window_size = 4
     moving_avg = []
@@ -96,13 +182,13 @@ def generate_rating_trend():
     fig, ax = plt.subplots(figsize=(14, 6))
     
     ax.plot(dates, ratings, marker='o', linewidth=2, markersize=4, 
-            label='Seasonal Average', color='#1f2937')
+            label=TEXT['seasonal_avg'], color='#1f2937')
     ax.plot(dates, moving_avg, linewidth=3, linestyle='--', 
-            label='Moving Average (4 seasons)', color='#ef4444')
+            label=TEXT['moving_avg'], color='#ef4444')
     
-    ax.set_title('Average Anime Rating Trend Over Time', fontsize=16, fontweight='bold', pad=20)
-    ax.set_xlabel('Year', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['rating_trend_title'], fontsize=16, fontweight='bold', pad=20)
+    ax.set_xlabel(TEXT['year'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
     ax.grid(True, alpha=0.3, linestyle='--')
     ax.legend(loc='best', fontsize=10)
     
@@ -119,7 +205,7 @@ def generate_rating_trend():
     # Overall average line
     overall_avg = statistics.mean(ratings)
     ax.axhline(y=overall_avg, color='#10b981', linestyle=':', linewidth=2, 
-               label=f'Overall Average: {overall_avg:.2f}', alpha=0.6)
+               label=f"{TEXT['overall_avg']}: {overall_avg:.2f}", alpha=0.6)
     ax.legend(loc='best', fontsize=10)
     
     plt.tight_layout()
@@ -197,9 +283,9 @@ def generate_genre_trends():
         ax.plot(years, genre_data[genre], marker='o', label=genre, 
                 linewidth=2.5, markersize=5, color=colors[i])
     
-    ax.set_xlabel('Year', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Number of Anime', fontsize=12, fontweight='bold')
-    ax.set_title('Genre Trends Over Time (Top 10 Genres)', fontsize=14, fontweight='bold', pad=20)
+    ax.set_xlabel(TEXT['year'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['count'], fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['genre_trend_title'], fontsize=14, fontweight='bold', pad=20)
     ax.legend(loc='upper left', fontsize=10, framealpha=0.9)
     ax.grid(True, alpha=0.3, linestyle='--')
     
@@ -253,9 +339,9 @@ def generate_production_volume():
     # Plot 1: Volume
     ax1.plot(years, counts, marker='o', linewidth=2.5, markersize=6, color='#2563eb')
     ax1.fill_between(years, counts, alpha=0.3, color='#2563eb')
-    ax1.set_xlabel('Year', fontsize=12, fontweight='bold')
-    ax1.set_ylabel('Number of TV Anime', fontsize=12, fontweight='bold')
-    ax1.set_title('Anime Production Volume Over Time', fontsize=14, fontweight='bold', pad=20)
+    ax1.set_xlabel(TEXT['year'], fontsize=12, fontweight='bold')
+    ax1.set_ylabel(TEXT['count'], fontsize=12, fontweight='bold')
+    ax1.set_title(TEXT['production_title'], fontsize=14, fontweight='bold', pad=20)
     ax1.grid(True, alpha=0.3, linestyle='--')
     ax1.set_xticks(years)
     ax1.set_xticklabels([str(y) for y in years], rotation=45, ha='right')
@@ -345,9 +431,9 @@ def generate_genre_trends_percentage():
         ax.plot(years, genre_percentages[genre], marker='o', label=genre, 
                 linewidth=2.5, markersize=5, color=colors[i])
     
-    ax.set_xlabel('Year', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Percentage of Total Anime (%)', fontsize=12, fontweight='bold')
-    ax.set_title('Genre Trends Over Time - Percentage (Top 10 Genres)', fontsize=14, fontweight='bold', pad=20)
+    ax.set_xlabel(TEXT['year'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['genre_trend_title'] + ' (%)', fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['genre_trend_title'] + ' (%)', fontsize=14, fontweight='bold', pad=20)
     ax.legend(loc='upper left', fontsize=10, framealpha=0.9)
     ax.grid(True, alpha=0.3, linestyle='--')
     
@@ -432,9 +518,9 @@ def generate_genre_trends_by_season():
         ax.plot(range(len(season_labels)), genre_data[genre], marker='o', label=genre, 
                 linewidth=2, markersize=3, color=colors[i])
     
-    ax.set_xlabel('Year', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Number of Anime', fontsize=12, fontweight='bold')
-    ax.set_title('Genre Trends by Season (Top 10 Genres)', fontsize=14, fontweight='bold', pad=20)
+    ax.set_xlabel(TEXT['year'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['count'], fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['genre_trend_title'] + ' (' + TEXT['season'] + ')', fontsize=14, fontweight='bold', pad=20)
     ax.legend(loc='upper left', fontsize=10, framealpha=0.9)
     ax.grid(True, alpha=0.3, linestyle='--')
     
@@ -606,8 +692,8 @@ def generate_seasonal_patterns():
     
     # Chart 1: Ratings
     bars1 = ax1.bar(seasons_display, avg_scores, color=colors, alpha=0.8)
-    ax1.set_ylabel('Average Rating', fontsize=12, fontweight='bold')
-    ax1.set_title('Average Anime Rating by Season', fontsize=14, fontweight='bold', pad=20)
+    ax1.set_ylabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
+    ax1.set_title(TEXT['seasonal_rating_title'], fontsize=14, fontweight='bold', pad=20)
     ax1.set_ylim(6.0, 7.5)
     ax1.grid(True, alpha=0.3, linestyle='--', axis='y')
     
@@ -620,8 +706,8 @@ def generate_seasonal_patterns():
     # Chart 2: Counts
     counts = [season_counts[s] for s in season_order]
     bars2 = ax2.bar(seasons_display, counts, color=colors, alpha=0.8)
-    ax2.set_ylabel('Total Anime Count', fontsize=12, fontweight='bold')
-    ax2.set_title('Total Anime Production by Season', fontsize=14, fontweight='bold', pad=20)
+    ax2.set_ylabel(TEXT['count'], fontsize=12, fontweight='bold')
+    ax2.set_title(TEXT['seasonal_volume_title'], fontsize=14, fontweight='bold', pad=20)
     ax2.grid(True, alpha=0.3, linestyle='--', axis='y')
     
     for bar, count in zip(bars2, counts):
@@ -707,8 +793,8 @@ def generate_studio_rankings():
     bars1 = ax1.barh(range(len(studios_qty)), counts_qty, color='#3b82f6')
     ax1.set_yticks(range(len(studios_qty)))
     ax1.set_yticklabels(studios_qty, fontsize=9)
-    ax1.set_xlabel('Number of Anime Produced', fontsize=12, fontweight='bold')
-    ax1.set_title('Top 15 Studios by Production Volume', fontsize=14, fontweight='bold', pad=20)
+    ax1.set_xlabel(TEXT['studio_count'], fontsize=12, fontweight='bold')
+    ax1.set_title(TEXT['studio_rank_qty'], fontsize=14, fontweight='bold', pad=20)
     ax1.grid(True, alpha=0.3, linestyle='--', axis='x')
     ax1.invert_yaxis()
     
@@ -723,8 +809,8 @@ def generate_studio_rankings():
     bars2 = ax2.barh(range(len(studios_qual)), scores_qual, color='#10b981')
     ax2.set_yticks(range(len(studios_qual)))
     ax2.set_yticklabels(studios_qual, fontsize=9)
-    ax2.set_xlabel('Average Rating', fontsize=12, fontweight='bold')
-    ax2.set_title('Top 15 Studios by Average Quality', fontsize=14, fontweight='bold', pad=20)
+    ax2.set_xlabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
+    ax2.set_title(TEXT['studio_rank_qual'], fontsize=14, fontweight='bold', pad=20)
     ax2.set_xlim(6.0, 8.5)
     ax2.grid(True, alpha=0.3, linestyle='--', axis='x')
     ax2.invert_yaxis()
@@ -811,6 +897,10 @@ def generate_studio_scatter():
     anime_counts = [s['anime_count'] for s in studio_stats]
     studio_names = [s['studio'] for s in studio_stats]
     
+    if not studio_stats:
+        print("  [SKIP] No studio data found for scatter plot")
+        return
+
     # Calculate means
     mean_rating = statistics.mean(avg_ratings)
     mean_count = statistics.mean(anime_counts)
@@ -847,9 +937,9 @@ def generate_studio_scatter():
                        fontsize=8, alpha=0.7, fontweight='bold')
     
     # Labels and title
-    ax.set_xlabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Number of Anime Produced', fontsize=12, fontweight='bold')
-    ax.set_title('Studio Performance: Average Rating vs Production Volume', fontsize=14, fontweight='bold', pad=20)
+    ax.set_xlabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['studio_count'], fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['studio_scatter_title'], fontsize=14, fontweight='bold', pad=20)
     ax.grid(True, alpha=0.3, linestyle='--')
     ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
     
@@ -932,6 +1022,10 @@ def generate_studio_scatter_filtered():
     anime_counts = [s['anime_count'] for s in studio_stats]
     studio_names = [s['studio'] for s in studio_stats]
     
+    if not studio_stats:
+        print("  [SKIP] No studio data found for filtered scatter plot")
+        return
+
     # Calculate means
     mean_rating = statistics.mean(avg_ratings)
     mean_count = statistics.mean(anime_counts)
@@ -965,17 +1059,7 @@ def generate_studio_scatter_filtered():
             ax.annotate(stats['studio'], 
                        xy=(stats['avg_rating'], stats['anime_count']),
                        xytext=(5, 5), textcoords='offset points',
-                       fontsize=8, alpha=0.7, fontweight='bold')
-    
-    # Labels and title
-    ax.set_xlabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Number of Anime Produced', fontsize=12, fontweight='bold')
-    ax.set_title('Studio Performance: Average Rating vs Production Volume (5+ Anime)', fontsize=14, fontweight='bold', pad=20)
-    ax.grid(True, alpha=0.3, linestyle='--')
-    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
-    
-    plt.tight_layout()
-    
+                       fontsize=8, alpha=0.7, fontweight='bold') 
     # Save PNG
     output_path = ASSETS_DIR / "studio-scatter-filtered.png"
     plt.savefig(output_path, dpi=150, bbox_inches='tight')
@@ -1095,9 +1179,9 @@ def generate_studio_scatter_filtered_10():
                        fontsize=8, alpha=0.7, fontweight='bold')
     
     # Labels and title
-    ax.set_xlabel('Average Rating (MAL Score)', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Number of Anime Produced', fontsize=12, fontweight='bold')
-    ax.set_title('Studio Performance: Average Rating vs Production Volume (10+ Anime)', fontsize=14, fontweight='bold', pad=20)
+    ax.set_xlabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['studio_count'], fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['studio_scatter_filtered'] + ' (10+)', fontsize=14, fontweight='bold', pad=20)
     ax.grid(True, alpha=0.3, linestyle='--')
     ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
     
@@ -1203,18 +1287,7 @@ def generate_anime_rating_popularity_scatter():
         ax.annotate(anime['title'], 
                    xy=(anime['score'], anime['popularity']),
                    xytext=(5, 5), textcoords='offset points',
-                   fontsize=7, alpha=0.7, fontweight='bold')
-    
-    # Labels and title
-    ax.set_xlabel('Rating (MAL Score)', fontsize=12, fontweight='bold')
-    ax.set_ylabel('Popularity Rank (lower = more popular)', fontsize=12, fontweight='bold')
-    ax.set_title('Anime Rating vs Popularity', fontsize=14, fontweight='bold', pad=20)
-    ax.grid(True, alpha=0.3, linestyle='--')
-    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
-    
-    # Invert y-axis so more popular anime (lower rank) appear at top
-    ax.invert_yaxis()
-    
+                   fontsize=7, alpha=0.7, fontweight='bold') 
     plt.tight_layout()
     
     # Save PNG
@@ -1337,7 +1410,13 @@ def main():
     generate_studio_scatter()
     generate_studio_scatter_filtered()
     generate_studio_scatter_filtered_10()
-    generate_anime_rating_popularity_scatter()
+    
+    # Popularity scatter only for English version (Bangumi doesn't have popularity data)
+    if args.lang == 'en':
+        generate_anime_rating_popularity_scatter()
+    else:
+        print("\n[SKIP] Anime rating vs popularity scatter (not supported for Bangumi data)")
+    
     generate_collection_stats()
     
     print("\n" + "=" * 60)

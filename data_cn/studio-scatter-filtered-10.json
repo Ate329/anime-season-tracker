@@ -1,0 +1,32 @@
+{
+  "studios": [
+    {
+      "name": "J.C.STAFF",
+      "avg_rating": 6.9,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "Warner Bros. Animation",
+      "avg_rating": 6.07,
+      "anime_count": 12,
+      "rated_count": 12
+    },
+    {
+      "name": "Production I.G",
+      "avg_rating": 6.57,
+      "anime_count": 11,
+      "rated_count": 11
+    },
+    {
+      "name": "SHAFT",
+      "avg_rating": 7.56,
+      "anime_count": 13,
+      "rated_count": 13
+    }
+  ],
+  "mean_rating": 6.78,
+  "mean_count": 11.8,
+  "total_studios": 4,
+  "min_anime_count": 10
+}

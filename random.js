@@ -8,12 +8,44 @@ let allAnimePromise = null; // Track in-flight data fetch
 let showHentai = false; // Default OFF
 let hideNotRated = true; // Default ON
 
+// Language detection
+const isChinese = document.documentElement.lang === 'zh';
+const dataDir = isChinese ? 'data_cn' : 'data';
+
+// Localization strings
+const t = {
+    noGenres: isChinese ? '暂无类型' : 'No genres available',
+    all: isChinese ? '全部' : 'All',
+    showAny: isChinese ? '显示包含<strong>任意</strong>选中类型的动画' : 'Show anime with <strong>any</strong> of the selected genres',
+    showAll: isChinese ? '显示包含<strong>所有</strong>选中类型的动画' : 'Show anime with <strong>all</strong> of the selected genres',
+    noAnimeFound: isChinese ? '未找到动画' : 'No anime found',
+    adjustFilters: isChinese ? '请尝试调整筛选条件' : 'Try adjusting your filters',
+    errorOccurred: isChinese ? '发生错误' : 'An error occurred',
+    tryAgain: isChinese ? '请重试' : 'Please try again',
+    loadError: isChinese ? '加载数据失败，请刷新页面。' : 'Failed to load anime data. Please refresh the page.',
+    genreLoadError: isChinese ? '加载类型失败，请刷新页面。' : 'Failed to load genres. Please refresh the page.',
+    users: isChinese ? '用户' : 'users',
+    popularity: isChinese ? '热度' : 'Popularity',
+    studio: isChinese ? '工作室' : 'Studio',
+    source: isChinese ? '来源' : 'Source',
+    genres: isChinese ? '类型' : 'Genres',
+    themes: isChinese ? '题材' : 'Themes',
+    synopsis: isChinese ? '简介' : 'Synopsis',
+    noSynopsis: isChinese ? '暂无简介。' : 'No synopsis available.',
+    viewOn: isChinese ? '在 Bangumi 上查看 →' : 'View on MyAnimeList →',
+    winter: isChinese ? '冬' : 'Winter',
+    spring: isChinese ? '春' : 'Spring',
+    summer: isChinese ? '夏' : 'Summer',
+    fall: isChinese ? '秋' : 'Fall',
+    eps: isChinese ? '话' : 'eps'
+};
+
 /**
  * Load the manifest of all available seasons
  */
 async function loadManifest() {
     try {
-        const response = await fetch('data/manifest.json');
+        const response = await fetch(`${dataDir}/manifest.json`);
         if (!response.ok) {
             throw new Error('Failed to load manifest');
         }
@@ -21,7 +53,7 @@ async function loadManifest() {
         await loadGenres();
     } catch (error) {
         console.error('Error loading manifest:', error);
-        showError('Failed to load anime data. Please refresh the page.');
+        showError(t.loadError);
     }
 }
 
@@ -45,7 +77,7 @@ async function loadAllAnimeData() {
         try {
             const allAnimePromises = manifest.map(async (item) => {
                 try {
-                    const response = await fetch(`data/${item.year}/${item.season}.json`);
+                    const response = await fetch(`${dataDir}/${item.year}/${item.season}.json`);
                     if (!response.ok) return [];
                     const seasonData = await response.json();
                     return seasonData.map(anime => ({
@@ -98,7 +130,7 @@ async function loadGenres() {
         renderGenreFilters();
     } catch (error) {
         console.error('Error loading genres:', error);
-        showError('Failed to load genres. Please refresh the page.');
+        showError(t.genreLoadError);
     }
 }
 
@@ -108,46 +140,46 @@ async function loadGenres() {
 function renderGenreFilters() {
     const container = document.getElementById('genre-filters');
     container.innerHTML = '';
-    
+
     if (allGenres.length === 0) {
         const p = document.createElement('p');
         p.className = 'text-sm w-full text-center text-gray-400 italic';
-        p.textContent = 'No genres available';
+        p.textContent = t.noGenres;
         container.appendChild(p);
         return;
     }
-    
+
     // Common button class
     const btnClass = 'px-3 py-1.5 rounded-md text-xs font-bold uppercase tracking-wide transition-colors border';
-    
+
     // Add "All" button
     const allBtn = document.createElement('button');
     const isAllSelected = selectedGenres.size === 0;
-    
+
     if (isAllSelected) {
         allBtn.className = `${btnClass} bg-gray-900 text-white border-gray-900`;
     } else {
         allBtn.className = `${btnClass} bg-gray-100 text-gray-600 border-transparent hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600`;
     }
-    
-    allBtn.textContent = 'All';
+
+    allBtn.textContent = t.all;
     allBtn.addEventListener('click', () => {
         selectedGenres.clear();
         renderGenreFilters();
     });
     container.appendChild(allBtn);
-    
+
     // Add genre buttons
     allGenres.forEach(genre => {
         const btn = document.createElement('button');
         const isSelected = selectedGenres.has(genre);
-        
+
         if (isSelected) {
             btn.className = `${btnClass} bg-gray-900 text-white border-gray-900`;
         } else {
             btn.className = `${btnClass} bg-gray-100 text-gray-600 border-transparent hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600`;
         }
-        
+
         btn.textContent = genre;
         btn.addEventListener('click', () => {
             if (isSelected) {
@@ -168,26 +200,26 @@ function setupFilterModeToggle() {
     const orBtn = document.getElementById('filter-mode-or');
     const andBtn = document.getElementById('filter-mode-and');
     const descriptionEl = document.getElementById('filter-mode-description');
-    
+
     const updateFilterMode = (mode) => {
         filterMode = mode;
-        
+
         // Button Classes
         const activeClass = 'px-3 py-1 text-xs font-bold bg-gray-900 text-white transition-colors';
         const inactiveClass = 'px-3 py-1 text-xs font-bold bg-gray-100 text-gray-600 hover:bg-gray-200 dark:bg-gray-700 dark:text-gray-300 dark:hover:bg-gray-600 transition-colors';
-        
+
         // Update button styles
         if (mode === 'OR') {
             orBtn.className = activeClass;
             andBtn.className = inactiveClass;
-            if (descriptionEl) descriptionEl.innerHTML = 'Show anime with <strong>any</strong> of the selected genres';
+            if (descriptionEl) descriptionEl.innerHTML = t.showAny;
         } else {
             orBtn.className = inactiveClass;
             andBtn.className = activeClass;
-            if (descriptionEl) descriptionEl.innerHTML = 'Show anime with <strong>all</strong> of the selected genres';
+            if (descriptionEl) descriptionEl.innerHTML = t.showAll;
         }
     };
-    
+
     orBtn.addEventListener('click', () => updateFilterMode('OR'));
     andBtn.addEventListener('click', () => updateFilterMode('AND'));
 
@@ -289,10 +321,10 @@ async function getRandomAnime() {
             // Genre filter (multi-select with OR/AND mode)
             if (selectedGenres.size > 0) {
                 const animeGenres = anime.genres || [];
-                
+
                 if (filterMode === 'OR') {
                     // OR mode: anime must have at least one of the selected genres
-                    const hasAnyGenre = Array.from(selectedGenres).some(genre => 
+                    const hasAnyGenre = Array.from(selectedGenres).some(genre =>
                         animeGenres.includes(genre)
                     );
                     if (!hasAnyGenre) {
@@ -300,7 +332,7 @@ async function getRandomAnime() {
                     }
                 } else {
                     // AND mode: anime must have all of the selected genres
-                    const hasAllGenres = Array.from(selectedGenres).every(genre => 
+                    const hasAllGenres = Array.from(selectedGenres).every(genre =>
                         animeGenres.includes(genre)
                     );
                     if (!hasAllGenres) {
@@ -328,8 +360,8 @@ async function getRandomAnime() {
             resultCard.innerHTML = `
                 <div class="text-center py-16 rounded-xl" style="background-color: var(--bg-secondary); border: 2px solid var(--border-color);">
                     <div class="text-6xl mb-4">😞</div>
-                    <p class="text-2xl font-bold mb-2" style="color: var(--text-primary);">No anime found</p>
-                    <p class="text-lg" style="color: var(--text-secondary);">Try adjusting your filters</p>
+                    <p class="text-2xl font-bold mb-2" style="color: var(--text-primary);">${t.noAnimeFound}</p>
+                    <p class="text-lg" style="color: var(--text-secondary);">${t.adjustFilters}</p>
                 </div>
             `;
             return;
@@ -348,8 +380,8 @@ async function getRandomAnime() {
         resultCard.innerHTML = `
             <div class="text-center py-16 rounded-xl" style="background-color: var(--bg-secondary); border: 2px solid var(--border-color);">
                 <div class="text-6xl mb-4">❌</div>
-                <p class="text-2xl font-bold" style="color: var(--text-primary);">An error occurred</p>
-                <p class="text-lg mt-2" style="color: var(--text-secondary);">Please try again</p>
+                <p class="text-2xl font-bold" style="color: var(--text-primary);">${t.errorOccurred}</p>
+                <p class="text-lg mt-2" style="color: var(--text-secondary);">${t.tryAgain}</p>
             </div>
         `;
     }
@@ -360,7 +392,7 @@ async function getRandomAnime() {
  */
 function displayRandomAnime(anime) {
     const resultCard = document.getElementById('random-result-card');
-    
+
     // Create a larger, featured anime card
     const card = document.createElement('div');
     card.className = 'rounded-xl overflow-hidden shadow-2xl animate-fade-in';
@@ -369,16 +401,16 @@ function displayRandomAnime(anime) {
 
     const englishTitle = anime.title_english && anime.title_english !== anime.title ? anime.title_english : '';
     const score = anime.score ? `⭐ ${anime.score.toFixed(2)}` : 'N/A';
-    const scoredBy = anime.scored_by ? `(${anime.scored_by.toLocaleString()} users)` : '';
+    const scoredBy = anime.scored_by ? `(${anime.scored_by.toLocaleString()} ${t.users})` : '';
     const popularity = anime.popularity ? `#${anime.popularity.toLocaleString()}` : 'N/A';
-    const studios = anime.studios && anime.studios.length > 0 
+    const studios = anime.studios && anime.studios.length > 0
         ? (typeof anime.studios[0] === 'string'
             ? anime.studios.join(', ')
             : anime.studios.map(s => s.name).join(', '))
         : 'Unknown';
     const source = anime.source || 'Unknown';
-    const airedFrom = anime.aired?.from 
-        ? new Date(anime.aired.from).getFullYear() 
+    const airedFrom = anime.aired?.from
+        ? new Date(anime.aired.from).getFullYear()
         : 'TBA';
     const genres = anime.genres && anime.genres.length > 0
         ? anime.genres.join(', ')
@@ -386,7 +418,10 @@ function displayRandomAnime(anime) {
     const themes = anime.themes && anime.themes.length > 0
         ? anime.themes.join(', ')
         : '';
-    const synopsis = anime.synopsis || 'No synopsis available.';
+    const synopsis = anime.synopsis || t.noSynopsis;
+
+    // Localize season name
+    const seasonName = t[anime.season] || capitalize(anime.season);
 
     card.innerHTML = `
         <div class="flex flex-row">
@@ -397,18 +432,19 @@ function displayRandomAnime(anime) {
                     class="w-full h-full object-cover"
                     onerror="this.src='https://via.placeholder.com/400x600?text=No+Image'">
                 <div class="absolute top-4 left-4 bg-gray-900 text-white px-3 py-2 rounded-lg text-sm font-medium">
-                    ${capitalize(anime.season)} ${anime.year}
+                    ${seasonName} ${anime.year}
                 </div>
                 ${anime.episodes ?
-                    `<div class="absolute top-4 right-4 bg-black/75 text-white px-3 py-2 rounded-lg text-sm font-medium">
-                        ${anime.episodes} eps
+            `<div class="absolute top-4 right-4 bg-black/75 text-white px-3 py-2 rounded-lg text-sm font-medium">
+                        ${anime.episodes} ${t.eps}
                     </div>` :
-                    ''}
+            ''}
             </div>
             <div class="w-2/3 p-6 flex flex-col">
                 <div class="mb-4">
                     <h2 class="text-2xl lg:text-3xl font-bold" style="color: var(--text-primary);">${anime.title}</h2>
-                    ${englishTitle ? `<p class="text-md lg:text-lg" style="color: var(--text-secondary);">${englishTitle}</p>` : ''}
+                    ${isChinese && anime.title_japanese ? `<p class="text-md lg:text-lg" style="color: var(--text-secondary);">${anime.title_japanese}</p>` : ''}
+                    ${!isChinese && englishTitle ? `<p class="text-md lg:text-lg" style="color: var(--text-secondary);">${englishTitle}</p>` : ''}
                 </div>
 
                 <div class="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-4 text-center">
@@ -418,38 +454,38 @@ function displayRandomAnime(anime) {
                     </div>
                     <div>
                         <div class="text-xl lg:text-2xl font-bold" style="color: var(--text-primary);">${popularity}</div>
-                        <div class="text-sm mt-1" style="color: var(--text-secondary);">Popularity</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">${t.popularity}</div>
                     </div>
                     <div>
                         <div class="text-xl lg:text-2xl font-bold" style="color: var(--text-primary);">${studios}</div>
-                        <div class="text-sm mt-1" style="color: var(--text-secondary);">Studio</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">${t.studio}</div>
                     </div>
                     <div>
                         <div class="text-xl lg:text-2xl font-bold" style="color: var(--text-primary);">${source}</div>
-                        <div class="text-sm mt-1" style="color: var(--text-secondary);">Source</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">${t.source}</div>
                     </div>
                 </div>
 
                 <div class="mb-4">
-                    <h3 class="font-semibold mb-1" style="color: var(--text-primary);">Genres</h3>
+                    <h3 class="font-semibold mb-1" style="color: var(--text-primary);">${t.genres}</h3>
                     <p class="text-sm" style="color: var(--text-secondary);">${genres}</p>
-                    ${themes ? 
-                        `<h3 class="font-semibold mt-3 mb-1" style="color: var(--text-primary);">Themes</h3>
-                        <p class="text-sm" style="color: var(--text-secondary);">${themes}</p>` : 
-                        ''}
+                    ${themes ?
+            `<h3 class="font-semibold mt-3 mb-1" style="color: var(--text-primary);">${t.themes}</h3>
+                        <p class="text-sm" style="color: var(--text-secondary);">${themes}</p>` :
+            ''}
                 </div>
 
                 <div class="flex-grow min-h-0">
-                    <h3 class="font-semibold mb-1" style="color: var(--text-primary);">Synopsis</h3>
+                    <h3 class="font-semibold mb-1" style="color: var(--text-primary);">${t.synopsis}</h3>
                     <p class="leading-relaxed text-sm" style="color: var(--text-primary); max-height: 200px; overflow-y: auto;">${synopsis}</p>
                 </div>
 
                 ${anime.url ?
-                    `<a href="${anime.url}" target="_blank"
+            `<a href="${anime.url}" target="_blank"
                         class="block text-center mt-4 py-2.5 rounded-lg font-medium transition-colors hover:opacity-80" style="background-color: var(--bg-tertiary); color: var(--text-primary); border: 1px solid var(--border-color);">
-                        View on MyAnimeList →
+                        ${t.viewOn}
                     </a>` :
-                    ''}
+            ''}
             </div>
         </div>
     `;
@@ -481,7 +517,7 @@ function showError(message) {
     resultCard.innerHTML = `
         <div class="text-center py-16 rounded-xl" style="background-color: var(--bg-secondary); border: 2px solid var(--border-color);">
             <div class="text-6xl mb-4">❌</div>
-            <p class="text-2xl font-bold mb-2" style="color: var(--text-primary);">Error</p>
+            <p class="text-2xl font-bold mb-2" style="color: var(--text-primary);">${t.errorOccurred}</p>
             <p class="text-lg" style="color: var(--text-secondary);">${message}</p>
         </div>
     `;

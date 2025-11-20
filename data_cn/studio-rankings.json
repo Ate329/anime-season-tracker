@@ -1,0 +1,105 @@
+{
+  "by_quantity": [
+    {
+      "studio": "SHAFT",
+      "count": 13,
+      "avg_score": 7.56
+    },
+    {
+      "studio": "Warner Bros. Animation",
+      "count": 12,
+      "avg_score": 6.07
+    },
+    {
+      "studio": "J.C.STAFF",
+      "count": 11,
+      "avg_score": 6.9
+    },
+    {
+      "studio": "Production I.G",
+      "count": 11,
+      "avg_score": 6.57
+    },
+    {
+      "studio": "MADHOUSE",
+      "count": 9,
+      "avg_score": 7.0
+    },
+    {
+      "studio": "GONZO",
+      "count": 8,
+      "avg_score": 6.81
+    },
+    {
+      "studio": "A-1 Pictures",
+      "count": 7,
+      "avg_score": 7.26
+    },
+    {
+      "studio": "\u30b5\u30f3\u30b8\u30b2\u30f3",
+      "count": 7,
+      "avg_score": 6.46
+    },
+    {
+      "studio": "P.A.WORKS",
+      "count": 6,
+      "avg_score": 6.65
+    },
+    {
+      "studio": "\u30c8\u30e0\u30b9\u30fb\u30a8\u30f3\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8",
+      "count": 6,
+      "avg_score": 6.45
+    },
+    {
+      "studio": "\u4eac\u90fd\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
+      "count": 6,
+      "avg_score": 8.0
+    },
+    {
+      "studio": "\u30b9\u30bf\u30b8\u30aa\u96f2\u96c0",
+      "count": 5,
+      "avg_score": 5.88
+    },
+    {
+      "studio": "SILVER LINK.",
+      "count": 5,
+      "avg_score": 7.08
+    },
+    {
+      "studio": "\u304e\u3083\u308d\u3063\u3077",
+      "count": 5,
+      "avg_score": 6.4
+    },
+    {
+      "studio": "NHK\u3001NHK\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
+      "count": 5,
+      "avg_score": 6.4
+    }
+  ],
+  "by_quality": [
+    {
+      "studio": "SHAFT",
+      "avg_score": 7.56,
+      "count": 13,
+      "rated_count": 13
+    },
+    {
+      "studio": "J.C.STAFF",
+      "avg_score": 6.9,
+      "count": 11,
+      "rated_count": 11
+    },
+    {
+      "studio": "Production I.G",
+      "avg_score": 6.57,
+      "count": 11,
+      "rated_count": 11
+    },
+    {
+      "studio": "Warner Bros. Animation",
+      "avg_score": 6.07,
+      "count": 12,
+      "rated_count": 12
+    }
+  ]
+}

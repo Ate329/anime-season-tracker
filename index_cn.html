@@ -1,0 +1,667 @@
+<!DOCTYPE html>
+<html lang="zh">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>番组季节追踪</title>
+    <meta name="description" content="按季节发现和追踪 TV 动画。浏览 2006 年以来的动画，支持智能过滤和自动更新。">
+
+    <!-- Favicon -->
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🎬</text></svg>">
+
+    <!-- Tailwind CSS CDN -->
+    <script src="https://cdn.tailwindcss.com"></script>
+
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
+        }
+
+        /* Dark Mode Variables and Styles */
+        :root {
+            --bg-primary: #f9fafb;
+            --bg-secondary: #ffffff;
+            --bg-tertiary: #f3f4f6;
+            --text-primary: #111827;
+            --text-secondary: #6b7280;
+            --border-color: #e5e7eb;
+            --border-color-light: #d1d5db;
+            --shadow: rgba(0, 0, 0, 0.1);
+            --shadow-hover: rgba(0, 0, 0, 0.15);
+            --gradient-from: #dbeafe;
+            --gradient-to: #fae8ff;
+        }
+
+        .dark {
+            --bg-primary: #111827;
+            --bg-secondary: #1f2937;
+            --bg-tertiary: #374151;
+            --text-primary: #f9fafb;
+            --text-secondary: #d1d5db;
+            --border-color: #374151;
+            --border-color-light: #4b5563;
+            --shadow: rgba(0, 0, 0, 0.3);
+            --shadow-hover: rgba(0, 0, 0, 0.5);
+            --gradient-from: #1e3a8a;
+            --gradient-to: #581c87;
+        }
+
+        body {
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+        }
+
+        /* Dark Mode Toggle Button */
+        .theme-toggle {
+            position: relative;
+            width: 60px;
+            height: 30px;
+            background-color: var(--bg-tertiary);
+            border-radius: 15px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+            border: 2px solid var(--border-color);
+        }
+
+        .theme-toggle-slider {
+            position: absolute;
+            top: 2px;
+            left: 2px;
+            width: 22px;
+            height: 22px;
+            background-color: var(--bg-secondary);
+            border-radius: 50%;
+            transition: transform 0.3s ease;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 12px;
+        }
+
+        .dark .theme-toggle-slider {
+            transform: translateX(30px);
+        }
+
+        /* Keyframe Animations */
+        @keyframes fadeIn {
+            from {
+                opacity: 0;
+                transform: translateY(20px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes slideInUp {
+            from {
+                opacity: 0;
+                transform: translateY(30px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
+        }
+
+        @keyframes scaleIn {
+            from {
+                opacity: 0;
+                transform: scale(0.95);
+            }
+
+            to {
+                opacity: 1;
+                transform: scale(1);
+            }
+        }
+
+        @keyframes shimmer {
+            0% {
+                background-position: -1000px 0;
+            }
+
+            100% {
+                background-position: 1000px 0;
+            }
+        }
+
+        @keyframes pulse {
+
+            0%,
+            100% {
+                opacity: 1;
+            }
+
+            50% {
+                opacity: 0.5;
+            }
+        }
+
+        /* Animation Classes */
+        .animate-fade-in {
+            animation: fadeIn 0.6s ease-out;
+        }
+
+        .animate-slide-in-up {
+            animation: slideInUp 0.6s ease-out;
+        }
+
+        .animate-scale-in {
+            animation: scaleIn 0.5s ease-out;
+        }
+
+        /* Season Button Animations */
+        .season-btn {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            position: relative;
+            overflow: hidden;
+        }
+
+        .season-btn::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: -100%;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.4), transparent);
+            transition: left 0.6s;
+        }
+
+        .season-btn:hover::before {
+            left: 100%;
+        }
+
+        .season-btn:hover {
+            transform: translateY(-3px) scale(1.02);
+            box-shadow: 0 6px 20px rgba(0, 0, 0, 0.12);
+            background-color: #f9fafb;
+            border-color: #d1d5db;
+        }
+
+        .season-btn:active {
+            transform: translateY(-1px) scale(0.98);
+        }
+
+        .season-btn.active {
+            background-color: #1f2937;
+            color: white;
+        }
+
+        /* Anime Card Animations */
+        .anime-card {
+            transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+            animation: fadeIn 0.5s ease-out;
+            animation-fill-mode: both;
+        }
+
+        .anime-card:hover {
+            transform: translateY(-8px) scale(1.02);
+            box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+        }
+
+        /* Staggered animation for cards */
+        .anime-card:nth-child(1) {
+            animation-delay: 0.05s;
+        }
+
+        .anime-card:nth-child(2) {
+            animation-delay: 0.1s;
+        }
+
+        .anime-card:nth-child(3) {
+            animation-delay: 0.15s;
+        }
+
+        .anime-card:nth-child(4) {
+            animation-delay: 0.2s;
+        }
+
+        .anime-card:nth-child(5) {
+            animation-delay: 0.25s;
+        }
+
+        .anime-card:nth-child(6) {
+            animation-delay: 0.05s;
+        }
+
+        .anime-card:nth-child(7) {
+            animation-delay: 0.1s;
+        }
+
+        .anime-card:nth-child(8) {
+            animation-delay: 0.15s;
+        }
+
+        .anime-card:nth-child(9) {
+            animation-delay: 0.2s;
+        }
+
+        .anime-card:nth-child(10) {
+            animation-delay: 0.25s;
+        }
+
+        /* Genre Button Animations */
+        .genre-btn {
+            transition: all 0.25s cubic-bezier(0.4, 0, 0.2, 1);
+        }
+
+        .genre-btn:hover {
+            transform: translateY(-2px) scale(1.05);
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+
+        .genre-btn:active {
+            transform: scale(0.95);
+        }
+
+        /* Filter Mode Button Animations */
+        .filter-mode-btn {
+            transition: all 0.3s ease;
+        }
+
+        .filter-mode-btn:hover {
+            transform: scale(1.05);
+        }
+
+        /* Toggle Switch Animation */
+        input[type="checkbox"] {
+            transition: all 0.3s ease;
+        }
+
+        /* Loading Spinner */
+        .loading-spinner {
+            animation: spin 1s linear infinite;
+        }
+
+        @keyframes spin {
+            from {
+                transform: rotate(0deg);
+            }
+
+            to {
+                transform: rotate(360deg);
+            }
+        }
+
+        /* Year Section Animation */
+        .year-section {
+            animation: slideInUp 0.6s ease-out;
+            animation-fill-mode: both;
+        }
+
+        .year-section:nth-child(1) {
+            animation-delay: 0.1s;
+        }
+
+        .year-section:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        .year-section:nth-child(3) {
+            animation-delay: 0.3s;
+        }
+
+        /* Page Transition */
+        #home-page,
+        #anime-page {
+            animation: fadeIn 0.4s ease-out;
+        }
+
+        /* Button Hover Glow */
+        button:focus {
+            outline: none;
+        }
+
+        a:focus {
+            outline: 2px solid #3b82f6;
+            outline-offset: 2px;
+        }
+
+        /* Image Load Animation */
+        .anime-card img {
+            transition: transform 0.5s ease, opacity 0.3s ease;
+        }
+
+        .anime-card:hover img {
+            transform: scale(1.05);
+        }
+
+        /* Read More Button Animation */
+        .read-more-btn {
+            transition: all 0.2s ease;
+        }
+
+        .read-more-btn:hover {
+            transform: translateX(2px);
+        }
+
+        /* Back Button Animation */
+        #back-button {
+            transition: all 0.3s ease;
+        }
+
+        #back-button:hover {
+            transform: translateX(-4px);
+        }
+
+        /* Smooth scroll */
+        html {
+            scroll-behavior: smooth;
+        }
+    </style>
+</head>
+
+<body style="background-color: var(--bg-primary);" class="min-h-screen flex flex-col">
+    <!-- Header -->
+    <header style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);"
+        class="animate-fade-in">
+        <div class="max-w-7xl mx-auto px-4 py-6">
+            <div class="flex items-center justify-between">
+                <div>
+                    <h1 class="text-3xl font-bold" style="color: var(--text-primary);">🎬 番组季节追踪</h1>
+                    <p class="mt-1" style="color: var(--text-secondary);">按季节发现和追踪 TV 动画 • 每周自动更新</p>
+                </div>
+                <nav class="flex gap-3 items-center">
+                    <a href="index_cn.html"
+                        class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                        首页
+                    </a>
+                    <a href="data_cn.html" class="px-4 py-2 rounded-lg transition-colors"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                        数据
+                    </a>
+                    <a href="random_cn.html" class="px-4 py-2 rounded-lg transition-colors"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                        随机
+                    </a>
+                    <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
+                        <div class="theme-toggle-slider">
+                            <span id="theme-icon">☀️</span>
+                        </div>
+                    </div>
+                </nav>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <main class="container mx-auto px-4 py-8 flex-grow">
+        <!-- Search Bar -->
+        <div id="search-section" class="mb-8 animate-fade-in">
+            <div class="max-w-4xl mx-auto">
+                <div class="relative">
+                    <input type="text" id="search-input" placeholder="按标题搜索动画..."
+                        class="w-full px-6 py-3 pr-12 rounded-xl text-base focus:outline-none focus:ring-2 focus:ring-blue-500 transition-all"
+                        style="background-color: var(--bg-secondary); color: var(--text-primary); border: 2px solid var(--border-color);">
+                    <button id="search-button"
+                        class="absolute right-3 top-1/2 transform -translate-y-1/2 p-2 rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors">
+                        <svg class="w-6 h-6" style="color: var(--text-secondary);" fill="none" stroke="currentColor"
+                            viewBox="0 0 24 24">
+                            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"></path>
+                        </svg>
+                    </button>
+                </div>
+                <p class="text-sm mt-2 text-center" style="color: var(--text-secondary);">按回车或点击搜索图标在所有年份和季节中查找</p>
+            </div>
+        </div>
+
+        <!-- Search Results -->
+        <div id="search-results-section" class="hidden mb-8 animate-fade-in">
+            <div class="rounded-lg p-6 mb-6"
+                style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+                <div class="flex items-center justify-between mb-4">
+                    <h2 class="text-2xl font-bold" style="color: var(--text-primary);">
+                        搜索结果: <span id="search-query-display" class="text-blue-600"></span>
+                    </h2>
+                    <button id="clear-search"
+                        class="px-4 py-2 text-sm font-medium rounded-lg hover:bg-gray-100 dark:hover:bg-gray-700 transition-colors"
+                        style="color: var(--text-primary);">
+                        清除搜索
+                    </button>
+                </div>
+                <p id="search-results-count" class="text-sm mb-4" style="color: var(--text-secondary);"></p>
+                <div id="search-loading" class="hidden text-center py-8">
+                    <div
+                        class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-gray-200 border-t-gray-900">
+                    </div>
+                    <p class="mt-4" style="color: var(--text-secondary);">正在搜索...</p>
+                </div>
+            </div>
+            <div id="search-results-grid"
+                class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4"></div>
+        </div>
+
+        <!-- Collection Stats -->
+        <div id="collection-stats" class="mb-8 animate-fade-in">
+            <div class="rounded-xl p-6"
+                style="background: linear-gradient(to right, var(--gradient-from), var(--gradient-to)); border: 1px solid var(--border-color);">
+                <h2 class="text-2xl font-bold mb-4 flex items-center" style="color: var(--text-primary);">
+                    <span class="text-3xl mr-2">📊</span>
+                    收藏统计
+                </h2>
+                <div class="grid grid-cols-2 md:grid-cols-4 lg:grid-cols-5 gap-4">
+                    <!-- Total Anime -->
+                    <div class="rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow"
+                        style="background-color: var(--bg-secondary);">
+                        <div class="text-3xl font-bold text-blue-600" id="stat-total-anime">-</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">动画总数</div>
+                    </div>
+
+                    <!-- Year Range -->
+                    <div class="rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow"
+                        style="background-color: var(--bg-secondary);">
+                        <div class="text-2xl font-bold text-green-600" id="stat-year-range">-</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">年份范围</div>
+                    </div>
+
+                    <!-- Total Seasons -->
+                    <div class="rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow"
+                        style="background-color: var(--bg-secondary);">
+                        <div class="text-3xl font-bold text-purple-600" id="stat-seasons">-</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">季度</div>
+                    </div>
+
+                    <!-- Studios -->
+                    <div class="rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow"
+                        style="background-color: var(--bg-secondary);">
+                        <div class="text-3xl font-bold text-orange-600" id="stat-studios">-</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">制作公司</div>
+                    </div>
+
+                    <!-- Average Rating -->
+                    <div class="rounded-lg p-4 shadow-sm hover:shadow-md transition-shadow"
+                        style="background-color: var(--bg-secondary);">
+                        <div class="text-3xl font-bold text-yellow-600" id="stat-avg-rating">-</div>
+                        <div class="text-sm mt-1" style="color: var(--text-secondary);">平均评分</div>
+                    </div>
+                </div>
+                <div class="mt-4 text-sm flex items-center justify-between" style="color: var(--text-secondary);">
+                    <span>
+                        <span class="font-medium" id="stat-rated-percent">-</span> 的动画有评分
+                    </span>
+                    <span>最后更新: <span class="font-medium" id="stat-last-updated">-</span></span>
+                </div>
+            </div>
+        </div>
+
+        <!-- Home Page -->
+        <div id="home-page">
+            <!-- Years Container -->
+            <div id="years-container" class="space-y-8">
+                <!-- Year sections will be dynamically inserted here -->
+            </div>
+        </div>
+
+        <!-- Anime Page -->
+        <div id="anime-page" class="hidden">
+            <!-- Back Button -->
+            <div class="mb-6">
+                <button id="back-button" class="flex items-center transition-colors"
+                    style="color: var(--text-secondary);">
+                    <svg class="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                        <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7">
+                        </path>
+                    </svg>
+                    返回首页
+                </button>
+            </div>
+
+            <!-- Page Header -->
+            <div class="rounded-lg p-6 mb-6 animate-slide-in-up"
+                style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+                <h2 id="anime-page-title" class="text-2xl font-bold mb-4" style="color: var(--text-primary);"></h2>
+
+                <!-- Content Filters -->
+                <div class="space-y-4 mb-6 pb-6" style="border-bottom: 1px solid var(--border-color);">
+                    <!-- Adult Content Filter -->
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h3 class="font-semibold" style="color: var(--text-primary);">成人内容过滤</h3>
+                            <p class="text-sm" style="color: var(--text-secondary);">显示包含成人/成熟内容的动画</p>
+                        </div>
+                        <label class="relative inline-flex items-center cursor-pointer">
+                            <input type="checkbox" id="hentai-toggle-page" class="sr-only peer">
+                            <div
+                                class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-gray-900">
+                            </div>
+                        </label>
+                    </div>
+
+                    <!-- Hide Not Rated Filter -->
+                    <div class="flex items-center justify-between">
+                        <div>
+                            <h3 class="font-semibold" style="color: var(--text-primary);">隐藏未评分</h3>
+                            <p class="text-sm" style="color: var(--text-secondary);">隐藏没有评分的动画</p>
+                        </div>
+                        <label class="relative inline-flex items-center cursor-pointer">
+                            <input type="checkbox" id="not-rated-toggle" class="sr-only peer">
+                            <div
+                                class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-gray-900">
+                            </div>
+                        </label>
+                    </div>
+
+                </div>
+
+                <!-- Genre Filters -->
+                <div>
+                    <div class="flex items-center justify-between mb-3">
+                        <h3 class="font-semibold" style="color: var(--text-primary);">按类型过滤</h3>
+                        <div class="flex items-center gap-2">
+                            <span class="text-sm" style="color: var(--text-secondary);">过滤模式:</span>
+                            <div class="flex rounded-lg overflow-hidden" style="border: 1px solid var(--border-color);">
+                                <button id="filter-mode-or"
+                                    class="filter-mode-btn px-3 py-1 text-sm font-medium bg-gray-900 text-white">
+                                    或 (OR)
+                                </button>
+                                <button id="filter-mode-and" class="filter-mode-btn px-3 py-1 text-sm font-medium"
+                                    style="background-color: var(--bg-secondary); color: var(--text-primary);">
+                                    且 (AND)
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <p id="filter-mode-description" class="text-xs mb-3" style="color: var(--text-secondary);">
+                        显示包含 <strong>任意</strong> 选定类型的动画
+                    </p>
+                    <div id="genre-filters" class="flex flex-wrap gap-2">
+                        <!-- Genre buttons will be inserted here -->
+                    </div>
+                </div>
+            </div>
+
+            <!-- Sort Control -->
+            <div class="mb-6 rounded-lg p-4 animate-slide-in-up"
+                style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+                <div class="flex items-center justify-between flex-wrap gap-3">
+                    <div>
+                        <h3 class="font-semibold" style="color: var(--text-primary);">排序</h3>
+                        <p class="text-xs" style="color: var(--text-secondary);">更改动画显示顺序</p>
+                    </div>
+                    <div class="flex gap-2">
+                        <button id="sort-default"
+                            class="sort-btn px-4 py-2 text-sm font-medium rounded-lg bg-gray-900 text-white transition-colors">
+                            默认
+                        </button>
+                        <button id="sort-rating"
+                            class="sort-btn px-4 py-2 text-sm font-medium rounded-lg transition-colors"
+                            style="background-color: var(--bg-tertiary); color: var(--text-primary); border: 1px solid var(--border-color);">
+                            评分 ⭐
+                        </button>
+                        <button id="sort-popularity"
+                            class="sort-btn px-4 py-2 text-sm font-medium rounded-lg transition-colors"
+                            style="background-color: var(--bg-tertiary); color: var(--text-primary); border: 1px solid var(--border-color);">
+                            热度 🔥
+                        </button>
+                    </div>
+                </div>
+            </div>
+
+            <!-- Loading -->
+            <div id="anime-loading" class="hidden text-center py-12 rounded-lg"
+                style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+                <div
+                    class="inline-block animate-spin rounded-full h-12 w-12 border-4 border-gray-200 border-t-gray-900">
+                </div>
+                <p class="mt-4" style="color: var(--text-secondary);">正在加载动画...</p>
+            </div>
+
+            <!-- Anime Grid -->
+            <div id="anime-grid"
+                class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
+                <!-- Anime cards will be inserted here -->
+            </div>
+        </div>
+    </main>
+
+    <!-- Footer -->
+    <footer class="mt-auto" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
+        <div class="max-w-7xl mx-auto px-4 py-6 text-center text-sm" style="color: var(--text-secondary);">
+            <p>数据来自 <a href="https://bgm.tv/" target="_blank" class="hover:underline"
+                    style="color: var(--text-primary);">Bangumi 番组计划</a> • 自动更新</p>
+            <p class="mt-2" style="color: var(--text-secondary); font-size: 0.75rem;">
+                ⚠️ 中文版和英文版使用不同数据源（Bangumi vs MyAnimeList），数据可能存在差异
+            </p>
+            <p class="mt-2">
+                本项目开源 •
+                <a href="https://github.com/Ate329/anime-season-tracker" target="_blank" class="hover:underline"
+                    style="color: var(--text-primary);">在 GitHub 上查看</a>
+            </p>
+            <p class="mt-1">Created by <a href="https://github.com/Ate329" target="_blank" class="hover:underline"
+                    style="color: var(--text-primary);">@Ate329</a></p>
+        </div>
+    </footer>
+
+    <!-- JavaScript -->
+    <script src="app.js?v=4"></script>
+    <script>
+        // Dark mode toggle functionality
+        const themeToggle = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+        const html = document.documentElement;
+
+        // Check for saved theme preference or default to light mode
+        const currentTheme = localStorage.getItem('theme') || 'light';
+        if (currentTheme === 'dark') {
+            html.classList.add('dark');
+            themeIcon.textContent = '🌙';
+        }
+
+        themeToggle.addEventListener('click', () => {
+            html.classList.toggle('dark');
+            const isDark = html.classList.contains('dark');
+            themeIcon.textContent = isDark ? '🌙' : '☀️';
+            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+        });
+    </script>
+</body>
+
+</html>
