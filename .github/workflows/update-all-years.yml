@@ -36,8 +36,14 @@ jobs:
       - name: Clean duplicates from data
         run: python fetch_anime.py --clean
       
-      - name: Generate all graphs
-        run: python generate_graphs.py
+      - name: Run Bangumi fetch script (all history)
+        run: python fetch_bangumi.py --all-history
+      
+      - name: Generate all graphs (English)
+        run: python generate_graphs.py --lang en
+      
+      - name: Generate all graphs (Chinese)
+        run: python generate_graphs.py --lang cn
       
       - name: Export CSV data
         run: python export_csv.py
@@ -45,8 +51,8 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Data: Quarterly full update for all years + graphs + CSV exports'
-          file_pattern: 'data/* assets/*'
+          commit_message: 'Data: Quarterly full update for all years + graphs + CSV exports (EN/CN)'
+          file_pattern: 'data/* data_cn/* assets/* assets_cn/*'
           commit_user_name: 'Anime Tracker Bot'
           commit_user_email: 'bot@anime-tracker.local'
           commit_author: 'Anime Tracker Bot <bot@anime-tracker.local>'

@@ -43,9 +43,20 @@ jobs:
       - name: Clean duplicates from data
         run: python fetch_anime.py --clean
       
-      - name: Generate all graphs
+      - name: Run Bangumi fetch script for year ${{ inputs.year }} (all seasons)
+        run: |
+          python fetch_bangumi.py --year=${{ inputs.year }} --season=winter
+          python fetch_bangumi.py --year=${{ inputs.year }} --season=spring
+          python fetch_bangumi.py --year=${{ inputs.year }} --season=summer
+          python fetch_bangumi.py --year=${{ inputs.year }} --season=fall
+      
+      - name: Generate all graphs (English)
         if: ${{ inputs.regenerate_graphs }}
-        run: python generate_graphs.py
+        run: python generate_graphs.py --lang en
+      
+      - name: Generate all graphs (Chinese)
+        if: ${{ inputs.regenerate_graphs }}
+        run: python generate_graphs.py --lang cn
       
       - name: Export CSV data
         if: ${{ inputs.regenerate_graphs }}
@@ -54,8 +65,8 @@ jobs:
       - name: Commit and push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          commit_message: 'Data: Manual update for year ${{ inputs.year }}'
-          file_pattern: 'data/* assets/*'
+          commit_message: 'Data: Manual update for year ${{ inputs.year }} (EN/CN)'
+          file_pattern: 'data/* data_cn/* assets/* assets_cn/*'
           commit_user_name: 'Anime Tracker Bot'
           commit_user_email: 'bot@anime-tracker.local'
           commit_author: 'Anime Tracker Bot <bot@anime-tracker.local>'
