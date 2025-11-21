@@ -119,6 +119,67 @@ def process_bangumi_data(bangumi_data):
     # Tags as genres
     tags = bangumi_data.get('tags', [])
     
+    # Genre Mapping and Normalization
+    GENRE_MAP = {
+        # Sci-Fi
+        "SF": "科幻", "Science Fiction": "科幻", "科幻": "科幻",
+        
+        # Action
+        "战斗": "动作", "Action": "动作", "动作": "动作", "格斗": "动作",
+        
+        # Romance
+        "恋爱": "爱情", "Romance": "爱情", "爱情": "爱情", "纯爱": "爱情",
+        
+        # Comedy
+        "搞笑": "喜剧", "Comedy": "喜剧", "喜剧": "喜剧",
+        
+        # Slice of Life
+        "日常": "日常", "Slice of Life": "日常",
+        
+        # School
+        "校园": "校园", "School": "校园", "学园": "校园",
+        
+        # Fantasy
+        "奇幻": "奇幻", "Fantasy": "奇幻", "异世界": "奇幻", "魔法": "奇幻", "穿越": "奇幻",
+        
+        # Adventure
+        "冒险": "冒险", "Adventure": "冒险",
+        
+        # Mystery/Thriller/Horror
+        "悬疑": "悬疑", "Mystery": "悬疑", "推理": "悬疑",
+        "惊悚": "惊悚", "Thriller": "惊悚",
+        "恐怖": "恐怖", "Horror": "恐怖",
+        
+        # Sports
+        "运动": "运动", "Sports": "运动", "竞技": "运动",
+        
+        # Mecha
+        "机战": "机战", "Mecha": "机战", "萝卜": "机战",
+        
+        # Music
+        "音乐": "音乐", "Music": "音乐", "歌舞": "音乐", "偶像": "音乐",
+        
+        # Healing/Depressing
+        "治愈": "治愈", "治愈系": "治愈",
+        "致郁": "致郁", "致郁系": "致郁",
+        
+        # Relationships
+        "百合": "百合", "GL": "百合",
+        "耽美": "耽美", "BL": "耽美",
+        "后宫": "后宫",
+        "逆后宫": "逆后宫",
+        
+        # Other
+        "励志": "励志",
+        "历史": "历史",
+        "战争": "战争",
+        "犯罪": "犯罪",
+        "职场": "职场",
+        "萌": "萌系", "萌系": "萌系"
+    }
+    
+    VALID_GENRES = set(GENRE_MAP.values())
+
     # Filter out non-genre tags
     # Common non-genre tags in Bangumi: years, months, formats, countries, generic terms
     excluded_tags = {
@@ -176,7 +237,16 @@ def process_bangumi_data(bangumi_data):
             return False
         return True
 
-    genres = [tag['name'] for tag in tags if tag.get('count', 0) > 0 and is_valid_genre(tag['name'])]
+    # Process genres: Map -> Filter -> Deduplicate
+    raw_genres = [tag['name'] for tag in tags if tag.get('count', 0) > 0 and is_valid_genre(tag['name'])]
+    
+    mapped_genres = set()
+    for g in raw_genres:
+        if g in GENRE_MAP:
+            mapped_genres.add(GENRE_MAP[g])
+            
+    # Convert back to list and sort
+    genres = sorted(list(mapped_genres))
     
     # Construct object matching app.js expectations
     return {

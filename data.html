@@ -1,25 +1,27 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Interesting Data - Anime Season Tracker</title>
     <meta name="description" content="Explore interesting anime data, trends, and statistics.">
-    
+
     <!-- Favicon -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📊</text></svg>">
-    
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📊</text></svg>">
+
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    
+
     <!-- Chart.js CDN -->
     <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.0/dist/chart.umd.min.js"></script>
-    
+
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
         }
-        
+
         /* Dark Mode Variables and Styles */
         :root {
             --bg-primary: #f9fafb;
@@ -32,7 +34,7 @@
             --shadow: rgba(0, 0, 0, 0.1);
             --shadow-hover: rgba(0, 0, 0, 0.15);
         }
-        
+
         .dark {
             --bg-primary: #111827;
             --bg-secondary: #1f2937;
@@ -44,12 +46,12 @@
             --shadow: rgba(0, 0, 0, 0.3);
             --shadow-hover: rgba(0, 0, 0, 0.5);
         }
-        
+
         body {
             background-color: var(--bg-primary);
             color: var(--text-primary);
         }
-        
+
         /* Dark Mode Toggle Button */
         .theme-toggle {
             position: relative;
@@ -61,7 +63,7 @@
             transition: background-color 0.3s ease;
             border: 2px solid var(--border-color);
         }
-        
+
         .theme-toggle-slider {
             position: absolute;
             top: 2px;
@@ -76,51 +78,69 @@
             justify-content: center;
             font-size: 12px;
         }
-        
+
         .dark .theme-toggle-slider {
             transform: translateX(30px);
         }
-        
+
         /* Keyframe Animations */
         @keyframes fadeIn {
             from {
                 opacity: 0;
                 transform: translateY(20px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
             }
         }
-        
+
         .animate-fade-in {
             animation: fadeIn 0.6s ease-out;
         }
-        
+
         /* Smooth scroll */
         html {
             scroll-behavior: smooth;
         }
     </style>
 </head>
+
 <body class="min-h-screen flex flex-col" style="background-color: var(--bg-primary);">
     <!-- Header -->
-    <header class="sticky top-0 z-50 shadow-md animate-fade-in" style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);">
+    <header class="sticky top-0 z-50 shadow-md animate-fade-in"
+        style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);">
         <div class="max-w-7xl mx-auto px-4 py-6">
             <div class="flex items-center justify-between">
                 <div>
                     <h1 class="text-3xl font-bold" style="color: var(--text-primary);">📊 Interesting Data</h1>
-                    <p class="mt-1" style="color: var(--text-secondary);">Explore anime trends, statistics, and insights</p>
+                    <p class="mt-1" style="color: var(--text-secondary);">Explore anime trends, statistics, and insights
+                    </p>
                 </div>
                 <nav class="flex gap-3 items-center">
-                    <a href="index.html" class="px-4 py-2 rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                    <a href="index.html" class="px-4 py-2 rounded-lg transition-colors"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         Home
                     </a>
-                    <a href="data.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                    <a href="data.html"
+                        class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
                         Data
                     </a>
-                    <a href="random.html" class="px-4 py-2 rounded-lg transition-colors" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
-                        Random
+                    <a href="random_cn.html" class="px-4 py-2 rounded-lg transition-colors"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                        随机
+                    </a>
+                    <a href="data.html"
+                        class="px-4 py-2 rounded-lg transition-colors hover:bg-gray-200 dark:hover:bg-gray-700"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);" title="切换到英文">
+                        English
+                    </a>
+                    <a href="data_cn.html"
+                        class="px-4 py-2 rounded-lg transition-colors hover:bg-gray-200 dark:hover:bg-gray-700"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);"
+                        title="Switch to Chinese">
+                        中文
                     </a>
                     <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
                         <div class="theme-toggle-slider">
@@ -135,9 +155,11 @@
     <!-- Main Content -->
     <main class="container mx-auto px-4 py-8 flex-grow">
         <!-- Rating Trend Graph -->
-        <div id="rating-trend-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <div id="rating-trend-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">📈 Average Rating Trend</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">How anime ratings have evolved over time (based on MyAnimeList scores)</p>
+            <p class="mb-6" style="color: var(--text-secondary);">How anime ratings have evolved over time (based on
+                MyAnimeList scores)</p>
             <div class="relative" style="height: 400px;">
                 <canvas id="rating-trend-chart"></canvas>
             </div>
@@ -158,9 +180,11 @@
         </div>
 
         <!-- Anime Rating vs Popularity Scatter Plot -->
-        <div id="anime-rating-popularity-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <div id="anime-rating-popularity-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">⭐ Anime Rating vs Popularity</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Relationship between anime ratings and popularity - discover hidden gems and mainstream hits (Logarithmic Scale)</p>
+            <p class="mb-6" style="color: var(--text-secondary);">Relationship between anime ratings and popularity -
+                discover hidden gems and mainstream hits (Logarithmic Scale)</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="anime-rating-popularity-chart"></canvas>
             </div>
@@ -181,9 +205,12 @@
         </div>
 
         <!-- Genre Trends -->
-        <div id="genre-trends-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By Year)</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Top 10 most popular anime genres - comparing absolute numbers vs. percentage of production</p>
+        <div id="genre-trends-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By Year)
+            </h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Top 10 most popular anime genres - comparing absolute
+                numbers vs. percentage of production</p>
             <div class="grid grid-cols-1 gap-6">
                 <div>
                     <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Absolute Numbers</h3>
@@ -192,7 +219,8 @@
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Percentage of Total Production</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Percentage of Total
+                        Production</h3>
                     <div class="relative" style="height: 450px;">
                         <canvas id="genre-trends-percentage-chart"></canvas>
                     </div>
@@ -201,9 +229,12 @@
         </div>
 
         <!-- Genre Trends By Season -->
-        <div id="genre-trends-by-season-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By Season)</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Top 10 most popular anime genres tracked seasonally for more granular trend analysis</p>
+        <div id="genre-trends-by-season-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 Genre Trends Over Time (By
+                Season)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Top 10 most popular anime genres tracked seasonally
+                for more granular trend analysis</p>
             <div class="grid grid-cols-1 gap-6">
                 <div>
                     <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Absolute Numbers</h3>
@@ -212,7 +243,8 @@
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Percentage of Total Production</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Percentage of Total
+                        Production</h3>
                     <div class="relative" style="height: 450px;">
                         <canvas id="genre-trends-by-season-percentage-chart"></canvas>
                     </div>
@@ -221,9 +253,11 @@
         </div>
 
         <!-- Production Volume -->
-        <div id="production-volume-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <div id="production-volume-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">📈 Anime Production Volume</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Total number of TV anime produced each year - tracking industry growth</p>
+            <p class="mb-6" style="color: var(--text-secondary);">Total number of TV anime produced each year - tracking
+                industry growth</p>
             <div class="relative" style="height: 400px;">
                 <canvas id="production-volume-chart"></canvas>
             </div>
@@ -244,9 +278,11 @@
         </div>
 
         <!-- Seasonal Patterns -->
-        <div id="seasonal-patterns-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <div id="seasonal-patterns-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🗓️ Seasonal Patterns</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Which season historically has the best ratings and most anime?</p>
+            <p class="mb-6" style="color: var(--text-secondary);">Which season historically has the best ratings and
+                most anime?</p>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <div class="relative" style="height: 350px;">
                     <canvas id="seasonal-ratings-chart"></canvas>
@@ -268,18 +304,22 @@
         </div>
 
         <!-- Studio Rankings -->
-        <div id="studio-rankings-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <div id="studio-rankings-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🏢 Studio Rankings</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Compare the most prolific studios vs. the highest quality studios</p>
+            <p class="mb-6" style="color: var(--text-secondary);">Compare the most prolific studios vs. the highest
+                quality studios</p>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <div>
-                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Top 15 by Production Volume</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Top 15 by Production
+                        Volume</h3>
                     <div class="relative" style="height: 500px;">
                         <canvas id="studio-quantity-chart"></canvas>
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Top 15 by Average Quality</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">Top 15 by Average Quality
+                    </h3>
                     <div class="relative" style="height: 500px;">
                         <canvas id="studio-quality-chart"></canvas>
                     </div>
@@ -288,9 +328,11 @@
         </div>
 
         <!-- Studio Scatter Plot -->
-        <div id="studio-scatter-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+        <div id="studio-scatter-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Studio average rating vs. production volume - with mean reference lines</p>
+            <p class="mb-6" style="color: var(--text-secondary);">Studio average rating vs. production volume - with
+                mean reference lines</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-chart"></canvas>
             </div>
@@ -311,15 +353,19 @@
         </div>
 
         <!-- Studio Scatter Plot (Filtered 5+ Anime) -->
-        <div id="studio-scatter-filtered-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis (5+ Anime)</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Filtered view showing only studios with 5 or more anime - with mean reference lines</p>
+        <div id="studio-scatter-filtered-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis (5+
+                Anime)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Filtered view showing only studios with 5 or more
+                anime - with mean reference lines</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-filtered-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered">-</div>
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered">-
+                    </div>
                     <div class="text-sm" style="color: var(--text-secondary);">Total Studios (5+ Anime)</div>
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
@@ -334,15 +380,19 @@
         </div>
 
         <!-- Studio Scatter Plot (Filtered 10+ Anime) -->
-        <div id="studio-scatter-filtered-10-section" class="rounded-lg p-6 mb-8 animate-fade-in" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis (10+ Anime)</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">Focused view showing only major studios with 10 or more anime - with mean reference lines</p>
+        <div id="studio-scatter-filtered-10-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 Studio Performance Analysis (10+
+                Anime)</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">Focused view showing only major studios with 10 or
+                more anime - with mean reference lines</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-filtered-10-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered-10">-</div>
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered-10">-
+                    </div>
                     <div class="text-sm" style="color: var(--text-secondary);">Total Studios (10+ Anime)</div>
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
@@ -357,13 +407,17 @@
         </div>
 
     </main>
-    
+
     <!-- Footer -->
-    <footer class="mt-auto py-6" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
+    <footer class="mt-auto py-6"
+        style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
         <div class="max-w-7xl mx-auto px-4 text-center">
             <div class="text-center text-sm" style="color: var(--text-secondary);">
-                <p>Data sourced from <a href="https://jikan.moe/" class="hover:underline" style="color: var(--text-primary);" target="_blank" rel="noopener">Jikan API</a> (MyAnimeList)</p>
-                <p class="mt-2">Made with ❤️ for anime fans • <a href="https://github.com" class="hover:underline" style="color: var(--text-primary);">View on GitHub</a></p>
+                <p>Data sourced from <a href="https://jikan.moe/" class="hover:underline"
+                        style="color: var(--text-primary);" target="_blank" rel="noopener">Jikan API</a> (MyAnimeList)
+                </p>
+                <p class="mt-2">Made with ❤️ for anime fans • <a href="https://github.com" class="hover:underline"
+                        style="color: var(--text-primary);">View on GitHub</a></p>
             </div>
         </div>
     </footer>
@@ -374,20 +428,20 @@
         const themeToggle = document.getElementById('theme-toggle');
         const themeIcon = document.getElementById('theme-icon');
         const html = document.documentElement;
-        
+
         // Check for saved theme preference or default to light mode
         const currentTheme = localStorage.getItem('theme') || 'light';
         if (currentTheme === 'dark') {
             html.classList.add('dark');
             themeIcon.textContent = '🌙';
         }
-        
+
         themeToggle.addEventListener('click', () => {
             html.classList.toggle('dark');
             const isDark = html.classList.contains('dark');
             themeIcon.textContent = isDark ? '🌙' : '☀️';
             localStorage.setItem('theme', isDark ? 'dark' : 'light');
-            
+
             // Reload all charts with new theme colors
             reloadAllCharts();
         });
@@ -426,16 +480,16 @@
          */
         function configureChartDefaults() {
             const colors = getChartColors();
-            
+
             // Set Chart.js defaults
             Chart.defaults.color = colors.textColor;
             Chart.defaults.borderColor = colors.gridColor;
             Chart.defaults.backgroundColor = colors.gridColor;
-            
+
             // Plugin defaults
             Chart.defaults.plugins.legend.labels.color = colors.textColor;
             Chart.defaults.plugins.tooltip.backgroundColor = colors.tooltipBg;
-            
+
             // Scale defaults
             Chart.defaults.scale.grid.color = colors.gridColor;
             Chart.defaults.scale.ticks.color = colors.textColor;
@@ -451,7 +505,7 @@
         function reloadAllCharts() {
             // Reconfigure Chart.js defaults for new theme
             configureChartDefaults();
-            
+
             // Destroy existing charts
             if (ratingTrendChart) ratingTrendChart.destroy();
             if (genreTrendsChart) genreTrendsChart.destroy();
@@ -467,7 +521,7 @@
             if (studioScatterFilteredChart) studioScatterFilteredChart.destroy();
             if (studioScatterFiltered10Chart) studioScatterFiltered10Chart.destroy();
             if (animeRatingPopularityChart) animeRatingPopularityChart.destroy();
-            
+
             // Reload all data and recreate charts
             loadAllData();
         }
@@ -483,25 +537,25 @@
                     document.getElementById('rating-trend-section').style.display = 'none';
                     return;
                 }
-                
+
                 const trendData = await response.json();
-                
+
                 // Update statistics
                 document.getElementById('overall-avg').textContent = trendData.overall_average.toFixed(2);
                 document.getElementById('highest-avg').textContent = trendData.max_rating.toFixed(2);
                 document.getElementById('lowest-avg').textContent = trendData.min_rating.toFixed(2);
-                
+
                 // Create the chart
                 const ctx = document.getElementById('rating-trend-chart').getContext('2d');
                 const colors = getChartColors();
-                
+
                 // Calculate moving average
                 const movingAvg = calculateMovingAverage(trendData.ratings, 4);
-                
+
                 const isDark = document.documentElement.classList.contains('dark');
                 const mainLineColor = isDark ? '#60a5fa' : '#1f2937';
                 const mainLineBg = isDark ? 'rgba(96, 165, 250, 0.1)' : 'rgba(31, 41, 55, 0.1)';
-                
+
                 ratingTrendChart = new Chart(ctx, {
                     type: 'line',
                     data: {
@@ -558,7 +612,7 @@
                                     size: 13
                                 },
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         let label = context.dataset.label || '';
                                         if (label) {
                                             label += ': ';
@@ -622,7 +676,7 @@
                         }
                     }
                 });
-                
+
             } catch (error) {
                 console.error('Error loading rating trend:', error);
                 document.getElementById('rating-trend-section').style.display = 'none';
@@ -656,17 +710,17 @@
                     document.getElementById('genre-trends-section').style.display = 'none';
                     return;
                 }
-                
+
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-chart').getContext('2d');
                 const chartColors = getChartColors();
-                
+
                 // Create datasets for each genre
                 const colors = [
                     '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
                     '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
                 ];
-                
+
                 const datasets = trendData.genres.map((genre, index) => ({
                     label: genre,
                     data: trendData.data[genre],
@@ -677,7 +731,7 @@
                     pointHoverRadius: 5,
                     tension: 0.3
                 }));
-                
+
                 genreTrendsChart = new Chart(ctx, {
                     type: 'line',
                     data: {
@@ -706,7 +760,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         return context.dataset.label + ': ' + context.parsed.y + ' anime';
                                     }
                                 }
@@ -765,18 +819,18 @@
                     document.getElementById('production-volume-section').style.display = 'none';
                     return;
                 }
-                
+
                 const volumeData = await response.json();
-                
+
                 // Update statistics
                 document.getElementById('total-anime').textContent = volumeData.total_anime.toLocaleString();
                 document.getElementById('avg-per-year').textContent = volumeData.avg_per_year.toFixed(1);
                 document.getElementById('peak-year').textContent = volumeData.peak_year + ' (' + volumeData.peak_count + ')';
-                
+
                 // Create the chart
                 const ctx = document.getElementById('production-volume-chart').getContext('2d');
                 const chartColors = getChartColors();
-                
+
                 productionVolumeChart = new Chart(ctx, {
                     type: 'bar',
                     data: {
@@ -801,7 +855,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         return 'Total Anime: ' + context.parsed.y;
                                     }
                                 }
@@ -851,19 +905,19 @@
                     document.getElementById('seasonal-patterns-section').style.display = 'none';
                     return;
                 }
-                
+
                 const patternData = await response.json();
                 const chartColors = getChartColors();
-                
+
                 // Update statistics
-                document.getElementById('highest-rated-season').textContent = 
+                document.getElementById('highest-rated-season').textContent =
                     patternData.highest_rated_season.charAt(0).toUpperCase() + patternData.highest_rated_season.slice(1);
-                document.getElementById('most-productive-season').textContent = 
+                document.getElementById('most-productive-season').textContent =
                     patternData.most_productive_season.charAt(0).toUpperCase() + patternData.most_productive_season.slice(1);
-                
+
                 const seasons = patternData.seasons.map(s => s.charAt(0).toUpperCase() + s.slice(1));
                 const colors = ['#3b82f6', '#22c55e', '#f59e0b', '#ef4444'];
-                
+
                 // Chart 1: Average Ratings by Season
                 const ctx1 = document.getElementById('seasonal-ratings-chart').getContext('2d');
                 seasonalRatingsChart = new Chart(ctx1, {
@@ -897,7 +951,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         return 'Avg Rating: ' + context.parsed.y.toFixed(2);
                                     }
                                 }
@@ -921,7 +975,7 @@
                         }
                     }
                 });
-                
+
                 // Chart 2: Total Anime Count by Season
                 const ctx2 = document.getElementById('seasonal-counts-chart').getContext('2d');
                 seasonalCountsChart = new Chart(ctx2, {
@@ -955,7 +1009,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         return 'Total: ' + context.parsed.y.toLocaleString();
                                     }
                                 }
@@ -994,15 +1048,15 @@
                     document.getElementById('studio-rankings-section').style.display = 'none';
                     return;
                 }
-                
+
                 const rankingData = await response.json();
                 const chartColors = getChartColors();
-                
+
                 // Chart 1: Top Studios by Quantity
                 const ctx1 = document.getElementById('studio-quantity-chart').getContext('2d');
                 const studiosQty = rankingData.by_quantity.map(s => s.studio);
                 const countsQty = rankingData.by_quantity.map(s => s.count);
-                
+
                 studioQuantityChart = new Chart(ctx1, {
                     type: 'bar',
                     data: {
@@ -1027,7 +1081,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         return 'Total Anime: ' + context.parsed.x;
                                     }
                                 }
@@ -1057,12 +1111,12 @@
                         }
                     }
                 });
-                
+
                 // Chart 2: Top Studios by Quality
                 const ctx2 = document.getElementById('studio-quality-chart').getContext('2d');
                 const studiosQual = rankingData.by_quality.map(s => s.studio);
                 const scoresQual = rankingData.by_quality.map(s => s.avg_score);
-                
+
                 studioQualityChart = new Chart(ctx2, {
                     type: 'bar',
                     data: {
@@ -1087,7 +1141,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         const studio = rankingData.by_quality[context.dataIndex];
                                         return [
                                             'Average Rating: ' + studio.avg_score.toFixed(2),
@@ -1140,17 +1194,17 @@
                     console.log('Genre trends percentage data not available');
                     return;
                 }
-                
+
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-percentage-chart').getContext('2d');
                 const chartColors = getChartColors();
-                
+
                 // Create datasets for each genre
                 const colors = [
                     '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
                     '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
                 ];
-                
+
                 const datasets = trendData.genres.map((genre, index) => ({
                     label: genre,
                     data: trendData.data[genre],
@@ -1161,7 +1215,7 @@
                     pointHoverRadius: 5,
                     tension: 0.3
                 }));
-                
+
                 genreTrendsPercentageChart = new Chart(ctx, {
                     type: 'line',
                     data: {
@@ -1190,7 +1244,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         return context.dataset.label + ': ' + context.parsed.y.toFixed(2) + '%';
                                     }
                                 }
@@ -1248,17 +1302,17 @@
                     document.getElementById('genre-trends-by-season-section').style.display = 'none';
                     return;
                 }
-                
+
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-by-season-chart').getContext('2d');
                 const chartColors = getChartColors();
-                
+
                 // Create datasets for each genre
                 const colors = [
                     '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
                     '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
                 ];
-                
+
                 const datasets = trendData.genres.map((genre, index) => ({
                     label: genre,
                     data: trendData.data[genre],
@@ -1269,7 +1323,7 @@
                     pointHoverRadius: 4,
                     tension: 0.3
                 }));
-                
+
                 genreTrendsBySeasonChart = new Chart(ctx, {
                     type: 'line',
                     data: {
@@ -1297,7 +1351,7 @@
                                 mode: 'index',
                                 intersect: false,
                                 callbacks: {
-                                    title: function(tooltipItems) {
+                                    title: function (tooltipItems) {
                                         return tooltipItems[0].label;
                                     }
                                 }
@@ -1357,17 +1411,17 @@
                     console.log('Genre trends by season percentage data not available');
                     return;
                 }
-                
+
                 const trendData = await response.json();
                 const ctx = document.getElementById('genre-trends-by-season-percentage-chart').getContext('2d');
                 const chartColors = getChartColors();
-                
+
                 // Create datasets for each genre
                 const colors = [
                     '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
                     '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
                 ];
-                
+
                 const datasets = trendData.genres.map((genre, index) => ({
                     label: genre,
                     data: trendData.data[genre],
@@ -1378,7 +1432,7 @@
                     pointHoverRadius: 4,
                     tension: 0.3
                 }));
-                
+
                 genreTrendsBySeasonPercentageChart = new Chart(ctx, {
                     type: 'line',
                     data: {
@@ -1406,10 +1460,10 @@
                                 mode: 'index',
                                 intersect: false,
                                 callbacks: {
-                                    title: function(tooltipItems) {
+                                    title: function (tooltipItems) {
                                         return tooltipItems[0].label;
                                     },
-                                    label: function(context) {
+                                    label: function (context) {
                                         let label = context.dataset.label || '';
                                         if (label) {
                                             label += ': ';
@@ -1476,25 +1530,25 @@
                     document.getElementById('studio-scatter-section').style.display = 'none';
                     return;
                 }
-                
+
                 const scatterData = await response.json();
                 const chartColors = getChartColors();
-                
+
                 // Update statistics
                 document.getElementById('total-studios').textContent = scatterData.total_studios.toLocaleString();
                 document.getElementById('mean-rating').textContent = scatterData.mean_rating.toFixed(2);
                 document.getElementById('mean-count').textContent = scatterData.mean_count.toFixed(1);
-                
+
                 // Prepare data for Chart.js
                 const chartData = scatterData.studios.map(studio => ({
                     x: studio.avg_rating,
                     y: studio.anime_count,
                     label: studio.name
                 }));
-                
+
                 // Create the scatter plot
                 const ctx = document.getElementById('studio-scatter-chart').getContext('2d');
-                
+
                 studioScatterChart = new Chart(ctx, {
                     type: 'scatter',
                     data: {
@@ -1519,7 +1573,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         const studio = scatterData.studios[context.dataIndex];
                                         return [
                                             'Studio: ' + studio.name,
@@ -1561,11 +1615,11 @@
                         }
                     },
                     plugins: [{
-                        afterDraw: function(chart) {
+                        afterDraw: function (chart) {
                             const ctx = chart.ctx;
                             const xAxis = chart.scales.x;
                             const yAxis = chart.scales.y;
-                            
+
                             // Draw mean rating line
                             const meanRatingX = xAxis.getPixelForValue(scatterData.mean_rating);
                             ctx.save();
@@ -1577,7 +1631,7 @@
                             ctx.lineTo(meanRatingX, yAxis.bottom);
                             ctx.stroke();
                             ctx.restore();
-                            
+
                             // Draw mean count line
                             const meanCountY = yAxis.getPixelForValue(scatterData.mean_count);
                             ctx.save();
@@ -1609,25 +1663,25 @@
                     document.getElementById('studio-scatter-filtered-section').style.display = 'none';
                     return;
                 }
-                
+
                 const scatterData = await response.json();
                 const chartColors = getChartColors();
-                
+
                 // Update statistics
                 document.getElementById('total-studios-filtered').textContent = scatterData.total_studios.toLocaleString();
                 document.getElementById('mean-rating-filtered').textContent = scatterData.mean_rating.toFixed(2);
                 document.getElementById('mean-count-filtered').textContent = scatterData.mean_count.toFixed(1);
-                
+
                 // Prepare data for Chart.js
                 const chartData = scatterData.studios.map(studio => ({
                     x: studio.avg_rating,
                     y: studio.anime_count,
                     label: studio.name
                 }));
-                
+
                 // Create the scatter plot
                 const ctx = document.getElementById('studio-scatter-filtered-chart').getContext('2d');
-                
+
                 studioScatterFilteredChart = new Chart(ctx, {
                     type: 'scatter',
                     data: {
@@ -1652,7 +1706,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         const studio = scatterData.studios[context.dataIndex];
                                         return [
                                             'Studio: ' + studio.name,
@@ -1694,11 +1748,11 @@
                         }
                     },
                     plugins: [{
-                        afterDraw: function(chart) {
+                        afterDraw: function (chart) {
                             const ctx = chart.ctx;
                             const xAxis = chart.scales.x;
                             const yAxis = chart.scales.y;
-                            
+
                             // Draw mean rating line
                             const meanRatingX = xAxis.getPixelForValue(scatterData.mean_rating);
                             ctx.save();
@@ -1710,7 +1764,7 @@
                             ctx.lineTo(meanRatingX, yAxis.bottom);
                             ctx.stroke();
                             ctx.restore();
-                            
+
                             // Draw mean count line
                             const meanCountY = yAxis.getPixelForValue(scatterData.mean_count);
                             ctx.save();
@@ -1742,25 +1796,25 @@
                     document.getElementById('studio-scatter-filtered-10-section').style.display = 'none';
                     return;
                 }
-                
+
                 const scatterData = await response.json();
                 const chartColors = getChartColors();
-                
+
                 // Update statistics
                 document.getElementById('total-studios-filtered-10').textContent = scatterData.total_studios.toLocaleString();
                 document.getElementById('mean-rating-filtered-10').textContent = scatterData.mean_rating.toFixed(2);
                 document.getElementById('mean-count-filtered-10').textContent = scatterData.mean_count.toFixed(1);
-                
+
                 // Prepare data for Chart.js
                 const chartData = scatterData.studios.map(studio => ({
                     x: studio.avg_rating,
                     y: studio.anime_count,
                     label: studio.name
                 }));
-                
+
                 // Create the scatter plot
                 const ctx = document.getElementById('studio-scatter-filtered-10-chart').getContext('2d');
-                
+
                 studioScatterFiltered10Chart = new Chart(ctx, {
                     type: 'scatter',
                     data: {
@@ -1785,7 +1839,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         const studio = scatterData.studios[context.dataIndex];
                                         return [
                                             'Studio: ' + studio.name,
@@ -1827,11 +1881,11 @@
                         }
                     },
                     plugins: [{
-                        afterDraw: function(chart) {
+                        afterDraw: function (chart) {
                             const ctx = chart.ctx;
                             const xAxis = chart.scales.x;
                             const yAxis = chart.scales.y;
-                            
+
                             // Draw mean rating line
                             const meanRatingX = xAxis.getPixelForValue(scatterData.mean_rating);
                             ctx.save();
@@ -1843,7 +1897,7 @@
                             ctx.lineTo(meanRatingX, yAxis.bottom);
                             ctx.stroke();
                             ctx.restore();
-                            
+
                             // Draw mean count line
                             const meanCountY = yAxis.getPixelForValue(scatterData.mean_count);
                             ctx.save();
@@ -1875,25 +1929,25 @@
                     document.getElementById('anime-rating-popularity-section').style.display = 'none';
                     return;
                 }
-                
+
                 const scatterData = await response.json();
                 const chartColors = getChartColors();
-                
+
                 // Update statistics
                 document.getElementById('total-rated-anime').textContent = scatterData.total_anime.toLocaleString();
                 document.getElementById('mean-anime-rating').textContent = scatterData.mean_score.toFixed(2);
                 document.getElementById('mean-anime-popularity').textContent = scatterData.mean_popularity.toFixed(0);
-                
+
                 // Prepare data for Chart.js
                 const chartData = scatterData.anime.map(anime => ({
                     x: anime.score,
                     y: anime.popularity,
                     label: anime.title
                 }));
-                
+
                 // Create the scatter plot
                 const ctx = document.getElementById('anime-rating-popularity-chart').getContext('2d');
-                
+
                 animeRatingPopularityChart = new Chart(ctx, {
                     type: 'scatter',
                     data: {
@@ -1918,7 +1972,7 @@
                                 backgroundColor: chartColors.tooltipBg,
                                 padding: 12,
                                 callbacks: {
-                                    label: function(context) {
+                                    label: function (context) {
                                         const anime = scatterData.anime[context.dataIndex];
                                         return [
                                             'Title: ' + anime.title,
@@ -1959,7 +2013,7 @@
                                 },
                                 beginAtZero: false,
                                 ticks: {
-                                    callback: function(value, index, values) {
+                                    callback: function (value, index, values) {
                                         // Show only 1, 10, 100, 1000, 10000, etc.
                                         if (value === 1 || value === 10 || value === 100 || value === 1000 || value === 10000 || value === 100000) {
                                             return value.toLocaleString();
@@ -1971,11 +2025,11 @@
                         }
                     },
                     plugins: [{
-                        afterDraw: function(chart) {
+                        afterDraw: function (chart) {
                             const ctx = chart.ctx;
                             const xAxis = chart.scales.x;
                             const yAxis = chart.scales.y;
-                            
+
                             // Draw mean rating line
                             const meanRatingX = xAxis.getPixelForValue(scatterData.mean_score);
                             ctx.save();
@@ -1987,7 +2041,7 @@
                             ctx.lineTo(meanRatingX, yAxis.bottom);
                             ctx.stroke();
                             ctx.restore();
-                            
+
                             // Draw mean popularity line
                             const meanPopularityY = yAxis.getPixelForValue(scatterData.mean_popularity);
                             ctx.save();
@@ -2032,5 +2086,5 @@
         });
     </script>
 </body>
-</html>
 
+</html>

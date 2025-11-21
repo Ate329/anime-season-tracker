@@ -1,19 +1,22 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Anime Picker | Anime Season Tracker</title>
-    <meta name="description" content="Discover random anime from across all seasons with customizable genre and rating filters.">
-    
+    <meta name="description"
+        content="Discover random anime from across all seasons with customizable genre and rating filters.">
+
     <!-- Favicon -->
-    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🎲</text></svg>">
-    
+    <link rel="icon"
+        href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>🎲</text></svg>">
+
     <!-- Tailwind CSS CDN -->
     <script src="https://cdn.tailwindcss.com"></script>
-    
+
     <script>
-        (function() {
+        (function () {
             try {
                 const savedTheme = localStorage.getItem('theme');
                 if (savedTheme === 'dark') {
@@ -24,12 +27,12 @@
             }
         })();
     </script>
-    
+
     <style>
         body {
             font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
         }
-        
+
         /* Dark Mode Variables and Styles (Matched with index.html) */
         :root {
             --bg-primary: #f9fafb;
@@ -42,7 +45,7 @@
             --shadow: rgba(0, 0, 0, 0.1);
             --shadow-hover: rgba(0, 0, 0, 0.15);
         }
-        
+
         .dark {
             --bg-primary: #111827;
             --bg-secondary: #1f2937;
@@ -54,12 +57,12 @@
             --shadow: rgba(0, 0, 0, 0.3);
             --shadow-hover: rgba(0, 0, 0, 0.5);
         }
-        
+
         body {
             background-color: var(--bg-primary);
             color: var(--text-primary);
         }
-        
+
         /* Dark Mode Toggle Button */
         .theme-toggle {
             position: relative;
@@ -71,7 +74,7 @@
             transition: background-color 0.3s ease;
             border: 2px solid var(--border-color);
         }
-        
+
         .theme-toggle-slider {
             position: absolute;
             top: 2px;
@@ -86,54 +89,57 @@
             justify-content: center;
             font-size: 12px;
         }
-        
+
         .dark .theme-toggle-slider {
             transform: translateX(30px);
         }
-        
+
         /* Keyframe Animations (Matched with index.html) */
         @keyframes fadeIn {
             from {
                 opacity: 0;
                 transform: translateY(20px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
             }
         }
-        
+
         @keyframes slideInUp {
             from {
                 opacity: 0;
                 transform: translateY(30px);
             }
+
             to {
                 opacity: 1;
                 transform: translateY(0);
             }
         }
-        
+
         @keyframes scaleIn {
             from {
                 opacity: 0;
                 transform: scale(0.95);
             }
+
             to {
                 opacity: 1;
                 transform: scale(1);
             }
         }
-        
+
         /* Animation Classes */
         .animate-fade-in {
             animation: fadeIn 0.6s ease-out;
         }
-        
+
         .animate-slide-in-up {
             animation: slideInUp 0.6s ease-out;
         }
-        
+
         .animate-scale-in {
             animation: scaleIn 0.5s ease-out;
         }
@@ -142,35 +148,47 @@
         .custom-scrollbar::-webkit-scrollbar {
             width: 6px;
         }
+
         .custom-scrollbar::-webkit-scrollbar-track {
             background: transparent;
         }
+
         .custom-scrollbar::-webkit-scrollbar-thumb {
             background-color: var(--border-color-light);
             border-radius: 20px;
         }
     </style>
 </head>
+
 <body class="min-h-screen transition-colors duration-300 flex flex-col">
-    
+
     <!-- Header -->
-    <header class="sticky top-0 z-50 shadow-md animate-fade-in" style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);">
+    <header class="sticky top-0 z-50 shadow-md animate-fade-in"
+        style="background-color: var(--bg-secondary); border-bottom: 1px solid var(--border-color);">
         <div class="max-w-7xl mx-auto px-4 py-6">
             <div class="flex items-center justify-between flex-wrap gap-4">
                 <div class="flex items-center gap-2">
-                    <a href="index.html" class="text-2xl font-bold no-underline hover:opacity-80 transition-opacity" style="color: var(--text-primary);">
+                    <a href="index.html" class="text-2xl font-bold no-underline hover:opacity-80 transition-opacity"
+                        style="color: var(--text-primary);">
                         🎬 Anime Season Tracker
                     </a>
                 </div>
                 <nav class="flex gap-3 items-center">
-                    <a href="index.html" class="px-4 py-2 rounded-lg transition-colors font-medium" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                    <a href="index.html" class="px-4 py-2 rounded-lg transition-colors font-medium"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         Home
                     </a>
-                    <a href="data.html" class="px-4 py-2 rounded-lg transition-colors font-medium" style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                    <a href="data.html" class="px-4 py-2 rounded-lg transition-colors font-medium"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         Data
                     </a>
-                    <a href="random.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg font-medium shadow-sm">
-                        Random
+                    <a href="random_cn.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg font-medium shadow-sm">
+                        随机
+                    </a>
+                    <a href="random.html"
+                        class="px-4 py-2 rounded-lg transition-colors font-medium hover:bg-gray-200 dark:hover:bg-gray-700"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);" title="切换到英文">
+                        English
                     </a>
                     <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
                         <div class="theme-toggle-slider">
@@ -184,53 +202,67 @@
 
     <!-- Main Content -->
     <main class="max-w-5xl mx-auto px-4 py-10 flex-grow w-full">
-        
+
         <!-- Page Title -->
         <div class="text-center mb-10 animate-fade-in">
             <h1 class="text-3xl md:text-4xl font-bold mb-3" style="color: var(--text-primary);">Random Anime Picker</h1>
-            <p class="text-lg" style="color: var(--text-secondary);">Filter your preferences and find something new to watch</p>
+            <p class="text-lg" style="color: var(--text-secondary);">Filter your preferences and find something new to
+                watch</p>
         </div>
 
         <!-- PICKER SECTION -->
         <div id="picker-section" class="animate-fade-in">
-            <div class="rounded-xl overflow-hidden transition-all duration-300 hover:shadow-lg" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); box-shadow: 0 4px 6px var(--shadow);">
-                
+            <div class="rounded-xl overflow-hidden transition-all duration-300 hover:shadow-lg"
+                style="background-color: var(--bg-secondary); border: 1px solid var(--border-color); box-shadow: 0 4px 6px var(--shadow);">
+
                 <div class="p-6 md:p-8 grid md:grid-cols-2 gap-8 md:gap-12">
                     <!-- Left Column: Settings -->
                     <div class="space-y-8">
                         <!-- Toggles -->
                         <div class="space-y-4">
-                            <div class="flex items-center justify-between p-4 rounded-lg transition-colors hover:bg-opacity-80" style="background-color: var(--bg-tertiary);">
+                            <div class="flex items-center justify-between p-4 rounded-lg transition-colors hover:bg-opacity-80"
+                                style="background-color: var(--bg-tertiary);">
                                 <div>
                                     <h3 class="font-semibold" style="color: var(--text-primary);">Mature Content</h3>
-                                    <p class="text-xs mt-0.5" style="color: var(--text-secondary);">Show adult content</p>
+                                    <p class="text-xs mt-0.5" style="color: var(--text-secondary);">Show adult content
+                                    </p>
                                 </div>
                                 <label class="relative inline-flex items-center cursor-pointer">
                                     <input type="checkbox" id="picker-hentai-toggle" class="sr-only peer">
-                                    <div class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-gray-900"></div>
+                                    <div
+                                        class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-gray-900">
+                                    </div>
                                 </label>
                             </div>
-                            
-                            <div class="flex items-center justify-between p-4 rounded-lg transition-colors hover:bg-opacity-80" style="background-color: var(--bg-tertiary);">
+
+                            <div class="flex items-center justify-between p-4 rounded-lg transition-colors hover:bg-opacity-80"
+                                style="background-color: var(--bg-tertiary);">
                                 <div>
                                     <h3 class="font-semibold" style="color: var(--text-primary);">Hide Not Rated</h3>
-                                    <p class="text-xs mt-0.5" style="color: var(--text-secondary);">Exclude unrated anime</p>
+                                    <p class="text-xs mt-0.5" style="color: var(--text-secondary);">Exclude unrated
+                                        anime</p>
                                 </div>
                                 <label class="relative inline-flex items-center cursor-pointer">
                                     <input type="checkbox" id="picker-not-rated-toggle" class="sr-only peer" checked>
-                                    <div class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-gray-900"></div>
+                                    <div
+                                        class="w-11 h-6 bg-gray-200 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-gray-900">
+                                    </div>
                                 </label>
                             </div>
                         </div>
 
                         <!-- Rating Slider -->
-                        <div class="p-4 rounded-lg transition-colors hover:bg-opacity-80" style="background-color: var(--bg-tertiary);">
+                        <div class="p-4 rounded-lg transition-colors hover:bg-opacity-80"
+                            style="background-color: var(--bg-tertiary);">
                             <label class="flex justify-between mb-3 items-center">
                                 <span class="font-semibold" style="color: var(--text-primary);">Minimum Score</span>
-                                <span id="rating-display" class="font-bold px-2 py-1 rounded text-sm bg-gray-900 text-white">0.0</span>
+                                <span id="rating-display"
+                                    class="font-bold px-2 py-1 rounded text-sm bg-gray-900 text-white">0.0</span>
                             </label>
-                            <input type="range" id="random-rating" min="0" max="10" step="0.1" value="0" class="w-full accent-gray-900 h-2 bg-gray-300 rounded-lg appearance-none cursor-pointer">
-                            <div class="flex justify-between text-xs mt-2 font-medium" style="color: var(--text-secondary);">
+                            <input type="range" id="random-rating" min="0" max="10" step="0.1" value="0"
+                                class="w-full accent-gray-900 h-2 bg-gray-300 rounded-lg appearance-none cursor-pointer">
+                            <div class="flex justify-between text-xs mt-2 font-medium"
+                                style="color: var(--text-secondary);">
                                 <span>Any Score</span>
                                 <span>10.0</span>
                             </div>
@@ -241,27 +273,35 @@
                     <div class="flex flex-col h-full">
                         <div class="flex justify-between items-center mb-4">
                             <h3 class="font-semibold text-lg" style="color: var(--text-primary);">Genres</h3>
-                            
+
                             <!-- Mode Toggle -->
-                            <div class="flex rounded-md overflow-hidden border" style="border-color: var(--border-color);">
-                                <button id="filter-mode-or" class="px-3 py-1 text-xs font-bold bg-gray-900 text-white transition-colors">ANY</button>
-                                <button id="filter-mode-and" class="px-3 py-1 text-xs font-bold bg-gray-100 text-gray-600 hover:bg-gray-200 transition-colors">ALL</button>
+                            <div class="flex rounded-md overflow-hidden border"
+                                style="border-color: var(--border-color);">
+                                <button id="filter-mode-or"
+                                    class="px-3 py-1 text-xs font-bold bg-gray-900 text-white transition-colors">ANY</button>
+                                <button id="filter-mode-and"
+                                    class="px-3 py-1 text-xs font-bold bg-gray-100 text-gray-600 hover:bg-gray-200 transition-colors">ALL</button>
                             </div>
                         </div>
                         <p id="filter-mode-description" class="text-xs mb-3 hidden"></p>
-                        
-                        <div class="bg-gray-50 dark:bg-gray-800/50 rounded-lg p-2 border flex-grow transition-colors" style="border-color: var(--border-color);">
-                            <div id="genre-filters" class="flex flex-wrap gap-2 max-h-[280px] overflow-y-auto pr-1 custom-scrollbar content-start">
+
+                        <div class="bg-gray-50 dark:bg-gray-800/50 rounded-lg p-2 border flex-grow transition-colors"
+                            style="border-color: var(--border-color);">
+                            <div id="genre-filters"
+                                class="flex flex-wrap gap-2 max-h-[280px] overflow-y-auto pr-1 custom-scrollbar content-start">
                                 <!-- Buttons injected by JS -->
-                                <div class="w-full text-center py-8 text-sm text-gray-400 animate-pulse">Loading genres...</div>
+                                <div class="w-full text-center py-8 text-sm text-gray-400 animate-pulse">Loading
+                                    genres...</div>
                             </div>
                         </div>
                     </div>
                 </div>
 
                 <!-- Footer Action -->
-                <div class="p-6 bg-gray-50 dark:bg-gray-800/30 border-t text-center" style="border-color: var(--border-color);">
-                    <button id="get-random-anime" class="px-10 py-3.5 bg-gray-900 text-white font-bold text-lg rounded-lg hover:bg-gray-800 transition-all transform hover:scale-105 shadow-md hover:shadow-lg active:scale-95">
+                <div class="p-6 bg-gray-50 dark:bg-gray-800/30 border-t text-center"
+                    style="border-color: var(--border-color);">
+                    <button id="get-random-anime"
+                        class="px-10 py-3.5 bg-gray-900 text-white font-bold text-lg rounded-lg hover:bg-gray-800 transition-all transform hover:scale-105 shadow-md hover:shadow-lg active:scale-95">
                         🎲 Find Random Anime
                     </button>
                 </div>
@@ -272,22 +312,28 @@
         <div id="random-result-section" class="hidden animate-scale-in">
             <div class="max-w-3xl mx-auto">
                 <!-- Navigation -->
-                <button id="close-random" class="mb-6 flex items-center gap-2 text-sm font-medium hover:underline transition-colors opacity-80 hover:opacity-100" style="color: var(--text-secondary);">
+                <button id="close-random"
+                    class="mb-6 flex items-center gap-2 text-sm font-medium hover:underline transition-colors opacity-80 hover:opacity-100"
+                    style="color: var(--text-secondary);">
                     ← Back to Filters
                 </button>
 
                 <!-- Loading Indicator -->
-                <div id="random-loading" class="hidden text-center py-16 rounded-xl mb-6" style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <div class="inline-block animate-spin rounded-full h-10 w-10 border-4 border-gray-200 border-t-gray-900 mb-4"></div>
+                <div id="random-loading" class="hidden text-center py-16 rounded-xl mb-6"
+                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+                    <div
+                        class="inline-block animate-spin rounded-full h-10 w-10 border-4 border-gray-200 border-t-gray-900 mb-4">
+                    </div>
                     <p class="text-lg font-medium" style="color: var(--text-primary);">Picking a winner...</p>
                 </div>
-                
+
                 <!-- Result Card Container -->
                 <div id="random-result-card" class="transform transition-all duration-300"></div>
-                
+
                 <!-- Action Buttons -->
                 <div class="mt-8 flex gap-4 justify-center">
-                    <button id="get-another-random" class="px-8 py-3 bg-gray-900 text-white font-bold rounded-lg hover:bg-gray-800 shadow-md transition-all transform hover:scale-105 active:scale-95">
+                    <button id="get-another-random"
+                        class="px-8 py-3 bg-gray-900 text-white font-bold rounded-lg hover:bg-gray-800 shadow-md transition-all transform hover:scale-105 active:scale-95">
                         🔄 Spin Again
                     </button>
                 </div>
@@ -299,12 +345,15 @@
     <!-- Footer (Exact match from index.html) -->
     <footer class="mt-auto" style="background-color: var(--bg-secondary); border-top: 1px solid var(--border-color);">
         <div class="max-w-7xl mx-auto px-4 py-6 text-center text-sm" style="color: var(--text-secondary);">
-            <p>Data from <a href="https://jikan.moe/" target="_blank" class="hover:underline" style="color: var(--text-primary);">Jikan API</a> • Updated automatically</p>
+            <p>Data from <a href="https://jikan.moe/" target="_blank" class="hover:underline"
+                    style="color: var(--text-primary);">Jikan API</a> • Updated automatically</p>
             <p class="mt-2">
-                This project is open source • 
-                <a href="https://github.com/Ate329/anime-season-tracker" target="_blank" class="hover:underline" style="color: var(--text-primary);">View on GitHub</a>
+                This project is open source •
+                <a href="https://github.com/Ate329/anime-season-tracker" target="_blank" class="hover:underline"
+                    style="color: var(--text-primary);">View on GitHub</a>
             </p>
-            <p class="mt-1">Created by <a href="https://github.com/Ate329" target="_blank" class="hover:underline" style="color: var(--text-primary);">@Ate329</a></p>
+            <p class="mt-1">Created by <a href="https://github.com/Ate329" target="_blank" class="hover:underline"
+                    style="color: var(--text-primary);">@Ate329</a></p>
         </div>
     </footer>
 
@@ -312,7 +361,7 @@
     <script src="random.js"></script>
     <script>
         // Theme Script (Copied logic from index.html)
-        (function() {
+        (function () {
             const html = document.documentElement;
             const themeToggle = document.getElementById('theme-toggle');
             const themeIcon = document.getElementById('theme-icon');
@@ -345,4 +394,5 @@
         })();
     </script>
 </body>
+
 </html>
