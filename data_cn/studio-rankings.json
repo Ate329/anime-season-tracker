@@ -2,8 +2,8 @@
   "by_quantity": [
     {
       "studio": "SHAFT",
-      "count": 50,
-      "avg_score": 7.35
+      "count": 49,
+      "avg_score": 7.34
     },
     {
       "studio": "J.C.STAFF",
@@ -79,9 +79,9 @@
   "by_quality": [
     {
       "studio": "SHAFT",
-      "avg_score": 7.35,
-      "count": 50,
-      "rated_count": 50
+      "avg_score": 7.34,
+      "count": 49,
+      "rated_count": 49
     },
     {
       "studio": "\u4eac\u90fd\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
