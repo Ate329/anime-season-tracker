@@ -156,6 +156,73 @@
             background-color: var(--border-color-light);
             border-radius: 20px;
         }
+
+        /* Language Dropdown Styles */
+        .lang-dropdown {
+            position: relative;
+            display: inline-block;
+        }
+
+        .lang-dropdown-button {
+            display: flex;
+            align-items: center;
+            gap: 6px;
+            padding: 8px 12px;
+            border-radius: 8px;
+            font-size: 14px;
+            font-weight: 500;
+            cursor: pointer;
+            transition: all 0.2s ease;
+            border: 1px solid var(--border-color);
+            background-color: var(--bg-tertiary);
+            color: var(--text-primary);
+        }
+
+        .lang-dropdown-button:hover {
+            background-color: var(--bg-secondary);
+        }
+
+        .lang-dropdown-menu {
+            position: absolute;
+            top: calc(100% + 4px);
+            right: 0;
+            min-width: 120px;
+            background-color: var(--bg-secondary);
+            border: 1px solid var(--border-color);
+            border-radius: 8px;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            opacity: 0;
+            visibility: hidden;
+            transform: translateY(-8px);
+            transition: all 0.2s ease;
+            z-index: 1000;
+            overflow: hidden;
+        }
+
+        .lang-dropdown.open .lang-dropdown-menu {
+            opacity: 1;
+            visibility: visible;
+            transform: translateY(0);
+        }
+
+        .lang-dropdown-item {
+            display: block;
+            padding: 10px 16px;
+            color: var(--text-primary);
+            text-decoration: none;
+            transition: background-color 0.2s ease;
+            cursor: pointer;
+            font-size: 14px;
+        }
+
+        .lang-dropdown-item:hover {
+            background-color: var(--bg-tertiary);
+        }
+
+        .lang-dropdown-item.active {
+            background-color: var(--bg-tertiary);
+            font-weight: 600;
+        }
     </style>
 </head>
 
@@ -175,6 +242,33 @@
                 <nav class="flex gap-3 items-center">
                     <a href="index_cn.html" class="px-4 py-2 rounded-lg transition-colors font-medium"
                         style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                        首页
+                    </a>
+                    <a href="data_cn.html" class="px-4 py-2 rounded-lg transition-colors font-medium"
+                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
+                        数据
+                    </a>
+                    <a href="random_cn.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg font-medium shadow-sm">
+                        随机
+                    </a>
+                    <div class="lang-dropdown" id="lang-dropdown">
+                        <button class="lang-dropdown-button" id="lang-dropdown-button" aria-label="选择语言">
+                            <span>🌐</span>
+                            <span id="lang-current">中文</span>
+                            <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                            </svg>
+                        </button>
+                        <div class="lang-dropdown-menu">
+                            <a href="#" class="lang-dropdown-item" data-lang="en" data-page="random">English</a>
+                            <a href="#" class="lang-dropdown-item active" data-lang="zh" data-page="random_cn">中文</a>
+                        </div>
+                    </div>
+                    <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
+                        <div class="theme-toggle-slider">
+                            <span id="theme-icon">☀️</span>
+                        </div>
+                    </div>
                 </nav>
             </div>
         </div>
@@ -345,6 +439,41 @@
                             });
                         }
                     })();
+
+                    // Language dropdown functionality
+                    const langDropdown = document.getElementById('lang-dropdown');
+                    const langDropdownButton = document.getElementById('lang-dropdown-button');
+                    const langCurrent = document.getElementById('lang-current');
+
+                    if (langDropdown && langDropdownButton) {
+                        // Toggle dropdown
+                        langDropdownButton.addEventListener('click', (e) => {
+                            e.stopPropagation();
+                            langDropdown.classList.toggle('open');
+                        });
+
+                        // Close dropdown when clicking outside
+                        document.addEventListener('click', (e) => {
+                            if (!langDropdown.contains(e.target)) {
+                                langDropdown.classList.remove('open');
+                            }
+                        });
+
+                        // Handle language selection
+                        document.querySelectorAll('.lang-dropdown-item').forEach(item => {
+                            item.addEventListener('click', (e) => {
+                                e.preventDefault();
+                                const targetLang = item.dataset.lang;
+                                const targetPage = item.dataset.page;
+                                
+                                // Build the new URL
+                                let newUrl = targetPage + '.html';
+                                
+                                // Navigate to the new page
+                                window.location.href = newUrl;
+                            });
+                        });
+                    }
                 </script>
 </body>
 
