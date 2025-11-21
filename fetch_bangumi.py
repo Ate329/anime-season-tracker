@@ -334,9 +334,118 @@ def fetch_season(year, season):
     print(f"\nProcessed {len(anime_list)} anime.")
     return anime_list
 
+def validate_and_deduplicate(anime_list, year, season):
+    """
+    Validates and removes duplicate anime from a list based on mal_id (which is Bangumi ID here).
+    Returns the deduplicated list and reports any duplicates found.
+    
+    Args:
+        anime_list: List of anime dictionaries
+        year: Year for logging purposes
+        season: Season for logging purposes
+    
+    Returns:
+        Deduplicated list of anime
+    """
+    if not anime_list:
+        return anime_list
+    
+    seen_ids = {}
+    unique_anime = []
+    duplicates_found = []
+    
+    for anime in anime_list:
+        # In fetch_bangumi.py, we map Bangumi ID to 'mal_id' field
+        bgm_id = anime.get('mal_id')
+        if bgm_id is None:
+            print(f"  [WARNING] Anime without ID found: {anime.get('title', 'Unknown')}")
+            continue
+        
+        if bgm_id in seen_ids:
+            duplicates_found.append({
+                'id': bgm_id,
+                'title': anime.get('title', 'Unknown')
+            })
+        else:
+            seen_ids[bgm_id] = True
+            unique_anime.append(anime)
+    
+    if duplicates_found:
+        print(f"  [VALIDATION] Found and removed {len(duplicates_found)} duplicate(s) for {year} {season}:")
+        for dup in duplicates_found[:5]:  # Show first 5 duplicates
+            print(f"    - {dup['title']} (ID: {dup['id']})")
+        if len(duplicates_found) > 5:
+            print(f"    ... and {len(duplicates_found) - 5} more")
+    else:
+        print(f"  [VALIDATION] No duplicates found for {year} {season} - {len(unique_anime)} unique anime")
+    
+    return unique_anime
+
+def clean_existing_data():
+    """
+    Scans all existing data files and removes duplicates.
+    """
+    print("\n" + "="*60)
+    print("CLEANING EXISTING DATA FILES (BANGUMI)")
+    print("="*60)
+    
+    data_dir = pathlib.Path("data_cn")
+    if not data_dir.exists():
+        print("[INFO] No data_cn directory found, nothing to clean")
+        return
+    
+    seasons = ["winter", "spring", "summer", "fall"]
+    total_duplicates = 0
+    files_cleaned = 0
+    
+    # Find all year directories
+    year_dirs = [d for d in data_dir.iterdir() if d.is_dir() and d.name.isdigit()]
+    
+    for year_dir in sorted(year_dirs):
+        year = year_dir.name
+        
+        for season in seasons:
+            file_path = year_dir / f"{season}.json"
+            
+            if not file_path.exists():
+                continue
+            
+            try:
+                # Read existing data
+                with open(file_path, 'r', encoding='utf-8') as f:
+                    anime_list = json.load(f)
+                
+                original_count = len(anime_list)
+                
+                # Validate and deduplicate
+                cleaned_list = validate_and_deduplicate(anime_list, year, season)
+                
+                duplicates = original_count - len(cleaned_list)
+                
+                # Only save if we found duplicates
+                if duplicates > 0:
+                    with open(file_path, 'w', encoding='utf-8') as f:
+                        json.dump(cleaned_list, f, ensure_ascii=False, indent=2)
+                    
+                    print(f"  [CLEANED] {file_path}: Removed {duplicates} duplicate(s)")
+                    total_duplicates += duplicates
+                    files_cleaned += 1
+                    
+                    # Also update manifest count if needed
+                    update_manifest(int(year), season, len(cleaned_list))
+                
+            except Exception as e:
+                print(f"  [ERROR] Failed to clean {file_path}: {e}")
+    
+    print(f"\n[SUMMARY] Cleaned {files_cleaned} file(s), removed {total_duplicates} total duplicate(s)")
+    print("="*60)
+
 def save_data(anime_list, year, season):
     if not anime_list:
         return
+        
+    # Deduplicate before saving
+    anime_list = validate_and_deduplicate(anime_list, year, season)
         
     # Ensure directory exists
     # We use data_cn for Chinese data
@@ -362,11 +471,11 @@ def update_manifest(year, season, count):
             pass
             
     # Remove existing entry for this season if exists
-    manifest = [m for m in manifest if not (m['year'] == year and m['season'] == season)]
+    manifest = [m for m in manifest if not (str(m['year']) == str(year) and m['season'] == season)]
     
     # Add new entry
     manifest.append({
-        "year": year,
+        "year": int(year),
         "season": season,
         "count": count
     })
@@ -390,8 +499,15 @@ if __name__ == "__main__":
     parser.add_argument('--season', type=str, help='Season to fetch (winter, spring, summer, fall)')
     parser.add_argument('--all-current', action='store_true', help='Fetch current year seasons')
     parser.add_argument('--all-history', action='store_true', help='Fetch all historical data (2006-present)')
+    parser.add_argument('--clean', action='store_true', help='Clean duplicates from existing data files')
     
     args = parser.parse_args()
+    
+    if args.clean:
+        clean_existing_data()
+        # If only cleaning is requested, we can exit. 
+        # But if other flags are present, we might want to continue.
+        # For now, let's assume if --clean is passed with others, we clean first then fetch.
     
     if args.year and args.season:
         anime_list = fetch_season(args.year, args.season)
@@ -418,5 +534,5 @@ if __name__ == "__main__":
                 anime_list = fetch_season(year, season)
                 save_data(anime_list, year, season)
                 update_manifest(year, season, len(anime_list))
-    else:
-        print("Please provide --year and --season, --all-current, or --all-history")
+    elif not args.clean:
+        print("Please provide --year and --season, --all-current, --all-history, or --clean")

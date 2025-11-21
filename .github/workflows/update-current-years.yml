@@ -30,14 +30,17 @@ jobs:
           pip install --upgrade pip
           pip install -r requirements.txt
       
-      - name: Run anime fetch script (current years only)
+      - name: Run anime fetch script (MAL, current years only)
         run: python fetch_anime.py --current-years-only
-      
-      - name: Clean duplicates from data
-        run: python fetch_anime.py --clean
-      
+
       - name: Run Bangumi fetch script (current year)
         run: python fetch_bangumi.py --all-current
+      
+      - name: Clean duplicates from MAL data
+        run: python fetch_anime.py --clean
+
+      - name: Clean duplicates from Bangumi data
+        run: python fetch_bangumi.py --clean
       
       - name: Generate all graphs (English)
         run: python generate_graphs.py --lang en
