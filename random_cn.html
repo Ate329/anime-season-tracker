@@ -175,20 +175,6 @@
                 <nav class="flex gap-3 items-center">
                     <a href="index_cn.html" class="px-4 py-2 rounded-lg transition-colors font-medium"
                         style="background-color: var(--bg-tertiary); color: var(--text-primary);">
-                        首页
-                    </a>
-                    <a href="data_cn.html" class="px-4 py-2 rounded-lg transition-colors font-medium"
-                        style="background-color: var(--bg-tertiary); color: var(--text-primary);">
-                        数据
-                    </a>
-                    <a href="random_cn.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg font-medium shadow-sm">
-                        随机
-                    </a>
-                    <div class="theme-toggle" id="theme-toggle" role="button" aria-label="Toggle dark mode">
-                        <div class="theme-toggle-slider">
-                            <span id="theme-icon">☀️</span>
-                        </div>
-                    </div>
                 </nav>
             </div>
         </div>
@@ -327,37 +313,38 @@
                         🔄 再来一次
                     </button>
                 </div>
-                (function () {
-                const html = document.documentElement;
-                const themeToggle = document.getElementById('theme-toggle');
-                const themeIcon = document.getElementById('theme-icon');
+                <script>
+                    (function () {
+                        const html = document.documentElement;
+                        const themeToggle = document.getElementById('theme-toggle');
+                        const themeIcon = document.getElementById('theme-icon');
 
-                const applyTheme = (isDark) => {
-                if (isDark) {
-                html.classList.add('dark');
-                if (themeIcon) themeIcon.textContent = '🌙';
-                } else {
-                html.classList.remove('dark');
-                if (themeIcon) themeIcon.textContent = '☀️';
-                }
-                localStorage.setItem('theme', isDark ? 'dark' : 'light');
-                };
+                        const applyTheme = (isDark) => {
+                            if (isDark) {
+                                html.classList.add('dark');
+                                if (themeIcon) themeIcon.textContent = '🌙';
+                            } else {
+                                html.classList.remove('dark');
+                                if (themeIcon) themeIcon.textContent = '☀️';
+                            }
+                            localStorage.setItem('theme', isDark ? 'dark' : 'light');
+                        };
 
-                let storedTheme = 'light';
-                try {
-                storedTheme = localStorage.getItem('theme') || 'light';
-                } catch (error) {
-                storedTheme = html.classList.contains('dark') ? 'dark' : 'light';
-                }
-                applyTheme(storedTheme === 'dark');
+                        let storedTheme = 'light';
+                        try {
+                            storedTheme = localStorage.getItem('theme') || 'light';
+                        } catch (error) {
+                            storedTheme = html.classList.contains('dark') ? 'dark' : 'light';
+                        }
+                        applyTheme(storedTheme === 'dark');
 
-                if (themeToggle) {
-                themeToggle.addEventListener('click', () => {
-                const isDark = !html.classList.contains('dark');
-                applyTheme(isDark);
-                });
-                }
-                })();
+                        if (themeToggle) {
+                            themeToggle.addEventListener('click', () => {
+                                const isDark = !html.classList.contains('dark');
+                                applyTheme(isDark);
+                            });
+                        }
+                    })();
                 </script>
 </body>
 

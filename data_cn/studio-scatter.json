@@ -248,9 +248,9 @@
     },
     {
       "name": "SHAFT",
-      "avg_rating": 7.35,
-      "anime_count": 50,
-      "rated_count": 50
+      "avg_rating": 7.34,
+      "anime_count": 49,
+      "rated_count": 49
     },
     {
       "name": "TV\u526a\u8f91\u7248\u5236\u4f5c\u62c5\u5f53\uff1a\u77f3\u5ddd\u9054\u4e5f\u3001\u963f\u90e8\u304b\u3093\u306a\u3001\u4e45\u4fdd\u7530\u5149\u4fca\u3001\u524d\u7530\u4fca\u535a\u3001\u30d3\u30b8\u30e3\u30f3\u4e9c\u91cc\u6c99\u3001\u5ca1\u7530\u5eb7\u5f18\u3001\u4f1a\u6d25\u5b5d\u5e78\u3001\u77f3\u5ddd\u745b\u7d75",
@@ -1291,18 +1291,6 @@
       "rated_count": 1
     },
     {
-      "name": "Yostar Pictures",
-      "avg_rating": 5.85,
-      "anime_count": 4,
-      "rated_count": 4
-    },
-    {
-      "name": "Mochi Kaeri",
-      "avg_rating": 6,
-      "anime_count": 1,
-      "rated_count": 1
-    },
-    {
       "name": "Andraft",
       "avg_rating": 5.1,
       "anime_count": 1,
@@ -1339,18 +1327,6 @@
       "rated_count": 1
     },
     {
-      "name": "\u8086\u9cde\u6620\u753b",
-      "avg_rating": 5.3,
-      "anime_count": 2,
-      "rated_count": 2
-    },
-    {
-      "name": "\u91d1\u534e\u4e07\u7269\u6709\u5149\u5f71\u89c6\u4f20\u64ad\u6709\u9650\u516c\u53f8\u3001\u5317\u4eac\u5174\u827a\u51ef\u6668\u6587\u5316\u4f20\u5a92\u6709\u9650\u516c\u53f8",
-      "avg_rating": 6,
-      "anime_count": 1,
-      "rated_count": 1
-    },
-    {
       "name": "\u30c8\u30e0\u30b9\u30fb\u30a8\u30f3\u30bf\u30c6\u30a4\u30f3\u30e1\u30f3\u30c8/V1Studio",
       "avg_rating": 5.9,
       "anime_count": 1,
@@ -1365,12 +1341,6 @@
     {
       "name": "\u5236\u7247\uff1a\u677e\u8c37\u5065\u4e00\u90ce\u3001\u77f3\u5742\u7adc\u4e8c\u3001\u4e09\u6751\u96c4\u98db\u3001\u897f\u5c71\u5f18\u5fd7",
       "avg_rating": 4.5,
-      "anime_count": 1,
-      "rated_count": 1
-    },
-    {
-      "name": "\u5e7f\u5dde\u8d85\u795e\u5f71\u4e1a\u6709\u9650\u516c\u53f8",
-      "avg_rating": 5.4,
       "anime_count": 1,
       "rated_count": 1
     },
@@ -1401,12 +1371,6 @@
     {
       "name": "CHET Marketing\u3001Sony Music Labels\u3001CBC\u30c6\u30ec\u30d3",
       "avg_rating": 4.7,
-      "anime_count": 1,
-      "rated_count": 1
-    },
-    {
-      "name": "ARCUS_Anime",
-      "avg_rating": 6.6,
       "anime_count": 1,
       "rated_count": 1
     },
@@ -1491,6 +1455,12 @@
     {
       "name": "\u767d\u7d44",
       "avg_rating": 6.43,
+      "anime_count": 3,
+      "rated_count": 3
+    },
+    {
+      "name": "Yostar Pictures",
+      "avg_rating": 5.9,
       "anime_count": 3,
       "rated_count": 3
     },
@@ -2613,6 +2583,12 @@
     {
       "name": "\u5e7b\u9a6c\u7fa4\u82f1\u793e",
       "avg_rating": 5.5,
+      "anime_count": 1,
+      "rated_count": 1
+    },
+    {
+      "name": "\u8086\u9cde\u6620\u753b",
+      "avg_rating": 5.4,
       "anime_count": 1,
       "rated_count": 1
     },
@@ -8679,5 +8655,5 @@
   ],
   "mean_rating": 5.54,
   "mean_count": 1.9,
-  "total_studios": 1446
+  "total_studios": 1442
 }
