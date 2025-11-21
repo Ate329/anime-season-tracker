@@ -52,6 +52,7 @@ TRANSLATIONS = {
         'studio_rank_qty': 'Top 15 Studios by Production Volume',
         'studio_rank_qual': 'Top 15 Studios by Average Quality',
         'studio_scatter_filtered': 'Studio Performance (Filtered: 5+ Anime)',
+        'studio_scatter_filtered_10': 'Studio Performance (Filtered: 10+ Anime)',
         'popularity_rank': 'Popularity Rank',
         'score': 'Score',
         'rating_vs_popularity_title': 'Anime Rating vs Popularity',
@@ -75,6 +76,7 @@ TRANSLATIONS = {
         'studio_rank_qty': '产量 TOP 15 制作公司',
         'studio_rank_qual': '质量 TOP 15 制作公司',
         'studio_scatter_filtered': '制作公司表现（筛选：5部以上）',
+        'studio_scatter_filtered_10': '制作公司表现（筛选：10部以上）',
         'popularity_rank': '人气排名',
         'score': '评分',
         'rating_vs_popularity_title': '动画评分 vs 人气',
@@ -1152,7 +1154,17 @@ def generate_studio_scatter_filtered():
             ax.annotate(stats['studio'], 
                        xy=(stats['avg_rating'], stats['anime_count']),
                        xytext=(5, 5), textcoords='offset points',
-                       fontsize=8, alpha=0.7, fontweight='bold') 
+                       fontsize=8, alpha=0.7, fontweight='bold')
+    
+    # Labels and title
+    ax.set_xlabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['studio_count'], fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['studio_scatter_filtered'], fontsize=14, fontweight='bold', pad=20)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
+    
+    plt.tight_layout()
+    
     # Save PNG
     output_path = ASSETS_DIR / "studio-scatter-filtered.png"
     plt.savefig(output_path, dpi=150, bbox_inches='tight')
@@ -1274,7 +1286,7 @@ def generate_studio_scatter_filtered_10():
     # Labels and title
     ax.set_xlabel(TEXT['avg_rating'], fontsize=12, fontweight='bold')
     ax.set_ylabel(TEXT['studio_count'], fontsize=12, fontweight='bold')
-    ax.set_title(TEXT['studio_scatter_filtered'] + ' (10+)', fontsize=14, fontweight='bold', pad=20)
+    ax.set_title(TEXT['studio_scatter_filtered_10'], fontsize=14, fontweight='bold', pad=20)
     ax.grid(True, alpha=0.3, linestyle='--')
     ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
     
@@ -1357,6 +1369,8 @@ def generate_anime_rating_popularity_scatter():
     
     # Use log scale for Y-axis to spread out the dense top-popularity region
     ax.set_yscale('log')
+    # Invert Y-axis so lower popularity rank (more popular) appears at top
+    ax.invert_yaxis()
     
     # Plot scatter points with alpha for overlapping points
     scatter = ax.scatter(scores, popularities, alpha=0.5, s=30, c='#3b82f6', edgecolors='white', linewidth=0.5)
@@ -1380,7 +1394,15 @@ def generate_anime_rating_popularity_scatter():
         ax.annotate(anime['title'], 
                    xy=(anime['score'], anime['popularity']),
                    xytext=(5, 5), textcoords='offset points',
-                   fontsize=7, alpha=0.7, fontweight='bold') 
+                   fontsize=7, alpha=0.7, fontweight='bold')
+    
+    # Labels and title
+    ax.set_xlabel(TEXT['score'], fontsize=12, fontweight='bold')
+    ax.set_ylabel(TEXT['popularity_rank'], fontsize=12, fontweight='bold')
+    ax.set_title(TEXT['rating_vs_popularity_title'], fontsize=14, fontweight='bold', pad=20)
+    ax.grid(True, alpha=0.3, linestyle='--')
+    ax.legend(loc='upper left', fontsize=11, framealpha=0.9)
+    
     plt.tight_layout()
     
     # Save PNG
