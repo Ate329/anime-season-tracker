@@ -1060,119 +1060,352 @@ async function loadStudioScatterFiltered10() {
 }
 
 /**
- * Load and display anime rating vs popularity scatter plot
+ * Load and display genre trends percentage
  */
-async function loadAnimeRatingPopularityScatter() {
+async function loadGenreTrendsPercentage() {
     try {
-        const response = await fetch(`${dataDir}/anime-rating-popularity-scatter.json`);
+        const response = await fetch(`${dataDir}/genre-trends-percentage.json`);
         if (!response.ok) {
-            console.log('Anime rating vs popularity data not available');
-            document.getElementById('anime-rating-popularity-section').style.display = 'none';
+            console.log('Genre trends percentage data not available');
             return;
         }
 
-        const scatterData = await response.json();
+        const trendData = await response.json();
+        const ctx = document.getElementById('genre-trends-percentage-chart').getContext('2d');
         const chartColors = getChartColors();
 
-        // Update statistics
-        document.getElementById('total-rated-anime').textContent = scatterData.total_anime.toLocaleString();
-        document.getElementById('mean-anime-rating').textContent = scatterData.mean_score.toFixed(2);
-        document.getElementById('mean-anime-popularity').textContent = scatterData.mean_popularity.toFixed(1);
+        // Create datasets for each genre
+        const colors = [
+            '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
+            '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
+        ];
 
-        const ctx = document.getElementById('anime-rating-popularity-chart').getContext('2d');
-
-        const scatterPoints = scatterData.anime.map(a => ({
-            x: a.score,
-            y: a.popularity,
-            title: a.title,
-            members: a.members
+        const datasets = trendData.genres.map((genre, index) => ({
+            label: genre,
+            data: trendData.data[genre],
+            borderColor: colors[index % colors.length],
+            backgroundColor: 'transparent',
+            borderWidth: 2.5,
+            pointRadius: 3,
+            pointHoverRadius: 5,
+            tension: 0.3
         }));
 
-        animeRatingPopularityChart = new Chart(ctx, {
-            type: 'scatter',
+        genreTrendsPercentageChart = new Chart(ctx, {
+            type: 'line',
             data: {
-                datasets: [{
-                    label: '动画',
-                    data: scatterPoints,
-                    backgroundColor: 'rgba(59, 130, 246, 0.5)',
-                    borderColor: '#3b82f6',
-                    borderWidth: 1,
-                    pointRadius: 3,
-                    pointHoverRadius: 5
-                }]
+                labels: trendData.years,
+                datasets: datasets
             },
             options: {
                 responsive: true,
                 maintainAspectRatio: false,
                 plugins: {
                     legend: {
-                        display: false
-                    },
-                    title: {
                         display: true,
-                        text: '动画评分 vs 热度',
-                        font: {
-                            size: 14,
-                            weight: 'bold'
+                        position: 'right',
+                        labels: {
+                            font: {
+                                size: 11,
+                                weight: '600'
+                            },
+                            boxWidth: 12,
+                            padding: 10
                         }
                     },
                     tooltip: {
+                        mode: 'index',
+                        intersect: false,
                         backgroundColor: chartColors.tooltipBg,
                         padding: 12,
                         callbacks: {
                             label: function (context) {
-                                const point = context.raw;
-                                return point.title + ': ' + point.x.toFixed(2) + ' 分, 第 ' + point.y + ' 名';
+                                return context.dataset.label + ': ' + context.parsed.y.toFixed(2) + '%';
                             }
                         }
                     }
                 },
                 scales: {
                     x: {
-                        type: 'linear',
-                        position: 'bottom',
+                        display: true,
                         title: {
                             display: true,
-                            text: '评分',
+                            text: '年份',
                             font: {
-                                size: 12,
+                                size: 14,
                                 weight: 'bold'
                             }
                         },
-                        min: 1.0,
-                        max: 10.0
+                        ticks: {
+                            maxRotation: 45,
+                            minRotation: 45
+                        }
                     },
                     y: {
-                        type: 'logarithmic',
+                        display: true,
                         title: {
                             display: true,
-                            text: '热度排名 (越低越热门)',
+                            text: '百分比 (%)',
                             font: {
-                                size: 12,
+                                size: 14,
                                 weight: 'bold'
                             }
                         },
-                        reverse: true // Lower rank is better (top)
+                        beginAtZero: true
                     }
+                },
+                interaction: {
+                    mode: 'nearest',
+                    axis: 'x',
+                    intersect: false
                 }
             }
         });
     } catch (error) {
-        console.error('Error loading anime rating vs popularity:', error);
-        document.getElementById('anime-rating-popularity-section').style.display = 'none';
+        console.error('Error loading genre trends percentage:', error);
+    }
+}
+
+/**
+ * Load and display genre trends by season
+ */
+async function loadGenreTrendsBySeason() {
+    try {
+        const response = await fetch(`${dataDir}/genre-trends-by-season.json`);
+        if (!response.ok) {
+            console.log('Genre trends by season data not available');
+            document.getElementById('genre-trends-by-season-section').style.display = 'none';
+            return;
+        }
+
+        const trendData = await response.json();
+        const ctx = document.getElementById('genre-trends-by-season-chart').getContext('2d');
+        const chartColors = getChartColors();
+
+        // Create datasets for each genre
+        const colors = [
+            '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
+            '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
+        ];
+
+        const datasets = trendData.genres.map((genre, index) => ({
+            label: genre,
+            data: trendData.data[genre],
+            borderColor: colors[index % colors.length],
+            backgroundColor: 'transparent',
+            borderWidth: 2,
+            pointRadius: 2,
+            pointHoverRadius: 4,
+            tension: 0.3
+        }));
+
+        genreTrendsBySeasonChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: trendData.labels,
+                datasets: datasets
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: {
+                            usePointStyle: true,
+                            padding: 15,
+                            font: {
+                                size: 11
+                            }
+                        }
+                    },
+                    title: {
+                        display: false
+                    },
+                    tooltip: {
+                        mode: 'index',
+                        intersect: false,
+                        callbacks: {
+                            title: function (tooltipItems) {
+                                return tooltipItems[0].label;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: '季度',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        ticks: {
+                            maxRotation: 45,
+                            minRotation: 45,
+                            autoSkip: true,
+                            maxTicksLimit: 20
+                        }
+                    },
+                    y: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: '动画数量',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        beginAtZero: true
+                    }
+                },
+                interaction: {
+                    mode: 'nearest',
+                    axis: 'x',
+                    intersect: false
+                }
+            }
+        });
+    } catch (error) {
+        console.error('Error loading genre trends by season:', error);
+        document.getElementById('genre-trends-by-season-section').style.display = 'none';
+    }
+}
+
+/**
+ * Load and display genre trends by season percentage
+ */
+async function loadGenreTrendsBySeasonPercentage() {
+    try {
+        const response = await fetch(`${dataDir}/genre-trends-by-season-percentage.json`);
+        if (!response.ok) {
+            console.log('Genre trends by season percentage data not available');
+            return;
+        }
+
+        const trendData = await response.json();
+        const ctx = document.getElementById('genre-trends-by-season-percentage-chart').getContext('2d');
+        const chartColors = getChartColors();
+
+        // Create datasets for each genre
+        const colors = [
+            '#3b82f6', '#ef4444', '#10b981', '#f59e0b', '#8b5cf6',
+            '#ec4899', '#06b6d4', '#84cc16', '#f97316', '#6366f1'
+        ];
+
+        const datasets = trendData.genres.map((genre, index) => ({
+            label: genre,
+            data: trendData.data[genre],
+            borderColor: colors[index % colors.length],
+            backgroundColor: 'transparent',
+            borderWidth: 2,
+            pointRadius: 2,
+            pointHoverRadius: 4,
+            tension: 0.3
+        }));
+
+        genreTrendsBySeasonPercentageChart = new Chart(ctx, {
+            type: 'line',
+            data: {
+                labels: trendData.labels,
+                datasets: datasets
+            },
+            options: {
+                responsive: true,
+                maintainAspectRatio: false,
+                plugins: {
+                    legend: {
+                        position: 'top',
+                        labels: {
+                            usePointStyle: true,
+                            padding: 15,
+                            font: {
+                                size: 11
+                            }
+                        }
+                    },
+                    title: {
+                        display: false
+                    },
+                    tooltip: {
+                        mode: 'index',
+                        intersect: false,
+                        callbacks: {
+                            title: function (tooltipItems) {
+                                return tooltipItems[0].label;
+                            },
+                            label: function (context) {
+                                let label = context.dataset.label || '';
+                                if (label) {
+                                    label += ': ';
+                                }
+                                if (context.parsed.y !== null) {
+                                    label += context.parsed.y.toFixed(2) + '%';
+                                }
+                                return label;
+                            }
+                        }
+                    }
+                },
+                scales: {
+                    x: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: '季度',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        ticks: {
+                            maxRotation: 45,
+                            minRotation: 45,
+                            autoSkip: true,
+                            maxTicksLimit: 20
+                        }
+                    },
+                    y: {
+                        display: true,
+                        title: {
+                            display: true,
+                            text: '占总产量百分比 (%)',
+                            font: {
+                                size: 14,
+                                weight: 'bold'
+                            }
+                        },
+                        beginAtZero: true
+                    }
+                },
+                interaction: {
+                    mode: 'nearest',
+                    axis: 'x',
+                    intersect: false
+                }
+            }
+        });
+    } catch (error) {
+        console.error('Error loading genre trends by season percentage:', error);
     }
 }
 
 async function loadAllData() {
     loadRatingTrend();
     loadGenreTrends();
+    loadGenreTrendsPercentage();
+    loadGenreTrendsBySeason();
+    loadGenreTrendsBySeasonPercentage();
     loadProductionVolume();
     loadSeasonalPatterns();
     loadStudioRankings();
     loadStudioScatter();
     loadStudioScatterFiltered();
     loadStudioScatterFiltered10();
-    loadAnimeRatingPopularityScatter();
 }
 
 // Initial load

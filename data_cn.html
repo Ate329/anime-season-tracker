@@ -202,7 +202,8 @@
                             <span>🌐</span>
                             <span id="lang-current">中文</span>
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </button>
                         <div class="lang-dropdown-menu">
@@ -240,227 +241,52 @@
                     <div class="text-sm" style="color: var(--text-secondary);">最高季度</div>
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="grid grid-cols-1 gap-6">
-                        <div>
-                            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">绝对数量</h3>
-                            <div class="relative" style="height: 450px;">
-                                <canvas id="genre-trends-chart"></canvas>
-                            </div>
-                        </div>
-                        <div>
-                            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">占总产量的百分比</h3>
-                            <div class="relative" style="height: 450px;">
-                                <canvas id="genre-trends-percentage-chart"></canvas>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Genre Trends By Season -->
-                <div id="genre-trends-by-season-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 类型趋势随时间变化（按季度）</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">按季度追踪的十大最受欢迎动画类型，用于更细致的趋势分析</p>
-                    <div class="grid grid-cols-1 gap-6">
-                        <div>
-                            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">绝对数量</h3>
-                            <div class="relative" style="height: 450px;">
-                                <canvas id="genre-trends-by-season-chart"></canvas>
-                            </div>
-                        </div>
-                        <div>
-                            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">占总产量百分比</h3>
-                            <div class="relative" style="height: 450px;">
-                                <canvas id="genre-trends-by-season-percentage-chart"></canvas>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Production Volume -->
-                <div id="production-volume-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">📈 动画产量</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">每年制作的 TV 动画总数 - 追踪行业增长</p>
-                    <div class="relative" style="height: 400px;">
-                        <canvas id="production-volume-chart"></canvas>
-                    </div>
-                    <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-anime">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">动画总数 (2006-2026)</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-blue-600" id="avg-per-year">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">年均产量</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-green-600" id="peak-year">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">峰值年份</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Seasonal Patterns -->
-                <div id="seasonal-patterns-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🗓️ 季节性模式</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">历史数据中哪个季度评分最高、动画最多？</p>
-                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                        <div class="relative" style="height: 350px;">
-                            <canvas id="seasonal-ratings-chart"></canvas>
-                        </div>
-                        <div class="relative" style="height: 350px;">
-                            <canvas id="seasonal-counts-chart"></canvas>
-                        </div>
-                    </div>
-                    <div class="mt-4 grid grid-cols-1 sm:grid-cols-2 gap-4 text-center">
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-xl font-bold text-blue-600" id="highest-rated-season">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">评分最高季度</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-xl font-bold text-green-600" id="most-productive-season">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">产量最高季度</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Studio Rankings -->
-                <div id="studio-rankings-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🏢 制作公司排名</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">比较最多产的制作公司 vs 质量最高的制作公司</p>
-                    <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
-                        <div>
-                            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">产量 TOP 15</h3>
-                            <div class="relative" style="height: 500px;">
-                                <canvas id="studio-quantity-chart"></canvas>
-                            </div>
-                        </div>
-                        <div>
-                            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">质量 TOP 15</h3>
-                            <div class="relative" style="height: 500px;">
-                                <canvas id="studio-quality-chart"></canvas>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Studio Scatter Plot -->
-                <div id="studio-scatter-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 制作公司表现分析</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">制作公司平均评分 vs 作品数量 - 带平均参考线</p>
-                    <div class="relative" style="height: 600px;">
-                        <canvas id="studio-scatter-chart"></canvas>
-                    </div>
-                    <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios">-
-                            </div>
-                            <div class="text-sm" style="color: var(--text-secondary);">制作公司总数</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-red-600" id="mean-rating">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">平均评分</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-green-600" id="mean-count">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">平均作品数</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Studio Scatter Plot (Filtered 5+ Anime) -->
-                <div id="studio-scatter-filtered-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 制作公司表现分析 (5+ 动画)</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">筛选视图：仅显示作品数5部以上的制作公司 - 带平均参考线</p>
-                    <div class="relative" style="height: 600px;">
-                        <canvas id="studio-scatter-filtered-chart"></canvas>
-                    </div>
-                    <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold" style="color: var(--text-primary);"
-                                id="total-studios-filtered">-
-                            </div>
-                            <div class="text-sm" style="color: var(--text-secondary);">制作公司总数（5部以上）</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">平均评分</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-green-600" id="mean-count-filtered">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">平均作品数</div>
-                        </div>
-                    </div>
-                </div>
-
-                <!-- Studio Scatter Plot (Filtered 10+ Anime) -->
-                <div id="studio-scatter-filtered-10-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                    style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                    <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 制作公司表现分析 (10+ 动画)</h2>
-                    <p class="mb-6" style="color: var(--text-secondary);">聚焦视图：仅显示作品数10部以上的主要制作公司 - 带平均参考线</p>
-                    <div class="relative" style="height: 600px;">
-                        <canvas id="studio-scatter-filtered-10-chart"></canvas>
-                    </div>
-                    <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold" style="color: var(--text-primary);"
-                                id="total-studios-filtered-10">-
-                            </div>
-                            <div class="text-sm" style="color: var(--text-secondary);">制作公司总数（10部以上）</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered-10">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">平均评分</div>
-                        </div>
-                        <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                            <div class="text-2xl font-bold text-green-600" id="mean-count-filtered-10">-</div>
-                            <div class="text-sm" style="color: var(--text-secondary);">平均作品数</div>
-                        </div>
-                    </div>
-                    <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                        <div class="text-2xl font-bold text-red-600" id="mean-anime-rating">-</div>
-                        <div class="text-sm" style="color: var(--text-secondary);">平均评分</div>
-                    </div>
-                    <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                        <div class="text-2xl font-bold text-green-600" id="mean-anime-popularity">-</div>
-                        <div class="text-sm" style="color: var(--text-secondary);">平均热度排名</div>
-                    </div>
+                    <div class="text-2xl font-bold text-red-600" id="lowest-avg">-</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">最低季度</div>
                 </div>
             </div>
+        </div>
 
-            <!-- Genre Trends -->
-            <div id="genre-trends-section" class="rounded-lg p-6 mb-8 animate-fade-in"
-                style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
-                <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 类型趋势随时间变化（按年）</h2>
-                <p class="mb-6" style="color: var(--text-secondary);">十大最受欢迎的动画类型 - 绝对数量 vs 产量占比</p>
-                <div class="grid grid-cols-1 gap-6">
-                    <div>
-                        <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">绝对数量</h3>
-                        <div class="relative" style="height: 450px;">
-                            <canvas id="genre-trends-chart"></canvas>
-                        </div>
+        <!-- Genre Trends -->
+        <div id="genre-trends-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 类型趋势随时间变化（按年）</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">十大最受欢迎的动画类型 - 绝对数量 vs 产量占比</p>
+            <div class="grid grid-cols-1 gap-6">
+                <div>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">绝对数量</h3>
+                    <div class="relative" style="height: 450px;">
+                        <canvas id="genre-trends-chart"></canvas>
                     </div>
-                    <div>
-                        <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">占总产量的百分比</h3>
-                        <div class="relative" style="height: 450px;">
-                            <canvas id="genre-trends-percentage-chart"></canvas>
-                        </div>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">占总产量的百分比</h3>
+                    <div class="relative" style="height: 450px;">
+                        <canvas id="genre-trends-percentage-chart"></canvas>
                     </div>
                 </div>
             </div>
         </div>
-        <div>
-            <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">占总产量的百分比</h3>
-            <div class="relative" style="height: 450px;">
-                <canvas id="genre-trends-by-season-percentage-chart"></canvas>
+
+        <!-- Genre Trends By Season -->
+        <div id="genre-trends-by-season-section" class="rounded-lg p-6 mb-8 animate-fade-in"
+            style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
+            <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎭 类型趋势随时间变化（按季度）</h2>
+            <p class="mb-6" style="color: var(--text-secondary);">按季度追踪的十大最受欢迎动画类型，用于更细致的趋势分析</p>
+            <div class="grid grid-cols-1 gap-6">
+                <div>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">绝对数量</h3>
+                    <div class="relative" style="height: 450px;">
+                        <canvas id="genre-trends-by-season-chart"></canvas>
+                    </div>
+                </div>
+                <div>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">占总产量百分比</h3>
+                    <div class="relative" style="height: 450px;">
+                        <canvas id="genre-trends-by-season-percentage-chart"></canvas>
+                    </div>
+                </div>
             </div>
-        </div>
-        </div>
         </div>
 
         <!-- Production Volume -->
@@ -491,7 +317,7 @@
         <div id="seasonal-patterns-section" class="rounded-lg p-6 mb-8 animate-fade-in"
             style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🗓️ 季节性模式</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">历史上哪个季度的评分最高，动画最多？</p>
+            <p class="mb-6" style="color: var(--text-secondary);">历史数据中哪个季度评分最高、动画最多？</p>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <div class="relative" style="height: 350px;">
                     <canvas id="seasonal-ratings-chart"></canvas>
@@ -519,13 +345,13 @@
             <p class="mb-6" style="color: var(--text-secondary);">比较最多产的制作公司 vs 质量最高的制作公司</p>
             <div class="grid grid-cols-1 lg:grid-cols-2 gap-6">
                 <div>
-                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">产量前 15 名</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">产量 TOP 15</h3>
                     <div class="relative" style="height: 500px;">
                         <canvas id="studio-quantity-chart"></canvas>
                     </div>
                 </div>
                 <div>
-                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">平均质量前 15 名</h3>
+                    <h3 class="text-lg font-semibold mb-3" style="color: var(--text-primary);">质量 TOP 15</h3>
                     <div class="relative" style="height: 500px;">
                         <canvas id="studio-quality-chart"></canvas>
                     </div>
@@ -537,13 +363,14 @@
         <div id="studio-scatter-section" class="rounded-lg p-6 mb-8 animate-fade-in"
             style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 制作公司表现分析</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">制作公司平均评分 vs 产量 - 带有平均参考线</p>
+            <p class="mb-6" style="color: var(--text-secondary);">制作公司平均评分 vs 作品数量 - 带平均参考线</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios">-</div>
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios">-
+                    </div>
                     <div class="text-sm" style="color: var(--text-secondary);">制作公司总数</div>
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
@@ -552,7 +379,7 @@
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-green-600" id="mean-count">-</div>
-                    <div class="text-sm" style="color: var(--text-secondary);">平均产量</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">平均作品数</div>
                 </div>
             </div>
         </div>
@@ -561,16 +388,15 @@
         <div id="studio-scatter-filtered-section" class="rounded-lg p-6 mb-8 animate-fade-in"
             style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 制作公司表现分析 (5+ 动画)</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">过滤视图：仅显示制作 5 部以上动画的公司 - 带有平均参考线</p>
+            <p class="mb-6" style="color: var(--text-secondary);">筛选视图：仅显示作品数5部以上的制作公司 - 带平均参考线</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-filtered-chart"></canvas>
             </div>
             <div class="mt-4 grid grid-cols-1 sm:grid-cols-3 gap-4 text-center">
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
-                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered">
-                        -
+                    <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered">-
                     </div>
-                    <div class="text-sm" style="color: var(--text-secondary);">制作公司总数 (5+ 动画)</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">制作公司总数（5部以上）</div>
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered">-</div>
@@ -587,7 +413,7 @@
         <div id="studio-scatter-filtered-10-section" class="rounded-lg p-6 mb-8 animate-fade-in"
             style="background-color: var(--bg-secondary); border: 1px solid var(--border-color);">
             <h2 class="text-2xl font-bold mb-4" style="color: var(--text-primary);">🎯 制作公司表现分析 (10+ 动画)</h2>
-            <p class="mb-6" style="color: var(--text-secondary);">聚焦视图：仅显示制作 10 部以上动画的主要公司 - 带有平均参考线</p>
+            <p class="mb-6" style="color: var(--text-secondary);">聚焦视图：仅显示作品数10部以上的主要制作公司 - 带平均参考线</p>
             <div class="relative" style="height: 600px;">
                 <canvas id="studio-scatter-filtered-10-chart"></canvas>
             </div>
@@ -595,7 +421,7 @@
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold" style="color: var(--text-primary);" id="total-studios-filtered-10">-
                     </div>
-                    <div class="text-sm" style="color: var(--text-secondary);">制作公司总数 (10+ 动画)</div>
+                    <div class="text-sm" style="color: var(--text-secondary);">制作公司总数（10部以上）</div>
                 </div>
                 <div class="rounded-lg p-3" style="background-color: var(--bg-tertiary);">
                     <div class="text-2xl font-bold text-red-600" id="mean-rating-filtered-10">-</div>
@@ -607,7 +433,6 @@
                 </div>
             </div>
         </div>
-
     </main>
 
     <!-- Footer -->
@@ -671,10 +496,10 @@
                 e.preventDefault();
                 const targetLang = item.dataset.lang;
                 const targetPage = item.dataset.page;
-                
+
                 // Build the new URL
                 let newUrl = targetPage + '.html';
-                
+
                 // Navigate to the new page
                 window.location.href = newUrl;
             });
