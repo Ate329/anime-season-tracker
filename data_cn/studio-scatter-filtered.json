@@ -1,40 +1,10 @@
 {
   "studios": [
     {
-      "name": "\u30b9\u30bf\u30b8\u30aa\u30b3\u30e1\u30c3\u30c8",
-      "avg_rating": 6.04,
-      "anime_count": 8,
-      "rated_count": 8
-    },
-    {
       "name": "\u52dd\u9b28\u30b9\u30bf\u30b8\u30aa",
       "avg_rating": 2.54,
       "anime_count": 14,
       "rated_count": 14
-    },
-    {
-      "name": "BN Pictures",
-      "avg_rating": 6.33,
-      "anime_count": 6,
-      "rated_count": 6
-    },
-    {
-      "name": "MAPPA",
-      "avg_rating": 6.73,
-      "anime_count": 13,
-      "rated_count": 13
-    },
-    {
-      "name": "DLE",
-      "avg_rating": 3.08,
-      "anime_count": 15,
-      "rated_count": 15
-    },
-    {
-      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
-      "avg_rating": 3.81,
-      "anime_count": 10,
-      "rated_count": 10
     },
     {
       "name": "WIT STUDIO\u00d7CloverWorks",
@@ -43,34 +13,10 @@
       "rated_count": 5
     },
     {
-      "name": "\u30b5\u30f3\u30e9\u30a4\u30ba",
-      "avg_rating": 7.02,
-      "anime_count": 27,
-      "rated_count": 27
-    },
-    {
-      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
-      "avg_rating": 5.82,
-      "anime_count": 6,
-      "rated_count": 6
-    },
-    {
-      "name": "ENGI",
-      "avg_rating": 5.85,
-      "anime_count": 6,
-      "rated_count": 6
-    },
-    {
-      "name": "Seven Arcs",
-      "avg_rating": 6.58,
-      "anime_count": 8,
-      "rated_count": 8
-    },
-    {
-      "name": "ILCA",
-      "avg_rating": 5.17,
-      "anime_count": 10,
-      "rated_count": 10
+      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
+      "avg_rating": 3.51,
+      "anime_count": 7,
+      "rated_count": 7
     },
     {
       "name": "Pie in the sky",
@@ -85,46 +31,28 @@
       "rated_count": 5
     },
     {
-      "name": "PINE JAM",
-      "avg_rating": 6.23,
+      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
+      "avg_rating": 5.82,
       "anime_count": 6,
       "rated_count": 6
     },
     {
-      "name": "A-1 Pictures",
-      "avg_rating": 6.41,
-      "anime_count": 26,
-      "rated_count": 26
-    },
-    {
-      "name": "TV\u2661CHANY",
-      "avg_rating": 6.26,
-      "anime_count": 5,
-      "rated_count": 5
-    },
-    {
-      "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.25,
-      "anime_count": 39,
-      "rated_count": 39
+      "name": "ILCA",
+      "avg_rating": 5.17,
+      "anime_count": 10,
+      "rated_count": 10
     },
     {
       "name": "SHAFT",
-      "avg_rating": 7.45,
-      "anime_count": 50,
-      "rated_count": 50
+      "avg_rating": 7.46,
+      "anime_count": 49,
+      "rated_count": 49
     },
     {
-      "name": "\u30ec\u30b9\u30d7\u30ea",
-      "avg_rating": 4.36,
-      "anime_count": 5,
-      "rated_count": 5
-    },
-    {
-      "name": "ZEXCS",
-      "avg_rating": 6.09,
-      "anime_count": 9,
-      "rated_count": 9
+      "name": "DLE",
+      "avg_rating": 2.85,
+      "anime_count": 13,
+      "rated_count": 13
     },
     {
       "name": "CloverWorks",
@@ -139,16 +67,10 @@
       "rated_count": 5
     },
     {
-      "name": "WIT STUDIO",
-      "avg_rating": 6.08,
-      "anime_count": 6,
-      "rated_count": 6
-    },
-    {
-      "name": "P.A.WORKS",
-      "avg_rating": 6.89,
-      "anime_count": 9,
-      "rated_count": 9
+      "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
+      "avg_rating": 6.28,
+      "anime_count": 38,
+      "rated_count": 38
     },
     {
       "name": "\u30b5\u30f3\u30b8\u30b2\u30f3",
@@ -211,6 +133,12 @@
       "rated_count": 12
     },
     {
+      "name": "WIT STUDIO",
+      "avg_rating": 6.28,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
       "name": "OLM TEAM INOUE",
       "avg_rating": 6.1,
       "anime_count": 7,
@@ -221,6 +149,12 @@
       "avg_rating": 6.63,
       "anime_count": 11,
       "rated_count": 11
+    },
+    {
+      "name": "\u30b5\u30f3\u30e9\u30a4\u30ba",
+      "avg_rating": 7.07,
+      "anime_count": 26,
+      "rated_count": 26
     },
     {
       "name": "\u671d\u65e5\u653e\u9001\u30c6\u30ec\u30d3\u3001ABC\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001\u30a2\u30b5\u30c4\u30fc \u30c7\u30a3\u30fb\u30b1\u30a4\u3001\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
@@ -247,6 +181,12 @@
       "rated_count": 8
     },
     {
+      "name": "A-1 Pictures",
+      "avg_rating": 6.42,
+      "anime_count": 25,
+      "rated_count": 25
+    },
+    {
       "name": "project No.9",
       "avg_rating": 5.4,
       "anime_count": 5,
@@ -269,6 +209,18 @@
       "avg_rating": 4.5,
       "anime_count": 6,
       "rated_count": 6
+    },
+    {
+      "name": "PINE JAM",
+      "avg_rating": 6.42,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "MAPPA",
+      "avg_rating": 6.63,
+      "anime_count": 11,
+      "rated_count": 11
     },
     {
       "name": "OLM",
@@ -301,6 +253,12 @@
       "rated_count": 7
     },
     {
+      "name": "Seven Arcs",
+      "avg_rating": 6.6,
+      "anime_count": 7,
+      "rated_count": 7
+    },
+    {
       "name": "\u30ce\u30fc\u30de\u30c3\u30c9",
       "avg_rating": 6.47,
       "anime_count": 8,
@@ -329,6 +287,18 @@
       "avg_rating": 7.22,
       "anime_count": 13,
       "rated_count": 13
+    },
+    {
+      "name": "\u30b9\u30bf\u30b8\u30aa\u30b3\u30e1\u30c3\u30c8",
+      "avg_rating": 6.03,
+      "anime_count": 7,
+      "rated_count": 7
+    },
+    {
+      "name": "P.A.WORKS",
+      "avg_rating": 6.97,
+      "anime_count": 8,
+      "rated_count": 8
     },
     {
       "name": "\u30b9\u30bf\u30b8\u30aa\u30c7\u30a3\u30fc\u30f3",
@@ -371,6 +341,12 @@
       "avg_rating": 6.69,
       "anime_count": 9,
       "rated_count": 9
+    },
+    {
+      "name": "ENGI",
+      "avg_rating": 5.82,
+      "anime_count": 5,
+      "rated_count": 5
     },
     {
       "name": "\u304e\u3083\u308d\u3063\u3077",
@@ -523,6 +499,12 @@
       "rated_count": 9
     },
     {
+      "name": "ZEXCS",
+      "avg_rating": 6.39,
+      "anime_count": 8,
+      "rated_count": 8
+    },
+    {
       "name": "Manglobe",
       "avg_rating": 6.94,
       "anime_count": 5,
@@ -541,8 +523,8 @@
       "rated_count": 5
     }
   ],
-  "mean_rating": 6.18,
+  "mean_rating": 6.2,
   "mean_count": 11.3,
-  "total_studios": 90,
+  "total_studios": 87,
   "min_anime_count": 5
 }

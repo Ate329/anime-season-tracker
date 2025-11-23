@@ -7,52 +7,28 @@
       "rated_count": 14
     },
     {
-      "name": "MAPPA",
-      "avg_rating": 6.73,
-      "anime_count": 13,
-      "rated_count": 13
-    },
-    {
-      "name": "DLE",
-      "avg_rating": 3.08,
-      "anime_count": 15,
-      "rated_count": 15
-    },
-    {
-      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
-      "avg_rating": 3.81,
-      "anime_count": 10,
-      "rated_count": 10
-    },
-    {
-      "name": "\u30b5\u30f3\u30e9\u30a4\u30ba",
-      "avg_rating": 7.02,
-      "anime_count": 27,
-      "rated_count": 27
-    },
-    {
       "name": "ILCA",
       "avg_rating": 5.17,
       "anime_count": 10,
       "rated_count": 10
     },
     {
-      "name": "A-1 Pictures",
-      "avg_rating": 6.41,
-      "anime_count": 26,
-      "rated_count": 26
+      "name": "SHAFT",
+      "avg_rating": 7.46,
+      "anime_count": 49,
+      "rated_count": 49
+    },
+    {
+      "name": "DLE",
+      "avg_rating": 2.85,
+      "anime_count": 13,
+      "rated_count": 13
     },
     {
       "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.25,
-      "anime_count": 39,
-      "rated_count": 39
-    },
-    {
-      "name": "SHAFT",
-      "avg_rating": 7.45,
-      "anime_count": 50,
-      "rated_count": 50
+      "avg_rating": 6.28,
+      "anime_count": 38,
+      "rated_count": 38
     },
     {
       "name": "NHK\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
@@ -85,16 +61,34 @@
       "rated_count": 11
     },
     {
+      "name": "\u30b5\u30f3\u30e9\u30a4\u30ba",
+      "avg_rating": 7.07,
+      "anime_count": 26,
+      "rated_count": 26
+    },
+    {
       "name": "\u30a8\u30f3\u30ab\u30ec\u30c3\u30b8\u30d5\u30a3\u30eb\u30e0\u30ba\uff08\u9d72\uff09",
       "avg_rating": 6.03,
       "anime_count": 11,
       "rated_count": 11
     },
     {
+      "name": "A-1 Pictures",
+      "avg_rating": 6.42,
+      "anime_count": 25,
+      "rated_count": 25
+    },
+    {
       "name": "SILVER LINK.",
       "avg_rating": 6.76,
       "anime_count": 26,
       "rated_count": 26
+    },
+    {
+      "name": "MAPPA",
+      "avg_rating": 6.63,
+      "anime_count": 11,
+      "rated_count": 11
     },
     {
       "name": "MADHOUSE",
@@ -199,8 +193,8 @@
       "rated_count": 14
     }
   ],
-  "mean_rating": 6.22,
-  "mean_count": 19.0,
-  "total_studios": 33,
+  "mean_rating": 6.29,
+  "mean_count": 19.1,
+  "total_studios": 32,
   "min_anime_count": 10
 }
