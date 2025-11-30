@@ -92,7 +92,7 @@
     },
     {
       "name": "Sunrise",
-      "avg_rating": 7.26,
+      "avg_rating": 7.25,
       "anime_count": 78,
       "rated_count": 78
     },
@@ -386,7 +386,7 @@
     },
     {
       "name": "Kachidoki Studio",
-      "avg_rating": 5.63,
+      "avg_rating": 5.62,
       "anime_count": 33,
       "rated_count": 9
     },
@@ -650,7 +650,7 @@
     },
     {
       "name": "Pie in the sky",
-      "avg_rating": 6.56,
+      "avg_rating": 6.55,
       "anime_count": 10,
       "rated_count": 7
     },
@@ -674,7 +674,7 @@
     },
     {
       "name": "Millepensee",
-      "avg_rating": 6.61,
+      "avg_rating": 6.6,
       "anime_count": 16,
       "rated_count": 16
     },
@@ -764,7 +764,7 @@
     },
     {
       "name": "Studio A-CAT",
-      "avg_rating": 6.11,
+      "avg_rating": 6.1,
       "anime_count": 11,
       "rated_count": 11
     },
@@ -806,7 +806,7 @@
     },
     {
       "name": "Studio PuYUKAI",
-      "avg_rating": 7.03,
+      "avg_rating": 7.02,
       "anime_count": 6,
       "rated_count": 6
     },
@@ -842,7 +842,7 @@
     },
     {
       "name": "CygamesPictures",
-      "avg_rating": 7.75,
+      "avg_rating": 7.76,
       "anime_count": 9,
       "rated_count": 9
     },
@@ -866,13 +866,13 @@
     },
     {
       "name": "Bibury Animation Studios",
-      "avg_rating": 7.0,
+      "avg_rating": 6.99,
       "anime_count": 9,
       "rated_count": 9
     },
     {
       "name": "Drive",
-      "avg_rating": 7.37,
+      "avg_rating": 7.36,
       "anime_count": 8,
       "rated_count": 8
     },
@@ -944,7 +944,7 @@
     },
     {
       "name": "Staple Entertainment",
-      "avg_rating": 6.41,
+      "avg_rating": 6.4,
       "anime_count": 6,
       "rated_count": 6
     },
@@ -962,7 +962,7 @@
     },
     {
       "name": "Gekkou",
-      "avg_rating": 6.41,
+      "avg_rating": 6.4,
       "anime_count": 6,
       "rated_count": 6
     },
@@ -974,13 +974,13 @@
     },
     {
       "name": "Imagica Infos",
-      "avg_rating": 6.16,
+      "avg_rating": 6.15,
       "anime_count": 8,
       "rated_count": 7
     },
     {
       "name": "Imageworks Studio",
-      "avg_rating": 6.0,
+      "avg_rating": 5.99,
       "anime_count": 10,
       "rated_count": 8
     }

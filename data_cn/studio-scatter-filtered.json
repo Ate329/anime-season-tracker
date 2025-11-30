@@ -1,16 +1,28 @@
 {
   "studios": [
     {
+      "name": "WIT STUDIO\u00d7CloverWorks",
+      "avg_rating": 7.16,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
       "name": "\u52dd\u9b28\u30b9\u30bf\u30b8\u30aa",
       "avg_rating": 2.54,
       "anime_count": 14,
       "rated_count": 14
     },
     {
-      "name": "WIT STUDIO\u00d7CloverWorks",
-      "avg_rating": 7.16,
-      "anime_count": 5,
-      "rated_count": 5
+      "name": "ILCA",
+      "avg_rating": 5.17,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
+      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
+      "avg_rating": 5.82,
+      "anime_count": 6,
+      "rated_count": 6
     },
     {
       "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
@@ -31,34 +43,10 @@
       "rated_count": 5
     },
     {
-      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
-      "avg_rating": 5.82,
-      "anime_count": 6,
-      "rated_count": 6
-    },
-    {
-      "name": "ILCA",
-      "avg_rating": 5.17,
-      "anime_count": 10,
-      "rated_count": 10
-    },
-    {
-      "name": "SHAFT",
-      "avg_rating": 7.46,
-      "anime_count": 49,
-      "rated_count": 49
-    },
-    {
       "name": "DLE",
       "avg_rating": 2.85,
       "anime_count": 13,
       "rated_count": 13
-    },
-    {
-      "name": "CloverWorks",
-      "avg_rating": 5.62,
-      "anime_count": 9,
-      "rated_count": 9
     },
     {
       "name": "Quad(JFK)",
@@ -67,16 +55,28 @@
       "rated_count": 5
     },
     {
-      "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.28,
-      "anime_count": 38,
-      "rated_count": 38
+      "name": "CloverWorks",
+      "avg_rating": 5.62,
+      "anime_count": 9,
+      "rated_count": 9
+    },
+    {
+      "name": "SHAFT",
+      "avg_rating": 7.46,
+      "anime_count": 49,
+      "rated_count": 49
     },
     {
       "name": "\u30b5\u30f3\u30b8\u30b2\u30f3",
       "avg_rating": 6.17,
       "anime_count": 8,
       "rated_count": 8
+    },
+    {
+      "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
+      "avg_rating": 6.28,
+      "anime_count": 38,
+      "rated_count": 38
     },
     {
       "name": "NHK\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",
