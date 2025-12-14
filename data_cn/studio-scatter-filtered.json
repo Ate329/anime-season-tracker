@@ -1,16 +1,22 @@
 {
   "studios": [
     {
+      "name": "\u52dd\u9b28\u30b9\u30bf\u30b8\u30aa",
+      "avg_rating": 2.54,
+      "anime_count": 14,
+      "rated_count": 14
+    },
+    {
       "name": "WIT STUDIO\u00d7CloverWorks",
       "avg_rating": 7.16,
       "anime_count": 5,
       "rated_count": 5
     },
     {
-      "name": "\u52dd\u9b28\u30b9\u30bf\u30b8\u30aa",
-      "avg_rating": 2.54,
-      "anime_count": 14,
-      "rated_count": 14
+      "name": "A-1 Pictures",
+      "avg_rating": 6.49,
+      "anime_count": 26,
+      "rated_count": 26
     },
     {
       "name": "ILCA",
@@ -31,22 +37,22 @@
       "rated_count": 6
     },
     {
-      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
-      "avg_rating": 3.51,
-      "anime_count": 7,
-      "rated_count": 7
-    },
-    {
       "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
       "avg_rating": 5.82,
       "anime_count": 6,
       "rated_count": 6
     },
     {
-      "name": "CloverWorks",
-      "avg_rating": 5.62,
-      "anime_count": 9,
-      "rated_count": 9
+      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
+      "avg_rating": 3.51,
+      "anime_count": 7,
+      "rated_count": 7
+    },
+    {
+      "name": "SHAFT",
+      "avg_rating": 7.46,
+      "anime_count": 49,
+      "rated_count": 49
     },
     {
       "name": "DLE",
@@ -55,10 +61,10 @@
       "rated_count": 13
     },
     {
-      "name": "SHAFT",
-      "avg_rating": 7.46,
-      "anime_count": 49,
-      "rated_count": 49
+      "name": "CloverWorks",
+      "avg_rating": 5.62,
+      "anime_count": 9,
+      "rated_count": 9
     },
     {
       "name": "Quad(JFK)",
@@ -68,7 +74,7 @@
     },
     {
       "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.28,
+      "avg_rating": 6.27,
       "anime_count": 38,
       "rated_count": 38
     },
@@ -179,12 +185,6 @@
       "avg_rating": 6.06,
       "anime_count": 8,
       "rated_count": 8
-    },
-    {
-      "name": "A-1 Pictures",
-      "avg_rating": 6.42,
-      "anime_count": 25,
-      "rated_count": 25
     },
     {
       "name": "project No.9",

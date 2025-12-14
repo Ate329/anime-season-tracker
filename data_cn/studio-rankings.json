@@ -13,7 +13,7 @@
     {
       "studio": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
       "count": 38,
-      "avg_score": 6.28
+      "avg_score": 6.27
     },
     {
       "studio": "Production I.G",
@@ -26,6 +26,11 @@
       "avg_score": 6.86
     },
     {
+      "studio": "A-1 Pictures",
+      "count": 26,
+      "avg_score": 6.49
+    },
+    {
       "studio": "\u30b5\u30f3\u30e9\u30a4\u30ba",
       "count": 26,
       "avg_score": 7.07
@@ -34,11 +39,6 @@
       "studio": "SILVER LINK.",
       "count": 26,
       "avg_score": 6.76
-    },
-    {
-      "studio": "A-1 Pictures",
-      "count": 25,
-      "avg_score": 6.42
     },
     {
       "studio": "NHK\u30a8\u30f3\u30bf\u30fc\u30d7\u30e9\u30a4\u30ba",

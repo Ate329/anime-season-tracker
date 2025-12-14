@@ -7,16 +7,16 @@
       "rated_count": 14
     },
     {
+      "name": "A-1 Pictures",
+      "avg_rating": 6.49,
+      "anime_count": 26,
+      "rated_count": 26
+    },
+    {
       "name": "ILCA",
       "avg_rating": 5.17,
       "anime_count": 10,
       "rated_count": 10
-    },
-    {
-      "name": "DLE",
-      "avg_rating": 2.85,
-      "anime_count": 13,
-      "rated_count": 13
     },
     {
       "name": "SHAFT",
@@ -25,8 +25,14 @@
       "rated_count": 49
     },
     {
+      "name": "DLE",
+      "avg_rating": 2.85,
+      "anime_count": 13,
+      "rated_count": 13
+    },
+    {
       "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.28,
+      "avg_rating": 6.27,
       "anime_count": 38,
       "rated_count": 38
     },
@@ -71,12 +77,6 @@
       "avg_rating": 6.03,
       "anime_count": 11,
       "rated_count": 11
-    },
-    {
-      "name": "A-1 Pictures",
-      "avg_rating": 6.42,
-      "anime_count": 25,
-      "rated_count": 25
     },
     {
       "name": "SILVER LINK.",
