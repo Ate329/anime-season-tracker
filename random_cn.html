@@ -223,6 +223,40 @@
             background-color: var(--bg-tertiary);
             font-weight: 600;
         }
+
+        /* Button styles with dark mode support */
+        .btn-primary {
+            background-color: #1f2937;
+            color: #ffffff;
+            transition: all 0.2s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #374151;
+        }
+
+        .dark .btn-primary {
+            background-color: #e5e7eb;
+            color: #1f2937;
+        }
+
+        .dark .btn-primary:hover {
+            background-color: #f3f4f6;
+        }
+
+        .btn-secondary {
+            background-color: var(--bg-tertiary);
+            color: var(--text-primary);
+            transition: all 0.2s ease;
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--border-color-light);
+        }
+
+        .dark .btn-secondary:hover {
+            background-color: #4b5563;
+        }
     </style>
 </head>
 
@@ -248,7 +282,7 @@
                         style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         数据
                     </a>
-                    <a href="random_cn.html" class="px-4 py-2 bg-gray-900 text-white rounded-lg font-medium shadow-sm">
+                    <a href="random_cn.html" class="px-4 py-2 rounded-lg font-medium shadow-sm btn-primary">
                         随机
                     </a>
                     <div class="lang-dropdown" id="lang-dropdown">
@@ -256,7 +290,8 @@
                             <span>🌐</span>
                             <span id="lang-current">中文</span>
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </button>
                         <div class="lang-dropdown-menu">
@@ -348,10 +383,9 @@
                             <!-- Mode Toggle -->
                             <div class="flex rounded-md overflow-hidden border"
                                 style="border-color: var(--border-color);">
-                                <button id="filter-mode-or"
-                                    class="px-3 py-1 text-xs font-bold bg-gray-900 text-white transition-colors">任意</button>
+                                <button id="filter-mode-or" class="px-3 py-1 text-xs font-bold btn-primary">任意</button>
                                 <button id="filter-mode-and"
-                                    class="px-3 py-1 text-xs font-bold bg-gray-100 text-gray-600 hover:bg-gray-200 transition-colors">所有</button>
+                                    class="px-3 py-1 text-xs font-bold btn-secondary">所有</button>
                             </div>
                         </div>
                         <p id="filter-mode-description" class="text-xs mb-3 hidden"></p>
@@ -371,7 +405,7 @@
                 <div class="p-6 bg-gray-50 dark:bg-gray-800/30 border-t text-center"
                     style="border-color: var(--border-color);">
                     <button id="get-random-anime"
-                        class="px-10 py-3.5 bg-gray-900 text-white font-bold text-lg rounded-lg hover:bg-gray-800 transition-all transform hover:scale-105 shadow-md hover:shadow-lg active:scale-95">
+                        class="px-10 py-3.5 font-bold text-lg rounded-lg transition-all transform hover:scale-105 shadow-md hover:shadow-lg active:scale-95 btn-primary">
                         🎲 寻找随机动画
                     </button>
                 </div>
@@ -403,7 +437,7 @@
                 <!-- Action Buttons -->
                 <div class="mt-8 flex gap-4 justify-center">
                     <button id="get-another-random"
-                        class="px-8 py-3 bg-gray-900 text-white font-bold rounded-lg hover:bg-gray-800 shadow-md transition-all transform hover:scale-105 active:scale-95">
+                        class="px-8 py-3 font-bold rounded-lg shadow-md transition-all transform hover:scale-105 active:scale-95 btn-primary">
                         🔄 再来一次
                     </button>
                 </div>
@@ -465,10 +499,10 @@
                                 e.preventDefault();
                                 const targetLang = item.dataset.lang;
                                 const targetPage = item.dataset.page;
-                                
+
                                 // Build the new URL
                                 let newUrl = targetPage + '.html';
-                                
+
                                 // Navigate to the new page
                                 window.location.href = newUrl;
                             });

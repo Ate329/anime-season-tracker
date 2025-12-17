@@ -422,6 +422,40 @@
             background-color: var(--bg-tertiary);
             font-weight: 600;
         }
+
+        /* Button styles with dark mode support */
+        .btn-primary {
+            background-color: #1f2937;
+            color: #ffffff;
+            transition: all 0.2s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #374151;
+        }
+
+        .dark .btn-primary {
+            background-color: #e5e7eb;
+            color: #1f2937;
+        }
+
+        .dark .btn-primary:hover {
+            background-color: #f3f4f6;
+        }
+
+        .btn-secondary {
+            background-color: var(--bg-tertiary);
+            color: var(--text-primary);
+            transition: all 0.2s ease;
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--border-color-light);
+        }
+
+        .dark .btn-secondary:hover {
+            background-color: #4b5563;
+        }
     </style>
 </head>
 
@@ -436,8 +470,7 @@
                     <p class="mt-1" style="color: var(--text-secondary);">按季节发现和追踪 TV 动画 • 每周自动更新</p>
                 </div>
                 <nav class="flex gap-3 items-center">
-                    <a href="index_cn.html"
-                        class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                    <a href="index_cn.html" class="px-4 py-2 rounded-lg transition-colors btn-primary">
                         首页
                     </a>
                     <a href="data_cn.html" class="px-4 py-2 rounded-lg transition-colors"
@@ -453,7 +486,8 @@
                             <span>🌐</span>
                             <span id="lang-current">中文</span>
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </button>
                         <div class="lang-dropdown-menu">
@@ -767,13 +801,13 @@
                 const targetLang = item.dataset.lang;
                 const targetPage = item.dataset.page;
                 const currentHash = window.location.hash;
-                
+
                 // Build the new URL
                 let newUrl = targetPage + '.html';
                 if (currentHash) {
                     newUrl += currentHash;
                 }
-                
+
                 // Navigate to the new page
                 window.location.href = newUrl;
             });

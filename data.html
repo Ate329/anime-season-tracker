@@ -171,6 +171,40 @@
             background-color: var(--bg-tertiary);
             font-weight: 600;
         }
+
+        /* Button styles with dark mode support */
+        .btn-primary {
+            background-color: #1f2937;
+            color: #ffffff;
+            transition: all 0.2s ease;
+        }
+
+        .btn-primary:hover {
+            background-color: #374151;
+        }
+
+        .dark .btn-primary {
+            background-color: #e5e7eb;
+            color: #1f2937;
+        }
+
+        .dark .btn-primary:hover {
+            background-color: #f3f4f6;
+        }
+
+        .btn-secondary {
+            background-color: var(--bg-tertiary);
+            color: var(--text-primary);
+            transition: all 0.2s ease;
+        }
+
+        .btn-secondary:hover {
+            background-color: var(--border-color-light);
+        }
+
+        .dark .btn-secondary:hover {
+            background-color: #4b5563;
+        }
     </style>
 </head>
 
@@ -190,8 +224,7 @@
                         style="background-color: var(--bg-tertiary); color: var(--text-primary);">
                         Home
                     </a>
-                    <a href="data.html"
-                        class="px-4 py-2 bg-gray-900 text-white rounded-lg hover:bg-gray-700 transition-colors">
+                    <a href="data.html" class="px-4 py-2 rounded-lg transition-colors btn-primary">
                         Data
                     </a>
                     <a href="random.html" class="px-4 py-2 rounded-lg transition-colors"
@@ -203,7 +236,8 @@
                             <span>🌐</span>
                             <span id="lang-current">English</span>
                             <svg class="w-4 h-4" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M19 9l-7 7-7-7"></path>
+                                <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
+                                    d="M19 9l-7 7-7-7"></path>
                             </svg>
                         </button>
                         <div class="lang-dropdown-menu">
@@ -539,10 +573,10 @@
                 e.preventDefault();
                 const targetLang = item.dataset.lang;
                 const targetPage = item.dataset.page;
-                
+
                 // Build the new URL
                 let newUrl = targetPage + '.html';
-                
+
                 // Navigate to the new page
                 window.location.href = newUrl;
             });
