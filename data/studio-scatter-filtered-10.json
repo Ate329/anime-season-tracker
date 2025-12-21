@@ -98,7 +98,7 @@
     },
     {
       "name": "Gonzo",
-      "avg_rating": 6.78,
+      "avg_rating": 6.77,
       "anime_count": 44,
       "rated_count": 44
     },
@@ -134,7 +134,7 @@
     },
     {
       "name": "SynergySP",
-      "avg_rating": 7.08,
+      "avg_rating": 7.1,
       "anime_count": 29,
       "rated_count": 29
     },
@@ -164,13 +164,13 @@
     },
     {
       "name": "DLE",
-      "avg_rating": 5.78,
+      "avg_rating": 5.79,
       "anime_count": 77,
       "rated_count": 46
     },
     {
       "name": "Tatsunoko Production",
-      "avg_rating": 6.69,
+      "avg_rating": 6.7,
       "anime_count": 38,
       "rated_count": 36
     },
@@ -236,7 +236,7 @@
     },
     {
       "name": "Ajia-do",
-      "avg_rating": 7.15,
+      "avg_rating": 7.16,
       "anime_count": 17,
       "rated_count": 17
     },
@@ -284,7 +284,7 @@
     },
     {
       "name": "P.A. Works",
-      "avg_rating": 7.28,
+      "avg_rating": 7.27,
       "anime_count": 36,
       "rated_count": 36
     },
@@ -446,7 +446,7 @@
     },
     {
       "name": "Fanworks",
-      "avg_rating": 6.57,
+      "avg_rating": 6.56,
       "anime_count": 35,
       "rated_count": 18
     },
@@ -512,7 +512,7 @@
     },
     {
       "name": "Pie in the sky",
-      "avg_rating": 6.57,
+      "avg_rating": 6.56,
       "anime_count": 10,
       "rated_count": 7
     },
@@ -608,18 +608,18 @@
     },
     {
       "name": "Studio KAI",
-      "avg_rating": 7.35,
+      "avg_rating": 7.37,
       "anime_count": 11,
       "rated_count": 11
     },
     {
       "name": "Imageworks Studio",
-      "avg_rating": 5.99,
+      "avg_rating": 6.13,
       "anime_count": 10,
       "rated_count": 8
     }
   ],
-  "mean_rating": 6.89,
+  "mean_rating": 6.9,
   "mean_count": 30.3,
   "total_studios": 103,
   "min_anime_count": 10

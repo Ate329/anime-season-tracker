@@ -122,7 +122,7 @@
     },
     {
       "name": "Gonzo",
-      "avg_rating": 6.78,
+      "avg_rating": 6.77,
       "anime_count": 44,
       "rated_count": 44
     },
@@ -158,7 +158,7 @@
     },
     {
       "name": "SynergySP",
-      "avg_rating": 7.08,
+      "avg_rating": 7.1,
       "anime_count": 29,
       "rated_count": 29
     },
@@ -188,13 +188,13 @@
     },
     {
       "name": "DLE",
-      "avg_rating": 5.78,
+      "avg_rating": 5.79,
       "anime_count": 77,
       "rated_count": 46
     },
     {
       "name": "Tatsunoko Production",
-      "avg_rating": 6.69,
+      "avg_rating": 6.7,
       "anime_count": 38,
       "rated_count": 36
     },
@@ -272,7 +272,7 @@
     },
     {
       "name": "Ajia-do",
-      "avg_rating": 7.15,
+      "avg_rating": 7.16,
       "anime_count": 17,
       "rated_count": 17
     },
@@ -326,7 +326,7 @@
     },
     {
       "name": "P.A. Works",
-      "avg_rating": 7.28,
+      "avg_rating": 7.27,
       "anime_count": 36,
       "rated_count": 36
     },
@@ -542,7 +542,7 @@
     },
     {
       "name": "Fanworks",
-      "avg_rating": 6.57,
+      "avg_rating": 6.56,
       "anime_count": 35,
       "rated_count": 18
     },
@@ -650,7 +650,7 @@
     },
     {
       "name": "Pie in the sky",
-      "avg_rating": 6.57,
+      "avg_rating": 6.56,
       "anime_count": 10,
       "rated_count": 7
     },
@@ -680,7 +680,7 @@
     },
     {
       "name": "Studio VOLN",
-      "avg_rating": 7.03,
+      "avg_rating": 7.02,
       "anime_count": 9,
       "rated_count": 9
     },
@@ -800,7 +800,7 @@
     },
     {
       "name": "Studio Flad",
-      "avg_rating": 6.87,
+      "avg_rating": 6.9,
       "anime_count": 5,
       "rated_count": 5
     },
@@ -842,7 +842,7 @@
     },
     {
       "name": "CygamesPictures",
-      "avg_rating": 7.76,
+      "avg_rating": 7.77,
       "anime_count": 9,
       "rated_count": 9
     },
@@ -878,7 +878,7 @@
     },
     {
       "name": "Science SARU",
-      "avg_rating": 7.49,
+      "avg_rating": 7.51,
       "anime_count": 7,
       "rated_count": 7
     },
@@ -908,13 +908,13 @@
     },
     {
       "name": "Studio KAI",
-      "avg_rating": 7.35,
+      "avg_rating": 7.37,
       "anime_count": 11,
       "rated_count": 11
     },
     {
       "name": "domerica",
-      "avg_rating": 6.57,
+      "avg_rating": 6.58,
       "anime_count": 5,
       "rated_count": 5
     },
@@ -933,7 +933,7 @@
     {
       "name": "studio MOTHER",
       "avg_rating": 7.4,
-      "anime_count": 5,
+      "anime_count": 6,
       "rated_count": 5
     },
     {
@@ -962,7 +962,7 @@
     },
     {
       "name": "Gekkou",
-      "avg_rating": 6.4,
+      "avg_rating": 6.42,
       "anime_count": 6,
       "rated_count": 6
     },
@@ -974,18 +974,18 @@
     },
     {
       "name": "Imagica Infos",
-      "avg_rating": 6.14,
+      "avg_rating": 6.31,
       "anime_count": 8,
       "rated_count": 7
     },
     {
       "name": "Imageworks Studio",
-      "avg_rating": 5.99,
+      "avg_rating": 6.13,
       "anime_count": 10,
       "rated_count": 8
     }
   ],
-  "mean_rating": 6.83,
+  "mean_rating": 6.84,
   "mean_count": 21.6,
   "total_studios": 164,
   "min_anime_count": 5

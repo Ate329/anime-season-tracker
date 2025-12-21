@@ -2,15 +2,9 @@
   "studios": [
     {
       "name": "\u52dd\u9b28\u30b9\u30bf\u30b8\u30aa",
-      "avg_rating": 2.54,
+      "avg_rating": 2.56,
       "anime_count": 14,
       "rated_count": 14
-    },
-    {
-      "name": "WIT STUDIO\u00d7CloverWorks",
-      "avg_rating": 7.16,
-      "anime_count": 5,
-      "rated_count": 5
     },
     {
       "name": "A-1 Pictures",
@@ -19,10 +13,16 @@
       "rated_count": 26
     },
     {
-      "name": "ILCA",
-      "avg_rating": 5.17,
-      "anime_count": 10,
-      "rated_count": 10
+      "name": "WIT STUDIO\u00d7CloverWorks",
+      "avg_rating": 7.16,
+      "anime_count": 5,
+      "rated_count": 5
+    },
+    {
+      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
+      "avg_rating": 5.83,
+      "anime_count": 6,
+      "rated_count": 6
     },
     {
       "name": "OLM Team Yoshioka",
@@ -31,22 +31,28 @@
       "rated_count": 5
     },
     {
+      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
+      "avg_rating": 3.51,
+      "anime_count": 7,
+      "rated_count": 7
+    },
+    {
+      "name": "ILCA",
+      "avg_rating": 5.17,
+      "anime_count": 10,
+      "rated_count": 10
+    },
+    {
       "name": "Pie in the sky",
       "avg_rating": 7.28,
       "anime_count": 6,
       "rated_count": 6
     },
     {
-      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
-      "avg_rating": 5.82,
-      "anime_count": 6,
-      "rated_count": 6
-    },
-    {
-      "name": "\u30d5\u30a1\u30f3\u30ef\u30fc\u30af\u30b9",
-      "avg_rating": 3.51,
-      "anime_count": 7,
-      "rated_count": 7
+      "name": "Quad(JFK)",
+      "avg_rating": 5.06,
+      "anime_count": 5,
+      "rated_count": 5
     },
     {
       "name": "SHAFT",
@@ -55,22 +61,16 @@
       "rated_count": 49
     },
     {
-      "name": "DLE",
-      "avg_rating": 2.85,
-      "anime_count": 13,
-      "rated_count": 13
-    },
-    {
       "name": "CloverWorks",
       "avg_rating": 5.62,
       "anime_count": 9,
       "rated_count": 9
     },
     {
-      "name": "Quad(JFK)",
-      "avg_rating": 5.06,
-      "anime_count": 5,
-      "rated_count": 5
+      "name": "DLE",
+      "avg_rating": 2.85,
+      "anime_count": 13,
+      "rated_count": 13
     },
     {
       "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
