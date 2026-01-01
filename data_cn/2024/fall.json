@@ -1,33 +1,564 @@
 [
   {
-    "mal_id": 522359,
-    "title": "机动战士高达 ALC ENCOUNTER",
-    "title_japanese": "機動戦士ガンダム ALC ENCOUNTER",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/dd/c9/522359_BGF78.jpg",
-    "synopsis": "閉館間際で静まり返るモール。とある女性の声に惹かれ、宿命の二人が邂逅（かいこう）を果たす。決着をつけるべく争う二人の情動は、展示されていた1/12サイズのνガンダム、サザビー立像を呼び覚まし、やがて館内での熾烈な戦いへと発展する。そして激戦を彩るように踊る謎の女性は一体……。\r\n\r\n「誰も見たことがないガンダム」をテーマに、「ららぽーと福岡」を舞台としたスペシャルアニメーション。2人組バンドilliomoteによるリズミカルな楽曲「HOT」と、ダンスシーンにも注目。",
-    "score": 4.1,
-    "scored_by": 95,
-    "rank": 9332,
+    "mal_id": 443676,
+    "title": "夏目友人帐 柒",
+    "title_japanese": "夏目友人帳 漆",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/05/aa/443676_6GFsu.jpg",
+    "synopsis": "心優しき友人たちとの、大切な日々──\r\n美しく儚き、人と妖の物語。\r\n\r\n小さい頃から妖怪を見ることができた少年・夏目貴志は、\r\n祖母レイコの遺産「友人帳」を受け継ぎ、\r\n自称用心棒のニャンコ先生と共に、\r\nそこに名を縛られた妖怪たちに名を返す日々を送る。\r\n\r\n妖と、そこに関わる人との触れ合いを通して、\r\n自分の進むべき道を模索し始めた夏目は、\r\n想いを共有できる友人たちにも助けられながら、\r\n大切な日々を守るすべを見つけていこうとする。",
+    "score": 7.8,
+    "scored_by": 1608,
+    "rank": 391,
     "popularity": 0,
-    "members": 210,
+    "members": 5137,
     "genres": [
-      "喜剧",
       "奇幻",
-      "机战",
-      "百合",
-      "科幻"
+      "日常",
+      "校园",
+      "治愈"
     ],
-    "studios": [],
+    "studios": [
+      "NAS"
+    ],
     "source": [
-      "矢立肇、富野由悠季"
+      "緑川ゆき「夏目友人帳」（白泉社「LaLa」連載）"
     ],
-    "aired_from": "2024-11-24",
+    "aired_from": "2024-10-07",
     "year": 2024,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/522359"
+    "url": "https://bgm.tv/subject/443676"
+  },
+  {
+    "mal_id": 518519,
+    "title": "航海王：粉丝来信",
+    "title_japanese": "ONE PIECE FAN LETTER",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/be/42/518519_DMDo8.jpg",
+    "synopsis": "故事讲述了顶上战争两年后的香波迪群岛上，娜美的小迷妹展开的一场小小冒险…… 本作改编自航海王官方外传小说《航海王 novel 草帽故事集》，小说描述了以一般人的角度来看待草帽海贼团成员们的短篇故事。",
+    "score": 8.6,
+    "scored_by": 3734,
+    "rank": 40,
+    "popularity": 0,
+    "members": 6919,
+    "genres": [
+      "冒险",
+      "动作",
+      "励志",
+      "奇幻",
+      "治愈"
+    ],
+    "studios": [
+      "東映アニメーション"
+    ],
+    "source": [
+      "尾田栄一郎（集英社「週刊少年ジャンプ」連載）"
+    ],
+    "aired_from": "2024-10-20",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/518519"
+  },
+  {
+    "mal_id": 501737,
+    "title": "蜻蛉高球 第二季",
+    "title_japanese": "オーイ！とんぼ 第2期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/de/8b/501737_jtFnm.jpg",
+    "synopsis": "島を出たとんぼの日常は目まぐるしく変化していく――。\r\n\r\n高校生となり、熊本での生活をスタートさせたとんぼは、\r\n練習場のジュニア生たちとコースでラウンドすることに。\r\nトカラで培った自由奔放なゴルフでコースを攻略していくとんぼに対し、\r\n1つ年上の実力者・ひのきも決死で応戦。\r\n激しい対決を繰り広げる。\r\nとんぼの潜在能力の高さに驚愕したコーチのハジメは、\r\nとんぼを5月の九州女子選手権に挑戦させることを決意する。\r\n\r\n島で一緒にラウンドしたつぶらや、\r\n熊本で出会ったひのきなど、新たなライバルたちとのゴルフを通じて、\r\nとんぼがさらに大きく羽ばたいていく！",
+    "score": 6.9,
+    "scored_by": 348,
+    "rank": 3026,
+    "popularity": 0,
+    "members": 656,
+    "genres": [
+      "励志",
+      "日常",
+      "治愈",
+      "运动"
+    ],
+    "studios": [
+      "OLM Division 2"
+    ],
+    "source": [
+      "かわさき健・古沢優"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/501737"
+  },
+  {
+    "mal_id": 463778,
+    "title": "在地下城寻求邂逅是否搞错了什么 第五季 丰饶的女神篇",
+    "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/bc/42/463778_AEsHA.jpg",
+    "synopsis": "女神祭——那是让迷宫都市欧拉丽笼罩在热闹非凡、庆祝丰收的祭典。\r\n在祭坛供奉象征丰饶的女神们，其中也有那位『美之女神』的身影。\r\n成功自地下城深层的绝境生还、重回日常的『贝尔·克朗尼』本来也期待着女神祭的热闹气氛……\r\n——直到他收到来自某个酒馆少女所寄来的信。\r\n『致贝尔先生，这次的女神祭请和我单独约会。希儿笔』\r\n少女在都市某个角落的小酒馆所立下的决心，将会令少年和迷宫都市陷入混乱。\r\n同时，号称『最强』的『剽悍勇士（Einheriar）』们现在即将开始行动。\r\n这是少年所经历，少女所期望的——【眷族物语（Familiar Myth）】——",
+    "score": 7.2,
+    "scored_by": 2843,
+    "rank": 1849,
+    "popularity": 0,
+    "members": 7463,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "喜剧",
+      "奇幻",
+      "日常",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "大森藤ノ（GA文庫／SBクリエイティブ刊）"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/463778"
+  },
+  {
+    "mal_id": 464594,
+    "title": "放学后少年花子君 续篇",
+    "title_japanese": "放課後少年花子くん 続編",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/0a/66/464594_b1dXp.jpg",
+    "synopsis": "「ねえ知ってる？この学園の七不思議にまつわる奇妙な噂」\r\n\r\n旧校舎3階女子トイレの3番目には『トイレの花子さん』がいて、\r\n大切なものと引き替えに願いを叶えてくれるという。\r\n\r\nかもめ学園の七不思議・トイレの花子くんと、\r\nその助手になったオカルト少女・八尋寧々。\r\n\r\n怪異事件ばかりが起こるこの学園で、\r\n彼らは平和な日をどう過ごしているのか。\r\n\r\nこれは本編では描かれない、ゆる～い放課後のひととき。",
+    "score": 6.1,
+    "scored_by": 356,
+    "rank": 6796,
+    "popularity": 0,
+    "members": 1250,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "日常",
+      "校园",
+      "爱情",
+      "萌系"
+    ],
+    "studios": [],
+    "source": [
+      "あいだいろ（掲載「P ファンタピー」スクウェア・エニックス刊）"
+    ],
+    "aired_from": "2024-10-07",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/464594"
+  },
+  {
+    "mal_id": 467641,
+    "title": "魔法光源股份有限公司",
+    "title_japanese": "株式会社マジルミエ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/9f/fd/467641_q40fo.jpg",
+    "synopsis": "女大学生樱木加奈没有获得校招内定，在社招中也屡屡碰壁。\r\n她渐渐丧失了自信，觉得「这个社会不需要我」。\r\n某天，在面试时她被卷入了名为「怪异」的自然灾害中。\r\n\r\n在这危机时刻，一个有着不良气质的魔法少女越谷仁美将她救出。\r\n\r\n凭借天生的记忆力，加奈在战斗中帮助越谷战胜了「怪异」。\r\n因此她做魔法少女的天赋被看中，被招募成为了初创企业魔法光源股份有限公司的新员工。\r\n\r\n不过，以越谷为首，在魔法光源里迎接她的，尽是些个性迥异的怪人。\r\n\r\n魔法少女绝对主义者角色扮演社长重本。\r\n八面玲珑到让人害怕的程度的销售翠川。\r\n内向有社交障碍的魔法少女狂人，工程师二子山。\r\n\r\n而且，令人向往的魔法少女这一职业，在其光鲜的背后，有时也会伴随着生命危险。\r\n\r\n将人的性命和对工作的责任时刻放在心间，现在，作为社会人迈出第一步的魔法少女，她的战斗拉开了帷幕——",
+    "score": 5.8,
+    "scored_by": 1423,
+    "rank": 8223,
+    "popularity": 0,
+    "members": 3646,
+    "genres": [
+      "动作",
+      "奇幻",
+      "日常",
+      "百合",
+      "科幻",
+      "职场",
+      "萌系"
+    ],
+    "studios": [
+      "萌×J.C.STAFF"
+    ],
+    "source": [
+      "岩田雪花・青木裕（集英社「少年ジャンプ＋」連載）"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/467641"
+  },
+  {
+    "mal_id": 518603,
+    "title": "航海王：鱼人岛篇特别编辑版",
+    "title_japanese": "ONE PIECE 魚人島編",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/e3/37/518603_AdqjY.jpg",
+    "synopsis": "在未来故事中具有重要意义的鱼人岛篇经过重新剪辑，将以比以往更高的画质呈现。讲述了顶上战争2年后的草帽海贼团重新团聚，前往鱼人岛冒险，并挫败了新鱼人海贼团阴谋的故事。",
+    "score": 6.4,
+    "scored_by": 96,
+    "rank": 4662,
+    "popularity": 0,
+    "members": 324,
+    "genres": [
+      "冒险",
+      "动作",
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2024-11-03",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/518603"
+  },
+  {
+    "mal_id": 472673,
+    "title": "被队伍驱逐的治愈师，其实是最强的",
+    "title_japanese": "パーティーから追放されたその治癒師、実は最強につき",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/44/56/472673_DW15U.jpg",
+    "synopsis": "かつて世界は〝邪竜〟と呼ばれる邪悪な存在によって滅ぼうとしていた。\r\nしかし、1人の勇者によって邪竜は倒され、世界は救われた。\r\nそれから200年あまりの時が過ぎようとしていた――。\r\n\r\n世に数多ある迷宮都市の1つ、マータット。\r\nそこに〝無能〟と呼ばれる男がいた。名はラウスト。職業、治癒師。\r\nラウストはその無能さゆえに他の冒険者たちから蔑まれ、利用され、捨てられる。\r\nそんな日々をくり返していた。\r\n\r\nある日、ラウストの前に1人の少女があらわれた。名はナルセーナ。職業、武闘家。\r\nナルセーナはとあるパーティーから追放されたばかりのラウストに言った。\r\n「お兄さん、私とパーティーを組みませんか？」\r\n\r\n今、ラウストとナルセーナ、2人の冒険がはじまる――。",
+    "score": 3.5,
+    "scored_by": 854,
+    "rank": 9733,
+    "popularity": 0,
+    "members": 2075,
+    "genres": [
+      "冒险",
+      "动作",
+      "喜剧",
+      "奇幻",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "影茸・鳴海みわ（双葉社 モンスターコミックス）"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/472673"
+  },
+  {
+    "mal_id": 486102,
+    "title": "七大罪 默示录的四骑士 第二季",
+    "title_japanese": "七つの大罪 黙示録の四騎士 第2期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/73/11/486102_IrcKt.jpg",
+    "synopsis": "『七つの大罪』続編譚！！\r\n「聖戦」から16年後の物語！！\r\n\r\n“神の指”と呼ばれる辺境の地で祖父と暮らす、心優しき少年・パーシバル。\r\nしかし、世界はその安寧を許すことはなかった。\r\nある謎の騎士・イロンシッドとの出会いが彼らの運命を変え、明らかになる驚愕の秘密。\r\n少年は果て無き旅路へと足を踏み出す。\r\n『七つの大罪』を知っていても、知らなくても楽しめる！！\r\n全世界待望の痛快冒険ファンタジー！！",
+    "score": 5.6,
+    "scored_by": 109,
+    "rank": 7405,
+    "popularity": 0,
+    "members": 474,
+    "genres": [
+      "动作",
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [
+      "鈴木央 「黙示録の四騎士」（講談社「週刊少年マガジン」連載）"
+    ],
+    "aired_from": "2024-10-06",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/486102"
+  },
+  {
+    "mal_id": 470738,
+    "title": "极速车魂 第二季",
+    "title_japanese": "MFゴースト 2nd Season",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/b7/56/470738_44EQk.jpg",
+    "synopsis": "ＭＦＧ。\r\nそれは世界の自動車のＥＶ化が実現した近未来、日本で開催されている唯一の化石燃料を使った自動車によるモータースポーツである。\r\n\r\n今や絶滅危惧種となったハイパワーマシンによる熾烈なレースは世界中にインターネット配信され、爆発的な人気を博していた。\r\n\r\nそこに英国から渡航した一人の若者が、チャレンジャーとして挑む。カナタ・リヴィントンこと――片桐夏向。彼こそが、かつて公道最速伝説を確立した男の教えを受け継ぐＭＦＧ新世代である。\r\n\r\nポルシェ、ランボルギーニ、フェラーリ、ニッサン・GT-R。世界最高峰のハイパワーマシンを駆るライバル達に対して、カナタが選んだのはトヨタ８６ＧＴ。非力なマシンでいかに強豪に立ち向かうのか？\r\n\r\n箱根を舞台に繰り広げられるＭＦＧ第１戦・小田原パイクスピーク。挑戦者・カナタの走りは、並み居るライバル達や観客の目を奪う。箱根ダウンヒルを圧倒的な速さで駆け抜ける８６――。\r\n\r\n新たな公道最速伝説が、今生まれようとしていた。",
+    "score": 6.4,
+    "scored_by": 447,
+    "rank": 5439,
+    "popularity": 0,
+    "members": 932,
+    "genres": [
+      "爱情",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "しげの秀一（講談社「ヤングマガジン」連載）"
+    ],
+    "aired_from": "2024-10-06",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/470738"
+  },
+  {
+    "mal_id": 474801,
+    "title": "冻牌～地下麻将斗牌录～",
+    "title_japanese": "凍牌～裏レート麻雀闘牌録～",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/96/44/474801_F0Bl1.jpg",
+    "synopsis": "志名坂高次が描く麻雀漫画がついにアニメ化！\r\n\r\n金、女、臓器。\r\n欲望蠢く裏レート雀荘を荒らし回る高校生の少年・ケイは、\r\n冷徹なる思考、冷艶なる打牌から、\r\n裏世界では“氷のK”と呼ばれ、自宅には少女を飼っていると噂される。",
+    "score": 5.8,
+    "scored_by": 809,
+    "rank": 7874,
+    "popularity": 0,
+    "members": 1884,
+    "genres": [
+      "动作",
+      "喜剧",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "志名坂高次（秋田書店「ヤングチャンピオン・コミックス」刊）"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/474801"
+  },
+  {
+    "mal_id": 471839,
+    "title": "女仆冥土小姐。",
+    "title_japanese": "君は冥土様。",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/a9/63/471839_RD8nA.jpg",
+    "synopsis": "某天突然，一位女僕來家裡推銷──。\r\n\r\n高中生・橫谷人好家中突然出現了一位訪客。\r\n一位黑髮、清麗、講話謹慎的女僕。\r\n\r\n她的第一句話是「我希望被您雇用」。\r\n\r\n她的前職是「殺手」，專長是「暗殺」，但對家務則是完全的新手，是個「笨拙的女孩」。\r\n從這個命運的相遇開始，與女僕在同一屋簷下的共同生活就此展開…！？\r\n漸漸地，不懂感情的她的心開始動搖──。\r\n\r\n這是一個孤單的女僕終於找到「家人」直到故事的終結。",
+    "score": 5.3,
+    "scored_by": 1938,
+    "rank": 9201,
+    "popularity": 0,
+    "members": 5463,
+    "genres": [
+      "动作",
+      "喜剧",
+      "奇幻",
+      "日常",
+      "校园",
+      "治愈",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "しょたん (小学館『サンデーうぇぶり』連載中)"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/471839"
+  },
+  {
+    "mal_id": 476969,
+    "title": "殿下与狗",
+    "title_japanese": "殿と犬",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/55/74/476969_11GRj.jpg",
+    "synopsis": "鬼神の如き活躍をした戦国の世──もありましたが今は昔。すっかり没落し貧乏長屋暮らしを送る、【殿】。そんな殿が出会ったのは、一匹の【犬】。短い手足の珍妙な姿を哀れに思い手を差し伸べた殿だけど、新しい家臣のやんちゃぶりに翻弄されて、…！？「何これ！？ 犬こんなことできんの！？？」コワモテな殿とごきげんな犬の天下泰平主従暮らし！",
+    "score": 6,
+    "scored_by": 47,
+    "rank": 0,
+    "popularity": 0,
+    "members": 181,
+    "genres": [
+      "喜剧",
+      "日常",
+      "治愈"
+    ],
+    "studios": [
+      "OLM × Live2D Creative Studio"
+    ],
+    "source": [
+      "西田理英「殿と犬」 (「COMICポラリス」連載 フレックスコミックス刊)"
+    ],
+    "aired_from": "2024-10-10",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/476969"
+  },
+  {
+    "mal_id": 426123,
+    "title": "蓝色监狱 VS. U-20 日本代表队",
+    "title_japanese": "ブルーロック VS. U-20 JAPAN",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5e/96/426123_siDEi.jpg",
+    "synopsis": "──全てを賭けて挑め。いくぞ、才能の原石共よ\r\n時代を変えるのは俺たち“ブルーロック（青い監獄）”だ──\r\n\r\n日本をW杯優勝に導く世界一のストライカーを育てるため、\r\n日本フットボール連合は“ブルーロック（青い監獄）”プロジェクトを立ち上げる。\r\n\r\nプロジェクトに招待されたのは300人の高校生。\r\nしかも全員FW（フォワード）。\r\n\r\n脱落すれば将来、サッカー日本代表へ入る資格を失うという極限状態の中、\r\n選ばれし才能の原石たちは、ストライカーとしてのエゴを次々と覚醒させていく。\r\n\r\n時に他人を蹴落とし、時に自らの進化を以て、\r\n過酷なセレクションを生き残ったのは35人。\r\nエゴが渦巻く熱狂のサバイバルを乗り越えた彼らは、\r\n“ブルーロック（青い監獄）”プロジェクトの存続を賭けて、\r\nU-20日本代表との史上最もイカれた大一番(ビッグマッチ)へと挑む！\r\n\r\n今、己のエゴを世界に刻むため、自らの手で運命を変えるため、\r\n史上最もアツい戦い（試合）が始まる。",
+    "score": 5.4,
+    "scored_by": 1178,
+    "rank": 8931,
+    "popularity": 0,
+    "members": 2428,
+    "genres": [
+      "动作",
+      "喜剧",
+      "耽美",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "金城宗幸；漫画：ノ村優介 『ブルーロック』(講談社「週刊少年マガジン」連載)"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/426123"
+  },
+  {
+    "mal_id": 487684,
+    "title": "香格里拉·弗陇提亚～屎作猎人向神作发起挑战～ 第二季",
+    "title_japanese": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/e0/24/487684_nwsBN.jpg",
+    "synopsis": "数多の作品を生み出してきた小説投稿サイト「小説家になろう」にて、\r\n2017年より連載中の硬梨菜による大人気WEB小説。\r\n\r\n小説の書籍化を待たずしてコミカライズ化された本作は、\r\n第47回講談社漫画賞の少年部門を受賞し、\r\n「週刊少年マガジン」の読者アンケートでは史上初の四冠達成！\r\n\r\n誰もが持ちうるゲーム体験を通じ、新感覚の冒険を描く本作は、\r\nかつての思い出に浸る大人たちと、テクノロジーの最先端で生きる若者たちに、\r\n新たな冒険の興奮を呼び覚ましている。\r\n\r\n1人のクソゲーハンターが、神ゲーに挑む、\r\n至高のゲーム×ファンタジー冒険譚、開幕！！",
+    "score": 6.5,
+    "scored_by": 2771,
+    "rank": 5434,
+    "popularity": 0,
+    "members": 7345,
+    "genres": [
+      "冒险",
+      "动作",
+      "喜剧",
+      "奇幻",
+      "科幻"
+    ],
+    "studios": [],
+    "source": [
+      "硬梨菜・不二涼介（講談社「週刊少年マガジン」連載）"
+    ],
+    "aired_from": "2024-10-13",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/487684"
+  },
+  {
+    "mal_id": 470294,
+    "title": "妖怪学校的新人教师！",
+    "title_japanese": "妖怪学校の先生はじめました！",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d2/d3/470294_655dA.jpg",
+    "synopsis": "安倍晴明是一個性格軟弱的菜鳥老師。他原本就已經很膽小了，這次前去赴任的居然還是一所滿是妖怪的學校…！描寫廢柴人類老師與妖怪學生們奇妙又熱鬧日常生活的愉快☆痛快☆妖怪☆學園喜劇漫畫！到底能否順利開始上課呢！？",
+    "score": 5.2,
+    "scored_by": 341,
+    "rank": 8994,
+    "popularity": 0,
+    "members": 1160,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "日常",
+      "校园"
+    ],
+    "studios": [],
+    "source": [
+      "田中まい（掲載 月刊「Gファンタジー」スクウェア・エニックス刊）"
+    ],
+    "aired_from": "2024-10-08",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/470294"
+  },
+  {
+    "mal_id": 454630,
+    "title": "青之壬生浪",
+    "title_japanese": "青のミブロ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/e3/0d/454630_ZT8uF.jpg",
+    "synopsis": "幕末の京都。\r\nおばあちゃん子でいつも笑顔を絶やさない少年「にお」\r\n最凶の剣客集団「壬生浪士組」、通称”ミブロ”の土方歳三、沖田総司と出会ったことをきっかけに、「にお」の運命が動き出す。\r\n\r\n―「僕だって強くなりたい　こんな世界変えたい」―\r\n\r\n時を同じくしてミブロに加わった少年・太郎とはじめ。\r\n殺伐とした空気に覆われた京都を舞台に、より良い世の中を作るため、\r\n3人の少年たちが屈強・剛腕・ならず者のミブロ達と共に熱くその命を燃やす！\r\n\r\n―「僕は僕の正義のために！」―\r\n\r\n育ちも志も何もかも違う彼らが、激動の青い春を駆け抜ける。令和に放つ、新しい「新選組」のものがたり。",
+    "score": 4.3,
+    "scored_by": 122,
+    "rank": 9371,
+    "popularity": 0,
+    "members": 444,
+    "genres": [
+      "动作",
+      "历史"
+    ],
+    "studios": [],
+    "source": [
+      "安田剛士「青のミブロ」（講談社 「週刊少年マガジン」連載中）"
+    ],
+    "aired_from": "2024-10-19",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/454630"
+  },
+  {
+    "mal_id": 449567,
+    "title": "成为名垂青史的反派大小姐吧",
+    "title_japanese": "歴史に残る悪女になるぞ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/6b/ca/449567_uN5U8.jpg",
+    "synopsis": "ヒロインにありがちな“いい子ちゃん発言”が\r\n大嫌いだった私が転生したのは、\r\n大好きな乙女ゲームの悪役令嬢アリシア。\r\n念願叶って転生したからには、歴史に残る世界一の悪女になってやる！\r\nそのためには強くて頭もよくないといけない！\r\n——と努力しただけなのに、悪役令嬢として頑張れば頑張るほど\r\n周囲は予想外の反応で……。\r\n\r\nはたしてアリシアは\r\n歴史に残る悪女になれるのか⁉",
+    "score": 4.9,
+    "scored_by": 862,
+    "rank": 9466,
+    "popularity": 0,
+    "members": 2049,
+    "genres": [
+      "奇幻",
+      "校园",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "大木戸いずみ（ビーズログ文庫刊）；漫画：保志あかり"
+    ],
+    "aired_from": "2024-10-01",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/449567"
+  },
+  {
+    "mal_id": 472331,
+    "title": "鸭乃桥论的禁忌推理 第二季",
+    "title_japanese": "鴨乃橋ロンの禁断推理 2nd Season",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/eb/df/472331_6HzQM.jpg",
+    "synopsis": "世界最高峰の探偵養成学校BLUEで天才と呼ばれながら、\r\nある致命的な“欠陥”を抱え、探偵の資格を剥奪された鴨乃橋ロン。\r\n不遇の歳月を過ごした彼の運命は、警視庁捜査一課の一色都々丸\r\n――通称「トト」との出会いによって大きく変わる。\r\n謎を解くロンと、捜査に動くトト。\r\n難事件を次々と解決する二人は、次第に名コンビとなっていく。\r\nそんなロンの行動に目を光らせるBLUEの内部には、彼の理解者もいた。\r\nその一人である校長のエメリッヒは、ロンを追放するきっかけとなった\r\n「血の実習事件」が何者かに仕組まれたものだと語る。\r\n裏にいたのは、数多くの未解決事件に関わる「史上最悪の犯罪一族」――M家だった。\r\n当主の名は、マイロ・モリアーティ。\r\n彼はロンにさらなる絶望を与えるため、妹のウィンターを日本に送り込む。\r\nロンとマイロ、両者の間にある因縁とは……!?",
+    "score": 5.7,
+    "scored_by": 479,
+    "rank": 8240,
+    "popularity": 0,
+    "members": 1289,
+    "genres": [
+      "喜剧",
+      "悬疑"
+    ],
+    "studios": [],
+    "source": [
+      "天野明（集英社「少年ジャンプ+」連載）"
+    ],
+    "aired_from": "2024-10-07",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/472331"
   },
   {
     "mal_id": 505080,
@@ -56,785 +587,6 @@
     "url": "https://bgm.tv/subject/505080"
   },
   {
-    "mal_id": 451426,
-    "title": "寻神的旅途",
-    "title_japanese": "ハイガクラ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/4a/71/451426_feZ7g.jpg",
-    "synopsis": "仙界。\r\n神仙と人間が暮らすその世界は、崩壊の危機に瀕していた。\r\n潔斎と呼ばれる術を使いながら世界中に散らばった神々を捕らえる歌士・一葉（いちよう）は、\r\n従神・滇紅（てんこう）とともに仙界崩壊の鍵を握る凶神・四凶を探し求める――\r\n\r\n長きに渡って読まれ続ける高山しのぶの人気コミックをもとに、\r\n危機に瀕した仙界を救う歌士たちの戦いを描くアクションファンタジー！",
-    "score": 3.6,
-    "scored_by": 91,
-    "rank": 9461,
-    "popularity": 0,
-    "members": 331,
-    "genres": [
-      "冒险",
-      "动作",
-      "喜剧",
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [
-      "高山しのぶ（ゼロサムオンライン／一迅社刊）"
-    ],
-    "aired_from": "2024-10-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/451426"
-  },
-  {
-    "mal_id": 445821,
-    "title": "刀剑神域外传 Gun Gale Online 第二季",
-    "title_japanese": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d2/81/445821_pc44z.jpg",
-    "synopsis": "舞台は、鉛弾が飛び交い硝煙けぶるVRMMO(仮想現実大規模多人数同時参加型オンラインゲーム)\r\n《ガンゲイル・オンライン》。\r\n長身がコンプレックスで、小さなもう一人の自分を手に入れるためにVRゲーム空間へ降り立った\r\n小比類巻香蓮こと《レン》が愛銃《P90》を携え、チーム対抗デスマッチ《スクワッド・ジャム》へと挑む。\r\n\r\n突如アナウンスされた新たなチーム対抗デスマッチ大会に、\r\nレン、エム、フカ次郎、ピトフーイの最強チーム《LPFM》が参戦する。\r\n優勝候補筆頭と目される彼らを待ち受けるのは、\r\n“時間経過とともに海へ沈むフィールド“　“MAP中央に潜む【UNKNOWN】エリア“　\r\n“無名チームの結託”　という過酷な状況だった。\r\nさらに、全プレイヤーに驚愕の特別ルールが告げられる――",
-    "score": 5.8,
-    "scored_by": 1358,
-    "rank": 8213,
-    "popularity": 0,
-    "members": 4032,
-    "genres": [
-      "动作",
-      "后宫",
-      "奇幻",
-      "爱情",
-      "百合",
-      "科幻",
-      "运动"
-    ],
-    "studios": [
-      "Studio 3Hz → A-1 Pictures"
-    ],
-    "source": [
-      "時雨沢恵一（電撃文庫刊）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/445821"
-  },
-  {
-    "mal_id": 408896,
-    "title": "顶尖恶路",
-    "title_japanese": "アクロトリップ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/41/29/408896_zj44s.jpg",
-    "synopsis": "祖父のもとを訪れた地図子は、\r\n街を守る魔法少女・ベリーブロッサムと出会い、たちまち夢中に。\r\nしかし、敵対する悪の組織「フォッサマグナ」総帥・クロマの攻撃が\r\nあまりにもパッとせず、２人の戦いは見応えゼロ。\r\nもっと、ベリーの活躍を愛でたい地図子はモヤモヤを募らせていく・・・。 \r\n「魔法少女をもっと輝かせたい・・・強いてくれ、苦戦を！」 \r\nその欲望（？）が、内気な少女を悪の路に導いてゆくー。",
-    "score": 5.8,
-    "scored_by": 1085,
-    "rank": 8158,
-    "popularity": 0,
-    "members": 2493,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常"
-    ],
-    "studios": [],
-    "source": [
-      "佐和田米「アクロトリップ」（集英社 りぼんマスコットコミックス刊）"
-    ],
-    "aired_from": "2024-10-02",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/408896"
-  },
-  {
-    "mal_id": 531788,
-    "title": "コンプレックス♡プリンセス",
-    "title_japanese": "コンプレックス♡プリンセス",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/64/e6/531788_8n4Uz.jpg",
-    "synopsis": "",
-    "score": 5.1,
-    "scored_by": 16,
-    "rank": 0,
-    "popularity": 0,
-    "members": 36,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-12-08",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/531788"
-  },
-  {
-    "mal_id": 513314,
-    "title": "我独自升级 -ReAwakening-",
-    "title_japanese": "俺だけレベルアップな件 -ReAwakening-",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/50/64/513314_XG0Y4.jpg",
-    "synopsis": "TVアニメ『俺だけレベルアップな件Season 2 -Arise from the Shadow-』の放送を記念して、\r\nアニメ『俺だけレベルアップな件 -ReAwakening-』の全世界劇場上映が決定！\r\n第１期の特別編集版と第２期の１・２話を先行上映。\r\n日本では11/29公開、海外では韓国にて11/28、その他地域も順次公開予定。\r\n続報をお楽しみに。",
-    "score": 6.8,
-    "scored_by": 226,
-    "rank": 3440,
-    "popularity": 0,
-    "members": 933,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [
-      "장성락(REDICE STUDIO)、Chugong、h-goon（D＆C MEDIA 発行）"
-    ],
-    "aired_from": "2024-11-29",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/513314"
-  },
-  {
-    "mal_id": 389156,
-    "title": "地。 ―关于地球的运动―",
-    "title_japanese": "チ。 ―地球の運動について―",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5f/84/389156_J4gqQ.jpg",
-    "synopsis": "15世纪的欧洲某国。在跳级中被允许进入大学的神童拉法尔。他回应了周围的期待，宣布将专攻当时最重要的神学。但是，从以前开始就热心投入的对天文的热情一直没有被抛弃。\r\n有一天，他遇到了一位名叫休伯特的神秘学者。因为触犯了基于异端思想的禁忌而受到拷问，被关进监狱的休伯特。\r\n他研究的是关于宇宙的冲击性的“某个假说”——。",
-    "score": 6.2,
-    "scored_by": 4711,
-    "rank": 6638,
-    "popularity": 0,
-    "members": 12469,
-    "genres": [
-      "历史",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "魚豊「チ。 ―地球の運動について―」（小学館「ビッグスピリッツコミックス」刊）"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/389156"
-  },
-  {
-    "mal_id": 518603,
-    "title": "航海王：鱼人岛篇特别编辑版",
-    "title_japanese": "ONE PIECE 魚人島編",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e3/37/518603_AdqjY.jpg",
-    "synopsis": "在未来故事中具有重要意义的鱼人岛篇经过重新剪辑，将以比以往更高的画质呈现。讲述了顶上战争2年后的草帽海贼团重新团聚，前往鱼人岛冒险，并挫败了新鱼人海贼团阴谋的故事。",
-    "score": 6.4,
-    "scored_by": 93,
-    "rank": 4575,
-    "popularity": 0,
-    "members": 305,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-11-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/518603"
-  },
-  {
-    "mal_id": 464594,
-    "title": "放学后少年花子君 续篇",
-    "title_japanese": "放課後少年花子くん 続編",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/0a/66/464594_b1dXp.jpg",
-    "synopsis": "「ねえ知ってる？この学園の七不思議にまつわる奇妙な噂」\r\n\r\n旧校舎3階女子トイレの3番目には『トイレの花子さん』がいて、\r\n大切なものと引き替えに願いを叶えてくれるという。\r\n\r\nかもめ学園の七不思議・トイレの花子くんと、\r\nその助手になったオカルト少女・八尋寧々。\r\n\r\n怪異事件ばかりが起こるこの学園で、\r\n彼らは平和な日をどう過ごしているのか。\r\n\r\nこれは本編では描かれない、ゆる～い放課後のひととき。",
-    "score": 6.1,
-    "scored_by": 345,
-    "rank": 6775,
-    "popularity": 0,
-    "members": 1206,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "日常",
-      "校园",
-      "爱情",
-      "萌系"
-    ],
-    "studios": [],
-    "source": [
-      "あいだいろ（掲載「P ファンタピー」スクウェア・エニックス刊）"
-    ],
-    "aired_from": "2024-10-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/464594"
-  },
-  {
-    "mal_id": 487684,
-    "title": "香格里拉·弗陇提亚～屎作猎人向神作发起挑战～ 第二季",
-    "title_japanese": "シャングリラ・フロンティア～クソゲーハンター、神ゲーに挑まんとす～ 2nd Season",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e0/24/487684_nwsBN.jpg",
-    "synopsis": "数多の作品を生み出してきた小説投稿サイト「小説家になろう」にて、\r\n2017年より連載中の硬梨菜による大人気WEB小説。\r\n\r\n小説の書籍化を待たずしてコミカライズ化された本作は、\r\n第47回講談社漫画賞の少年部門を受賞し、\r\n「週刊少年マガジン」の読者アンケートでは史上初の四冠達成！\r\n\r\n誰もが持ちうるゲーム体験を通じ、新感覚の冒険を描く本作は、\r\nかつての思い出に浸る大人たちと、テクノロジーの最先端で生きる若者たちに、\r\n新たな冒険の興奮を呼び覚ましている。\r\n\r\n1人のクソゲーハンターが、神ゲーに挑む、\r\n至高のゲーム×ファンタジー冒険譚、開幕！！",
-    "score": 6.5,
-    "scored_by": 2684,
-    "rank": 5432,
-    "popularity": 0,
-    "members": 7097,
-    "genres": [
-      "冒险",
-      "动作",
-      "喜剧",
-      "奇幻",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "硬梨菜・不二涼介（講談社「週刊少年マガジン」連載）"
-    ],
-    "aired_from": "2024-10-13",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/487684"
-  },
-  {
-    "mal_id": 472673,
-    "title": "被队伍驱逐的治愈师，其实是最强的",
-    "title_japanese": "パーティーから追放されたその治癒師、実は最強につき",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/44/56/472673_DW15U.jpg",
-    "synopsis": "かつて世界は〝邪竜〟と呼ばれる邪悪な存在によって滅ぼうとしていた。\r\nしかし、1人の勇者によって邪竜は倒され、世界は救われた。\r\nそれから200年あまりの時が過ぎようとしていた――。\r\n\r\n世に数多ある迷宮都市の1つ、マータット。\r\nそこに〝無能〟と呼ばれる男がいた。名はラウスト。職業、治癒師。\r\nラウストはその無能さゆえに他の冒険者たちから蔑まれ、利用され、捨てられる。\r\nそんな日々をくり返していた。\r\n\r\nある日、ラウストの前に1人の少女があらわれた。名はナルセーナ。職業、武闘家。\r\nナルセーナはとあるパーティーから追放されたばかりのラウストに言った。\r\n「お兄さん、私とパーティーを組みませんか？」\r\n\r\n今、ラウストとナルセーナ、2人の冒険がはじまる――。",
-    "score": 3.5,
-    "scored_by": 835,
-    "rank": 9673,
-    "popularity": 0,
-    "members": 2011,
-    "genres": [
-      "冒险",
-      "动作",
-      "喜剧",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "影茸・鳴海みわ（双葉社 モンスターコミックス）"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/472673"
-  },
-  {
-    "mal_id": 558762,
-    "title": "ChroNoiR「深愛」MV",
-    "title_japanese": "ChroNoiR「深愛」MV",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/54/a8/558762_AC7h6.jpg",
-    "synopsis": "「貴女は、僕だけのもの。」",
-    "score": 2,
-    "scored_by": 2,
-    "rank": 0,
-    "popularity": 0,
-    "members": 9,
-    "genres": [],
-    "studios": [
-      "CUE"
-    ],
-    "source": [],
-    "aired_from": "2024-12-18",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/558762"
-  },
-  {
-    "mal_id": 522511,
-    "title": "パンの赤ちゃん",
-    "title_japanese": "パンの赤ちゃん",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/58/85/522511_oL3h3.jpg",
-    "synopsis": "ここは、街の小さなパン屋。\r\nある夜、店主のリクはいつものようにパンをこね、生地を寝かせ、仕事を終えて立ち去る。\r\nガチャガチャ・・・突如店内に、不穏な音が響き渡る。泥棒が忍び込み、レジをピッキングしている音だった。\r\n冷蔵庫で寝ていたクリームパンの生地たち。その音に思わず目を覚まして、「ウワァァン」と、\r\n泣き出してしまう。\r\nその声が、泥棒に見つかってしまい……危機一髪！？\r\n果たして「パンの赤ちゃん」たちは、この危機を乗り切ることができるのか・・・？",
-    "score": 4,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 8,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-12-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/522511"
-  },
-  {
-    "mal_id": 480716,
-    "title": "科学×冒险与生存！",
-    "title_japanese": "科学×冒険サバイバル！",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/30/a5/480716_BoJTu.jpg",
-    "synopsis": "テレビアニメが描くのは、いままさに地球を襲っている「異常気象」や子どもたちに人気の「昆虫世界」、私たちが数年前に経験した新型コロナウイルスのパンデミックを想起させる「新型ウイルス」など、7つのテーマです。サバイバルの達人「ジオ」とサバイバルの天才「ダイヤ」が活躍する、テレビアニメ「科学×冒険サバイバル！」にどうぞご期待ください！",
-    "score": 5.8,
-    "scored_by": 39,
-    "rank": 0,
-    "popularity": 0,
-    "members": 230,
-    "genres": [
-      "冒险",
-      "日常"
-    ],
-    "studios": [
-      "NHKエンタープライズ"
-    ],
-    "source": [
-      "「科学漫画サバイバル」シリーズ（朝日新聞出版）"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/480716"
-  },
-  {
-    "mal_id": 506773,
-    "title": "决斗大师 LOST ～月下的死神～",
-    "title_japanese": "Duel Masters LOST ～月下の死神～",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e6/b3/506773_ma6P1.jpg",
-    "synopsis": "斬札ウィンは命懸けのデュエルの果てに、謎の少女クリスタから「クリスタルカード」を託される。それが失われた記憶と関係があると知ったウィンは、ニイカと共にカードに秘められた謎を調べるため、とあるカードショップへと向かう事に。\r\n\r\n一方その頃、都内では「人々の心臓が抜かれる」という怪事件が巻き起こる。その裏には「黒き死神」と呼ばれる男──黒城凶死郎の姿があった。\r\n\r\nクリスタルカードの正体とは。黒城凶死郎が操る禁忌の力「同化」とは。そして彼の真の目的とは。記憶とクリスタルカードを巡り、ウィンの運命が廻り出す。",
-    "score": 4.8,
-    "scored_by": 30,
-    "rank": 0,
-    "popularity": 0,
-    "members": 94,
-    "genres": [
-      "奇幻"
-    ],
-    "studios": [
-      "J.C.STAFF、SMDE（小学館ミュージック&デジタルエンタテイメント）"
-    ],
-    "source": [
-      "松本しげのぶ；作画：金林洋 （小学館「週刊コロコロコミック」連載）"
-    ],
-    "aired_from": "2024-12-21",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/506773"
-  },
-  {
-    "mal_id": 431370,
-    "title": "缘结甘神家",
-    "title_japanese": "甘神さんちの縁結び",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/b8/431370_jQu7j.jpg",
-    "synopsis": "以京大医学部为目标的高中生上终瓜生。\r\n在儿童福利院长大的瓜生，被位于京都的神社“甘神神社”的宫司收养，寄居于此。\r\n在那里等待着他的，是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\r\n而且寄居的条件是“作为女婿继承神社”？！\r\n和三姐妹相亲，甘神神社遇到的难题……\r\n瓜生能够跨越这些难题吗？\r\n在同一屋檐下，与巫女们编织的奇迹般的恋爱喜剧！",
-    "score": 5.9,
-    "scored_by": 2101,
-    "rank": 7747,
-    "popularity": 0,
-    "members": 6179,
-    "genres": [
-      "后宫",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "内藤マーシー（講談社「週刊少年マガジン」連載）"
-    ],
-    "aired_from": "2024-10-01",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/431370"
-  },
-  {
-    "mal_id": 491151,
-    "title": "依靠最弱辅助职能【话术士】的我统领世界最强氏族",
-    "title_japanese": "最凶の支援職【話術士】である俺は世界最強クランを従える",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e6/cb/491151_rNnm5.jpg",
-    "synopsis": "不滅の悪鬼オーバーデスと呼ばれた英雄を祖父に持つ\r\n少年ノエル。\r\n祖父に憧れ、最強の探索者シーカーを志す彼の持つ\r\n職能ジョブは最弱と評される\r\n支援職【話術士】だった。\r\n祖父の遺志を継ぎ、並々ならぬ努力により\r\n探索者として力をつけたノエルだが、\r\n生まれ持った才能の差を埋めることは\r\nできなかった――\r\nしかし類稀なる才略をも開花させた彼は\r\n最強への道を見出す。\r\n仲間を集め\r\n最強の組織クランを創り、\r\nそのマスターに\r\nなること――。\r\n策略を巡らせ敵を翻弄し、仲間を率いて\r\n遥かなる高みを目指す。\r\n最凶の【話術士】は\r\n最強への道を切り開く。手段は選ばない。",
-    "score": 5.6,
-    "scored_by": 1598,
-    "rank": 8722,
-    "popularity": 0,
-    "members": 3568,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻"
-    ],
-    "studios": [
-      "FelixFilm×画狂"
-    ],
-    "source": [
-      "じゃき（オーバーラップ文庫刊）；漫画：やもりちゃん（「コミックガルド」連載）"
-    ],
-    "aired_from": "2024-10-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/491151"
-  },
-  {
-    "mal_id": 531216,
-    "title": "SFBC \"Fake\" Commercial Film",
-    "title_japanese": "SFBC \"Fake\" Commercial Film",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/52/b3/531216_wK2ID.jpg",
-    "synopsis": "",
-    "score": 5.6,
-    "scored_by": 14,
-    "rank": 0,
-    "popularity": 0,
-    "members": 33,
-    "genres": [],
-    "studios": [
-      "Miota Studio、Folium、A-1 Pictures、ラウズアクト"
-    ],
-    "source": [],
-    "aired_from": "2024-12-31",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/531216"
-  },
-  {
-    "mal_id": 485868,
-    "title": "一起加油吧",
-    "title_japanese": "がんばっていきまっしょい",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/61/fc/485868_zP648.jpg",
-    "synopsis": "どこまでも広がる青い空と青い海。\r\nこの日、三津東高校クラスマッチのボートレースが開催されていた。\r\n漕ぎ手を務めていた2年の村上悦子は、負けを確信し漕ぐのをやめる。\r\nやりたいことも見つからない。家と学校を往復するつまらない毎日だ。\r\n\r\nある日、悦子のクラスに転校生がやってきた。\r\nクラスマッチを浜辺から見ていたという梨衣奈という名の転校生は、\r\nボート部は廃部にも関わらず「ボート部に入りたい！」と初対面の悦子に熱弁を振るう。\r\n悦子と幼なじみの姫が力添えをしてボート部を復活させると、同学年の妙子、真優美も入部。\r\n名義貸しのつもりだった悦子もボートをやることになり、初心者5人の猛練習が始まった。\r\n\r\n大会予選で惨敗し、自分たちのレベルを知ったボート部は、次こそは勝とうと気持ちをひとつにする。\r\nバラバラだった悦子たち５人の、濃くて、熱い毎日が、今走り出す―。\r\n\r\n監督は、宮﨑駿監督の三鷹の森ジブリ美術館短編『毛虫のボロ』のCGディレクターを務め、\r\n『あした世界が終わるとしても』でアヌシー国際アニメーション映画祭コンペティション部門にノミネートし注目を集める櫻木優平。\r\n脚本は『五等分の花嫁』の大知慶一郎が参加。\r\n『ラブライブ！』の西田亜沙子がキャラクターデザインを担当し、さわやかで繊細な物語を描く。\r\n\r\nこの秋、日本中が胸を熱くする青春アニメーション映画の新たな名作が誕生する。",
-    "score": 5.4,
-    "scored_by": 129,
-    "rank": 7963,
-    "popularity": 0,
-    "members": 498,
-    "genres": [
-      "励志",
-      "校园",
-      "百合",
-      "萌系",
-      "运动"
-    ],
-    "studios": [
-      "萌 / レイルズ"
-    ],
-    "source": [
-      "敷村良子 「がんばっていきまっしょい」（幻冬舎文庫）"
-    ],
-    "aired_from": "2024-10-25",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/485868"
-  },
-  {
-    "mal_id": 521312,
-    "title": "いまだけダブチ",
-    "title_japanese": "いまだけダブチ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/be/59/521312_qwb5C.jpg",
-    "synopsis": "",
-    "score": 5.4,
-    "scored_by": 8,
-    "rank": 0,
-    "popularity": 0,
-    "members": 23,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-10-23",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/521312"
-  },
-  {
-    "mal_id": 521611,
-    "title": "花之狂想曲",
-    "title_japanese": "flower rhapsody",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/b6/78/521611_jkjJX.jpg",
-    "synopsis": "",
-    "score": 5.9,
-    "scored_by": 18,
-    "rank": 0,
-    "popularity": 0,
-    "members": 66,
-    "genres": [
-      "爱情"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-10-26",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/521611"
-  },
-  {
-    "mal_id": 471839,
-    "title": "女仆冥土小姐。",
-    "title_japanese": "君は冥土様。",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/a9/63/471839_RD8nA.jpg",
-    "synopsis": "某天突然，一位女僕來家裡推銷──。\r\n\r\n高中生・橫谷人好家中突然出現了一位訪客。\r\n一位黑髮、清麗、講話謹慎的女僕。\r\n\r\n她的第一句話是「我希望被您雇用」。\r\n\r\n她的前職是「殺手」，專長是「暗殺」，但對家務則是完全的新手，是個「笨拙的女孩」。\r\n從這個命運的相遇開始，與女僕在同一屋簷下的共同生活就此展開…！？\r\n漸漸地，不懂感情的她的心開始動搖──。\r\n\r\n這是一個孤單的女僕終於找到「家人」直到故事的終結。",
-    "score": 5.3,
-    "scored_by": 1908,
-    "rank": 9144,
-    "popularity": 0,
-    "members": 5354,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "校园",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "しょたん (小学館『サンデーうぇぶり』連載中)"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/471839"
-  },
-  {
-    "mal_id": 517245,
-    "title": "ヘイアンチョウまったりホリデイ",
-    "title_japanese": "ヘイアンチョウまったりホリデイ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5f/f5/517245_ri2AL.jpg",
-    "synopsis": "休日、カズマと一緒にヘイアンチョウに帰ったおじゃる丸は、許嫁のオカメ姫と家庭教師の赤紫式部、お清少納言たちに追いかけられていた。\r\n\r\nすると突然、空が真っ暗に…。ヘイアンチョウで日食が起きたのだ。辺りが明るくなると、\r\nおじゃる丸の前にミヤビな貴族の二人組が立っていた。彼らの名は、藤原公任と藤原斉信。もといた“平安京”からヘイアンチョウに迷い込んでしまったようだ。\r\n\r\nおじゃる丸は、公任と斉信が平安京に戻れるよう、一緒に帰り道を探すことに。\r\n\r\nその頃、電ボは乙丸と百舌彦に、子鬼トリオは安倍晴明に、オカメ姫と赤紫式部とお清少納言はききょうと出会い…。",
-    "score": 5.3,
-    "scored_by": 3,
-    "rank": 0,
-    "popularity": 0,
-    "members": 9,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-10-19",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/517245"
-  },
-  {
-    "mal_id": 370188,
-    "title": "指环王：洛汗之战",
-    "title_japanese": "The Lord of the Rings: The War of the Rohirrim",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/1b/13/370188_QiW0d.jpg",
-    "synopsis": "映画「二つの塔」にも登場した要塞のあるヘルム峡谷。その名前のもとになったローハン朝の伝説的な王ヘルム・ハマーハンドにまつわる血塗られた物語をアニメ化。\r\n\r\nA prequel to director Peter Jackson’s The Lord of The Rings trilogy, this theatrical anime takes place two centuries before the events of The Hobbit and Lord of the Rings. Maintaining J.R.R. Tolkien’s characters and world, the story follows Helm Hammerhand and the creation of Helm’s Deep.",
-    "score": 5.6,
-    "scored_by": 245,
-    "rank": 8166,
-    "popularity": 0,
-    "members": 536,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻",
-      "战争"
-    ],
-    "studios": [
-      "Sola Entertainment；Animation Studio Partner：Telecom Animation Film"
-    ],
-    "source": [
-      "J.R.R. Tolkien"
-    ],
-    "aired_from": "2024-12-13",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/370188"
-  },
-  {
-    "mal_id": 492352,
-    "title": "五等分的新娘＊",
-    "title_japanese": "五等分の花嫁＊",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/54/68/492352_4dkjc.jpg",
-    "synopsis": "ファン待望の新婚旅行エピソードを、春場ねぎ原案＆完全監修のもと映像化。\r\n大人になった風太郎と五つ子の日常をお届けします！\r\n\r\n「落第寸前」「勉強嫌い」の美少女五つ子を、\r\nアルバイト家庭教師として見事「卒業」まで導いた風太郎。\r\nそれぞれの道へと歩み夢を叶えた五つ子だったが、何か悩みを抱えている様子で...。\r\nそんな中、風太郎と五つ子はハネムーンを兼ねたハワイ旅行を計画する。\r\n順調に準備が進んでいた矢先、ある事件が発覚し大慌ての事態に!!\r\nさらには旅行先のハワイでもトラブルに巻き込まれて…!?\r\n\r\nかわいさ500％の五つ子ラブコメ、新婚旅行編──!!",
-    "score": 5.6,
-    "scored_by": 971,
-    "rank": 8533,
-    "popularity": 0,
-    "members": 2743,
-    "genres": [
-      "后宫",
-      "喜剧",
-      "日常",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "春場ねぎ「五等分の花嫁」 （講談社『週刊少年マガジン』）"
-    ],
-    "aired_from": "2024-12-23",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/492352"
-  },
-  {
-    "mal_id": 470045,
-    "title": "噗妮露是可爱史莱姆",
-    "title_japanese": "ぷにるはかわいいスライム",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/fe/ab/470045_zA9BA.jpg",
-    "synopsis": "这是关于噗妮露和初中生小太郎不再是朋友的故事……。\r\n河合井小太郎是一名国中二年级的男生，小学时他创造的史莱姆获得了生命。从那时起，他和名为噗妮露的史莱姆作为「朋友」和睦共处在一起。然而，随着七年的时间过去，噗妮露竟变成了超绝美少女！面对噗妮露可爱的样貌、随心所欲的言行，小太郎每天都感到心跳加速。究竟，噗妮露和小太郎能继续作为「朋友」快乐地相处下去吗！ ？",
-    "score": 7.2,
-    "scored_by": 3904,
-    "rank": 1676,
-    "popularity": 0,
-    "members": 9210,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "日常",
-      "校园",
-      "治愈",
-      "爱情",
-      "萌系"
-    ],
-    "studios": [],
-    "source": [
-      "まえだくん（小学館「週刊コロコロコミック」連載）"
-    ],
-    "aired_from": "2024-10-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/470045"
-  },
-  {
-    "mal_id": 527199,
-    "title": "TAIDADA",
-    "title_japanese": "TAIDADA",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/55/98/527199_VvP5q.jpg",
-    "synopsis": "TVアニメ「ダンダダン」Endingが好きなのでMAD MVを作成しました\r\nRespect ターボババア\r\n\r\nLyrics & Music & Vocal - ACAね\r\nArrangement - 煮ル果実, 100回嘔吐, ZTMY\r\nDrums - Yoshihiro Kawamura\r\nBass - Takashi Adachi\r\nGuitar - Yuya Komoguchi\r\nRec & Mix Engineer - Toru Matake\r\nMastering Engineer - Takeo Kira\r\nSound Director - Kohei Matsumoto\r\n\r\nMV\r\n監督 - ゴル\r\nキャラクターデザイン - ゴル\r\nアニメーター - UOZA, 大文字のあーる, kawa, 神多洋, mamitopic, ゴル, 野渡ひい, もこた\r\n美術 - DEPPA, ゴル\r\n撮影 - アズマ\r\nプロデューサー - tete\r\nSpecial Thanks - 龍幸伸, サイエンスSARU, 集英社・ダンダダン製作委員会",
-    "score": 5.8,
-    "scored_by": 31,
-    "rank": 0,
-    "popularity": 0,
-    "members": 70,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-12-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/527199"
-  },
-  {
-    "mal_id": 501737,
-    "title": "蜻蛉高球 第二季",
-    "title_japanese": "オーイ！とんぼ 第2期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/de/8b/501737_jtFnm.jpg",
-    "synopsis": "島を出たとんぼの日常は目まぐるしく変化していく――。\r\n\r\n高校生となり、熊本での生活をスタートさせたとんぼは、\r\n練習場のジュニア生たちとコースでラウンドすることに。\r\nトカラで培った自由奔放なゴルフでコースを攻略していくとんぼに対し、\r\n1つ年上の実力者・ひのきも決死で応戦。\r\n激しい対決を繰り広げる。\r\nとんぼの潜在能力の高さに驚愕したコーチのハジメは、\r\nとんぼを5月の九州女子選手権に挑戦させることを決意する。\r\n\r\n島で一緒にラウンドしたつぶらや、\r\n熊本で出会ったひのきなど、新たなライバルたちとのゴルフを通じて、\r\nとんぼがさらに大きく羽ばたいていく！",
-    "score": 6.9,
-    "scored_by": 346,
-    "rank": 2982,
-    "popularity": 0,
-    "members": 644,
-    "genres": [
-      "励志",
-      "日常",
-      "治愈",
-      "运动"
-    ],
-    "studios": [
-      "OLM Division 2"
-    ],
-    "source": [
-      "かわさき健・古沢優"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/501737"
-  },
-  {
-    "mal_id": 470599,
-    "title": "浪客剑心 －明治剑客浪漫谭－ 京都动乱",
-    "title_japanese": "るろうに剣心 －明治剣客浪漫譚－ 京都動乱",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7f/fb/470599_Znv22.jpg",
-    "synopsis": "幕末の動乱期に“人斬り抜刀斎”と恐れられた維新志士・緋村剣心は、逆刃刀を手に不殺を誓い、流浪人として新しい時代を生きていた。\r\n\r\n明治十一年五月十四日、“維新三傑”大久保利通が暗殺される。時代を再び動かす事件の背後には、明治政府転覆を企てる志々雄真実の暗躍があった。剣心は“人斬り抜刀斎”の後継者でもあった志々雄を止めるため、神谷薫に別れを告げ京都へ旅立つ。\r\n\r\n薫たちとの別れ、そして新たな出会い\r\nさらには、志々雄一派との戦い\r\n己の因縁と不殺の誓いとの間で揺れる剣心\r\n\r\n幾多の想いが集う明治剣客浪漫譚、第二章開幕――!",
-    "score": 6.6,
-    "scored_by": 606,
-    "rank": 4589,
-    "popularity": 0,
-    "members": 1573,
-    "genres": [
-      "动作",
-      "历史",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "和月伸宏『るろうに剣心 －明治剣客浪漫譚－』（集英社 ジャンプコミックス刊）"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/470599"
-  },
-  {
     "mal_id": 487318,
     "title": "未来童话 第二季",
     "title_japanese": "アサティール2 未来の昔ばなし",
@@ -859,25 +611,144 @@
     "url": "https://bgm.tv/subject/487318"
   },
   {
-    "mal_id": 429305,
-    "title": "听说你们要结婚！？",
-    "title_japanese": "結婚するって、本当ですか",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/30/50/429305_yRkyp.jpg",
-    "synopsis": "首都圏の旅行代理店、JTCの企画部に勤める拓也と莉香は、共に人付き合いが苦手で目立たないが、充実した一人生活を送っていた。ところが、アラスカ支店開設により1年後に独身者が優先で海外派遣されることになり、困った莉香は拓也にとある計画を持ちかけて……。ほとんどしゃべったこともない2人が、たったの365日後に結婚することに！？",
-    "score": 6.1,
-    "scored_by": 1805,
-    "rank": 7322,
+    "mal_id": 489820,
+    "title": "乱马1/2",
+    "title_japanese": "らんま1/2",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/13/a3/489820_Hre3R.jpg",
+    "synopsis": "早乙女乱馬と、 天道道場三女の天道あかねは親が決めた許婚同士。\r\nしかし乱馬にはある悩みが…。\r\n中国での修行中、伝説の修行場「呪泉郷」に落ちてしまい、\r\n水をかぶると女に、\r\nお湯をかぶると男に戻る\r\nという、不思議な体質になってしまっていた！？\r\n乱馬とあかね、そして個性豊かな\r\nキャラクターたちが繰り広げる\r\nドタバタ格闘ラブコメディー、\r\nここに開幕！",
+    "score": 7.5,
+    "scored_by": 5365,
+    "rank": 931,
     "popularity": 0,
-    "members": 4266,
+    "members": 12093,
     "genres": [
+      "动作",
       "喜剧",
+      "奇幻",
       "日常",
-      "爱情",
-      "职场"
+      "校园",
+      "爱情"
     ],
     "studios": [],
     "source": [
-      "若木民喜「結婚するって、本当ですか 365 Days To The Wedding」(小学館「ビッグスピリッツコミックス」刊)"
+      "高橋留美子「らんま1/2」（小学館「少年サンデーコミックス」刊）"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/489820"
+  },
+  {
+    "mal_id": 389156,
+    "title": "地。 ―关于地球的运动―",
+    "title_japanese": "チ。 ―地球の運動について―",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5f/84/389156_J4gqQ.jpg",
+    "synopsis": "15世纪的欧洲某国。在跳级中被允许进入大学的神童拉法尔。他回应了周围的期待，宣布将专攻当时最重要的神学。但是，从以前开始就热心投入的对天文的热情一直没有被抛弃。\r\n有一天，他遇到了一位名叫休伯特的神秘学者。因为触犯了基于异端思想的禁忌而受到拷问，被关进监狱的休伯特。\r\n他研究的是关于宇宙的冲击性的“某个假说”——。",
+    "score": 6.3,
+    "scored_by": 4864,
+    "rank": 6596,
+    "popularity": 0,
+    "members": 12783,
+    "genres": [
+      "历史",
+      "科幻"
+    ],
+    "studios": [],
+    "source": [
+      "魚豊「チ。 ―地球の運動について―」（小学館「ビッグスピリッツコミックス」刊）"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/389156"
+  },
+  {
+    "mal_id": 235634,
+    "title": "机械手臂",
+    "title_japanese": "メカウデ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/93/ed/235634_ufaJC.jpg",
+    "synopsis": "キタカガミ市に住む中学生アマツガ・ヒカルはある日、\r\n謎の”ウデ”型機械生命体 アルマと出会う。\r\nアルマはヒカルからエネルギーを得ようと彼の身体への結合を試みるも失敗。\r\nなんとヒカルが着ていたパーカーに結合してしまう。\r\n\r\n一方その頃、メカウデ達の自我を奪い兵器にすることを企む\r\n大企業”カガミグループ” はアルマの身柄を追っていた。\r\nそしてメカウデ達を救い解放するため活動する組織\r\n”ARMS（アームズ）”もアルマを探す。\r\n\r\nそんな中、記憶を失って困っているアルマを見捨てることが\r\nできなかったヒカルはアルマが結合したパーカーを羽織り、\r\nメカウデ使いたちが繰り広げる大事件に巻き込まれていく……",
+    "score": 4.8,
+    "scored_by": 1096,
+    "rank": 9489,
+    "popularity": 0,
+    "members": 2656,
+    "genres": [
+      "动作",
+      "奇幻",
+      "校园",
+      "科幻"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2024-10-03",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/235634"
+  },
+  {
+    "mal_id": 451426,
+    "title": "寻神的旅途",
+    "title_japanese": "ハイガクラ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/4a/71/451426_feZ7g.jpg",
+    "synopsis": "仙界。\r\n神仙と人間が暮らすその世界は、崩壊の危機に瀕していた。\r\n潔斎と呼ばれる術を使いながら世界中に散らばった神々を捕らえる歌士・一葉（いちよう）は、\r\n従神・滇紅（てんこう）とともに仙界崩壊の鍵を握る凶神・四凶を探し求める――\r\n\r\n長きに渡って読まれ続ける高山しのぶの人気コミックをもとに、\r\n危機に瀕した仙界を救う歌士たちの戦いを描くアクションファンタジー！",
+    "score": 3.7,
+    "scored_by": 94,
+    "rank": 9516,
+    "popularity": 0,
+    "members": 337,
+    "genres": [
+      "冒险",
+      "动作",
+      "喜剧",
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [
+      "高山しのぶ（ゼロサムオンライン／一迅社刊）"
+    ],
+    "aired_from": "2024-10-07",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/451426"
+  },
+  {
+    "mal_id": 476129,
+    "title": "独自一人的异世界攻略",
+    "title_japanese": "ひとりぼっちの異世界攻略",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d2/66/476129_q83DE.jpg",
+    "synopsis": "高校生活を“ぼっち”で過ごしていた遥は、\r\n授業中に突然クラスメイトと共に異世界召喚に巻き込まれてしまう。\r\n\r\nチートスキルが並ぶリストから好きなスキルを選んで神様から与えられる――\r\nはずが、チートスキルは早い者勝ちで\r\n既にめぼしいものはクラスメイトに取り尽くされていた!?\r\n\r\n神様の逆ギレで残ったバッドスキルを全て押し付けられた遥は、\r\nスキル『ぼっち』のせいで、異世界でも孤独に冒険することに……。\r\n\r\nチートに頼らず、チートを超えてやる――\r\n\r\n最強”ぼっち”の\r\n異世界HARDモード攻略譚、開幕！",
+    "score": 4.6,
+    "scored_by": 1423,
+    "rank": 9591,
+    "popularity": 0,
+    "members": 3371,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "喜剧",
+      "奇幻",
+      "日常",
+      "爱情"
+    ],
+    "studios": [
+      "ハヤブサフィルム×パッショーネ"
+    ],
+    "source": [
+      "五示正司（オーバーラップ文庫刊）；漫画：びび（「コミックガルド」連載）"
     ],
     "aired_from": "2024-10-03",
     "year": 2024,
@@ -885,7 +756,7 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/429305"
+    "url": "https://bgm.tv/subject/476129"
   },
   {
     "mal_id": 526102,
@@ -910,148 +781,26 @@
     "url": "https://bgm.tv/subject/526102"
   },
   {
-    "mal_id": 425991,
-    "title": "魔王2099",
-    "title_japanese": "魔王2099",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/31/d7/425991_JFQel.jpg",
-    "synopsis": "这里是统合历2099年──新宿市。在被灭亡的500年后，传说中的魔王「贝尔托尔」再次降临于发展达到极致的未来都市。巨大都市国家的辉煌繁荣……以及其背后所隐藏的惨烈「黑暗」，藉由「他」的降临一一揭开。为了统治新世界，魔王将在未来纵横驰骋！",
-    "score": 6.5,
-    "scored_by": 4169,
-    "rank": 5342,
+    "mal_id": 494302,
+    "title": "蘑菇狗",
+    "title_japanese": "きのこいぬ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/63/8f/494302_aMbQ6.jpg",
+    "synopsis": "ある日、絵本作家のタ闇ほたるは、庭の雪柳の下に\r\nまピンク色のきのこが生えていることに気づく。\r\n彼がぼんやり眺めていると、それは突然動き出す！\r\nしっぽをぶんぶん振って犬っぽいのに、でもきのこ？\r\n疑問に思いながらも、この謎の生きもの\r\nくきのこいぬ>と一緒に暮らすことに。\r\nすると……描いちゃいけないところにお絵かきして、\r\n大好きなたこ焼きは常にぜんぶ食べたい。\r\n幼なじみの編集者こまこちゃんや\r\nきのこ研究所の矢良くんたちも巻き込んで、\r\n気まま放題なのにしれっとフォローもできちゃう\r\nきのこいぬとの“笑える”日々がやってくる。\r\nいろいろ謎すぎるきのこいぬとほたるとみんなの、\r\nいっしょにいるとなんだか楽しい日々を描く、\r\nちょこっと不思議ほんわかアニメーション。",
+    "score": 5.5,
+    "scored_by": 123,
+    "rank": 7730,
     "popularity": 0,
-    "members": 8952,
+    "members": 381,
     "genres": [
-      "冒险",
-      "动作",
-      "后宫",
       "喜剧",
       "奇幻",
       "日常",
-      "校园",
-      "爱情",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "紫大悟（KADOKAWA／ファンタジア文庫刊）"
-    ],
-    "aired_from": "2024-10-12",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/425991"
-  },
-  {
-    "mal_id": 425998,
-    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
-    "title_japanese": "Re:ゼロから始める異世界生活 3rd season 襲擊編",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/26/d6/425998_dnzr8.jpg",
-    "synopsis": "襲い来るエルザたちの猛攻を退け、大兎との戦いでベアトリスとの契約を果たした「聖域」の解放から1年が過ぎた。\r\n王選に臨むエミリア陣営は一致団結、充実した日々を送っていたナツキ・スバルだったが、平穏は使者によって届けられた一枚の書状によって終わりを告げる。\r\nそれは王選候補者の一人、アナスタシアがエミリアへ宛てたルグニカの五大都市に数えられる水門都市プリステラへの招待状だった。\r\n招待を受け、プリステラへ向かうスバルたち一行を待っていたのは様々な再会。\r\n一つは意外な、一つは意図せぬ、そして一つは来るべき。水面下で蠢く悪意の胎動と降りかかる未曾有の危機。\r\n少年は再び過酷な運命に立ち向かう。",
-    "score": 7.2,
-    "scored_by": 6744,
-    "rank": 1823,
-    "popularity": 0,
-    "members": 17604,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）"
-    ],
-    "aired_from": "2024-10-02",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/425998"
-  },
-  {
-    "mal_id": 476969,
-    "title": "殿下与狗",
-    "title_japanese": "殿と犬",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/55/74/476969_11GRj.jpg",
-    "synopsis": "鬼神の如き活躍をした戦国の世──もありましたが今は昔。すっかり没落し貧乏長屋暮らしを送る、【殿】。そんな殿が出会ったのは、一匹の【犬】。短い手足の珍妙な姿を哀れに思い手を差し伸べた殿だけど、新しい家臣のやんちゃぶりに翻弄されて、…！？「何これ！？ 犬こんなことできんの！？？」コワモテな殿とごきげんな犬の天下泰平主従暮らし！",
-    "score": 6,
-    "scored_by": 47,
-    "rank": 0,
-    "popularity": 0,
-    "members": 179,
-    "genres": [
-      "喜剧",
-      "日常",
-      "治愈"
-    ],
-    "studios": [
-      "OLM × Live2D Creative Studio"
-    ],
-    "source": [
-      "西田理英「殿と犬」 (「COMICポラリス」連載 フレックスコミックス刊)"
-    ],
-    "aired_from": "2024-10-10",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/476969"
-  },
-  {
-    "mal_id": 486102,
-    "title": "七大罪 默示录的四骑士 第二季",
-    "title_japanese": "七つの大罪 黙示録の四騎士 第2期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/73/11/486102_IrcKt.jpg",
-    "synopsis": "『七つの大罪』続編譚！！\r\n「聖戦」から16年後の物語！！\r\n\r\n“神の指”と呼ばれる辺境の地で祖父と暮らす、心優しき少年・パーシバル。\r\nしかし、世界はその安寧を許すことはなかった。\r\nある謎の騎士・イロンシッドとの出会いが彼らの運命を変え、明らかになる驚愕の秘密。\r\n少年は果て無き旅路へと足を踏み出す。\r\n『七つの大罪』を知っていても、知らなくても楽しめる！！\r\n全世界待望の痛快冒険ファンタジー！！",
-    "score": 5.6,
-    "scored_by": 103,
-    "rank": 7243,
-    "popularity": 0,
-    "members": 445,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [
-      "鈴木央 「黙示録の四騎士」（講談社「週刊少年マガジン」連載）"
-    ],
-    "aired_from": "2024-10-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/486102"
-  },
-  {
-    "mal_id": 460306,
-    "title": "青之箱",
-    "title_japanese": "アオのハコ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ab/e5/460306_s7Y8n.jpg",
-    "synopsis": "猪股大喜，高中一年级，是初高中一体的体育强校——荣明高中的男子羽毛球社成员。\r\n大喜喜欢上了每天晨练时见到的学姐鹿野千夏。\r\n千夏是女子篮球社的王牌选手，更是校内外憧憬的校花。\r\n兼顾社团活动、恋爱、和学习，大喜忙碌的高中生活拉开了帷幕，突然有一天——",
-    "score": 6.8,
-    "scored_by": 5841,
-    "rank": 3518,
-    "popularity": 0,
-    "members": 14951,
-    "genres": [
-      "日常",
-      "校园",
       "治愈",
-      "爱情",
-      "运动"
+      "萌系"
     ],
     "studios": [],
     "source": [
-      "三浦糀（集英社「週刊少年ジャンプ」連載）"
+      "蒼星きまま ｢きのこいぬ｣（徳間書店 COMICリュウ）"
     ],
     "aired_from": "2024-10-03",
     "year": 2024,
@@ -1059,26 +808,85 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/460306"
+    "url": "https://bgm.tv/subject/494302"
   },
   {
-    "mal_id": 486345,
-    "title": "青之驱魔师 雪之尽头篇",
-    "title_japanese": "青の祓魔師 雪ノ果篇",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/96/ea/486345_eixhi.jpg",
-    "synopsis": "突然姿を消したシュラを捜索するため、\r\n燐と雪男は兄弟ふたりで青森・永久蛇湖へ向かう。\r\nここは、シュラの出身地――\r\nかつて獅郎が彼女を保護した場所だった。\r\n捜索を進める中、燐と雪男は、シュラに待ち受ける定めを知る。\r\n\r\n一方、正十字騎士團日本支部にやってきた\r\n四大騎士（アークナイト）のひとり・ライトニングは、\r\nイルミナティについての調査を開始する。\r\n全ては「青い夜」から始まった――\r\nそう推測するライトニングは、徐々に騎士團の暗部へ足を踏み入れることとなる……",
-    "score": 6,
-    "scored_by": 303,
-    "rank": 6919,
+    "mal_id": 467616,
+    "title": "辰星降临之国的妮娜",
+    "title_japanese": "星降る王国のニナ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/f7/467616_FdqTp.jpg",
+    "synopsis": "在福耳图那国城下有一位独居的孤儿妮娜，她有着如同星之神般深邃的蓝色——琉璃色的眼瞳。由于与不幸事故中去世的福耳图那国公主艾莉莎拥有相同瞳色，妮娜被第二王子阿兹尔发现，并被要求成为公主的替身。\r\n作为星之巫女和公主的替身，所被赋予的使命是——在三个月后，与迦尔迦达大国的第一王子 赛特结婚。\r\n尽管命运被反复操弄，妮娜仍然为被人所需要而感到快乐。她那直率的眼睛究竟看到了什么……\r\n当她决心保护所爱之人时，各自的命运也开始转动起来！",
+    "score": 5.1,
+    "scored_by": 247,
+    "rank": 9047,
     "popularity": 0,
-    "members": 969,
+    "members": 691,
+    "genres": [
+      "冒险",
+      "奇幻",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "リカチ（講談社「BE・LOVE」連載）"
+    ],
+    "aired_from": "2024-10-10",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/467616"
+  },
+  {
+    "mal_id": 400576,
+    "title": "平凡职业造就世界最强 第三季",
+    "title_japanese": "ありふれた職業で世界最強 season 3",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/6c/57/400576_F988s.jpg",
+    "synopsis": "神の使徒ノイントを撃破し、魔人族による王都侵攻を退けたハジメたち。\r\n残る2つの大迷宮攻略の前に、被害を受けたハイリヒ王国への助力をヘルシャー帝国に求めるため、王女リリアーナを帝都へ送り届けることに。\r\nその道中、帝国兵と戦うハウリア族と出会ったハジメたちは、魔人族と帝国兵の侵攻を受けたフェアベルゲンの現状を知る。\r\nさらに族長のカムが帝国に囚われていると知ったハジメは、シアのためにその力を惜しみなく使うことを誓う!!\r\n\r\n「さあ、パーティーの始まりだ」\r\n\r\n“最強”異世界ファンタジー、season 3開幕！",
+    "score": 5.4,
+    "scored_by": 1436,
+    "rank": 8992,
+    "popularity": 0,
+    "members": 4436,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "喜剧",
+      "奇幻",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "白米良（オーバーラップ文庫刊）"
+    ],
+    "aired_from": "2024-10-14",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/400576"
+  },
+  {
+    "mal_id": 457326,
+    "title": "死神 千年血战篇-相克谭-",
+    "title_japanese": "BLEACH 千年血戦篇-相剋譚-",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/6d/1e/457326_0ElE0.jpg",
+    "synopsis": "まさしく「最終決戦」にふさわしい実力派スタッフ陣で挑む、ファイナル・シリーズ。\r\nはたして、黒崎一護が\r\nたどり着くのは――。",
+    "score": 7.4,
+    "scored_by": 2028,
+    "rank": 1236,
+    "popularity": 0,
+    "members": 4885,
     "genres": [
       "动作",
       "奇幻"
     ],
     "studios": [],
     "source": [
-      "加藤和恵 （集英社「ジャンプSQ.」連載）"
+      "久保帯人「BLEACH」（集英社 ジャンプコミックス刊）"
     ],
     "aired_from": "2024-10-05",
     "year": 2024,
@@ -1086,35 +894,121 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/486345"
+    "url": "https://bgm.tv/subject/457326"
   },
   {
-    "mal_id": 481865,
-    "title": "关于养猫我一直是新手 第三季",
-    "title_japanese": "夜は猫といっしょ 第3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/55/7a/481865_RubiA.jpg",
-    "synopsis": "疲れて帰ってきた夜は、\r\n猫と過ごしたい。\r\n\r\n突然、猫・キュルガといっしょに暮らすことになったフータくん。\r\nキュルガとの生活は不思議なことや楽しいことがたくさん！\r\n猫とのリアルな日常を描いた最注目の猫アニメが、\r\n2024年12月、第3期配信決定‼",
-    "score": 6.6,
-    "scored_by": 34,
+    "mal_id": 235702,
+    "title": "はじめました、山猫医院",
+    "title_japanese": "はじめました、山猫医院",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/12/3f/235702_GPOy9.jpg",
+    "synopsis": "医療事務募集の広告を見て面接に向かった「上川アキラ」だったが、\r\n着いた場所が山の奥にある見た目がまるで廃病院のような場所だった。\r\nそこにいたのは医者と看護師と麻酔科医の3人だけ。\r\n人手不足だったのかあっさり採用が決まってしまい、少し半信半疑なアキラだったが、\r\n帰る途中忘れ物に気付き病院に取りに戻る。\r\nそこで見たのが3匹の化け猫たちの宴会だった。\r\nそう、ここは山猫が運営する山猫医院だった。\r\nこれから一体どうなるのだろうか。",
+    "score": 2,
+    "scored_by": 2,
     "rank": 0,
     "popularity": 0,
-    "members": 117,
-    "genres": [
-      "喜剧",
-      "日常",
-      "治愈"
-    ],
+    "members": 33,
+    "genres": [],
     "studios": [],
     "source": [
-      "キュルZ（「夜は猫といっしょ」／KADOKAWA刊）"
+      "天川亜美瑠"
     ],
-    "aired_from": "2024-12-04",
+    "aired_from": "2024-10-03",
     "year": 2024,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/481865"
+    "url": "https://bgm.tv/subject/235702"
+  },
+  {
+    "mal_id": 484981,
+    "title": "再见龙生，你好人生",
+    "title_japanese": "さようなら竜生、こんにちは人生",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5e/16/484981_7uC2z.jpg",
+    "synopsis": "ある時、最古の神竜が人間に討たれた。\r\n悠久の時を生き、神々すらひれ伏す絶大な力を持つその竜は、孤独と共に己の死を受け入れた。\r\nしかし、次に気がついた時、竜は辺境の村人ドランとして第二の生を受けていた。\r\n\r\n人間として竜よりずっと短い生を生きることになった彼は、畑仕事に精を出し、食を得るために動物を狩る……。\r\n質素ながらも温かい村での生活に、ドランの心は竜生では味わえなかったささやかな喜びで満たされていく。\r\n\r\nしかし、そんなある日、沼地の調査に出かけたドランの前に、セリナと名乗る半身半蛇のラミアが現れた。\r\n伴侶を探して旅をしている彼女は、ラミアなのに人間を誘惑するのが苦手だという。\r\n人と魔物、相容れぬ存在ながらも次第に心を通わせていく二人。\r\nだが、二人の前には様々な外敵が現れて――!?\r\n\r\n辺境から始まる、元最強最古の竜の“生き直し”ファンタジー！",
+    "score": 5.1,
+    "scored_by": 1028,
+    "rank": 9331,
+    "popularity": 0,
+    "members": 2618,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "奇幻",
+      "日常",
+      "爱情"
+    ],
+    "studios": [
+      "SynergySP×ベガエンタテイメント"
+    ],
+    "source": [
+      "永島ひろあき（アルファポリス刊）；漫画：くろの"
+    ],
+    "aired_from": "2024-10-10",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/484981"
+  },
+  {
+    "mal_id": 467803,
+    "title": "神选 第二季",
+    "title_japanese": "カミエラビ シーズン2",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/ec/d5/467803_GrwR5.jpg",
+    "synopsis": "「神様、世界は今日も健やかに狂っています。」\r\n\r\n都内私立高校に通う高校一年生のゴローには、「望み」や「夢」もなければ「野望」もない。\r\n世界は彼にとって「無関心」なものであり、同じ学校の同級生であるホノカに淡い憧れを抱きながら、親友のアキツと変わり映えのしない退屈な日常を過ごしていた。\r\n\r\nそんなある日、ゴローのスマートフォンに奇妙な通知が届く。\r\n「あなたは選ばれました。願いを吹き込んでください」\r\n\r\n悪質なスパムだと思ったゴローは「憧れのホノカとエッチなことがしたい」とつぶやく。\r\nすると翌日ホノカに誘われ、人気のないゲーセンでズボンを降ろされて…。\r\n\r\n「大願成就、おめでとうございや～す！」\r\nそこに突如現れた不思議な少女ラル。\r\n一連の出来事に混乱するゴローに、残酷な運命を告げる。\r\nゴローは「大いなる意志」に選ばれ、願いを叶えるため「神様」の座をかけて、他のカミサマ候補たちと最後の一人になるまで殺しあうのだと。\r\n\r\n与えられた能力は「愚者の聖典」。\r\n自分自身に降りかかる「不幸」を代償に、世界の因果を捻じ曲げ、この世の理を自在に操る力。\r\n\r\n真っ先にゴローを殺そうと現れた最初のカミサマ候補は、あろうことか憧れのホノカだった。\r\n容赦なく襲い掛かってくるホノカに対して、ゴローがとった選択とは―？\r\n\r\nかくして、秘密を抱えたカミサマ候補達によるフェティッシュ・バトルロワイヤルが開幕する――！",
+    "score": 5.1,
+    "scored_by": 885,
+    "rank": 9304,
+    "popularity": 0,
+    "members": 1812,
+    "genres": [
+      "动作",
+      "奇幻",
+      "悬疑"
+    ],
+    "studios": [],
+    "source": [
+      "スロウカーブ／ヨコオタロウ／UNEND"
+    ],
+    "aired_from": "2024-10-02",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/467803"
+  },
+  {
+    "mal_id": 505895,
+    "title": "悲喜渔生",
+    "title_japanese": "ネガポジアングラー",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/06/f9/505895_OvNf1.jpg",
+    "synopsis": "大学生佐佐木常宏身背巨额债务，又被医生告知只余两年寿命。\r\n他终日郁郁寡欢，在一次被催债人追逐中失足坠海，幸而被热爱垂钓的少女花以及钓友贵明救助。\r\n在花的劝说下，常宏开始了人生中第一次垂钓，与其他钓友也逐渐熟悉，并开始在花以及贵明工作的便利店打工。\r\n起初，他一度苦于各种生涩的术语和糠虾的腥味，但还是逐渐喜欢上了垂钓。\r\n鱼儿中钩的触感触达手中，那也是生命的实感——\r\n“一路下坡，只能抬头仰望的人生，不可能轻易改观”\r\n抱有如此想法的常宏，会通过垂钓获得怎样的感悟？",
+    "score": 7.3,
+    "scored_by": 4853,
+    "rank": 1468,
+    "popularity": 0,
+    "members": 11285,
+    "genres": [
+      "喜剧",
+      "日常",
+      "治愈",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "ネガグラプロジェクト"
+    ],
+    "aired_from": "2024-10-03",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/505895"
   },
   {
     "mal_id": 437532,
@@ -1123,10 +1017,10 @@
     "image_url": "https://lain.bgm.tv/pic/cover/l/48/d0/437532_yOtTo.jpg",
     "synopsis": "自他共に認める陰キャである主人公「和泉 智宏」は、急遽行われた生徒会長を決める くじ引きで、当たりくじを引いてしまう。\r\n\r\nしぶしぶながら会長を引き受けた智宏は仲間集めを開始するが、挙げられた役員候補は全員 学園に来ていない！？\r\n同級生の「常磐華乃」、後輩の「錦あすみ」、そして妹の「和泉妃愛」を引き入れる中、\r\n音信不通だった前会長「鎌倉詩桜」、智宏のクラスメイトである「竜閑天梨」の二人まで 現れて……！\r\n\r\nアニメでは、ゲームで見ることのできなかった、主人公不在の中で繰り広げられる５人の 物語をお届けします！\r\n不登校から脱却した彼女たちが、生徒会の枠組みを超えて巻き起こす、 青春日常コメディが開幕！",
     "score": 4.4,
-    "scored_by": 786,
-    "rank": 9564,
+    "scored_by": 802,
+    "rank": 9616,
     "popularity": 0,
-    "members": 2114,
+    "members": 2165,
     "genres": [
       "后宫",
       "喜剧",
@@ -1148,55 +1042,194 @@
     "url": "https://bgm.tv/subject/437532"
   },
   {
-    "mal_id": 513948,
-    "title": "谋杀之谜：亡者的秘密",
-    "title_japanese": "マーダーミステリー・オブ・ザ・デッド",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7d/3e/513948_zHBmH.jpg",
-    "synopsis": "「マーダーミステリー」は、登場人物の一員となって、殺人事件などのミステリーの中に入り込む体験型推理ゲームです。プレイヤー同士が協力し合い、時にはキャラクターとして対立しながら、事件の調査を進めていきます。その過程で、自分たちだけの物語を作り上げ、体験することを楽しみます。現在、数々のボードゲーム型パッケージやデジタルイベント、リアルイベントが登場し、世界中で注目を集めています。今回のアニメでは、秋口 ぎぐる氏の「マーダーミステリー・オブ・ザ・デッド」を原作に、全く新しいストーリーが展開されます。",
-    "score": 5.4,
-    "scored_by": 367,
-    "rank": 8711,
+    "mal_id": 467461,
+    "title": "胆大党",
+    "title_japanese": "ダンダダン",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/44/7d/467461_HHw4K.jpg",
+    "synopsis": "出生于灵媒师家族的女高中生·小桃<绫濑桃>，与她同年级的超自然爱好者·厄卡伦<高仓健>。\r\n小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。\r\n为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。\r\n在那里，他们遇到了无法理解的极其怪异的现象。\r\n在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！\r\n也开始了命运之恋！？\r\n超能力战斗&青春故事，开幕！\r\n\r\n霊媒師の家系に生まれた女子高生・モモ＜綾瀬桃＞と、\r\n同級生でオカルトマニアのオカルン＜高倉健＞。\r\n\r\nモモがクラスのいじめっ子からオカルンを助けたことをきっかけに\r\n話すようになった2人だったが、\r\n「幽霊は信じているが宇宙人否定派」のモモと、\r\n「宇宙人は信じているが幽霊否定派」のオカルンで口論に。\r\n\r\n互いに否定する宇宙人と幽霊を信じさせるため、\r\nモモはUFOスポットの病院廃墟へ、\r\nオカルンは心霊スポットのトンネルへ。\r\n\r\nそこで2人は、理解を超越した圧倒的怪奇に出会う。\r\n\r\n窮地の中で秘めた力を覚醒させるモモと、呪いの力を手にしたオカルンが、\r\n迫りくる怪奇に挑む！\r\n\r\n運命の恋も始まる！？\r\n\r\nオカルティックバトル＆青春物語、開幕！",
+    "score": 7.5,
+    "scored_by": 14642,
+    "rank": 939,
     "popularity": 0,
-    "members": 710,
+    "members": 33177,
     "genres": [
       "动作",
       "喜剧",
-      "悬疑",
-      "百合"
+      "奇幻",
+      "校园",
+      "爱情",
+      "科幻"
     ],
-    "studios": [
-      "Ziine studio"
+    "studios": [],
+    "source": [
+      "龍幸伸（集英社「少年ジャンプ＋」連載）"
     ],
-    "source": [],
-    "aired_from": "2024-11-13",
+    "aired_from": "2024-10-03",
     "year": 2024,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/513948"
+    "url": "https://bgm.tv/subject/467461"
   },
   {
-    "mal_id": 562714,
-    "title": "窗外",
-    "title_japanese": "窗外",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/a9/3f/562714_uu6Fc.jpg",
-    "synopsis": "在最初的凝视之后，紧接而来的就是想象。\r\n想象是无穷的，画面不断在脑海中涌现，然而眼前的风景依旧重复。\r\n仿佛透过楼层，能看到山和海。我久久地凝视记忆中的画面，直到天色也暗下来，直到听到了他们的声音，直到连眼前的景色也看不见了。",
-    "score": 5,
+    "mal_id": 387746,
+    "title": "村井之恋",
+    "title_japanese": "村井の恋",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/77/4f/387746_r61U1.jpg",
+    "synopsis": "一位行为古怪的男高中生村井，对自己的班导师田中老师抱爱恋之情。然而，田中老师则是爱着她在乙女游戏中的最爱角色「春夏秋冬（ヒトトセ）」。\r\n\r\n对此一无所知的村井向田中告白，却因为「黑长发不在恋爱考量范围内」而被断然拒绝。然而，第二天，换上全新发型的村井以田中的“最爱角色”形象出现。田中对此感到极度动摇，而村井则持续强烈地发起爱的攻势。\r\n\r\n这段古怪的恋情最终将走向何方……？",
+    "score": 6.5,
+    "scored_by": 571,
+    "rank": 4896,
+    "popularity": 0,
+    "members": 1541,
+    "genres": [
+      "喜剧",
+      "日常",
+      "校园",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "島順太『村井の恋』（ジーンLINEコミックス／KADOKAWA刊）"
+    ],
+    "aired_from": "2024-10-06",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/387746"
+  },
+  {
+    "mal_id": 513375,
+    "title": "噗尼轮轮 噗尼2",
+    "title_japanese": "ぷにるんず ぷに２",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/99/73/513375_p86rq.jpg",
+    "synopsis": "ぷにるんず……それは、ぷにっとやわらかい『ぷしぎ』ないきもの。\r\nみんな、ぷにぷにされるのが大すき。\r\nまいにち楽しく ぷにっとくらしています。\r\nある日、あいるんのおうちに『ぷしぎなあんてな』があらわれました。\r\nあんてなが光ってやってきたのは、あたらしいぷにとも ともるん。\r\nぷにるんずの日常は、ますますにぎやかになります。\r\nそんな ともるんをみまもる ぷしぎなぷにるんず ゆにるん。\r\nそして、あいるんたちのまえにあらわれた不思議な女の子。\r\n今回もいろいろあるけれど、ぷにるんずのぷしぎな日々はつづいていきます。",
+    "score": 1,
     "scored_by": 1,
     "rank": 0,
     "popularity": 0,
-    "members": 5,
+    "members": 19,
     "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-11-05",
+    "studios": [
+      "OLM Digital"
+    ],
+    "source": [
+      "タカラトミー"
+    ],
+    "aired_from": "2024-10-06",
     "year": 2024,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/562714"
+    "url": "https://bgm.tv/subject/513375"
+  },
+  {
+    "mal_id": 492951,
+    "title": "乐天胖达",
+    "title_japanese": "お買いものパンダ！",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/ba/c8/492951_I693f.jpg",
+    "synopsis": "スタンプでおなじみのあのキャラクター\r\n「お買いものパンダ」が、\r\nついにアニメになって登場！\r\n\r\nいつも仲良しの「お買いものパンダ」、「小パンダ」、\r\n「ぷちょまる」、「むぎ」。みんなで過ごす毎日は楽しいことばかり！\r\n“お買い物”って、誰にとっても、\r\nいつでもワクワクが止まらない！ ……\r\nだけど、お買いものパンダたちの“お買い物”は、\r\nいつも一波乱！？ 笑いが止まらないハプニングから、\r\n世界を揺るがす大事件まで、今日もなにかが起きる予感…！",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 17,
+    "genres": [],
+    "studios": [],
+    "source": [],
+    "aired_from": "2024-11-06",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/492951"
+  },
+  {
+    "mal_id": 470777,
+    "title": "百姓贵族 第二季",
+    "title_japanese": "百姓貴族 2nd Season",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d1/94/470777_F4yV4.jpg",
+    "synopsis": "「農家の常識は社会の非常識」\r\n\r\nマンガ家になるまでの七年間、北海道で実家の酪農・畑作業に従事していた荒川弘。\r\n年中無休で働き、牛を飼い、野菜を作り、\r\nクマに怯え、エゾシマリスに翻弄されるというハードな日常を送っていた……。\r\n\r\n日本の酪農・農業の苦しい現実を捉えつつも、汗水垂らして働く大人（時々コドモ）の、\r\n笑いたっぷり、パワーもたっぷりなカッコ良い生き様に刮目せよ!!",
+    "score": 6.6,
+    "scored_by": 150,
+    "rank": 3830,
+    "popularity": 0,
+    "members": 341,
+    "genres": [
+      "喜剧",
+      "日常",
+      "治愈"
+    ],
+    "studios": [],
+    "source": [
+      "荒川弘 （新書館「ウィングス」連載）"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/470777"
+  },
+  {
+    "mal_id": 491151,
+    "title": "依靠最弱辅助职能【话术士】的我统领世界最强氏族",
+    "title_japanese": "最凶の支援職【話術士】である俺は世界最強クランを従える",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/e6/cb/491151_rNnm5.jpg",
+    "synopsis": "不滅の悪鬼オーバーデスと呼ばれた英雄を祖父に持つ\r\n少年ノエル。\r\n祖父に憧れ、最強の探索者シーカーを志す彼の持つ\r\n職能ジョブは最弱と評される\r\n支援職【話術士】だった。\r\n祖父の遺志を継ぎ、並々ならぬ努力により\r\n探索者として力をつけたノエルだが、\r\n生まれ持った才能の差を埋めることは\r\nできなかった――\r\nしかし類稀なる才略をも開花させた彼は\r\n最強への道を見出す。\r\n仲間を集め\r\n最強の組織クランを創り、\r\nそのマスターに\r\nなること――。\r\n策略を巡らせ敵を翻弄し、仲間を率いて\r\n遥かなる高みを目指す。\r\n最凶の【話術士】は\r\n最強への道を切り開く。手段は選ばない。",
+    "score": 5.6,
+    "scored_by": 1644,
+    "rank": 8765,
+    "popularity": 0,
+    "members": 3696,
+    "genres": [
+      "冒险",
+      "动作",
+      "奇幻"
+    ],
+    "studios": [
+      "FelixFilm×画狂"
+    ],
+    "source": [
+      "じゃき（オーバーラップ文庫刊）；漫画：やもりちゃん（「コミックガルド」連載）"
+    ],
+    "aired_from": "2024-10-07",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/491151"
+  },
+  {
+    "mal_id": 514693,
+    "title": "涩谷♡八 第二部分",
+    "title_japanese": "SHIBUYA♡HACHI 第2クール",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/69/40/514693_wJgaD.jpg",
+    "synopsis": "渋谷駅前のシンボル“忠犬ハチ公像”として、\r\nまちを見守り続けて来た“HACHI”が現代の渋谷で動き出す！\r\n\r\nミケ・ナナ・ハリー・クロといった\r\n渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。\r\n\r\n“HACHI”の小さな冒険が、いま始まる！",
+    "score": 5,
+    "scored_by": 3,
+    "rank": 0,
+    "popularity": 0,
+    "members": 28,
+    "genres": [
+      "日常"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/514693"
   },
   {
     "mal_id": 265391,
@@ -1204,11 +1237,11 @@
     "title_japanese": "魔法使いになれなかった女の子の話",
     "image_url": "https://lain.bgm.tv/pic/cover/l/d2/4d/265391_lW0Qi.jpg",
     "synopsis": "“抱歉了魔法师……我没能遵守我们的约定……”\r\n\r\n这是围绕一心想成为魔法师的天然少女可露米·未来，\r\n以及被誉为“人才辈出的魔法师名门”爱德尔家的千金柚子·爱德尔\r\n两个女孩子的故事。\r\n“要成为魔法师必须先入读雷特兰魔法学校\r\n‘国家魔法师养成专门学科（通称：魔组）’”\r\n——明明有着这种严格的前提条件，她们却落榜了！？\r\n原以为追梦受挫，两人的班主任竟然是\r\n外表像小孩的国家魔法师美奈海·铃树……\r\n校园生活就此发生大转变！\r\n似乎哪里有古怪的同班同学，加上可疑的同好会，\r\n这所学校到底隐藏了什么秘密！？\r\n魔法师啊，普通科一班的我也能当上魔法师……吗？\r\n\r\n这是由两个与梦想擦肩而过、性格截然相反的女孩们谱写的\r\n青春×魔法校园的奇幻故事！",
-    "score": 4.9,
-    "scored_by": 1067,
-    "rank": 9427,
+    "score": 4.8,
+    "scored_by": 1082,
+    "rank": 9480,
     "popularity": 0,
-    "members": 2634,
+    "members": 2669,
     "genres": [
       "喜剧",
       "奇幻",
@@ -1227,26 +1260,50 @@
     "url": "https://bgm.tv/subject/265391"
   },
   {
-    "mal_id": 484624,
-    "title": "转生成猫咪的大叔",
-    "title_japanese": "ねこに転生したおじさん",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/41/9a/484624_EefQU.jpg",
-    "synopsis": "ごく普通のサラリーマンだったのに、ある日突然、\r\nねこに転生してしまったおじさん。\r\n人間の言葉も話せなくなり道端で困っていると、\r\nそこへ通りかかったのは、\r\nおじさんが勤めている会社の社長だった。\r\n厳しい性格で知られていた社長だったが、\r\n可愛らしいねこ（正体はおじさん）を目にしたとたん、\r\n態度が一変し…！？\r\n正体がバレないようふるまうおじさんと、\r\nねこに「プンちゃん」と名付けて溺愛する社長の、\r\n愉快でシュールなハッピーライフがスタート！",
-    "score": 5.4,
-    "scored_by": 115,
-    "rank": 7950,
+    "mal_id": 517245,
+    "title": "ヘイアンチョウまったりホリデイ",
+    "title_japanese": "ヘイアンチョウまったりホリデイ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5f/f5/517245_ri2AL.jpg",
+    "synopsis": "休日、カズマと一緒にヘイアンチョウに帰ったおじゃる丸は、許嫁のオカメ姫と家庭教師の赤紫式部、お清少納言たちに追いかけられていた。\r\n\r\nすると突然、空が真っ暗に…。ヘイアンチョウで日食が起きたのだ。辺りが明るくなると、\r\nおじゃる丸の前にミヤビな貴族の二人組が立っていた。彼らの名は、藤原公任と藤原斉信。もといた“平安京”からヘイアンチョウに迷い込んでしまったようだ。\r\n\r\nおじゃる丸は、公任と斉信が平安京に戻れるよう、一緒に帰り道を探すことに。\r\n\r\nその頃、電ボは乙丸と百舌彦に、子鬼トリオは安倍晴明に、オカメ姫と赤紫式部とお清少納言はききょうと出会い…。",
+    "score": 5.3,
+    "scored_by": 3,
+    "rank": 0,
     "popularity": 0,
-    "members": 370,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "萌系"
-    ],
+    "members": 9,
+    "genres": [],
     "studios": [],
+    "source": [],
+    "aired_from": "2024-10-19",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/517245"
+  },
+  {
+    "mal_id": 355803,
+    "title": "精灵幻想记 第二季",
+    "title_japanese": "精霊幻想記2",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/10/f0/355803_Xqf00.jpg",
+    "synopsis": "前世と現世が交錯する――異世界転生ファンタジー新章開幕!!\r\n\r\n幼い頃に母を殺され、スラム街の孤児となった少年リオ。\r\n七歳のある日、彼の中で不慮の事故で死んだ日本の大学生《天川春人の記憶》が甦り、\r\n同時に《膨大な魔力》が覚醒した。\r\nそれから様々な出会いと別れを経験したリオは、\r\n両親の故郷で母を殺した宿敵への復讐を胸に誓う。\r\n\r\n数年の旅を経てシュトラール地方へと舞い戻ったリオは、\r\n望まぬ政略結婚を強いられていた恩師セリアを救出。\r\nだが、その直後、突如として出現した光の柱に導かれるようにして、\r\n彼は己が前世である天川春人の初恋の少女・綾瀬美春と衝撃的な再会を果たす――",
+    "score": 5.2,
+    "scored_by": 1690,
+    "rank": 9253,
+    "popularity": 0,
+    "members": 4401,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "奇幻",
+      "爱情"
+    ],
+    "studios": [
+      "トムス・エンタテインメント（ワオワールド）"
+    ],
     "source": [
-      "「ねこに転生したおじさん」やじま"
+      "北山結莉（HJ文庫／ホビージャパン）；漫画：みなづきふたご（HJコミックス／コミックファイア連載）"
     ],
     "aired_from": "2024-10-07",
     "year": 2024,
@@ -1254,81 +1311,120 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/484624"
+    "url": "https://bgm.tv/subject/355803"
   },
   {
-    "mal_id": 483362,
-    "title": "偶像大师 闪耀色彩 第二季",
-    "title_japanese": "アイドルマスター シャイニーカラーズ 2nd season",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/b2/1f/483362_3KQ7x.jpg",
-    "synopsis": "光を目指し、一歩を踏み出した“翼”たち——。\r\n\r\nアイドルへの憧れ。\r\n求める願い。\r\n手を伸ばしたい夢。\r\n\r\n様々な思いを胸に、\r\n２８３プロダクションに新たなユニットが加わる。\r\n完璧なパフォーマンスを目指すストレイライト。\r\n幼馴染４人の絆で結ばれたノくチル。\r\n\r\n２つのユニットが巻き起こす波紋が、\r\nお互いの道を照らし出す輝きとなっていく。\r\nそこに広がるのは可能性という名の未来。\r\n\r\n“翼”たちが踏み出す新たな一歩。羽ばたく先を決めるのは——",
-    "score": 3.9,
-    "scored_by": 564,
-    "rank": 9631,
+    "mal_id": 492352,
+    "title": "五等分的新娘＊",
+    "title_japanese": "五等分の花嫁＊",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/54/68/492352_4dkjc.jpg",
+    "synopsis": "ファン待望の新婚旅行エピソードを、春場ねぎ原案＆完全監修のもと映像化。\r\n大人になった風太郎と五つ子の日常をお届けします！\r\n\r\n「落第寸前」「勉強嫌い」の美少女五つ子を、\r\nアルバイト家庭教師として見事「卒業」まで導いた風太郎。\r\nそれぞれの道へと歩み夢を叶えた五つ子だったが、何か悩みを抱えている様子で...。\r\nそんな中、風太郎と五つ子はハネムーンを兼ねたハワイ旅行を計画する。\r\n順調に準備が進んでいた矢先、ある事件が発覚し大慌ての事態に!!\r\nさらには旅行先のハワイでもトラブルに巻き込まれて…!?\r\n\r\nかわいさ500％の五つ子ラブコメ、新婚旅行編──!!",
+    "score": 5.6,
+    "scored_by": 1033,
+    "rank": 8578,
     "popularity": 0,
-    "members": 1196,
+    "members": 2922,
     "genres": [
-      "喜剧",
-      "音乐"
-    ],
-    "studios": [],
-    "source": [
-      "バンダイナムコエンターテインメント"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/483362"
-  },
-  {
-    "mal_id": 549232,
-    "title": "长篇动画电影 乔尼亚斯奥特曼 前往奥特之星！！",
-    "title_japanese": "長篇アニメ映画 ザ☆ウルトラマン ウルトラの星へ!!",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/bf/61/549232_4mFaZ.jpg",
-    "synopsis": "地球とウルトラの星・U40に、宿敵ヘラー軍団との最終決戦の時が来た。地球全土がヘラー軍団の攻撃を受けるなか、危険を冒してウルトラマンジョーニアスの妹・アミアが援軍を求めて飛来した。科学警備隊は地球防衛軍の制止を振り切り、U40に加勢するため巨大戦艦・ウルトリアでヘラー軍団の前線基地・タイターンへ猛攻撃を開始する。",
-    "score": 5.7,
-    "scored_by": 3,
-    "rank": 0,
-    "popularity": 0,
-    "members": 10,
-    "genres": [
-      "动作",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/549232"
-  },
-  {
-    "mal_id": 404480,
-    "title": "Love Live! Superstar!! 第三季",
-    "title_japanese": "ラブライブ！スーパースター!! 3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/4f/12/404480_OokoZ.jpg",
-    "synopsis": "私立結ヶ丘女子高等学校、\r\n表参道と原宿と青山という3つの街のはざまで生まれた\r\nスクールアイドルグループ Liella!の3年目がはじまる。\r\n\r\n澁谷かのんたち1期生にとっては、高校生活最後の1年。\r\n精一杯声響かせた学校の屋上も、全力で駆けた並木道も、全てが思い出に変わる前に。\r\n「約束をしよう――。」\r\n\r\n5人で踏み出し、9人で夢を叶えて、11人で結ばれる「みんなで叶える物語(スクールアイドルプロジェクト)」。\r\nはばたけ！私たちのラブライブ！",
-    "score": 6.1,
-    "scored_by": 1420,
-    "rank": 7208,
-    "popularity": 0,
-    "members": 3029,
-    "genres": [
+      "后宫",
       "喜剧",
       "日常",
       "校园",
-      "百合",
-      "音乐"
+      "爱情"
     ],
     "studios": [],
     "source": [
-      "矢立肇"
+      "春場ねぎ「五等分の花嫁」 （講談社『週刊少年マガジン』）"
+    ],
+    "aired_from": "2024-12-23",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/492352"
+  },
+  {
+    "mal_id": 481410,
+    "title": "叹气的亡灵想隐退",
+    "title_japanese": "嘆きの亡霊は引退したい",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/76/9a/481410_f635f.jpg",
+    "synopsis": "トレジャーハンターになろうぜ\r\n目指すはただひとつ、\r\n世界最強の英雄だ\r\nかつてそんな誓いを交わした六人の中で\r\nひとりだけ圧倒的に才能がなかった少年\r\nがいた。\r\nある日挫折を口にした彼に、\r\n幼馴染は言った。\r\n「クライ、お前、特に役割ないんだから\r\nリーダーやれよ」\r\n才能があり過ぎる怪物達(=幼馴染達)で\r\n結成されたパーティ \r\n《嘆きの亡霊（ストレンジ・グリーフ）》は\r\n数年にしてその名を帝都中に轟かせ、\r\nそのてっぺんに据えられた彼は\r\nあれよあれよという間に\r\n最強パーティのリーダーとして\r\n祭り上げられた。\r\n跳ね上がる周囲からの期待により\r\n彼の言動はいつだって勘違いされ、\r\n事態は予想もしない展開に…。\r\nこれは、最強パーティのリーダーにして\r\n最強のクランマスターとして\r\n名を馳せるクライ・アンドリヒの\r\n栄光と苦悩に満ちた\r\n英雄譚である！",
+    "score": 6.3,
+    "scored_by": 2936,
+    "rank": 6494,
+    "popularity": 0,
+    "members": 7014,
+    "genres": [
+      "动作",
+      "后宫",
+      "喜剧",
+      "奇幻",
+      "日常"
+    ],
+    "studios": [],
+    "source": [
+      "槻影（GCノベルズ／マイクロマガジン社刊）"
+    ],
+    "aired_from": "2024-10-01",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/481410"
+  },
+  {
+    "mal_id": 408896,
+    "title": "顶尖恶路",
+    "title_japanese": "アクロトリップ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/41/29/408896_zj44s.jpg",
+    "synopsis": "祖父のもとを訪れた地図子は、\r\n街を守る魔法少女・ベリーブロッサムと出会い、たちまち夢中に。\r\nしかし、敵対する悪の組織「フォッサマグナ」総帥・クロマの攻撃が\r\nあまりにもパッとせず、２人の戦いは見応えゼロ。\r\nもっと、ベリーの活躍を愛でたい地図子はモヤモヤを募らせていく・・・。 \r\n「魔法少女をもっと輝かせたい・・・強いてくれ、苦戦を！」 \r\nその欲望（？）が、内気な少女を悪の路に導いてゆくー。",
+    "score": 5.8,
+    "scored_by": 1095,
+    "rank": 8195,
+    "popularity": 0,
+    "members": 2513,
+    "genres": [
+      "动作",
+      "喜剧",
+      "奇幻",
+      "日常"
+    ],
+    "studios": [],
+    "source": [
+      "佐和田米「アクロトリップ」（集英社 りぼんマスコットコミックス刊）"
+    ],
+    "aired_from": "2024-10-02",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/408896"
+  },
+  {
+    "mal_id": 470045,
+    "title": "噗妮露是可爱史莱姆",
+    "title_japanese": "ぷにるはかわいいスライム",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/fe/ab/470045_zA9BA.jpg",
+    "synopsis": "这是关于噗妮露和初中生小太郎不再是朋友的故事……。\r\n河合井小太郎是一名国中二年级的男生，小学时他创造的史莱姆获得了生命。从那时起，他和名为噗妮露的史莱姆作为「朋友」和睦共处在一起。然而，随着七年的时间过去，噗妮露竟变成了超绝美少女！面对噗妮露可爱的样貌、随心所欲的言行，小太郎每天都感到心跳加速。究竟，噗妮露和小太郎能继续作为「朋友」快乐地相处下去吗！ ？",
+    "score": 7.2,
+    "scored_by": 3984,
+    "rank": 1688,
+    "popularity": 0,
+    "members": 9424,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "日常",
+      "校园",
+      "治愈",
+      "爱情",
+      "萌系"
+    ],
+    "studios": [],
+    "source": [
+      "まえだくん（小学館「週刊コロコロコミック」連載）"
     ],
     "aired_from": "2024-10-06",
     "year": 2024,
@@ -1336,28 +1432,54 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/404480"
+    "url": "https://bgm.tv/subject/470045"
   },
   {
-    "mal_id": 505895,
-    "title": "悲喜渔生",
-    "title_japanese": "ネガポジアングラー",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/06/f9/505895_OvNf1.jpg",
-    "synopsis": "大学生佐佐木常宏身背巨额债务，又被医生告知只余两年寿命。\r\n他终日郁郁寡欢，在一次被催债人追逐中失足坠海，幸而被热爱垂钓的少女花以及钓友贵明救助。\r\n在花的劝说下，常宏开始了人生中第一次垂钓，与其他钓友也逐渐熟悉，并开始在花以及贵明工作的便利店打工。\r\n起初，他一度苦于各种生涩的术语和糠虾的腥味，但还是逐渐喜欢上了垂钓。\r\n鱼儿中钩的触感触达手中，那也是生命的实感——\r\n“一路下坡，只能抬头仰望的人生，不可能轻易改观”\r\n抱有如此想法的常宏，会通过垂钓获得怎样的感悟？",
-    "score": 7.3,
-    "scored_by": 4732,
-    "rank": 1458,
+    "mal_id": 432597,
+    "title": "重启人生的千金小姐正在攻略龙帝陛下",
+    "title_japanese": "やり直し令嬢は竜帝陛下を攻略中",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/da/22/432597_d3pD7.jpg",
+    "synopsis": "千金小姐吉儿遭到太子以莫须有的罪名悔婚并宣判死刑。就在临死之际，她竟重生到了10岁时订下婚约的那场派对！\r\n为了免于走上悲剧结局，她紧急向身后的人求婚，不料对方却是前生最大的敌人，也就是邻国（即将）入魔的皇帝·哈迪斯。\r\n驰骋战场的军神大小姐在此刻重启人生！",
+    "score": 5.6,
+    "scored_by": 1095,
+    "rank": 8711,
     "popularity": 0,
-    "members": 10976,
+    "members": 2665,
     "genres": [
       "喜剧",
-      "日常",
-      "治愈",
-      "运动"
+      "奇幻",
+      "爱情"
     ],
     "studios": [],
     "source": [
-      "ネガグラプロジェクト"
+      "永瀬さらさ（角川ビーンズ文庫刊）"
+    ],
+    "aired_from": "2024-10-09",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/432597"
+  },
+  {
+    "mal_id": 470599,
+    "title": "浪客剑心 －明治剑客浪漫谭－ 京都动乱",
+    "title_japanese": "るろうに剣心 －明治剣客浪漫譚－ 京都動乱",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7f/fb/470599_Znv22.jpg",
+    "synopsis": "幕末の動乱期に“人斬り抜刀斎”と恐れられた維新志士・緋村剣心は、逆刃刀を手に不殺を誓い、流浪人として新しい時代を生きていた。\r\n\r\n明治十一年五月十四日、“維新三傑”大久保利通が暗殺される。時代を再び動かす事件の背後には、明治政府転覆を企てる志々雄真実の暗躍があった。剣心は“人斬り抜刀斎”の後継者でもあった志々雄を止めるため、神谷薫に別れを告げ京都へ旅立つ。\r\n\r\n薫たちとの別れ、そして新たな出会い\r\nさらには、志々雄一派との戦い\r\n己の因縁と不殺の誓いとの間で揺れる剣心\r\n\r\n幾多の想いが集う明治剣客浪漫譚、第二章開幕――!",
+    "score": 6.6,
+    "scored_by": 616,
+    "rank": 4600,
+    "popularity": 0,
+    "members": 1610,
+    "genres": [
+      "动作",
+      "历史"
+    ],
+    "studios": [],
+    "source": [
+      "和月伸宏『るろうに剣心 －明治剣客浪漫譚－』（集英社 ジャンプコミックス刊）"
     ],
     "aired_from": "2024-10-03",
     "year": 2024,
@@ -1365,11 +1487,126 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/505895"
+    "url": "https://bgm.tv/subject/470599"
+  },
+  {
+    "mal_id": 425998,
+    "title": "Re：从零开始的异世界生活 第三季 袭击篇",
+    "title_japanese": "Re:ゼロから始める異世界生活 3rd season 襲擊編",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/26/d6/425998_dnzr8.jpg",
+    "synopsis": "襲い来るエルザたちの猛攻を退け、大兎との戦いでベアトリスとの契約を果たした「聖域」の解放から1年が過ぎた。\r\n王選に臨むエミリア陣営は一致団結、充実した日々を送っていたナツキ・スバルだったが、平穏は使者によって届けられた一枚の書状によって終わりを告げる。\r\nそれは王選候補者の一人、アナスタシアがエミリアへ宛てたルグニカの五大都市に数えられる水門都市プリステラへの招待状だった。\r\n招待を受け、プリステラへ向かうスバルたち一行を待っていたのは様々な再会。\r\n一つは意外な、一つは意図せぬ、そして一つは来るべき。水面下で蠢く悪意の胎動と降りかかる未曾有の危機。\r\n少年は再び過酷な運命に立ち向かう。",
+    "score": 7.2,
+    "scored_by": 6967,
+    "rank": 1853,
+    "popularity": 0,
+    "members": 18217,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "奇幻",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "長月達平（MF文庫J『Re:ゼロから始める異世界生活』/KADOKAWA刊）"
+    ],
+    "aired_from": "2024-10-02",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/425998"
+  },
+  {
+    "mal_id": 480716,
+    "title": "科学×冒险与生存！",
+    "title_japanese": "科学×冒険サバイバル！",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/30/a5/480716_BoJTu.jpg",
+    "synopsis": "テレビアニメが描くのは、いままさに地球を襲っている「異常気象」や子どもたちに人気の「昆虫世界」、私たちが数年前に経験した新型コロナウイルスのパンデミックを想起させる「新型ウイルス」など、7つのテーマです。サバイバルの達人「ジオ」とサバイバルの天才「ダイヤ」が活躍する、テレビアニメ「科学×冒険サバイバル！」にどうぞご期待ください！",
+    "score": 5.8,
+    "scored_by": 39,
+    "rank": 0,
+    "popularity": 0,
+    "members": 232,
+    "genres": [
+      "冒险",
+      "日常"
+    ],
+    "studios": [
+      "NHKエンタープライズ"
+    ],
+    "source": [
+      "「科学漫画サバイバル」シリーズ（朝日新聞出版）"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/480716"
+  },
+  {
+    "mal_id": 457991,
+    "title": "到了联谊会上发现连一个女生都没有",
+    "title_japanese": "合コンに行ったら女がいなかった話",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/97/ab/457991_FHbE4.jpg",
+    "synopsis": "大学生常盘受修同一门课的苏芳同学邀约，邀请他找两个好友一起进行三对三联谊。三个男生满怀期待地到了居酒屋，结果看到座位上只有三个帅哥在等着…",
+    "score": 5.8,
+    "scored_by": 738,
+    "rank": 8167,
+    "popularity": 0,
+    "members": 1790,
+    "genres": [
+      "喜剧",
+      "日常",
+      "校园",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "蒼川なな（掲載「ガンガンONLINE」スクウェア・エニックス刊）"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/457991"
+  },
+  {
+    "mal_id": 486345,
+    "title": "青之驱魔师 雪之尽头篇",
+    "title_japanese": "青の祓魔師 雪ノ果篇",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/96/ea/486345_eixhi.jpg",
+    "synopsis": "突然姿を消したシュラを捜索するため、\r\n燐と雪男は兄弟ふたりで青森・永久蛇湖へ向かう。\r\nここは、シュラの出身地――\r\nかつて獅郎が彼女を保護した場所だった。\r\n捜索を進める中、燐と雪男は、シュラに待ち受ける定めを知る。\r\n\r\n一方、正十字騎士團日本支部にやってきた\r\n四大騎士（アークナイト）のひとり・ライトニングは、\r\nイルミナティについての調査を開始する。\r\n全ては「青い夜」から始まった――\r\nそう推測するライトニングは、徐々に騎士團の暗部へ足を踏み入れることとなる……",
+    "score": 6,
+    "scored_by": 310,
+    "rank": 7008,
+    "popularity": 0,
+    "members": 1006,
+    "genres": [
+      "动作",
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [
+      "加藤和恵 （集英社「ジャンプSQ.」連載）"
+    ],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/486345"
   },
   {
     "mal_id": 513530,
-    "title": "ぽちゃーズ",
+    "title": "Pochars",
     "title_japanese": "ぽちゃーズ",
     "image_url": "https://lain.bgm.tv/pic/cover/l/19/08/513530_Tj6ZC.jpg",
     "synopsis": "みんなが『ぽちゃ化』した世界。\r\nぽちゃ化した生き物たちが当たり前のように、\r\nそして欲望おもむくままに生活しています。\r\nたまに人間社会に転がり込むことも…。\r\n\r\n「みんなで ”ぽちゃ”ってます！」\r\nYouTubeの大人気アニメ『そろ谷のアニメっち』\r\nクリエイターのそろ谷が送る\r\n「めっちゃかわいい×めっちゃおもろい」\r\nショートコントアニメ。\r\nぽちゃ化したキャラクター『ぽちゃーズ』たちが\r\nハートフルな笑いをお届けします。",
@@ -1392,107 +1629,26 @@
     "url": "https://bgm.tv/subject/513530"
   },
   {
-    "mal_id": 526368,
-    "title": "なんでやねん",
-    "title_japanese": "なんでやねん",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/de/72/526368_4acpU.jpg",
-    "synopsis": "株式会社世界文化ワンダーグループ発行（発行・発売：世界文化社）の大人気絵本「なんでやねん」シリーズ５作品がアニメ作品になって、12月1日よりNetflixにて国内独占配信されます。「なんでやねん」シリーズは大日本印刷株式会社（DNP）が手がける「ライトアニメ®」で制作されています。",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
+    "mal_id": 484624,
+    "title": "转生成猫咪的大叔",
+    "title_japanese": "ねこに転生したおじさん",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/41/9a/484624_EefQU.jpg",
+    "synopsis": "ごく普通のサラリーマンだったのに、ある日突然、\r\nねこに転生してしまったおじさん。\r\n人間の言葉も話せなくなり道端で困っていると、\r\nそこへ通りかかったのは、\r\nおじさんが勤めている会社の社長だった。\r\n厳しい性格で知られていた社長だったが、\r\n可愛らしいねこ（正体はおじさん）を目にしたとたん、\r\n態度が一変し…！？\r\n正体がバレないようふるまうおじさんと、\r\nねこに「プンちゃん」と名付けて溺愛する社長の、\r\n愉快でシュールなハッピーライフがスタート！",
+    "score": 5.4,
+    "scored_by": 119,
+    "rank": 7953,
     "popularity": 0,
-    "members": 5,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-12-01",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/526368"
-  },
-  {
-    "mal_id": 494302,
-    "title": "蘑菇狗",
-    "title_japanese": "きのこいぬ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/63/8f/494302_aMbQ6.jpg",
-    "synopsis": "ある日、絵本作家のタ闇ほたるは、庭の雪柳の下に\r\nまピンク色のきのこが生えていることに気づく。\r\n彼がぼんやり眺めていると、それは突然動き出す！\r\nしっぽをぶんぶん振って犬っぽいのに、でもきのこ？\r\n疑問に思いながらも、この謎の生きもの\r\nくきのこいぬ>と一緒に暮らすことに。\r\nすると……描いちゃいけないところにお絵かきして、\r\n大好きなたこ焼きは常にぜんぶ食べたい。\r\n幼なじみの編集者こまこちゃんや\r\nきのこ研究所の矢良くんたちも巻き込んで、\r\n気まま放題なのにしれっとフォローもできちゃう\r\nきのこいぬとの“笑える”日々がやってくる。\r\nいろいろ謎すぎるきのこいぬとほたるとみんなの、\r\nいっしょにいるとなんだか楽しい日々を描く、\r\nちょこっと不思議ほんわかアニメーション。",
-    "score": 5.5,
-    "scored_by": 122,
-    "rank": 7739,
-    "popularity": 0,
-    "members": 378,
+    "members": 379,
     "genres": [
+      "动作",
       "喜剧",
       "奇幻",
       "日常",
-      "治愈",
       "萌系"
     ],
     "studios": [],
     "source": [
-      "蒼星きまま ｢きのこいぬ｣（徳間書店 COMICリュウ）"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/494302"
-  },
-  {
-    "mal_id": 454630,
-    "title": "青之壬生浪",
-    "title_japanese": "青のミブロ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e3/0d/454630_ZT8uF.jpg",
-    "synopsis": "幕末の京都。\r\nおばあちゃん子でいつも笑顔を絶やさない少年「にお」\r\n最凶の剣客集団「壬生浪士組」、通称”ミブロ”の土方歳三、沖田総司と出会ったことをきっかけに、「にお」の運命が動き出す。\r\n\r\n―「僕だって強くなりたい　こんな世界変えたい」―\r\n\r\n時を同じくしてミブロに加わった少年・太郎とはじめ。\r\n殺伐とした空気に覆われた京都を舞台に、より良い世の中を作るため、\r\n3人の少年たちが屈強・剛腕・ならず者のミブロ達と共に熱くその命を燃やす！\r\n\r\n―「僕は僕の正義のために！」―\r\n\r\n育ちも志も何もかも違う彼らが、激動の青い春を駆け抜ける。令和に放つ、新しい「新選組」のものがたり。",
-    "score": 4.3,
-    "scored_by": 119,
-    "rank": 9314,
-    "popularity": 0,
-    "members": 439,
-    "genres": [
-      "动作",
-      "历史"
-    ],
-    "studios": [],
-    "source": [
-      "安田剛士「青のミブロ」（講談社 「週刊少年マガジン」連載中）"
-    ],
-    "aired_from": "2024-10-19",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/454630"
-  },
-  {
-    "mal_id": 355803,
-    "title": "精灵幻想记 第二季",
-    "title_japanese": "精霊幻想記2",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/10/f0/355803_Xqf00.jpg",
-    "synopsis": "前世と現世が交錯する――異世界転生ファンタジー新章開幕!!\r\n\r\n幼い頃に母を殺され、スラム街の孤児となった少年リオ。\r\n七歳のある日、彼の中で不慮の事故で死んだ日本の大学生《天川春人の記憶》が甦り、\r\n同時に《膨大な魔力》が覚醒した。\r\nそれから様々な出会いと別れを経験したリオは、\r\n両親の故郷で母を殺した宿敵への復讐を胸に誓う。\r\n\r\n数年の旅を経てシュトラール地方へと舞い戻ったリオは、\r\n望まぬ政略結婚を強いられていた恩師セリアを救出。\r\nだが、その直後、突如として出現した光の柱に導かれるようにして、\r\n彼は己が前世である天川春人の初恋の少女・綾瀬美春と衝撃的な再会を果たす――",
-    "score": 5.2,
-    "scored_by": 1638,
-    "rank": 9192,
-    "popularity": 0,
-    "members": 4233,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [
-      "トムス・エンタテインメント（ワオワールド）"
-    ],
-    "source": [
-      "北山結莉（HJ文庫／ホビージャパン）；漫画：みなづきふたご（HJコミックス／コミックファイア連載）"
+      "「ねこに転生したおじさん」やじま"
     ],
     "aired_from": "2024-10-07",
     "year": 2024,
@@ -1500,7 +1656,180 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/355803"
+    "url": "https://bgm.tv/subject/484624"
+  },
+  {
+    "mal_id": 439197,
+    "title": "新网球王子 U-17 世界杯 半决赛",
+    "title_japanese": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/2b/c2/439197_gOUGl.jpg",
+    "synopsis": "『新テニスの王子様 U-17 WORLDCUP』シリーズ第２弾！\r\n戦いの舞台は準決勝へと移る！！\r\n\r\nU-17 WORLDCUP(アンダーセブンティーンワールドカップ)――強豪国フランスとの戦いを制したリョーマたち日本代表は、準決勝への進出を果たす。\r\n準決勝の相手は、プロテニスプレイヤー、ボルクを筆頭とする世界No.1の最強チーム・ドイツ。\r\nそしてドイツには、かつて合宿で苦楽を共にした手塚も代表入りしている。\r\n圧倒的な力を誇るドイツを相手に、日本代表チームの面々は己を高め進化を目指す！\r\n日本vsドイツ――激闘の幕が開ける！",
+    "score": 4.9,
+    "scored_by": 170,
+    "rank": 9097,
+    "popularity": 0,
+    "members": 369,
+    "genres": [
+      "动作",
+      "喜剧",
+      "奇幻",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "許斐剛（集英社「ジャンプSQ.」連載）"
+    ],
+    "aired_from": "2024-10-02",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/439197"
+  },
+  {
+    "mal_id": 513948,
+    "title": "谋杀之谜：亡者的秘密",
+    "title_japanese": "マーダーミステリー・オブ・ザ・デッド",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7d/3e/513948_zHBmH.jpg",
+    "synopsis": "「マーダーミステリー」は、登場人物の一員となって、殺人事件などのミステリーの中に入り込む体験型推理ゲームです。プレイヤー同士が協力し合い、時にはキャラクターとして対立しながら、事件の調査を進めていきます。その過程で、自分たちだけの物語を作り上げ、体験することを楽しみます。現在、数々のボードゲーム型パッケージやデジタルイベント、リアルイベントが登場し、世界中で注目を集めています。今回のアニメでは、秋口 ぎぐる氏の「マーダーミステリー・オブ・ザ・デッド」を原作に、全く新しいストーリーが展開されます。",
+    "score": 5.4,
+    "scored_by": 370,
+    "rank": 8792,
+    "popularity": 0,
+    "members": 721,
+    "genres": [
+      "动作",
+      "喜剧",
+      "奇幻",
+      "悬疑",
+      "百合"
+    ],
+    "studios": [
+      "Ziine studio"
+    ],
+    "source": [],
+    "aired_from": "2024-11-13",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/513948"
+  },
+  {
+    "mal_id": 454787,
+    "title": "一兆＄游戏",
+    "title_japanese": "トリリオンゲーム",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/27/d4/454787_C83qW.jpg",
+    "synopsis": "ワルで頭の回転が速い人たらし・ハルと、気弱で人と話すことが苦手なパソコンオタク・ガク。\r\n正反対の二人は、中学時代のとある出来事を機に交友を深めていく。\r\nそれから数年。大学生になり就職活動に励むガクは、その性格が災いし面接で全敗。\r\n本命であった大手企業・ドラゴンバンク本社の窓拭きバイトをしていたところ、\r\nハルに一緒に起業しないかと持ちかけられる。\r\n「俺らのワガママは、世界一だ」\r\nこの世の全てを手にいれるため、1兆ドルを稼いで駆け上がる、二人の超予測不能な起業サバイバルが始まる！",
+    "score": 6,
+    "scored_by": 583,
+    "rank": 7457,
+    "popularity": 0,
+    "members": 1473,
+    "genres": [
+      "喜剧",
+      "职场"
+    ],
+    "studios": [],
+    "source": [
+      "稲垣理一郎・池上遼一（小学館ビッグコミックスペリオール連載）"
+    ],
+    "aired_from": "2024-10-03",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/454787"
+  },
+  {
+    "mal_id": 501203,
+    "title": "クマーバ シーズン2",
+    "title_japanese": "クマーバ シーズン2",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/9c/9e/501203_VJ33y.jpg",
+    "synopsis": "「インターネットの世界にレッツゴー！」\r\nクマーバたちの活躍により平和が戻ったはずのインターネットの世界。\r\nそこにまたもやバグリンが現れる。\r\n\r\nバグリンは負の感情エネルギーで作られたイタズラ怪獣を操っていた。\r\nインターネットの世界は大混乱！\r\nう〜ん・・・クマったクマった！\r\nクマーバは仲間たちと協力して、イタズラ怪獣をやっつけることができるのか！？\r\n\r\nクマったこともババっと解決！！",
+    "score": 5,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 12,
+    "genres": [],
+    "studios": [
+      "クリエイティブハウスポケット"
+    ],
+    "source": [],
+    "aired_from": "2024-10-05",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/501203"
+  },
+  {
+    "mal_id": 445821,
+    "title": "刀剑神域外传 Gun Gale Online 第二季",
+    "title_japanese": "ソードアート・オンライン オルタナティブ ガンゲイル・オンラインⅡ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d2/81/445821_pc44z.jpg",
+    "synopsis": "舞台は、鉛弾が飛び交い硝煙けぶるVRMMO(仮想現実大規模多人数同時参加型オンラインゲーム)\r\n《ガンゲイル・オンライン》。\r\n長身がコンプレックスで、小さなもう一人の自分を手に入れるためにVRゲーム空間へ降り立った\r\n小比類巻香蓮こと《レン》が愛銃《P90》を携え、チーム対抗デスマッチ《スクワッド・ジャム》へと挑む。\r\n\r\n突如アナウンスされた新たなチーム対抗デスマッチ大会に、\r\nレン、エム、フカ次郎、ピトフーイの最強チーム《LPFM》が参戦する。\r\n優勝候補筆頭と目される彼らを待ち受けるのは、\r\n“時間経過とともに海へ沈むフィールド“　“MAP中央に潜む【UNKNOWN】エリア“　\r\n“無名チームの結託”　という過酷な状況だった。\r\nさらに、全プレイヤーに驚愕の特別ルールが告げられる――",
+    "score": 5.8,
+    "scored_by": 1398,
+    "rank": 8274,
+    "popularity": 0,
+    "members": 4139,
+    "genres": [
+      "动作",
+      "后宫",
+      "奇幻",
+      "百合",
+      "科幻",
+      "运动"
+    ],
+    "studios": [
+      "Studio 3Hz → A-1 Pictures"
+    ],
+    "source": [
+      "時雨沢恵一（電撃文庫刊）"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/445821"
+  },
+  {
+    "mal_id": 404480,
+    "title": "Love Live! Superstar!! 第三季",
+    "title_japanese": "ラブライブ！スーパースター!! 3期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/4f/12/404480_OokoZ.jpg",
+    "synopsis": "私立結ヶ丘女子高等学校、\r\n表参道と原宿と青山という3つの街のはざまで生まれた\r\nスクールアイドルグループ Liella!の3年目がはじまる。\r\n\r\n澁谷かのんたち1期生にとっては、高校生活最後の1年。\r\n精一杯声響かせた学校の屋上も、全力で駆けた並木道も、全てが思い出に変わる前に。\r\n「約束をしよう――。」\r\n\r\n5人で踏み出し、9人で夢を叶えて、11人で結ばれる「みんなで叶える物語(スクールアイドルプロジェクト)」。\r\nはばたけ！私たちのラブライブ！",
+    "score": 6.1,
+    "scored_by": 1446,
+    "rank": 7249,
+    "popularity": 0,
+    "members": 3099,
+    "genres": [
+      "喜剧",
+      "日常",
+      "校园",
+      "百合",
+      "音乐"
+    ],
+    "studios": [],
+    "source": [
+      "矢立肇"
+    ],
+    "aired_from": "2024-10-06",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/404480"
   },
   {
     "mal_id": 515201,
@@ -1529,1393 +1858,16 @@
     "url": "https://bgm.tv/subject/515201"
   },
   {
-    "mal_id": 426123,
-    "title": "蓝色监狱 VS. U-20 日本代表队",
-    "title_japanese": "ブルーロック VS. U-20 JAPAN",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5e/96/426123_siDEi.jpg",
-    "synopsis": "──全てを賭けて挑め。いくぞ、才能の原石共よ\r\n時代を変えるのは俺たち“ブルーロック（青い監獄）”だ──\r\n\r\n日本をW杯優勝に導く世界一のストライカーを育てるため、\r\n日本フットボール連合は“ブルーロック（青い監獄）”プロジェクトを立ち上げる。\r\n\r\nプロジェクトに招待されたのは300人の高校生。\r\nしかも全員FW（フォワード）。\r\n\r\n脱落すれば将来、サッカー日本代表へ入る資格を失うという極限状態の中、\r\n選ばれし才能の原石たちは、ストライカーとしてのエゴを次々と覚醒させていく。\r\n\r\n時に他人を蹴落とし、時に自らの進化を以て、\r\n過酷なセレクションを生き残ったのは35人。\r\nエゴが渦巻く熱狂のサバイバルを乗り越えた彼らは、\r\n“ブルーロック（青い監獄）”プロジェクトの存続を賭けて、\r\nU-20日本代表との史上最もイカれた大一番(ビッグマッチ)へと挑む！\r\n\r\n今、己のエゴを世界に刻むため、自らの手で運命を変えるため、\r\n史上最もアツい戦い（試合）が始まる。",
-    "score": 5.5,
-    "scored_by": 1146,
-    "rank": 8848,
-    "popularity": 0,
-    "members": 2346,
-    "genres": [
-      "动作",
-      "喜剧",
-      "耽美",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "金城宗幸；漫画：ノ村優介 『ブルーロック』(講談社「週刊少年マガジン」連載)"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/426123"
-  },
-  {
-    "mal_id": 482823,
-    "title": "决斗大师 LOST ～追忆的水晶～",
-    "title_japanese": "Duel Masters LOST ～追憶の水晶～",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/6c/35/482823_r82Zd.jpg",
-    "synopsis": "ある日突然人の姿が消える怪事件が多発する東京・新宿。\r\n半年前、この街で目覚めた斬札ウィンはあらゆる記憶を失っていた。\r\n\r\n成り行きで通い始めた高校やアルバイトでは周りと馴染めず、\r\nクラスメイトのニイカや仲間たちと夜の公園でたむろする鬱屈した日々。\r\n\r\nそんな日常は「ウィンのすべてを知る」という謎の転校生・クリスタの登場によって変貌する。\r\nウィンと結婚を約束した仲だという彼女。その背後には怪しげな影がうごめいていた。\r\n\r\n頻発する怪事件の真相とは。\r\n突如現れたクリスタの目的とは。\r\nそしてウィンの隠された過去とは。\r\n\r\n失われた記憶を取り戻す、新たな物語が始まる。",
-    "score": 5.6,
-    "scored_by": 164,
-    "rank": 7690,
-    "popularity": 0,
-    "members": 441,
-    "genres": [
-      "动作",
-      "奇幻",
-      "悬疑",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "松本しげのぶ；作画：金林洋 （小学館「週刊コロコロコミック」連載）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/482823"
-  },
-  {
-    "mal_id": 501859,
-    "title": "剧场版 风都侦探 假面骑士Skull的肖像",
-    "title_japanese": "劇場版 風都探偵 仮面ライダースカルの肖像",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ff/c1/501859_yH8vk.jpg",
-    "synopsis": "ガイアメモリがどうして生まれたのか。\r\nWの戦いがどうして始まったのか。\r\nときめからの問いに答えるため、翔太郎は静かに語り始める。\r\n彼が憧れ、“おやっさん”と慕った師匠・鳴海荘吉との出会いと別れについて…\r\n\r\n風の街・風都でガイアメモリの力を使う怪人・ドーパントが暗躍し始めた頃。\r\n若き翔太郎は荘吉の探偵助手となり、半熟と呼ばれながらもその背中を追っていた。\r\n探偵稼業の傍らでスカルとして秘密裏に活動する荘吉に、何も知らない翔太郎は焦燥感を募らせる。\r\nそんな中、鳴海探偵事務所に一本の電話が… それは翔太郎たちを運命の夜へと誘う、地獄からの依頼だった!!\r\n謎の依頼人からもたらされた“切り札”を届けるべく、荘吉の行方を追った翔太郎が見たものとは？\r\n\r\n翔太郎＆フィリップ。\r\n二人で一人の探偵で、仮面ライダーWの始まりの夜。\r\nその物語の全貌が、いよいよ明かされるーー",
-    "score": 6.6,
-    "scored_by": 302,
-    "rank": 4152,
-    "popularity": 0,
-    "members": 759,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "石ノ森章太郎；「風都探偵」脚本：三条陸、作画：佐藤まさき"
-    ],
-    "aired_from": "2024-11-08",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/501859"
-  },
-  {
-    "mal_id": 400576,
-    "title": "平凡职业造就世界最强 第三季",
-    "title_japanese": "ありふれた職業で世界最強 season 3",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/6c/57/400576_F988s.jpg",
-    "synopsis": "神の使徒ノイントを撃破し、魔人族による王都侵攻を退けたハジメたち。\r\n残る2つの大迷宮攻略の前に、被害を受けたハイリヒ王国への助力をヘルシャー帝国に求めるため、王女リリアーナを帝都へ送り届けることに。\r\nその道中、帝国兵と戦うハウリア族と出会ったハジメたちは、魔人族と帝国兵の侵攻を受けたフェアベルゲンの現状を知る。\r\nさらに族長のカムが帝国に囚われていると知ったハジメは、シアのためにその力を惜しみなく使うことを誓う!!\r\n\r\n「さあ、パーティーの始まりだ」\r\n\r\n“最強”異世界ファンタジー、season 3開幕！",
-    "score": 5.4,
-    "scored_by": 1390,
-    "rank": 8939,
-    "popularity": 0,
-    "members": 4263,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "喜剧",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "白米良（オーバーラップ文庫刊）"
-    ],
-    "aired_from": "2024-10-14",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/400576"
-  },
-  {
-    "mal_id": 443676,
-    "title": "夏目友人帐 柒",
-    "title_japanese": "夏目友人帳 漆",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/05/aa/443676_6GFsu.jpg",
-    "synopsis": "心優しき友人たちとの、大切な日々──\r\n美しく儚き、人と妖の物語。\r\n\r\n小さい頃から妖怪を見ることができた少年・夏目貴志は、\r\n祖母レイコの遺産「友人帳」を受け継ぎ、\r\n自称用心棒のニャンコ先生と共に、\r\nそこに名を縛られた妖怪たちに名を返す日々を送る。\r\n\r\n妖と、そこに関わる人との触れ合いを通して、\r\n自分の進むべき道を模索し始めた夏目は、\r\n想いを共有できる友人たちにも助けられながら、\r\n大切な日々を守るすべを見つけていこうとする。",
-    "score": 7.8,
-    "scored_by": 1561,
-    "rank": 394,
-    "popularity": 0,
-    "members": 4937,
-    "genres": [
-      "奇幻",
-      "日常",
-      "校园",
-      "治愈"
-    ],
-    "studios": [
-      "NAS"
-    ],
-    "source": [
-      "緑川ゆき「夏目友人帳」（白泉社「LaLa」連載）"
-    ],
-    "aired_from": "2024-10-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/443676"
-  },
-  {
-    "mal_id": 443929,
-    "title": "机动战士高达 复仇的安魂曲",
-    "title_japanese": "Gundam: Requiem for Vengeance",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/c6/98/443929_1nrrR.jpg",
-    "synopsis": "使用虚幻5引擎并预定在全球播出的新作动画 『机动战士高达 复仇的安魂曲』决定开始制作\r\n\r\n本故事聚焦于高达系列首作『机动战士高达』（1979年）舞台的一年战争欧洲战线，全剧共6集（30分钟x6集），为预定于全球播出的原创新作动画。 本作了使用虚幻5引擎，并与SAFEHOUSE共同制作。编剧为盖文・海奈特（动画『铁拳：血脉』『变形金刚：Cyberverse』、游戏『漫威蜘蛛侠』）、导演由伊拉斯莫斯・布罗斯达（动画『生化危机：无尽黑暗』、游戏『星际公民』『崛起：罗马之子』『末日之战』系列）担任。\r\n\r\n宇宙世纪0079年，吉翁公国宣布从地球联邦政府独立，随即陷入战争状态。在新兵器MS的活跃之下，吉翁军虽在开战初期占尽优势，但缺乏足够的战力对地球进行全面压制，战况陷入僵局。在开战的11个月后，东欧的吉翁军所占领的其中一处基地遭联邦军夺取。意图将其夺回的混合部队成员中，包括刚从宇宙降落的MS小队：索拉里等红狼队成员的身影―― ",
-    "score": 2.5,
-    "scored_by": 384,
-    "rank": 9699,
-    "popularity": 0,
-    "members": 731,
-    "genres": [
-      "战争",
-      "机战",
-      "科幻"
-    ],
-    "studios": [
-      "サンライズ、SAFEHOUSE"
-    ],
-    "source": [],
-    "aired_from": "2024-10-17",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/443929"
-  },
-  {
-    "mal_id": 457326,
-    "title": "死神 千年血战篇-相克谭-",
-    "title_japanese": "BLEACH 千年血戦篇-相剋譚-",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/6d/1e/457326_0ElE0.jpg",
-    "synopsis": "まさしく「最終決戦」にふさわしい実力派スタッフ陣で挑む、ファイナル・シリーズ。\r\nはたして、黒崎一護が\r\nたどり着くのは――。",
-    "score": 7.4,
-    "scored_by": 1969,
-    "rank": 1231,
-    "popularity": 0,
-    "members": 4716,
-    "genres": [
-      "动作",
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [
-      "久保帯人「BLEACH」（集英社 ジャンプコミックス刊）"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/457326"
-  },
-  {
-    "mal_id": 528170,
-    "title": "どこでもマキバオー",
-    "title_japanese": "どこでもマキバオー",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/96/91/528170_5WD6o.jpg",
-    "synopsis": "アニメ『みどりのマキバオー』のスピンオフ新作ショートアニメ\r\n\r\n「先着1名限定のデパ地下グルメ争奪戦」、「海岸で誰がゴミを1番多く拾えるか」…\r\n\r\n日常に潜む“レース”に突如マキバオーが推参！かつて死闘を繰り広げたライバルたちも参戦し、1着を目指して競い合う！バカバカしくも熱い激闘レースコメディ！\r\n\r\n挑戦する姿にあなたはきっと涙する！？\r\n\r\nマキバオーはどこでも「負けないのねー！」",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 7,
-    "genres": [],
-    "studios": [
-      "DLE"
-    ],
-    "source": [
-      "つの丸「みどりのマキバオー」（集英社文庫コミック版刊）"
-    ],
-    "aired_from": "2024-12-16",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/528170"
-  },
-  {
-    "mal_id": 235634,
-    "title": "机械手臂",
-    "title_japanese": "メカウデ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/93/ed/235634_ufaJC.jpg",
-    "synopsis": "キタカガミ市に住む中学生アマツガ・ヒカルはある日、\r\n謎の”ウデ”型機械生命体 アルマと出会う。\r\nアルマはヒカルからエネルギーを得ようと彼の身体への結合を試みるも失敗。\r\nなんとヒカルが着ていたパーカーに結合してしまう。\r\n\r\n一方その頃、メカウデ達の自我を奪い兵器にすることを企む\r\n大企業”カガミグループ” はアルマの身柄を追っていた。\r\nそしてメカウデ達を救い解放するため活動する組織\r\n”ARMS（アームズ）”もアルマを探す。\r\n\r\nそんな中、記憶を失って困っているアルマを見捨てることが\r\nできなかったヒカルはアルマが結合したパーカーを羽織り、\r\nメカウデ使いたちが繰り広げる大事件に巻き込まれていく……",
-    "score": 4.8,
-    "scored_by": 1083,
-    "rank": 9431,
-    "popularity": 0,
-    "members": 2634,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "校园",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/235634"
-  },
-  {
-    "mal_id": 467461,
-    "title": "胆大党",
-    "title_japanese": "ダンダダン",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/44/7d/467461_HHw4K.jpg",
-    "synopsis": "出生于灵媒师家族的女高中生·小桃<绫濑桃>，与她同年级的超自然爱好者·厄卡伦<高仓健>。\r\n小桃在厄卡伦遭到班上同学欺凌时保护了他，两人以此为契机开始有了交流。“相信幽灵存在但否定外星人存在”的小桃，和“相信外星人存在但否定幽灵存在”的厄卡伦争论不休。\r\n为了让对方相信外星人和幽灵的存在，小桃去了被称为UFO圣地的废弃医院，厄卡伦去了闹鬼的隧道。\r\n在那里，他们遇到了无法理解的极其怪异的现象。\r\n在绝境中，小桃觉醒了体内潜藏的力量，厄卡伦获得了诅咒之力，二人开始挑战接连逼近的怪异！\r\n也开始了命运之恋！？\r\n超能力战斗&青春故事，开幕！\r\n\r\n霊媒師の家系に生まれた女子高生・モモ＜綾瀬桃＞と、\r\n同級生でオカルトマニアのオカルン＜高倉健＞。\r\n\r\nモモがクラスのいじめっ子からオカルンを助けたことをきっかけに\r\n話すようになった2人だったが、\r\n「幽霊は信じているが宇宙人否定派」のモモと、\r\n「宇宙人は信じているが幽霊否定派」のオカルンで口論に。\r\n\r\n互いに否定する宇宙人と幽霊を信じさせるため、\r\nモモはUFOスポットの病院廃墟へ、\r\nオカルンは心霊スポットのトンネルへ。\r\n\r\nそこで2人は、理解を超越した圧倒的怪奇に出会う。\r\n\r\n窮地の中で秘めた力を覚醒させるモモと、呪いの力を手にしたオカルンが、\r\n迫りくる怪奇に挑む！\r\n\r\n運命の恋も始まる！？\r\n\r\nオカルティックバトル＆青春物語、開幕！",
-    "score": 7.5,
-    "scored_by": 14317,
-    "rank": 941,
-    "popularity": 0,
-    "members": 32179,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "校园",
-      "爱情",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "龍幸伸（集英社「少年ジャンプ＋」連載）"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/467461"
-  },
-  {
-    "mal_id": 439197,
-    "title": "新网球王子 U-17 世界杯 半决赛",
-    "title_japanese": "新テニスの王子様 U-17 WORLD CUP SEMIFINAL",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/2b/c2/439197_gOUGl.jpg",
-    "synopsis": "『新テニスの王子様 U-17 WORLDCUP』シリーズ第２弾！\r\n戦いの舞台は準決勝へと移る！！\r\n\r\nU-17 WORLDCUP(アンダーセブンティーンワールドカップ)――強豪国フランスとの戦いを制したリョーマたち日本代表は、準決勝への進出を果たす。\r\n準決勝の相手は、プロテニスプレイヤー、ボルクを筆頭とする世界No.1の最強チーム・ドイツ。\r\nそしてドイツには、かつて合宿で苦楽を共にした手塚も代表入りしている。\r\n圧倒的な力を誇るドイツを相手に、日本代表チームの面々は己を高め進化を目指す！\r\n日本vsドイツ――激闘の幕が開ける！",
-    "score": 4.9,
-    "scored_by": 164,
-    "rank": 9025,
-    "popularity": 0,
-    "members": 353,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "許斐剛（集英社「ジャンプSQ.」連載）"
-    ],
-    "aired_from": "2024-10-02",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/439197"
-  },
-  {
-    "mal_id": 489820,
-    "title": "乱马1/2",
-    "title_japanese": "らんま1/2",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/13/a3/489820_Hre3R.jpg",
-    "synopsis": "早乙女乱馬と、 天道道場三女の天道あかねは親が決めた許婚同士。\r\nしかし乱馬にはある悩みが…。\r\n中国での修行中、伝説の修行場「呪泉郷」に落ちてしまい、\r\n水をかぶると女に、\r\nお湯をかぶると男に戻る\r\nという、不思議な体質になってしまっていた！？\r\n乱馬とあかね、そして個性豊かな\r\nキャラクターたちが繰り広げる\r\nドタバタ格闘ラブコメディー、\r\nここに開幕！",
-    "score": 7.5,
-    "scored_by": 5218,
-    "rank": 924,
-    "popularity": 0,
-    "members": 11683,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "高橋留美子「らんま1/2」（小学館「少年サンデーコミックス」刊）"
-    ],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/489820"
-  },
-  {
-    "mal_id": 457991,
-    "title": "到了联谊会上发现连一个女生都没有",
-    "title_japanese": "合コンに行ったら女がいなかった話",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/97/ab/457991_FHbE4.jpg",
-    "synopsis": "大学生常盘受修同一门课的苏芳同学邀约，邀请他找两个好友一起进行三对三联谊。三个男生满怀期待地到了居酒屋，结果看到座位上只有三个帅哥在等着…",
-    "score": 5.8,
-    "scored_by": 723,
-    "rank": 8149,
-    "popularity": 0,
-    "members": 1755,
-    "genres": [
-      "喜剧",
-      "日常",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "蒼川なな（掲載「ガンガンONLINE」スクウェア・エニックス刊）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/457991"
-  },
-  {
-    "mal_id": 466165,
-    "title": "机动战士高达：银灰的幻影",
-    "title_japanese": "機動戦士ガンダム: 銀灰の幻影",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/86/f4/466165_UUM87.jpg",
-    "synopsis": "U.C.0096―。\r\n連邦でもジオンでもない非公式の傭兵組織アージェント・キールは、\r\n連邦高官アザミ・メギッネの暗殺任務を請けていた。\r\nジオンと内通するアザミの存在を公にできない連邦軍からの依頼だったが、\r\nその出撃直前に彼らの艦隊を襲撃したのは、他でもない連邦軍のジェガン隊であり……。\r\n混迷を極めた状況の中で、アージェント・キールが密かに所有する銀色のガンダムが\r\n宇宙に放たれる。\r\n\r\n『機動戦士ガンダム: 銀灰の幻影』は、VRを用いた新たな方法でファンにガンダム世界へ没入する機会を提供し、これまでにないインタラクティブなストーリーへと誘う映像作品です。本作は多数のVR作品を展開するAstrea社がディストリビュートを行い、Meta社のVRヘッドセット・Meta Questにて展開予定です。VRによるガンダム世界の新体験を通じて、世界中のファンにガンダムの魅力を届けていくとのこと。制作発表に伴い、タイトルティザー映像も公開されました。",
-    "score": 4.5,
-    "scored_by": 20,
-    "rank": 0,
-    "popularity": 0,
-    "members": 140,
-    "genres": [
-      "机战",
-      "科幻"
-    ],
-    "studios": [
-      "アトラスⅤ(Atlas V)、バンダイナムコフィルムワークス"
-    ],
-    "source": [
-      "矢立肇、富野由悠季 “機動戦士ガンダム”より"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/466165"
-  },
-  {
-    "mal_id": 526199,
-    "title": "加油！Chrome",
-    "title_japanese": "がんばれ！くろーむ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/84/34/526199_A962z.jpg",
-    "synopsis": "",
-    "score": 5.3,
-    "scored_by": 107,
-    "rank": 8150,
-    "popularity": 0,
-    "members": 225,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-11-28",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/526199"
-  },
-  {
-    "mal_id": 521330,
-    "title": "狼獾理念",
-    "title_japanese": "クズリ念",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/9c/521330_K4K96.jpg",
-    "synopsis": "孤独じゃなきゃ眠れない 眠れない\r\n\r\n『クズリ念』\r\nMV Animation - Waboku　https://linktr.ee/waboku2015\r\n2D Animator - Satomi Tena, Minomi, uiu, urara, Osakana, GBnmsn\r\n2D Graphicer - Karan Koron, nagum\r\n2D Paintor - Osakana\r\n\r\nLyrics & Music & Vocal - ACAね\r\nArrangement - 100回嘔吐, ZTMY\r\nDrums - Jumpei Kamiya\r\nBass - Takashi Adachi\r\nGuitar - Yuya Komoguchi\r\nRec & Mix Engineer - Toru Matake\r\nMastering Engineer - Takeo Kira\r\nSound Director - Kohei Matsumoto",
-    "score": 6.1,
-    "scored_by": 15,
-    "rank": 0,
-    "popularity": 0,
-    "members": 36,
-    "genres": [],
-    "studios": [
-      "Waboku"
-    ],
-    "source": [],
-    "aired_from": "2024-10-23",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/521330"
-  },
-  {
-    "mal_id": 467803,
-    "title": "神选 第二季",
-    "title_japanese": "カミエラビ シーズン2",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ec/d5/467803_GrwR5.jpg",
-    "synopsis": "「神様、世界は今日も健やかに狂っています。」\r\n\r\n都内私立高校に通う高校一年生のゴローには、「望み」や「夢」もなければ「野望」もない。\r\n世界は彼にとって「無関心」なものであり、同じ学校の同級生であるホノカに淡い憧れを抱きながら、親友のアキツと変わり映えのしない退屈な日常を過ごしていた。\r\n\r\nそんなある日、ゴローのスマートフォンに奇妙な通知が届く。\r\n「あなたは選ばれました。願いを吹き込んでください」\r\n\r\n悪質なスパムだと思ったゴローは「憧れのホノカとエッチなことがしたい」とつぶやく。\r\nすると翌日ホノカに誘われ、人気のないゲーセンでズボンを降ろされて…。\r\n\r\n「大願成就、おめでとうございや～す！」\r\nそこに突如現れた不思議な少女ラル。\r\n一連の出来事に混乱するゴローに、残酷な運命を告げる。\r\nゴローは「大いなる意志」に選ばれ、願いを叶えるため「神様」の座をかけて、他のカミサマ候補たちと最後の一人になるまで殺しあうのだと。\r\n\r\n与えられた能力は「愚者の聖典」。\r\n自分自身に降りかかる「不幸」を代償に、世界の因果を捻じ曲げ、この世の理を自在に操る力。\r\n\r\n真っ先にゴローを殺そうと現れた最初のカミサマ候補は、あろうことか憧れのホノカだった。\r\n容赦なく襲い掛かってくるホノカに対して、ゴローがとった選択とは―？\r\n\r\nかくして、秘密を抱えたカミサマ候補達によるフェティッシュ・バトルロワイヤルが開幕する――！",
-    "score": 5.1,
-    "scored_by": 871,
-    "rank": 9246,
-    "popularity": 0,
-    "members": 1775,
-    "genres": [
-      "动作",
-      "奇幻",
-      "悬疑"
-    ],
-    "studios": [],
-    "source": [
-      "スロウカーブ／ヨコオタロウ／UNEND"
-    ],
-    "aired_from": "2024-10-02",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/467803"
-  },
-  {
-    "mal_id": 421432,
-    "title": "鼠小僧次郎吉",
-    "title_japanese": "山中貞雄に捧げる漫画映画「鼠小僧次郎吉」",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/a0/ee/421432_PXVZ3.jpg",
-    "synopsis": "日本映画黎明期に活躍した夭逝の映画監督・山中貞雄が1933年に手がけたサイレント映画「鼠小僧次郎吉　江戸の巻」を、劇場アニメ「銀河鉄道999」「メトロポリス」などのアニメーション監督・りんたろうが山中監督への熱い思いを込めてサイレントアニメ化した、日本・フランス合作による短編アニメーション。\r\n\r\n夜の闇に包まれた江戸の町で、大富豪から富を奪って貧しい庶民にばらまく義賊・鼠小僧次郎吉。夫を亡くし、幼い子どもとつらい日々を過ごす町人・お鈴。そんなお鈴を利用して鼠小僧の正体を暴こうとする梵字安五郎と長五郎。経験と勘で捕物名人と謳われる岡っ引き・勘右衛門。映画監督の山中貞雄は、彼らが江戸の町を舞台に繰り広げる哀愁漂う人間ドラマを夢にみている。\r\n\r\n「AKIRA」の大友克洋と「YAWARA！」の兼森義則がキャラクターデザイン、サキソフォーン奏者・作曲家の本多俊之が音楽、「Dr.スランプ　アラレちゃん」の則巻アラレ役の声優・小山茉美が弁士役を務めた。",
-    "score": 6,
-    "scored_by": 2,
-    "rank": 0,
-    "popularity": 0,
-    "members": 40,
-    "genres": [],
-    "studios": [
-      "スタジオM2",
-      "ジェンコ、Miyu Productions"
-    ],
-    "source": [
-      "山中貞雄"
-    ],
-    "aired_from": "2024-11-23",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/421432"
-  },
-  {
-    "mal_id": 469033,
-    "title": "触碰。",
-    "title_japanese": "ふれる。",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/8d/d1/469033_Nzf2l.jpg",
-    "synopsis": "同じ島で育った幼馴染、秋と諒と優太。\r\n東京・高田馬場で共同生活を始めた三人は20歳になった現在でも親友同士。\r\nそれは島から連れてきた不思議な生き物「ふれる」が持つテレパシーにも似た力で趣味も性格も違う彼らを結び付けていたからだ。\r\n\r\nお互いの身体に触れ合えば心の声が聴こえてくる－それは誰にも知られていない三人だけの秘密。\r\nしかし、ある事件がきっかけとなり、秋、諒、優太は、「ふれる」の力を通じて伝えたはずの心の声が聴こえないことに気づく。\r\n\r\n「ふれる」に隠されたもう一つの力が徐々に明らかになるにつれ、\r\n三人の友情は大きく揺れ動いていく－",
-    "score": 5.3,
-    "scored_by": 393,
-    "rank": 8881,
-    "popularity": 0,
-    "members": 875,
-    "genres": [
-      "奇幻",
-      "日常",
-      "爱情"
-    ],
-    "studios": [
-      "清水博之"
-    ],
-    "source": [],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/469033"
-  },
-  {
-    "mal_id": 481410,
-    "title": "叹气的亡灵想隐退",
-    "title_japanese": "嘆きの亡霊は引退したい",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/76/9a/481410_f635f.jpg",
-    "synopsis": "トレジャーハンターになろうぜ\r\n目指すはただひとつ、\r\n世界最強の英雄だ\r\nかつてそんな誓いを交わした六人の中で\r\nひとりだけ圧倒的に才能がなかった少年\r\nがいた。\r\nある日挫折を口にした彼に、\r\n幼馴染は言った。\r\n「クライ、お前、特に役割ないんだから\r\nリーダーやれよ」\r\n才能があり過ぎる怪物達(=幼馴染達)で\r\n結成されたパーティ \r\n《嘆きの亡霊（ストレンジ・グリーフ）》は\r\n数年にしてその名を帝都中に轟かせ、\r\nそのてっぺんに据えられた彼は\r\nあれよあれよという間に\r\n最強パーティのリーダーとして\r\n祭り上げられた。\r\n跳ね上がる周囲からの期待により\r\n彼の言動はいつだって勘違いされ、\r\n事態は予想もしない展開に…。\r\nこれは、最強パーティのリーダーにして\r\n最強のクランマスターとして\r\n名を馳せるクライ・アンドリヒの\r\n栄光と苦悩に満ちた\r\n英雄譚である！",
-    "score": 6.2,
-    "scored_by": 2739,
-    "rank": 6582,
-    "popularity": 0,
-    "members": 6468,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "喜剧",
-      "奇幻",
-      "日常"
-    ],
-    "studios": [],
-    "source": [
-      "槻影（GCノベルズ／マイクロマガジン社刊）"
-    ],
-    "aired_from": "2024-10-01",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/481410"
-  },
-  {
-    "mal_id": 526897,
-    "title": "翠と唄えば",
-    "title_japanese": "翠と唄えば",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/1f/8e/526897_v1VcU.jpg",
-    "synopsis": "翠・新WEBCM『翠と唄えば』\r\n翠の清々しい世界観を第一線のクリエイター達が表現していくアニメーションCM。",
-    "score": 5.2,
-    "scored_by": 9,
-    "rank": 0,
-    "popularity": 0,
-    "members": 19,
-    "genres": [],
-    "studios": [
-      "サントリー"
-    ],
-    "source": [],
-    "aired_from": "2024-12-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/526897"
-  },
-  {
-    "mal_id": 460657,
-    "title": "唯愿来世不相识",
-    "title_japanese": "来世は他人がいい",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/47/1f/460657_4Ci95.jpg",
-    "synopsis": "染井吉乃は祖父である、関西最大の暴力団「桐ヶ谷組」直系「染井組」組長・染井蓮二が決めた縁談相手、\r\n深山霧島の住む、関東最大の暴力団「砥草会」直系「深山一家」のもとで暮らすことになる。\r\n\r\n吉乃を優しく迎え入れる霧島は、爽やかで人当たりのよい、ヤクザの家系を思わせない好青年。\r\n慣れない土地に不安を抱えていた吉乃は胸をなでおろす。\r\n\r\n……しかし！！\r\nある事件をきっかけに、吉乃は霧島の本当の姿を目の当たりにすることになる。",
-    "score": 5.2,
-    "scored_by": 462,
-    "rank": 9043,
-    "popularity": 0,
-    "members": 1237,
-    "genres": [
-      "动作",
-      "喜剧",
-      "日常",
-      "爱情",
-      "逆后宫"
-    ],
-    "studios": [],
-    "source": [
-      "小西明日翔（講談社「アフタヌーン」連載）"
-    ],
-    "aired_from": "2024-10-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/460657"
-  },
-  {
-    "mal_id": 484981,
-    "title": "再见龙生，你好人生",
-    "title_japanese": "さようなら竜生、こんにちは人生",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5e/16/484981_7uC2z.jpg",
-    "synopsis": "ある時、最古の神竜が人間に討たれた。\r\n悠久の時を生き、神々すらひれ伏す絶大な力を持つその竜は、孤独と共に己の死を受け入れた。\r\nしかし、次に気がついた時、竜は辺境の村人ドランとして第二の生を受けていた。\r\n\r\n人間として竜よりずっと短い生を生きることになった彼は、畑仕事に精を出し、食を得るために動物を狩る……。\r\n質素ながらも温かい村での生活に、ドランの心は竜生では味わえなかったささやかな喜びで満たされていく。\r\n\r\nしかし、そんなある日、沼地の調査に出かけたドランの前に、セリナと名乗る半身半蛇のラミアが現れた。\r\n伴侶を探して旅をしている彼女は、ラミアなのに人間を誘惑するのが苦手だという。\r\n人と魔物、相容れぬ存在ながらも次第に心を通わせていく二人。\r\nだが、二人の前には様々な外敵が現れて――!?\r\n\r\n辺境から始まる、元最強最古の竜の“生き直し”ファンタジー！",
-    "score": 5.1,
-    "scored_by": 1001,
-    "rank": 9282,
-    "popularity": 0,
-    "members": 2531,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "奇幻",
-      "日常",
-      "爱情"
-    ],
-    "studios": [
-      "SynergySP×ベガエンタテイメント"
-    ],
-    "source": [
-      "永島ひろあき（アルファポリス刊）；漫画：くろの"
-    ],
-    "aired_from": "2024-10-10",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/484981"
-  },
-  {
-    "mal_id": 470777,
-    "title": "百姓贵族 第二季",
-    "title_japanese": "百姓貴族 2nd Season",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d1/94/470777_F4yV4.jpg",
-    "synopsis": "「農家の常識は社会の非常識」\r\n\r\nマンガ家になるまでの七年間、北海道で実家の酪農・畑作業に従事していた荒川弘。\r\n年中無休で働き、牛を飼い、野菜を作り、\r\nクマに怯え、エゾシマリスに翻弄されるというハードな日常を送っていた……。\r\n\r\n日本の酪農・農業の苦しい現実を捉えつつも、汗水垂らして働く大人（時々コドモ）の、\r\n笑いたっぷり、パワーもたっぷりなカッコ良い生き様に刮目せよ!!",
-    "score": 6.7,
-    "scored_by": 144,
-    "rank": 3586,
-    "popularity": 0,
-    "members": 333,
-    "genres": [
-      "喜剧",
-      "日常"
-    ],
-    "studios": [],
-    "source": [
-      "荒川弘 （新書館「ウィングス」連載）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/470777"
-  },
-  {
-    "mal_id": 432597,
-    "title": "重启人生的千金小姐正在攻略龙帝陛下",
-    "title_japanese": "やり直し令嬢は竜帝陛下を攻略中",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/da/22/432597_d3pD7.jpg",
-    "synopsis": "千金小姐吉儿遭到太子以莫须有的罪名悔婚并宣判死刑。就在临死之际，她竟重生到了10岁时订下婚约的那场派对！\r\n为了免于走上悲剧结局，她紧急向身后的人求婚，不料对方却是前生最大的敌人，也就是邻国（即将）入魔的皇帝·哈迪斯。\r\n驰骋战场的军神大小姐在此刻重启人生！",
-    "score": 5.6,
-    "scored_by": 1057,
-    "rank": 8628,
-    "popularity": 0,
-    "members": 2579,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "永瀬さらさ（角川ビーンズ文庫刊）"
-    ],
-    "aired_from": "2024-10-09",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/432597"
-  },
-  {
-    "mal_id": 501203,
-    "title": "クマーバ シーズン2",
-    "title_japanese": "クマーバ シーズン2",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/9c/9e/501203_VJ33y.jpg",
-    "synopsis": "「インターネットの世界にレッツゴー！」\r\nクマーバたちの活躍により平和が戻ったはずのインターネットの世界。\r\nそこにまたもやバグリンが現れる。\r\n\r\nバグリンは負の感情エネルギーで作られたイタズラ怪獣を操っていた。\r\nインターネットの世界は大混乱！\r\nう〜ん・・・クマったクマった！\r\nクマーバは仲間たちと協力して、イタズラ怪獣をやっつけることができるのか！？\r\n\r\nクマったこともババっと解決！！",
-    "score": 5,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 12,
-    "genres": [],
-    "studios": [
-      "クリエイティブハウスポケット"
-    ],
-    "source": [],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/501203"
-  },
-  {
-    "mal_id": 509290,
-    "title": "鬼太郎诞生 咯咯咯之谜 真生版",
-    "title_japanese": "鬼太郎誕生 ゲゲゲの謎 真生版",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/8d/56/509290_aZ3LE.jpg",
-    "synopsis": "今、再び語られる、鬼太郎の父達の物語\r\n\r\n2023年11月に公開されると、忌々しい村で繰り広げられた、かつての目玉おやじである鬼太郎の父と水木との出会い、2人が立ち向かった運命の切なさ、さらにバトルシーンの迫力などが大きな話題となり多くの観客を魅了。2024年には、第47回日本アカデミー賞優秀アニメーション作品賞を受賞、その勢いは日本だけに留まらず海外でも上映され、6月にはフランスのアヌシー国際アニメーション映画祭コントルシャン部門にノミネートされるなど、鬼太郎の父たちの物語は世界中へ。\r\nその物語が、この度327カットのリテイク、合わせて音も再ダビングした'’真生版\"として、10月4日（金）に全国の劇場で再上映が決定いたしました！",
-    "score": 7.1,
-    "scored_by": 34,
-    "rank": 0,
-    "popularity": 0,
-    "members": 130,
-    "genres": [
-      "恐怖",
-      "悬疑"
-    ],
-    "studios": [],
-    "source": [
-      "水木しげる"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/509290"
-  },
-  {
-    "mal_id": 467641,
-    "title": "魔法光源股份有限公司",
-    "title_japanese": "株式会社マジルミエ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/9f/fd/467641_q40fo.jpg",
-    "synopsis": "女大学生樱木加奈没有获得校招内定，在社招中也屡屡碰壁。\r\n她渐渐丧失了自信，觉得「这个社会不需要我」。\r\n某天，在面试时她被卷入了名为「怪异」的自然灾害中。\r\n\r\n在这危机时刻，一个有着不良气质的魔法少女越谷仁美将她救出。\r\n\r\n凭借天生的记忆力，加奈在战斗中帮助越谷战胜了「怪异」。\r\n因此她做魔法少女的天赋被看中，被招募成为了初创企业魔法光源股份有限公司的新员工。\r\n\r\n不过，以越谷为首，在魔法光源里迎接她的，尽是些个性迥异的怪人。\r\n\r\n魔法少女绝对主义者角色扮演社长重本。\r\n八面玲珑到让人害怕的程度的销售翠川。\r\n内向有社交障碍的魔法少女狂人，工程师二子山。\r\n\r\n而且，令人向往的魔法少女这一职业，在其光鲜的背后，有时也会伴随着生命危险。\r\n\r\n将人的性命和对工作的责任时刻放在心间，现在，作为社会人迈出第一步的魔法少女，她的战斗拉开了帷幕——",
-    "score": 5.8,
-    "scored_by": 1406,
-    "rank": 8165,
-    "popularity": 0,
-    "members": 3596,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "百合",
-      "科幻",
-      "职场",
-      "萌系"
-    ],
-    "studios": [
-      "萌×J.C.STAFF"
-    ],
-    "source": [
-      "岩田雪花・青木裕（集英社「少年ジャンプ＋」連載）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/467641"
-  },
-  {
-    "mal_id": 472331,
-    "title": "鸭乃桥论的禁忌推理 第二季",
-    "title_japanese": "鴨乃橋ロンの禁断推理 2nd Season",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/eb/df/472331_6HzQM.jpg",
-    "synopsis": "世界最高峰の探偵養成学校BLUEで天才と呼ばれながら、\r\nある致命的な“欠陥”を抱え、探偵の資格を剥奪された鴨乃橋ロン。\r\n不遇の歳月を過ごした彼の運命は、警視庁捜査一課の一色都々丸\r\n――通称「トト」との出会いによって大きく変わる。\r\n謎を解くロンと、捜査に動くトト。\r\n難事件を次々と解決する二人は、次第に名コンビとなっていく。\r\nそんなロンの行動に目を光らせるBLUEの内部には、彼の理解者もいた。\r\nその一人である校長のエメリッヒは、ロンを追放するきっかけとなった\r\n「血の実習事件」が何者かに仕組まれたものだと語る。\r\n裏にいたのは、数多くの未解決事件に関わる「史上最悪の犯罪一族」――M家だった。\r\n当主の名は、マイロ・モリアーティ。\r\n彼はロンにさらなる絶望を与えるため、妹のウィンターを日本に送り込む。\r\nロンとマイロ、両者の間にある因縁とは……!?",
-    "score": 5.7,
-    "scored_by": 460,
-    "rank": 8206,
-    "popularity": 0,
-    "members": 1234,
-    "genres": [
-      "喜剧",
-      "悬疑"
-    ],
-    "studios": [],
-    "source": [
-      "天野明（集英社「少年ジャンプ+」連載）"
-    ],
-    "aired_from": "2024-10-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/472331"
-  },
-  {
-    "mal_id": 341139,
-    "title": "动物狂想曲 最终季 第一部分",
-    "title_japanese": "BEASTARS FINAL SEASON Part1",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/89/e0/341139_35fGz.jpg",
-    "synopsis": "リズとの対決を経て自主退学を選択したレゴシは、コーポ伏獣での一人暮らしを開始。一方、青獣ビースターを辞退し卒業したルイは、父・オグマに向き合う決意を固める。キャンパスライフを謳歌するハルにも悩みは尽きず…。その頃、現役ビースター・ヤフヤは、殺獣に快楽を求める凶悪犯・メロンを追っていた。レゴシとメロン、交わるはずのなかった運命を結びつけたのは、レゴシの家族が秘めたある秘密だった…。",
-    "score": 7,
-    "scored_by": 729,
-    "rank": 2644,
-    "popularity": 0,
-    "members": 2664,
-    "genres": [
-      "动作",
-      "奇幻",
-      "悬疑",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "「BEASTARS」板垣巴留（秋田書店 少年チャンピオン・コミックス刊）"
-    ],
-    "aired_from": "2024-12-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/341139"
-  },
-  {
-    "mal_id": 518519,
-    "title": "航海王：粉丝来信",
-    "title_japanese": "ONE PIECE FAN LETTER",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/be/42/518519_DMDo8.jpg",
-    "synopsis": "故事讲述了顶上战争两年后的香波迪群岛上，娜美的小迷妹展开的一场小小冒险…… 本作改编自航海王官方外传小说《航海王 novel 草帽故事集》，小说描述了以一般人的角度来看待草帽海贼团成员们的短篇故事。",
-    "score": 8.5,
-    "scored_by": 3744,
-    "rank": 50,
-    "popularity": 0,
-    "members": 6659,
-    "genres": [
-      "冒险",
-      "动作",
-      "奇幻",
-      "治愈"
-    ],
-    "studios": [
-      "東映アニメーション"
-    ],
-    "source": [
-      "尾田栄一郎（集英社「週刊少年ジャンプ」連載）"
-    ],
-    "aired_from": "2024-10-20",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/518519"
-  },
-  {
-    "mal_id": 235702,
-    "title": "はじめました、山猫医院",
-    "title_japanese": "はじめました、山猫医院",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/12/3f/235702_GPOy9.jpg",
-    "synopsis": "医療事務募集の広告を見て面接に向かった「上川アキラ」だったが、\r\n着いた場所が山の奥にある見た目がまるで廃病院のような場所だった。\r\nそこにいたのは医者と看護師と麻酔科医の3人だけ。\r\n人手不足だったのかあっさり採用が決まってしまい、少し半信半疑なアキラだったが、\r\n帰る途中忘れ物に気付き病院に取りに戻る。\r\nそこで見たのが3匹の化け猫たちの宴会だった。\r\nそう、ここは山猫が運営する山猫医院だった。\r\nこれから一体どうなるのだろうか。",
-    "score": 2,
-    "scored_by": 2,
-    "rank": 0,
-    "popularity": 0,
-    "members": 33,
-    "genres": [],
-    "studios": [],
-    "source": [
-      "天川亜美瑠"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/235702"
-  },
-  {
-    "mal_id": 474801,
-    "title": "冻牌～地下麻将斗牌录～",
-    "title_japanese": "凍牌～裏レート麻雀闘牌録～",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/96/44/474801_F0Bl1.jpg",
-    "synopsis": "志名坂高次が描く麻雀漫画がついにアニメ化！\r\n\r\n金、女、臓器。\r\n欲望蠢く裏レート雀荘を荒らし回る高校生の少年・ケイは、\r\n冷徹なる思考、冷艶なる打牌から、\r\n裏世界では“氷のK”と呼ばれ、自宅には少女を飼っていると噂される。",
-    "score": 5.8,
-    "scored_by": 779,
-    "rank": 7878,
-    "popularity": 0,
-    "members": 1815,
-    "genres": [
-      "动作",
-      "喜剧",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "志名坂高次（秋田書店「ヤングチャンピオン・コミックス」刊）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/474801"
-  },
-  {
-    "mal_id": 513375,
-    "title": "噗尼轮轮 噗尼2",
-    "title_japanese": "ぷにるんず ぷに２",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/99/73/513375_p86rq.jpg",
-    "synopsis": "ぷにるんず……それは、ぷにっとやわらかい『ぷしぎ』ないきもの。\r\nみんな、ぷにぷにされるのが大すき。\r\nまいにち楽しく ぷにっとくらしています。\r\nある日、あいるんのおうちに『ぷしぎなあんてな』があらわれました。\r\nあんてなが光ってやってきたのは、あたらしいぷにとも ともるん。\r\nぷにるんずの日常は、ますますにぎやかになります。\r\nそんな ともるんをみまもる ぷしぎなぷにるんず ゆにるん。\r\nそして、あいるんたちのまえにあらわれた不思議な女の子。\r\n今回もいろいろあるけれど、ぷにるんずのぷしぎな日々はつづいていきます。",
-    "score": 1,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 18,
-    "genres": [],
-    "studios": [
-      "OLM Digital"
-    ],
-    "source": [
-      "タカラトミー"
-    ],
-    "aired_from": "2024-10-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/513375"
-  },
-  {
-    "mal_id": 467616,
-    "title": "辰星降临之国的妮娜",
-    "title_japanese": "星降る王国のニナ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/f7/467616_FdqTp.jpg",
-    "synopsis": "在福耳图那国城下有一位独居的孤儿妮娜，她有着如同星之神般深邃的蓝色——琉璃色的眼瞳。由于与不幸事故中去世的福耳图那国公主艾莉莎拥有相同瞳色，妮娜被第二王子阿兹尔发现，并被要求成为公主的替身。\r\n作为星之巫女和公主的替身，所被赋予的使命是——在三个月后，与迦尔迦达大国的第一王子 赛特结婚。\r\n尽管命运被反复操弄，妮娜仍然为被人所需要而感到快乐。她那直率的眼睛究竟看到了什么……\r\n当她决心保护所爱之人时，各自的命运也开始转动起来！",
-    "score": 5.1,
-    "scored_by": 241,
-    "rank": 8969,
-    "popularity": 0,
-    "members": 683,
-    "genres": [
-      "冒险",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "リカチ（講談社「BE・LOVE」連載）"
-    ],
-    "aired_from": "2024-10-10",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/467616"
-  },
-  {
-    "mal_id": 459435,
-    "title": "龙珠大魔",
-    "title_japanese": "ドラゴンボールDAIMA",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_6S18e.jpg",
-    "synopsis": "1984年から「週刊少年ジャンプ」で約10年半にわたって連載され、常にトップを走り続ける日本を代表する漫画『DRAGON BALL（ドラゴンボール）』。\r\nコミックスは全世界累計2億6000万部超と驚異的な記録を叩き出し、連載終了後も、テレビアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、全世界で桁外れの人気を誇っているモンスタータイトル。その勢いはとどまる所を知らず、2013年には17年ぶりの劇場版シリーズが復活し、立て続けに大ヒットをする中、2015年に原作者・鳥山明原案によるシリーズ「ドラゴンボール超」が放送開始。\r\n\r\n2022年には、映画『ドラゴンボール超 スーパーヒーロー』が公開、国内初週末興行収入1位はもちろん、全米初登場興行収入1位を獲得。連載開始から40周年となる2024年10月に、「DRAGON BALL」の歴史に、新たに刻む新シリーズ「ドラゴンボールDAIMA」がついにスタートします！",
-    "score": 6.6,
-    "scored_by": 823,
-    "rank": 4301,
-    "popularity": 0,
-    "members": 2224,
-    "genres": [
-      "冒险",
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常"
-    ],
-    "studios": [],
-    "source": [
-      "鳥山明"
-    ],
-    "aired_from": "2024-10-11",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/459435"
-  },
-  {
-    "mal_id": 513939,
-    "title": "香蕉喵游世界",
-    "title_japanese": "ばなにゃ あらうんど ざ わーるど",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e9/a2/513939_L1en9.jpg",
-    "synopsis": "空から飛んでくる、不思議な光の球がありました。\r\n光の球がピカっと光ると、\r\nばなにゃの目の前に小さいばなにゃ「ベイビースイート」が現われました。\r\n\r\nすぐに仲良しになったばなにゃとベイビースイートは、\r\n一緒にいろんな世界へ出かけていくことに！\r\n\r\nバナナの中にひそむ不思議なにゃんこ「ばなにゃ」の大冒険が始まります！",
-    "score": 5.4,
-    "scored_by": 25,
-    "rank": 0,
-    "popularity": 0,
-    "members": 73,
-    "genres": [
-      "治愈",
-      "萌系"
-    ],
-    "studios": [
-      "トムス・エンタテインメント第6スタジオ／レスプリ"
-    ],
-    "source": [
-      "株式会社クーリア"
-    ],
-    "aired_from": "2024-10-21",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/513939"
-  },
-  {
-    "mal_id": 387746,
-    "title": "村井之恋",
-    "title_japanese": "村井の恋",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/77/4f/387746_r61U1.jpg",
-    "synopsis": "一位行为古怪的男高中生村井，对自己的班导师田中老师抱爱恋之情。然而，田中老师则是爱着她在乙女游戏中的最爱角色「春夏秋冬（ヒトトセ）」。\r\n\r\n对此一无所知的村井向田中告白，却因为「黑长发不在恋爱考量范围内」而被断然拒绝。然而，第二天，换上全新发型的村井以田中的“最爱角色”形象出现。田中对此感到极度动摇，而村井则持续强烈地发起爱的攻势。\r\n\r\n这段古怪的恋情最终将走向何方……？",
-    "score": 6.5,
-    "scored_by": 559,
-    "rank": 4922,
-    "popularity": 0,
-    "members": 1504,
-    "genres": [
-      "喜剧",
-      "日常",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "島順太『村井の恋』（ジーンLINEコミックス／KADOKAWA刊）"
-    ],
-    "aired_from": "2024-10-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/387746"
-  },
-  {
-    "mal_id": 463778,
-    "title": "在地下城寻求邂逅是否搞错了什么 第五季 丰饶的女神篇",
-    "title_japanese": "ダンジョンに出会いを求めるのは間違っているだろうかⅤ 豊穣の女神篇",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/bc/42/463778_AEsHA.jpg",
-    "synopsis": "女神祭——那是让迷宫都市欧拉丽笼罩在热闹非凡、庆祝丰收的祭典。\r\n在祭坛供奉象征丰饶的女神们，其中也有那位『美之女神』的身影。\r\n成功自地下城深层的绝境生还、重回日常的『贝尔·克朗尼』本来也期待着女神祭的热闹气氛……\r\n——直到他收到来自某个酒馆少女所寄来的信。\r\n『致贝尔先生，这次的女神祭请和我单独约会。希儿笔』\r\n少女在都市某个角落的小酒馆所立下的决心，将会令少年和迷宫都市陷入混乱。\r\n同时，号称『最强』的『剽悍勇士（Einheriar）』们现在即将开始行动。\r\n这是少年所经历，少女所期望的——【眷族物语（Familiar Myth）】——",
-    "score": 7.2,
-    "scored_by": 2754,
-    "rank": 1816,
-    "popularity": 0,
-    "members": 7194,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "奇幻",
-      "日常",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "大森藤ノ（GA文庫／SBクリエイティブ刊）"
-    ],
-    "aired_from": "2024-10-04",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/463778"
-  },
-  {
-    "mal_id": 454787,
-    "title": "一兆＄游戏",
-    "title_japanese": "トリリオンゲーム",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/27/d4/454787_C83qW.jpg",
-    "synopsis": "ワルで頭の回転が速い人たらし・ハルと、気弱で人と話すことが苦手なパソコンオタク・ガク。\r\n正反対の二人は、中学時代のとある出来事を機に交友を深めていく。\r\nそれから数年。大学生になり就職活動に励むガクは、その性格が災いし面接で全敗。\r\n本命であった大手企業・ドラゴンバンク本社の窓拭きバイトをしていたところ、\r\nハルに一緒に起業しないかと持ちかけられる。\r\n「俺らのワガママは、世界一だ」\r\nこの世の全てを手にいれるため、1兆ドルを稼いで駆け上がる、二人の超予測不能な起業サバイバルが始まる！",
-    "score": 6,
-    "scored_by": 573,
-    "rank": 7437,
-    "popularity": 0,
-    "members": 1443,
-    "genres": [
-      "喜剧",
-      "职场"
-    ],
-    "studios": [],
-    "source": [
-      "稲垣理一郎・池上遼一（小学館ビッグコミックスペリオール連載）"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/454787"
-  },
-  {
-    "mal_id": 470294,
-    "title": "妖怪学校的新人教师！",
-    "title_japanese": "妖怪学校の先生はじめました！",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d2/d3/470294_655dA.jpg",
-    "synopsis": "安倍晴明是一個性格軟弱的菜鳥老師。他原本就已經很膽小了，這次前去赴任的居然還是一所滿是妖怪的學校…！描寫廢柴人類老師與妖怪學生們奇妙又熱鬧日常生活的愉快☆痛快☆妖怪☆學園喜劇漫畫！到底能否順利開始上課呢！？",
-    "score": 5.2,
-    "scored_by": 335,
-    "rank": 8927,
-    "popularity": 0,
-    "members": 1139,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "日常",
-      "校园"
-    ],
-    "studios": [],
-    "source": [
-      "田中まい（掲載 月刊「Gファンタジー」スクウェア・エニックス刊）"
-    ],
-    "aired_from": "2024-10-08",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/470294"
-  },
-  {
-    "mal_id": 524474,
-    "title": "圣战士丹拜因SIDE R",
-    "title_japanese": "AURA BATTLER DUNBINE SIDE R",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/40/42/524474_h1Egn.jpg",
-    "synopsis": "1983年にテレビ放送された『聖戦士ダンバイン』を題材とした実験動画の第2弾となる『AURA BATTLER DUNBINE SIDE R』。\r\n2024年5月に公開した実験動画第1弾『AURA BATTLER DUNBINE SIDE L』に引き続き、数々のアニメで実績がある映像制作会社「神風動画」とバンダイナムコフィルムワークスがタッグを組み制作。\r\n新規武装など新たな設定が登場します。\r\nさらに、映像を彩る楽曲には数々の人気アニメの主題歌を担当する今注目のアーティストMindaRyn（マイダリン）が歌う、この実験動画のために書き下ろされたテーマソング「Remaining Story」を起用。\r\nこれまでの『ダンバイン』の世界観を基にして、新たな解釈とアレンジを作品へ吹き込み、この実験動画で『ダンバイン』へ触れられる皆様へも、作品の持つ魅力を“再”発信する映像を目指しています。",
-    "score": 3.6,
-    "scored_by": 23,
-    "rank": 0,
-    "popularity": 0,
-    "members": 55,
-    "genres": [
-      "动作",
-      "机战",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "『聖戦士ダンバイン』"
-    ],
-    "aired_from": "2024-11-14",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/524474"
-  },
-  {
-    "mal_id": 476129,
-    "title": "独自一人的异世界攻略",
-    "title_japanese": "ひとりぼっちの異世界攻略",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d2/66/476129_q83DE.jpg",
-    "synopsis": "高校生活を“ぼっち”で過ごしていた遥は、\r\n授業中に突然クラスメイトと共に異世界召喚に巻き込まれてしまう。\r\n\r\nチートスキルが並ぶリストから好きなスキルを選んで神様から与えられる――\r\nはずが、チートスキルは早い者勝ちで\r\n既にめぼしいものはクラスメイトに取り尽くされていた!?\r\n\r\n神様の逆ギレで残ったバッドスキルを全て押し付けられた遥は、\r\nスキル『ぼっち』のせいで、異世界でも孤独に冒険することに……。\r\n\r\nチートに頼らず、チートを超えてやる――\r\n\r\n最強”ぼっち”の\r\n異世界HARDモード攻略譚、開幕！",
-    "score": 4.6,
-    "scored_by": 1386,
-    "rank": 9536,
-    "popularity": 0,
-    "members": 3255,
-    "genres": [
-      "冒险",
-      "动作",
-      "后宫",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "爱情"
-    ],
-    "studios": [
-      "ハヤブサフィルム×パッショーネ"
-    ],
-    "source": [
-      "五示正司（オーバーラップ文庫刊）；漫画：びび（「コミックガルド」連載）"
-    ],
-    "aired_from": "2024-10-03",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/476129"
-  },
-  {
-    "mal_id": 523898,
-    "title": "上班族山崎茂",
-    "title_japanese": "サラリーマン山崎シゲル",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ff/7f/523898_68Qst.jpg",
-    "synopsis": "とある会社の、とあるサラリーマン「山崎シゲル」が部長相手に繰り広げる、異常な日常。\r\nギャグ漫画家・田中 光が描くシュール系SNSマンガがショートアニメに！",
-    "score": 4.5,
-    "scored_by": 2,
-    "rank": 0,
-    "popularity": 0,
-    "members": 13,
-    "genres": [],
-    "studios": [
-      "川神、阿部圭造、武藤隆輔",
-      "Imagica Infos / Imageworks Studio"
-    ],
-    "source": [],
-    "aired_from": "2024-11-11",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/523898"
-  },
-  {
-    "mal_id": 514693,
-    "title": "涩谷♡八 第二部分",
-    "title_japanese": "SHIBUYA♡HACHI 第2クール",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/69/40/514693_wJgaD.jpg",
-    "synopsis": "渋谷駅前のシンボル“忠犬ハチ公像”として、\r\nまちを見守り続けて来た“HACHI”が現代の渋谷で動き出す！\r\n\r\nミケ・ナナ・ハリー・クロといった\r\n渋谷に集まる愉快な仲間たちと繰り広げるユル〜く楽しい日常。\r\n\r\n“HACHI”の小さな冒険が、いま始まる！",
-    "score": 5,
-    "scored_by": 2,
-    "rank": 0,
-    "popularity": 0,
-    "members": 25,
-    "genres": [
-      "日常"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-10-05",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/514693"
-  },
-  {
-    "mal_id": 424680,
-    "title": "妻子变成小学生。",
-    "title_japanese": "妻、小学生になる。",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/d8/424680_wCR0a.jpg",
-    "synopsis": "10年前，妻子的去世使新岛圭介一蹶不振。\r\n然而某天，一名自称是新岛妻子的小学生白石万理华闯入了他的生活。\r\n就这样，曾经停滞的人生，在与变成小学生的妻子的共度下重新转动了起来……",
-    "score": 6.2,
-    "scored_by": 2296,
-    "rank": 6557,
-    "popularity": 0,
-    "members": 6065,
-    "genres": [
-      "奇幻",
-      "日常",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "村田椰融 (「妻、小学生になる。」／芳文社刊)"
-    ],
-    "aired_from": "2024-10-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/424680"
-  },
-  {
-    "mal_id": 449567,
-    "title": "成为名垂青史的反派大小姐吧",
-    "title_japanese": "歴史に残る悪女になるぞ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/6b/ca/449567_uN5U8.jpg",
-    "synopsis": "ヒロインにありがちな“いい子ちゃん発言”が\r\n大嫌いだった私が転生したのは、\r\n大好きな乙女ゲームの悪役令嬢アリシア。\r\n念願叶って転生したからには、歴史に残る世界一の悪女になってやる！\r\nそのためには強くて頭もよくないといけない！\r\n——と努力しただけなのに、悪役令嬢として頑張れば頑張るほど\r\n周囲は予想外の反応で……。\r\n\r\nはたしてアリシアは\r\n歴史に残る悪女になれるのか⁉",
-    "score": 4.8,
-    "scored_by": 837,
-    "rank": 9420,
-    "popularity": 0,
-    "members": 1980,
-    "genres": [
-      "奇幻",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "大木戸いずみ（ビーズログ文庫刊）；漫画：保志あかり"
-    ],
-    "aired_from": "2024-10-01",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/449567"
-  },
-  {
-    "mal_id": 492951,
-    "title": "乐天胖达",
-    "title_japanese": "お買いものパンダ！",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ba/c8/492951_I693f.jpg",
-    "synopsis": "スタンプでおなじみのあのキャラクター\r\n「お買いものパンダ」が、\r\nついにアニメになって登場！\r\n\r\nいつも仲良しの「お買いものパンダ」、「小パンダ」、\r\n「ぷちょまる」、「むぎ」。みんなで過ごす毎日は楽しいことばかり！\r\n“お買い物”って、誰にとっても、\r\nいつでもワクワクが止まらない！ ……\r\nだけど、お買いものパンダたちの“お買い物”は、\r\nいつも一波乱！？ 笑いが止まらないハプニングから、\r\n世界を揺るがす大事件まで、今日もなにかが起きる予感…！",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 16,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-11-06",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/492951"
-  },
-  {
-    "mal_id": 553586,
-    "title": "Crz Love",
-    "title_japanese": "Crz Love",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/a2/cb/553586_32Lul.jpg",
-    "synopsis": "アイドリッシュセブンMUSIC VIDEO ANIMATION # 17\r\nIDOLiSH7『Crz Love』MV  FULL Ver. 公開！\r\n\r\n『IDOLiSH7 3rd Album \"LEADiNG TONE\"』に収録された新曲『Crz Love』のMVをトロイカ様に撮影いただきました！\r\n記念すべき、プロジェクト17作品目のMVとなります！\r\n\r\n\"そうずっと永遠さ 出会ってから\"\r\nIDOLiSH7の新たな表情を詰め込んだフルサイズのMVをぜひ楽しんでいただけますと幸いです！\r\n\r\n『Crz Love』\r\n作詞・作曲・編曲：KENGO\r\n歌：IDOLiSH7\r\n\r\n七瀬 陸：小野賢章\r\n和泉一織：増田俊樹\r\n二階堂大和：白井悠介\r\n和泉三月：代永 翼\r\n四葉 環：KENN\r\n逢坂壮五：阿部 敦\r\n六弥ナギ：江口拓也\r\n\r\n撮影：TROYCA",
-    "score": 5,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 8,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2024-12-07",
-    "year": 2024,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/553586"
-  },
-  {
     "mal_id": 451119,
     "title": "重来吧、魔王大人！R",
     "title_japanese": "魔王様、リトライ！Ｒ",
     "image_url": "https://lain.bgm.tv/pic/cover/l/d5/41/451119_SbNnf.jpg",
     "synopsis": "そこで出会った謎の少女「アク」や聖女「ルナ」などのGAMEの配下や異世界で出会った仲間たちと共に着々と異世界での地盤を固めた彼は、現実世界に戻る術を探すべく新たな旅へ踏み出した。\r\n\r\n「魔王」を中心とした物語が再び動き出す……！",
     "score": 3.8,
-    "scored_by": 484,
-    "rank": 9638,
+    "scored_by": 504,
+    "rank": 9699,
     "popularity": 0,
-    "members": 1496,
+    "members": 1571,
     "genres": [
       "动作",
       "后宫",
@@ -2936,22 +1888,177 @@
     "url": "https://bgm.tv/subject/451119"
   },
   {
-    "mal_id": 470738,
-    "title": "极速车魂 第二季",
-    "title_japanese": "MFゴースト 2nd Season",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/b7/56/470738_44EQk.jpg",
-    "synopsis": "ＭＦＧ。\r\nそれは世界の自動車のＥＶ化が実現した近未来、日本で開催されている唯一の化石燃料を使った自動車によるモータースポーツである。\r\n\r\n今や絶滅危惧種となったハイパワーマシンによる熾烈なレースは世界中にインターネット配信され、爆発的な人気を博していた。\r\n\r\nそこに英国から渡航した一人の若者が、チャレンジャーとして挑む。カナタ・リヴィントンこと――片桐夏向。彼こそが、かつて公道最速伝説を確立した男の教えを受け継ぐＭＦＧ新世代である。\r\n\r\nポルシェ、ランボルギーニ、フェラーリ、ニッサン・GT-R。世界最高峰のハイパワーマシンを駆るライバル達に対して、カナタが選んだのはトヨタ８６ＧＴ。非力なマシンでいかに強豪に立ち向かうのか？\r\n\r\n箱根を舞台に繰り広げられるＭＦＧ第１戦・小田原パイクスピーク。挑戦者・カナタの走りは、並み居るライバル達や観客の目を奪う。箱根ダウンヒルを圧倒的な速さで駆け抜ける８６――。\r\n\r\n新たな公道最速伝説が、今生まれようとしていた。",
-    "score": 6.4,
-    "scored_by": 439,
-    "rank": 5465,
+    "mal_id": 459435,
+    "title": "龙珠大魔",
+    "title_japanese": "ドラゴンボールDAIMA",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/78/b7/459435_6S18e.jpg",
+    "synopsis": "1984年から「週刊少年ジャンプ」で約10年半にわたって連載され、常にトップを走り続ける日本を代表する漫画『DRAGON BALL（ドラゴンボール）』。\r\nコミックスは全世界累計2億6000万部超と驚異的な記録を叩き出し、連載終了後も、テレビアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、全世界で桁外れの人気を誇っているモンスタータイトル。その勢いはとどまる所を知らず、2013年には17年ぶりの劇場版シリーズが復活し、立て続けに大ヒットをする中、2015年に原作者・鳥山明原案によるシリーズ「ドラゴンボール超」が放送開始。\r\n\r\n2022年には、映画『ドラゴンボール超 スーパーヒーロー』が公開、国内初週末興行収入1位はもちろん、全米初登場興行収入1位を獲得。連載開始から40周年となる2024年10月に、「DRAGON BALL」の歴史に、新たに刻む新シリーズ「ドラゴンボールDAIMA」がついにスタートします！",
+    "score": 6.6,
+    "scored_by": 837,
+    "rank": 4319,
     "popularity": 0,
-    "members": 909,
+    "members": 2269,
     "genres": [
+      "冒险",
+      "动作",
+      "喜剧",
+      "奇幻",
+      "日常"
+    ],
+    "studios": [],
+    "source": [
+      "鳥山明"
+    ],
+    "aired_from": "2024-10-11",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/459435"
+  },
+  {
+    "mal_id": 425991,
+    "title": "魔王2099",
+    "title_japanese": "魔王2099",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/31/d7/425991_JFQel.jpg",
+    "synopsis": "这里是统合历2099年──新宿市。在被灭亡的500年后，传说中的魔王「贝尔托尔」再次降临于发展达到极致的未来都市。巨大都市国家的辉煌繁荣……以及其背后所隐藏的惨烈「黑暗」，藉由「他」的降临一一揭开。为了统治新世界，魔王将在未来纵横驰骋！",
+    "score": 6.5,
+    "scored_by": 4265,
+    "rank": 5377,
+    "popularity": 0,
+    "members": 9181,
+    "genres": [
+      "冒险",
+      "动作",
+      "后宫",
+      "喜剧",
+      "奇幻",
+      "日常",
+      "校园",
+      "爱情",
+      "科幻"
+    ],
+    "studios": [],
+    "source": [
+      "紫大悟（KADOKAWA／ファンタジア文庫刊）"
+    ],
+    "aired_from": "2024-10-12",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/425991"
+  },
+  {
+    "mal_id": 460306,
+    "title": "青之箱",
+    "title_japanese": "アオのハコ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/ab/e5/460306_s7Y8n.jpg",
+    "synopsis": "猪股大喜，高中一年级，是初高中一体的体育强校——荣明高中的男子羽毛球社成员。\r\n大喜喜欢上了每天晨练时见到的学姐鹿野千夏。\r\n千夏是女子篮球社的王牌选手，更是校内外憧憬的校花。\r\n兼顾社团活动、恋爱、和学习，大喜忙碌的高中生活拉开了帷幕，突然有一天——",
+    "score": 6.8,
+    "scored_by": 5978,
+    "rank": 3558,
+    "popularity": 0,
+    "members": 15260,
+    "genres": [
+      "日常",
+      "校园",
+      "治愈",
+      "爱情",
       "运动"
     ],
     "studios": [],
     "source": [
-      "しげの秀一（講談社「ヤングマガジン」連載）"
+      "三浦糀（集英社「週刊少年ジャンプ」連載）"
+    ],
+    "aired_from": "2024-10-03",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/460306"
+  },
+  {
+    "mal_id": 483362,
+    "title": "偶像大师 闪耀色彩 第二季",
+    "title_japanese": "アイドルマスター シャイニーカラーズ 2nd season",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/b2/1f/483362_3KQ7x.jpg",
+    "synopsis": "光を目指し、一歩を踏み出した“翼”たち——。\r\n\r\nアイドルへの憧れ。\r\n求める願い。\r\n手を伸ばしたい夢。\r\n\r\n様々な思いを胸に、\r\n２８３プロダクションに新たなユニットが加わる。\r\n完璧なパフォーマンスを目指すストレイライト。\r\n幼馴染４人の絆で結ばれたノくチル。\r\n\r\n２つのユニットが巻き起こす波紋が、\r\nお互いの道を照らし出す輝きとなっていく。\r\nそこに広がるのは可能性という名の未来。\r\n\r\n“翼”たちが踏み出す新たな一歩。羽ばたく先を決めるのは——",
+    "score": 3.8,
+    "scored_by": 575,
+    "rank": 9694,
+    "popularity": 0,
+    "members": 1215,
+    "genres": [
+      "喜剧",
+      "音乐"
+    ],
+    "studios": [],
+    "source": [
+      "バンダイナムコエンターテインメント"
+    ],
+    "aired_from": "2024-10-04",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/483362"
+  },
+  {
+    "mal_id": 431370,
+    "title": "缘结甘神家",
+    "title_japanese": "甘神さんちの縁結び",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/b8/431370_jQu7j.jpg",
+    "synopsis": "以京大医学部为目标的高中生上终瓜生。\r\n在儿童福利院长大的瓜生，被位于京都的神社“甘神神社”的宫司收养，寄居于此。\r\n在那里等待着他的，是和夜重、夕奈、朝姬巫女三姐妹的同居生活！\r\n而且寄居的条件是“作为女婿继承神社”？！\r\n和三姐妹相亲，甘神神社遇到的难题……\r\n瓜生能够跨越这些难题吗？\r\n在同一屋檐下，与巫女们编织的奇迹般的恋爱喜剧！",
+    "score": 5.9,
+    "scored_by": 2168,
+    "rank": 7787,
+    "popularity": 0,
+    "members": 6359,
+    "genres": [
+      "后宫",
+      "喜剧",
+      "奇幻",
+      "日常",
+      "爱情",
+      "百合"
+    ],
+    "studios": [],
+    "source": [
+      "内藤マーシー（講談社「週刊少年マガジン」連載）"
+    ],
+    "aired_from": "2024-10-01",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/431370"
+  },
+  {
+    "mal_id": 424680,
+    "title": "妻子变成小学生。",
+    "title_japanese": "妻、小学生になる。",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/d8/424680_wCR0a.jpg",
+    "synopsis": "10年前，妻子的去世使新岛圭介一蹶不振。\r\n然而某天，一名自称是新岛妻子的小学生白石万理华闯入了他的生活。\r\n就这样，曾经停滞的人生，在与变成小学生的妻子的共度下重新转动了起来……",
+    "score": 6.2,
+    "scored_by": 2331,
+    "rank": 6571,
+    "popularity": 0,
+    "members": 6170,
+    "genres": [
+      "奇幻",
+      "日常",
+      "治愈",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "村田椰融 (「妻、小学生になる。」／芳文社刊)"
     ],
     "aired_from": "2024-10-06",
     "year": 2024,
@@ -2959,6 +2066,65 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/470738"
+    "url": "https://bgm.tv/subject/424680"
+  },
+  {
+    "mal_id": 460657,
+    "title": "唯愿来世不相识",
+    "title_japanese": "来世は他人がいい",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/47/1f/460657_4Ci95.jpg",
+    "synopsis": "染井吉乃は祖父である、関西最大の暴力団「桐ヶ谷組」直系「染井組」組長・染井蓮二が決めた縁談相手、\r\n深山霧島の住む、関東最大の暴力団「砥草会」直系「深山一家」のもとで暮らすことになる。\r\n\r\n吉乃を優しく迎え入れる霧島は、爽やかで人当たりのよい、ヤクザの家系を思わせない好青年。\r\n慣れない土地に不安を抱えていた吉乃は胸をなでおろす。\r\n\r\n……しかし！！\r\nある事件をきっかけに、吉乃は霧島の本当の姿を目の当たりにすることになる。",
+    "score": 5.2,
+    "scored_by": 468,
+    "rank": 9113,
+    "popularity": 0,
+    "members": 1260,
+    "genres": [
+      "动作",
+      "喜剧",
+      "日常",
+      "爱情",
+      "逆后宫"
+    ],
+    "studios": [],
+    "source": [
+      "小西明日翔（講談社「アフタヌーン」連載）"
+    ],
+    "aired_from": "2024-10-07",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/460657"
+  },
+  {
+    "mal_id": 429305,
+    "title": "听说你们要结婚！？",
+    "title_japanese": "結婚するって、本当ですか",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/30/50/429305_yRkyp.jpg",
+    "synopsis": "首都圏の旅行代理店、JTCの企画部に勤める拓也と莉香は、共に人付き合いが苦手で目立たないが、充実した一人生活を送っていた。ところが、アラスカ支店開設により1年後に独身者が優先で海外派遣されることになり、困った莉香は拓也にとある計画を持ちかけて……。ほとんどしゃべったこともない2人が、たったの365日後に結婚することに！？",
+    "score": 6.1,
+    "scored_by": 1840,
+    "rank": 7381,
+    "popularity": 0,
+    "members": 4362,
+    "genres": [
+      "喜剧",
+      "日常",
+      "爱情",
+      "职场"
+    ],
+    "studios": [],
+    "source": [
+      "若木民喜「結婚するって、本当ですか 365 Days To The Wedding」(小学館「ビッグスピリッツコミックス」刊)"
+    ],
+    "aired_from": "2024-10-03",
+    "year": 2024,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/429305"
   }
 ]

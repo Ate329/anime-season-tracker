@@ -1,77 +1,51 @@
 [
   {
-    "mal_id": 240778,
-    "title": "香蕉怪大叔 呐呐~呐",
-    "title_japanese": "テレビ野郎 ナナーナ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5d/68/240778_7pszl.jpg",
-    "synopsis": "",
-    "score": 6.4,
-    "scored_by": 26,
-    "rank": 0,
+    "mal_id": 189984,
+    "title": "冷然之天秤",
+    "title_japanese": "ニル・アドミラリの天秤",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/ca/0d/189984_sR7a5.jpg",
+    "synopsis": "故事发生在大正25年。帝都东京。\r\n正当华族出生的久世鸫为守护没落家族决意联姻时，弟弟久世鹟却被卷入被称作“稀有之物”、会对读者产生巨大影响的书所引起的事件之中。\r\n鸫以此为契机，能够看见被称为“灵韵”的、稀有之物所散发出的寄居者的情感，此时，“帝国图书情报资产管理局”（通称“鸱鸺”）的人出现在困惑的鸫面前。他们是保护·管理“稀有之物”的组织，并委托鸫协助调查“稀有之物”。鸫虽然犹豫，却还是决定参与“鸱鸺”，展开对“稀有之物”的调查活动——\r\n这是一部讲述一位命运如天秤般摇摆不定的少女的故事。",
+    "score": 5.7,
+    "scored_by": 228,
+    "rank": 7782,
     "popularity": 0,
-    "members": 66,
+    "members": 743,
     "genres": [
-      "喜剧"
+      "奇幻",
+      "爱情"
     ],
-    "studios": [
-      "studio crocodille"
-    ],
-    "source": [],
-    "aired_from": "2018-04-06",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/240778"
-  },
-  {
-    "mal_id": 237838,
-    "title": "黒猫モンロヲ",
-    "title_japanese": "黒猫モンロヲ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/9a/4f/237838_bKb3g.jpg",
-    "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 17,
-    "genres": [],
-    "studios": [
-      "黒猫モンロヲ製作委員会"
-    ],
+    "studios": [],
     "source": [
-      "ヨシヤス"
+      "オトメイト「ニル・アドミラリの天秤 帝都幻惑奇譚」（アイディアファクトリー）"
     ],
-    "aired_from": "2018-04-17",
+    "aired_from": "2018-04-08",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/237838"
+    "url": "https://bgm.tv/subject/189984"
   },
   {
-    "mal_id": 237046,
-    "title": "你还是不懂群马",
-    "title_japanese": "お前はまだグンマを知らない",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/6d/ab/237046_St35v.jpg",
-    "synopsis": "神月纪原先是生活在千叶县，但家里要搬家到群马县，得知神月纪要搬家到群马生活居住，青梅竹马警告他，去了群马是不会活着回来的。于是神月纪在网上调查了群马的资料，净是发现了很多负面的信息。在进入群马县的高中后作为外来者，神月纪与过于热爱群马县的当地学生学习了很多群马本地的特色文化和本地的一些梗（虽然具体过程比较暴力比较颜艺），同时还卷入了群马县和千叶县的地域战争当中——",
-    "score": 5.3,
-    "scored_by": 458,
-    "rank": 8893,
+    "mal_id": 229393,
+    "title": "妖怪旅馆营业中",
+    "title_japanese": "かくりよの宿飯",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/af/fa/229393_86gkc.jpg",
+    "synopsis": "女大学生津场木葵拥有从过世的祖父那里继承来的、能看见妖怪的能力。\r\n她突然被抓到了妖怪栖息的隐世的老字号旅馆“天神屋”。\r\n感到困惑的葵得知了祖父留下的庞大欠款，\r\n以及她作为抵押必须嫁给鬼神大老板这一约定。\r\n无法接受的葵为了反抗婚事、起死回生，\r\n而向妖怪们宣言她会在天神屋工作来偿还欠款……。 ",
+    "score": 6,
+    "scored_by": 311,
+    "rank": 7229,
     "popularity": 0,
-    "members": 992,
+    "members": 1035,
     "genres": [
-      "喜剧",
+      "奇幻",
       "日常",
-      "校园"
+      "治愈",
+      "爱情"
     ],
-    "studios": [
-      "旭プロダクション"
-    ],
+    "studios": [],
     "source": [
-      "井田ヒロト「お前はまだグンマを知らない」（新潮社「くらげバンチ」連載中）"
+      "友麻碧（株式会社KADOKAWA 富士見L文庫「かくりよの宿飯」シリーズ）"
     ],
     "aired_from": "2018-04-02",
     "year": 2018,
@@ -79,52 +53,54 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/237046"
+    "url": "https://bgm.tv/subject/229393"
   },
   {
-    "mal_id": 240775,
-    "title": "猫猫日本史 第三季",
-    "title_japanese": "ねこねこ日本史 第3シリーズ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d0/74/240775_732hC.jpg",
-    "synopsis": "さまざまな歴史上の人物たちが猫になって登場！ゆるーく歴史が学べる（かも知れない）「ねこねこ日本史」の、第３シリーズが放送されることが決まりました！\r\n\r\n４月からも楽しい猫の偉人達がたくさん登場します。\r\nお楽しみに！",
-    "score": 5,
-    "scored_by": 5,
-    "rank": 0,
+    "mal_id": 227136,
+    "title": "鹿枫堂",
+    "title_japanese": "鹿楓堂よついろ日和",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/02/06/227136_iKxkz.jpg",
+    "synopsis": "这里是和风咖啡厅“鹿枫堂”\r\n店主·茶水担当的水，拿铁拉花担当的格雷，料理担当的世贵，甜点担当的椿。\r\n各自身怀绝技的4人经营的隐藏人气店。\r\n他们在“款待”客人的同时，偶尔还会解决客人的“烦恼”。\r\n以咖啡厅为舞台，完美的4人编织而成的真诚故事。\r\n好了，今天的客人是……？ ",
+    "score": 6.8,
+    "scored_by": 370,
+    "rank": 3285,
     "popularity": 0,
-    "members": 36,
+    "members": 975,
     "genres": [
-      "历史",
-      "喜剧"
+      "日常",
+      "治愈"
     ],
     "studios": [],
-    "source": [],
-    "aired_from": "2018-04-04",
+    "source": [
+      "清水ユウ（新潮社「月刊コミックパンチ」連載）"
+    ],
+    "aired_from": "2018-04-10",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/240775"
+    "url": "https://bgm.tv/subject/227136"
   },
   {
-    "mal_id": 235421,
-    "title": "信长的忍者 姊川·石山篇",
-    "title_japanese": "信長の忍び〜姉川・石山篇〜",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/25/0b/235421_b807c.jpg",
-    "synopsis": "信长深爱的妹妹·市，嫁给了浅井长政。\r\n而浅井·朝仓军与织田军的冲突已经不可避免。\r\n只要有一瞬的迷惘就会失去重要事物的大规模野战“姊川之战”，含泪的千鸟于此战觉醒。\r\n名为天下布武的不合常理的征程！\r\n不得不将自己的妹夫打倒！！\r\n本格时代剧搞笑动画，姊川·石山篇 突入！！ ",
-    "score": 7,
-    "scored_by": 403,
-    "rank": 2381,
+    "mal_id": 203812,
+    "title": "失忆融合WIXOSS",
+    "title_japanese": "Lostorage conflated WIXOSS",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/1e/aa/203812_oiwwI.jpg",
+    "synopsis": "「闇は終わらない」束の間の平和な日々に、再びセレクターバトルの影が忍び寄る―――異変にいち早く気づいた水嶋清衣は、闇の連鎖に終止符を打つべく、動き出す今回のバトルに加わる、新しいカード“鍵”（ルビ：キー）今までとは違う、仕組まれたルール首謀者も目的も謎に包まれたまま、闇は次第に深くなっていく穂村すず子、森下千夏、御影はんな、小湊るう子、紅林遊月、植村一衣、蒼井晶・・・ふたたび集結する少女（ルビ：セレクター）たち“願い”と“記憶”、そして“鍵”すべてを懸けた最後のバトルが今はじまる・・・！",
+    "score": 6.4,
+    "scored_by": 514,
+    "rank": 5648,
     "popularity": 0,
-    "members": 832,
+    "members": 1398,
     "genres": [
       "动作",
-      "历史",
-      "喜剧"
+      "奇幻",
+      "百合"
     ],
     "studios": [],
     "source": [
-      "重野なおき（白泉社ヤングアニマル連載）"
+      "LRIG"
     ],
     "aired_from": "2018-04-06",
     "year": 2018,
@@ -132,295 +108,80 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/235421"
+    "url": "https://bgm.tv/subject/203812"
   },
   {
-    "mal_id": 239840,
-    "title": "ケッケロケー",
-    "title_japanese": "ケッケロケー",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f9/f2/239840_Uh4AN.jpg",
-    "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
+    "mal_id": 243923,
+    "title": "ぱすてるらいふ",
+    "title_japanese": "ぱすてるらいふ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/09/97/243923_ZR4p4.jpg",
+    "synopsis": "Pastel＊Palettesのアニメ化が決定\r\n\r\nパスパレが主役の日常系ゆるふわアニメ「ぱすてるらいふ」の放送が決定",
+    "score": 6.3,
+    "scored_by": 210,
+    "rank": 5760,
     "popularity": 0,
-    "members": 12,
-    "genres": [],
-    "studios": [
-      "勝鬨スタジオ"
-    ],
-    "source": [
-      "カフカエミリ/MMDGP"
-    ],
-    "aired_from": "2018-04-05",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/239840"
-  },
-  {
-    "mal_id": 242454,
-    "title": "未来卡搭档对战X 全明星对战",
-    "title_japanese": "フューチャーカード バディファイト バッツ オールスターファイト",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/91/67/242454_N2E5w.jpg",
-    "synopsis": "新动画《未来卡搭档对战X 全明星对战》，4月7日开始播出！ 最强的八名斗士集结：牙王、翼空、升、彼方、凯斗、雷、响也、维斯达姆！ 历代好敌手与搭档参战，牙王的三任搭档冲击钻、巴鲁、巴兹全体登场！ ",
-    "score": 7.5,
-    "scored_by": 4,
-    "rank": 0,
-    "popularity": 0,
-    "members": 29,
-    "genres": [],
-    "studios": [],
-    "source": [
-      "ブシロード　田村光久/小学館"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/242454"
-  },
-  {
-    "mal_id": 221062,
-    "title": "女神异闻录5",
-    "title_japanese": "PERSONA5 the Animation",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e9/da/221062_UxRu1.jpg",
-    "synopsis": "高二的春天，雨宫莲转学进了东京的「秀尽学园」。\r\n因某事为契机而觉醒为“Persona”使用者的莲，与新认识的伙伴们组建了「心之怪盗团」。怪盗团员们去盗走陷进罪恶欲望之中的成年人们的“扭曲欲望”，让成年人们洗心革面。\r\n同时，难以让人理解的“精神暴走事件”在城市中的各个角落接连发生……。\r\n以大都市“东京”为舞台，一边是身为享受日常生活的高中生、一边是放学后身为「心之怪盗团」的暗地活跃——。\r\n壮大的恶汉罗曼故事，就此一触即发！",
-    "score": 6,
-    "scored_by": 3028,
-    "rank": 7393,
-    "popularity": 0,
-    "members": 7119,
+    "members": 467,
     "genres": [
-      "动作",
-      "奇幻",
-      "校园"
-    ],
-    "studios": [],
-    "source": [
-      "「ペルソナ5」（アトラス）"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/221062"
-  },
-  {
-    "mal_id": 209764,
-    "title": "卡片战斗先导者!!Vanguard",
-    "title_japanese": "カードファイト!! ヴァンガード",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/8b/209764_ptW7G.jpg",
-    "synopsis": "2011年１月の放送開始から大きな話題を呼んだ「カードファイト!! ヴァンガード」が、\r\n伊藤彰先生の「コミック版」をベースに、もうひとつのカタチでよみがえる！\r\n先導者ヴァンガードたちに再び出会う物語を、OLMによる最新映像でお届けします！\r\n\r\n主人公「先導アイチ」は、気が弱く、\r\nクラスでも目立たない中学三年生の男の子。\r\nアイチが心の支えにしていたのは、\r\n子供の頃にもらった一枚のカード「ブラスター・ブレード」。\r\n架空の異世界「惑星クレイ」を舞台にしたカードゲーム、\r\n「ヴァンガード」の貴重なレアカードだった。\r\nそのカードをもらった相手「櫂トシキ」と再会した日から、\r\nアイチの日常は大きく変わり始める。\r\n\r\nさまざまなファイターと出会い、自分の世界を広げる中、\r\nアイチは、惑星クレイのユニットの声が聞こえる\r\n不思議な体験をする――――\r\nそれは、フーファイターの当主「雀ヶ森レン」が持つ、\r\nPSYサイクオリアと呼ばれる力と酷似していた。\r\n\r\nファイトを通じて自らの熱い心をぶつけ合う、\r\nヴァンガードファイターたちの青春ストーリー。",
-    "score": 5.4,
-    "scored_by": 14,
-    "rank": 0,
-    "popularity": 0,
-    "members": 89,
-    "genres": [],
-    "studios": [
-      "OLM TEAM GO"
-    ],
-    "source": [],
-    "aired_from": "2018-05-05",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/209764"
-  },
-  {
-    "mal_id": 234413,
-    "title": "偶像活动Friends",
-    "title_japanese": "アイカツフレンズ！",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/e0/b5/234413_91k2t.jpg",
-    "synopsis": "アイドル活動“アイカツ！”にはげむアイドルたちの\r\n努力と友情の成長物語『アイカツフレンズ！』\r\n\r\nスターハーモニー学園の普通科に通う「友希あいね」は、\r\n友達を作るのが大得意な女の子。\r\n\r\n学園のトップアイドル「湊みお」と友達になって、\r\n一緒に“アイカツ！”のステージに出ることに！？\r\n\r\n待っていたのは「蝶乃舞花」や「日向エマ」など、\r\n個性豊かなアイドルたちとの出会いや\r\n芸能界のお仕事、学園生活と大忙しの毎日！\r\n\r\n２人組の『フレンズ』を組んで、目指すのは\r\nトップアイドル、キラキラ輝く『ダイヤモンドフレンズ』！\r\n「神城カレン」「明日香ミライ」の２人がまとうドレスの輝きは、\r\nまさにダイヤモンド級！\r\n\r\n集めた数だけドラマがあるっ！\r\n『アイカツ！カード』でドレスアップ！\r\n\r\nファンも友達、カードも友達！\r\n友達いっぱい、夢いっぱい！",
-    "score": 7.2,
-    "scored_by": 165,
-    "rank": 1921,
-    "popularity": 0,
-    "members": 601,
-    "genres": [
+      "喜剧",
+      "日常",
       "百合",
       "音乐"
     ],
     "studios": [],
     "source": [],
-    "aired_from": "2018-04-05",
+    "aired_from": "2018-05-17",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/234413"
+    "url": "https://bgm.tv/subject/243923"
   },
   {
-    "mal_id": 241031,
-    "title": "我们是妖怪人间G",
-    "title_japanese": "俺たちゃ妖怪人間G",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/2e/b7/241031_Z8C00.jpg",
-    "synopsis": "頑張ってはきたものの人間になれない妖怪人間たちが原点回帰してもう一度細胞からやり直そうと決心。フラスコの中でふにゃふにゃの細胞に戻り、現代の流行や社会現象に独自のピュァな視点で切り込みを入れ、人間を研究してい〈という荒唐無稽のCGア二メだ。現代の基礎知識を手に入れた細胞たちはどのような変化を遂げるのか!? さらに出演者が描いたイラス卜がア二メになつて登場するシ一ンもアリ!!\r\n\r\n\r\n放送50周年プロジェクト第2弾。\r\n\r\n2018年4月4日开始，2006年动画「妖怪人間ベム -HUMANOID MONSTER BEM-」再放送同时放送得新作动画。",
-    "score": 5,
-    "scored_by": 2,
-    "rank": 0,
+    "mal_id": 195845,
+    "title": "恶魔高校 D×D HERO",
+    "title_japanese": "ハイスクールD×D HERO",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/cf/41/195845_z7Gr3.jpg",
+    "synopsis": "一早就前来诱惑的朱乃、急速接近的小猫、以及越来越积极的爱莎，莉雅丝对3人燃起了对抗心。处在过激争夺战中心的一诚，尽情享受着幸福的色情生活。\r\n在享受平稳日常的另一方面，超自然研究部成员也逐步准备着与巴力家的排名游戏，以及一诚等人的修学旅行。\r\n修学旅行的目的地，是存在着不同神话体系的京都。一诚等人对观光充满期待，但他们刚一到达就被卷入了祸之团一派与栖息于古都的妖怪们之间的纠纷。一诚为了守护莉雅丝所爱的京都，而摸索新的“可能性”……。 ",
+    "score": 6.3,
+    "scored_by": 1728,
+    "rank": 6394,
     "popularity": 0,
-    "members": 23,
+    "members": 4790,
     "genres": [
-      "奇幻"
-    ],
-    "studios": [
-      "DLE、NAS",
-      "DLE"
-    ],
-    "source": [
-      "アサツー ディ・ケイ"
-    ],
-    "aired_from": "2018-04-04",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/241031"
-  },
-  {
-    "mal_id": 221127,
-    "title": "黄金神威",
-    "title_japanese": "ゴールデンカムイ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/0d/59/221127_v6nv6.jpg",
-    "synopsis": "为了实现日俄战争中死去好友寅次，临死之前「治好我妻子眼睛」的愿望，军人杉元为了筹集到金钱而从东京前往北海道，因为传说在北海道土著阿依努族中有大批金块存在，而在旅途中杉元结识了土著阿依努人女孩阿希莉。\r\n在阿希莉被熊袭击时，杉元及时出手救了女孩，杉元一方面感叹阿希莉所拥有的猎人技能和知识，但也知道阿希莉的父亲为了保护金块被人杀死。\r\n于是杉元向阿希莉提出自己只要能完成朋友遗愿的那部分金块，剩下的金块都给阿希莉作为替父亲报酬的资金，作为交换阿希莉要和自己一起去寻找金块，于是二人踏上寻找黄金的征途。\r\n另一方面，驻守在北海道第七师团也涉及到黄金寻宝当中蠢蠢欲动——",
-    "score": 7.5,
-    "scored_by": 3989,
-    "rank": 915,
-    "popularity": 0,
-    "members": 10055,
-    "genres": [
-      "冒险",
       "动作",
-      "历史",
-      "喜剧"
+      "后宫",
+      "奇幻",
+      "校园",
+      "爱情"
     ],
     "studios": [],
     "source": [
-      "野田サトル（集英社「週刊ヤングジャンプ」連載）"
+      "石踏一榮「ハイスクールD×D」（ファンタジア文庫 / KADOKAWA）"
     ],
-    "aired_from": "2018-04-09",
+    "aired_from": "2018-04-10",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/221127"
+    "url": "https://bgm.tv/subject/195845"
   },
   {
-    "mal_id": 236790,
-    "title": "高达创形者",
-    "title_japanese": "ガンダムビルドダイバーズ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/b3/ae/236790_601mn.jpg",
-    "synopsis": "在电脑假想空间内，享受使用钢普拉进行的各种任务的最新网络游戏《Gunpla Battle Nexus Online（GBN）》。\r\n\r\n初中生三上陆和好友日高幸夫，将同班同学八代桃香卷入其中，飞向了那个广大的世界。成为GBN内的住民“潜行者”的他们，与对钢普拉持有不可思议感性的少女莎拉相遇，并开始和她共同行动，但……。\r\n\r\n以陆所憧憬的冠军九条恭也为首，著名潜行者的存在。由多数潜行者构成的部队系统“Force”的成立。来自使用外挂及破坏转印的“集团潜行者”的妨碍。历经各种邂逅与经历，陆等人将要创造出的不只是钢普拉，也创造出属于自己的冒险！ ",
-    "score": 4.4,
-    "scored_by": 643,
-    "rank": 9559,
-    "popularity": 0,
-    "members": 1400,
-    "genres": [
-      "机战",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-03",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/236790"
-  },
-  {
-    "mal_id": 241475,
-    "title": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン5",
-    "title_japanese": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン5",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/29/2b/241475_h99Th.jpg",
-    "synopsis": "BS11 每月第二个星期三放送",
-    "score": 8,
-    "scored_by": 3,
+    "mal_id": 239750,
+    "title": "做得很好！名作君 第三季",
+    "title_japanese": "あはれ！名作くん 第3期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/39/2d/239750_0C0xC.jpg",
+    "synopsis": "むかしむかしあるところに数々の名作キャラを輩出する学校がありました。ある日「松田名作」というフツーの男の子が入学。超バカでハイテンションの「スウィーツ」、おにぎりと言われるとキレる「むすび」ナルシストで自称ロボの「ノキオ」、ブッとんだ亀の「ボルト」など、濃いクラスメイトに囲まれた名作くんは、立派な名作キャラとして卒業できるのでしょうか。",
+    "score": 5,
+    "scored_by": 1,
     "rank": 0,
     "popularity": 0,
     "members": 18,
     "genres": [],
-    "studios": [
-      "バップ",
-      "Pie in the sky"
-    ],
-    "source": [],
-    "aired_from": "2018-04-11",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/241475"
-  },
-  {
-    "mal_id": 234305,
-    "title": "鬼灯的冷彻 第二季 其之二",
-    "title_japanese": "鬼灯の冷徹 第弐期 その弐",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/0f/22/234305_Lqyds.jpg",
-    "synopsis": "这是地狱的故事。在一如既往充斥着亡者的地狱，阎魔大王的第一辅佐官·鬼灯，对大王的辅佐自不必说，还有对亡者的呵责、对狱卒的指导、对现世的视察，过着如此忙碌的生活。这样的鬼灯与不论何时都很愉快的伙伴们，再加上久违的西洋地狱恶魔，以及来自童话的公主和鹤之类，喧闹而又快乐的地狱每一天仍将继续！ ",
-    "score": 7.1,
-    "scored_by": 1050,
-    "rank": 2005,
-    "popularity": 0,
-    "members": 2521,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "日常"
-    ],
     "studios": [],
     "source": [
-      "江口夏実（講談社「モーニング」連載）"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/234305"
-  },
-  {
-    "mal_id": 225021,
-    "title": "魔法少女网站",
-    "title_japanese": "魔法少女サイト",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/11/76/225021_bU822.jpg",
-    "synopsis": "看来这个网站似乎只会与不幸的人相遇。所以她们才被选中了——。\r\n在任何地方都没有容身之所的她，总是想着去死。在学校遭受同班同学欺凌，在家里忍受哥哥虐待的每一天。\r\n朝雾彩。初中2年级。14岁。某天，她发现了诡异的网站“魔法少女网站”，并获得了隐藏魔法之力的“魔杖”。\r\n彩通过获得魔法之力，而与同样持有魔杖的同班同学奴村露乃以及其他“魔法少女”一同，被卷入了残酷的命运当中。\r\n这是，获得魔法之力的不幸少女们的，友情与青春，以及改变命运的战斗记录。 ",
-    "score": 5.6,
-    "scored_by": 1936,
-    "rank": 8604,
-    "popularity": 0,
-    "members": 4735,
-    "genres": [
-      "动作",
-      "奇幻",
-      "悬疑",
-      "校园",
-      "百合",
-      "致郁"
-    ],
-    "studios": [
-      "production dóA"
-    ],
-    "source": [
-      "佐藤健太郎『魔法少女サイト』（秋田書店「週刊少年チャンピオン」連載）"
+      "Pie in the sky"
     ],
     "aired_from": "2018-04-06",
     "year": 2018,
@@ -428,34 +189,39 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/225021"
+    "url": "https://bgm.tv/subject/239750"
   },
   {
-    "mal_id": 148481,
-    "title": "东京喰种:re",
-    "title_japanese": "東京喰種トーキョーグール：re",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/eb/20/148481_v7x7A.jpg",
-    "synopsis": "混杂于群众之中，以人类的肉为食。拥有人类的形态，却与人类不同的存在……“喰种”。\r\n对“喰种”进行驱逐、研究的CCG，为了达成某个命题，而新设了实验体集团。\r\n——其名为“Quinx”。\r\n并非“正经人类”的他们，与佐佐木琲世一等搜查官一起在“东京”面对的事物究竟是——！？\r\n描绘《东京食尸鬼√A》2年后的新章《东京食尸鬼:re》终于启动。 ",
-    "score": 5.5,
-    "scored_by": 4484,
-    "rank": 8836,
+    "mal_id": 229947,
+    "title": "蓝海少女 第二季",
+    "title_japanese": "あまんちゅ！～あどばんす～",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d4/a2/229947_MmPMC.jpg",
+    "synopsis": "生长于伊豆小镇的小日向光，以及从东京搬来的大木双叶。一同进入梦丘高中的两人，在呼吸器潜水以及日常的平凡事件当中，找到了很多的幸福。曾经对任何事都很消极的双叶，在总是开朗乐观的光的影响下，经历了很多向前踏出一步的喜悦。不止如此，双叶还在期盼已久的开放水域潜水员实习中合格，接下来将要以进阶开放水域潜水员为目标。仅此一次、无可替代的高中生活，现在才正要开始。美妙的日子仍未结束，两人一同走过的日子还要一直继续。 ",
+    "score": 7,
+    "scored_by": 286,
+    "rank": 2676,
     "popularity": 0,
-    "members": 9735,
+    "members": 1011,
     "genres": [
-      "动作",
-      "奇幻"
+      "日常",
+      "校园",
+      "治愈",
+      "百合",
+      "运动"
     ],
-    "studios": [],
+    "studios": [
+      "J.C.STAFF"
+    ],
     "source": [
-      "石田スイ（集英社「週刊ヤングジャンプ」連載）"
+      "天野こずえ（ブレイドコミックス／マッグガーデン刊）"
     ],
-    "aired_from": "2018-04-03",
+    "aired_from": "2018-04-07",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/148481"
+    "url": "https://bgm.tv/subject/229947"
   },
   {
     "mal_id": 217249,
@@ -464,10 +230,10 @@
     "image_url": "https://lain.bgm.tv/pic/cover/l/27/97/217249_jIbkA.jpg",
     "synopsis": "萌田薰子（笔名：薰子）15岁。女子高中生、四格漫画家！搬进漫画家专用的女子宿舍的她，被同室的少女漫画家小梦和TL漫画家琉姬、少年漫画家翼等同伴们所围绕，今天也愉快地绘制原稿，彻夜工作！可爱又有趣的漫画家生活就此开幕！ ",
     "score": 7.1,
-    "scored_by": 3546,
-    "rank": 2263,
+    "scored_by": 3594,
+    "rank": 2272,
     "popularity": 0,
-    "members": 8451,
+    "members": 8628,
     "genres": [
       "喜剧",
       "日常",
@@ -489,22 +255,83 @@
     "url": "https://bgm.tv/subject/217249"
   },
   {
-    "mal_id": 239747,
-    "title": "キャラとおたまじゃくし島",
-    "title_japanese": "キャラとおたまじゃくし島",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/33/d5/239747_KmO6e.jpg",
-    "synopsis": "「ファイナル・ファンタジー」（l～lll）の原作、脚本を手がけた寺田憲史、そして豊かな色彩感覚と斬新なデザインで“ハンドトーク“を表現する“絵描き”、門 秀彦が描く、ハートフルで奇想天外なファンタジー･アドベンチャーアニメが、4月2日（月）に放送スタート！\r\n\r\n3月30日（金）前 0:30（木曜深夜）NHK・E 先行放送 １～５ 話\r\n\r\nかつて音楽の神が棲む島と言われた「おたまじゃくし島」。\r\n自然の風物がいつも心地いい“音楽”を奏で、生き物たちはそれを酸素のように吸って、生命のエネルギーとしてきた。その“音楽エネルギー”で生まれたのが、体の一部が楽器の、“ガッキアニマル”。\r\n\r\n彼らの奏でる音楽が風で天に舞いあがると、神々しく共鳴し合い、圧倒的な生命のエネルギーが島に降り注がれるのだった。しかし、突如あらわれた“魔女”によって、その平和な空気と調和は大きくゆがめられ、不安が島をおおい包む…。\r\n\r\nそこに、一人の少女戦士がおりたつ。彼女の名前は、“キャラ”。\r\n\r\nまっすぐで好奇心旺盛、正義感にあふれるキャラは、世話焼きで、でもちょっと狡猾なガッキアニマル、“カタカタ”とともに、聖なる音楽のエネルギーをとりもどすための冒険に出る。カラフルな個性の生き物たちと、言葉を超えたコミュニケーションでつながり、心を通わせる中で、島にひそむ謎をひとつひとつ解きあかしていく。\r\n\r\n果たしてキャラは魔女を倒し、この島を再び音楽で満たすことができるのか？！",
-    "score": 5,
-    "scored_by": 1,
+    "mal_id": 219377,
+    "title": "甜甜私房猫 吃饱啦大旅行",
+    "title_japanese": "こねこのチー ポンポンらー大旅行",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/cd/27/219377_sffnn.jpg",
+    "synopsis": "フランスで開催中の日本文化の祭典「Japan Expo 2017」にて、『こねこのチー』3DCG版アニメの第2期制作決定を発表いたしました。\r\n\r\nやんちゃな子猫のチーは今日も元気いっぱい、楽しく暮らしています。友達のコッチ、アン、テリーと一緒に公園で遊んだり、イタズラしたり、秘密の遊び場を見つけたり……。新しいキャラクターやステージが登場し、ますますパワーアップした新シリーズ！ノラ子猫のコッチが見知らぬ町へ旅に出る番外編も収録！",
+    "score": 6.4,
+    "scored_by": 26,
     "rank": 0,
     "popularity": 0,
-    "members": 16,
-    "genres": [],
+    "members": 82,
+    "genres": [
+      "萌系"
+    ],
+    "studios": [],
+    "source": [
+      "こなみかなた（講談社「モーニング」所載）"
+    ],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/219377"
+  },
+  {
+    "mal_id": 230176,
+    "title": "卡利古拉",
+    "title_japanese": "Caligula -カリギュラ-",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/9f/46/230176_lzgvV.jpg",
+    "synopsis": "“毁坏理想，回归现实——”\r\n响彻城市的美妙歌声。如同被拥有绝大人气的偶像“μ”所守护着一般，平稳的日常在城市中流逝。\r\n式岛律，是宫比市立吉志舞高中的一年级生。运动、学习、受到朋友的关照，在青春的正当中过着充实的高中生活。\r\n时间流逝，到了升入二年级的开学典礼。作为新生代表登上讲台的少年，是本来不可能身在那里的人物—— ",
+    "score": 5.6,
+    "scored_by": 1259,
+    "rank": 8603,
+    "popularity": 0,
+    "members": 3050,
+    "genres": [
+      "动作",
+      "奇幻",
+      "悬疑",
+      "校园",
+      "科幻",
+      "音乐"
+    ],
+    "studios": [],
+    "source": [
+      "「Caligula-カリギュラ-」（フリュー）"
+    ],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/230176"
+  },
+  {
+    "mal_id": 237046,
+    "title": "你还是不懂群马",
+    "title_japanese": "お前はまだグンマを知らない",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/6d/ab/237046_St35v.jpg",
+    "synopsis": "神月纪原先是生活在千叶县，但家里要搬家到群马县，得知神月纪要搬家到群马生活居住，青梅竹马警告他，去了群马是不会活着回来的。于是神月纪在网上调查了群马的资料，净是发现了很多负面的信息。在进入群马县的高中后作为外来者，神月纪与过于热爱群马县的当地学生学习了很多群马本地的特色文化和本地的一些梗（虽然具体过程比较暴力比较颜艺），同时还卷入了群马县和千叶县的地域战争当中——",
+    "score": 5.3,
+    "scored_by": 461,
+    "rank": 8946,
+    "popularity": 0,
+    "members": 1012,
+    "genres": [
+      "喜剧",
+      "日常",
+      "校园"
+    ],
     "studios": [
-      "33コレクティブ"
+      "旭プロダクション"
     ],
     "source": [
-      "門秀彦"
+      "井田ヒロト「お前はまだグンマを知らない」（新潮社「くらげバンチ」連載中）"
     ],
     "aired_from": "2018-04-02",
     "year": 2018,
@@ -512,60 +339,53 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/239747"
+    "url": "https://bgm.tv/subject/237046"
   },
   {
-    "mal_id": 232165,
-    "title": "立花馆恋爱三角铃",
-    "title_japanese": "立花館To Lieあんぐる",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/57/d0/232165_82x25.jpg",
-    "synopsis": "福利后宫漫的主人公是女孩子！？\r\n\r\n随着升入高中而回到暌违6年的乡下城镇。\r\n从时尚设计风的宿舍“橘馆”优雅地去上学……\r\n本来是这么想的，却由于出了差错而沦落到入住破旧公寓“立花馆”的夏乃花火。\r\n入住立花馆第一天就遭遇到神秘全裸美少女，\r\n偶然目击到年长大姐姐的羞人之处，\r\n凝视不知为何与自己针锋相对的青梅竹马的羞人之处。\r\n……完、完全没有觉得“幸运♪”什么的！ ",
-    "score": 5.7,
-    "scored_by": 656,
-    "rank": 8345,
+    "mal_id": 234531,
+    "title": "鬼太郎 第六季",
+    "title_japanese": "ゲゲゲの鬼太郎",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/30/71/234531_u3ujU.jpg",
+    "synopsis": "进入21世纪已有近20年，在人们已忘记了妖怪存在的现代。\r\n科学无法解明的现象频发，流言飞语散布各处，大人们只能疲于奔命。\r\n希望想办法解决这一情况而写信给妖怪信箱的13岁少女·真奈的面前，\r\n随着咔哒咔哒的木屐响声，鬼太郎来到了…。 ",
+    "score": 7.1,
+    "scored_by": 151,
+    "rank": 2279,
     "popularity": 0,
-    "members": 1882,
+    "members": 632,
     "genres": [
-      "后宫",
-      "喜剧",
-      "日常",
-      "百合",
-      "萌系"
+      "奇幻"
     ],
     "studios": [
-      "Creators in pack／スタジオリングス"
+      "フジテレビ・読売広告社・東映アニメーション"
     ],
-    "source": [
-      "merryhachi（一迅社刊「コミック百合姫」連載）"
-    ],
-    "aired_from": "2018-04-03",
+    "source": [],
+    "aired_from": "2018-04-01",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/232165"
+    "url": "https://bgm.tv/subject/234531"
   },
   {
-    "mal_id": 230940,
-    "title": "敦君与女朋友",
-    "title_japanese": "あっくんとカノジョ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/b7/a1/230940_Mk5DV.jpg",
-    "synopsis": "青梅竹马的敦君和小音是一对恋人。\r\n但，敦君却以粗暴的言辞冷淡对待小音，\r\n总是一副严苛的态度……。\r\n\r\n但那却是敦君的“最喜欢小音了！”这种心情的反面表现。\r\n敦君，以及对于敦君的这种言行毫不在意地“深爱敦君”的小音，\r\n描绘他们之间日常的学园青春恋爱喜剧。 ",
-    "score": 6.2,
-    "scored_by": 1567,
-    "rank": 6920,
+    "mal_id": 235421,
+    "title": "信长的忍者 姊川·石山篇",
+    "title_japanese": "信長の忍び〜姉川・石山篇〜",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/25/0b/235421_b807c.jpg",
+    "synopsis": "信长深爱的妹妹·市，嫁给了浅井长政。\r\n而浅井·朝仓军与织田军的冲突已经不可避免。\r\n只要有一瞬的迷惘就会失去重要事物的大规模野战“姊川之战”，含泪的千鸟于此战觉醒。\r\n名为天下布武的不合常理的征程！\r\n不得不将自己的妹夫打倒！！\r\n本格时代剧搞笑动画，姊川·石山篇 突入！！ ",
+    "score": 7.1,
+    "scored_by": 410,
+    "rank": 2355,
     "popularity": 0,
-    "members": 4119,
+    "members": 847,
     "genres": [
-      "喜剧",
-      "日常",
-      "校园",
-      "爱情"
+      "动作",
+      "历史",
+      "喜剧"
     ],
     "studios": [],
     "source": [
-      "杜若わか（MFコミックスジーンシリーズ／KADOKAWA刊）"
+      "重野なおき（白泉社ヤングアニマル連載）"
     ],
     "aired_from": "2018-04-06",
     "year": 2018,
@@ -573,94 +393,7 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/230940"
-  },
-  {
-    "mal_id": 236947,
-    "title": "最终休止符～无止境的螺旋物语～",
-    "title_japanese": "ラストピリオド -終わりなき螺旋の物語-",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/af/99/236947_h60r6.jpg",
-    "synopsis": "“Period”，是将诞生自绝望的异形怪物“Spiral”打倒之人的名号。\r\n隶属于Arc End第8支部的见习Period·哈尔，也为了斩断绝望的轮回，而投身于无止境的战斗当中……。\r\n\r\n——然而！！！\r\n神秘的盗窃事件引发了财政破绽，因此被本部舍弃的第8支部所剩下的Period，竟然只剩哈尔等3人。\r\n他们为了重建支部，而投身于无止境的黑暗营业当中！ ",
-    "score": 6.6,
-    "scored_by": 580,
-    "rank": 4413,
-    "popularity": 0,
-    "members": 1732,
-    "genres": [
-      "冒险",
-      "喜剧",
-      "奇幻",
-      "萌系"
-    ],
-    "studios": [
-      "EGG FIRM"
-    ],
-    "source": [
-      "Happy Elements"
-    ],
-    "aired_from": "2018-04-11",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/236947"
-  },
-  {
-    "mal_id": 228259,
-    "title": "苍天之拳 REGENESIS",
-    "title_japanese": "蒼天の拳 REGENESIS",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/2a/eb/228259_20MKT.jpg",
-    "synopsis": "『蒼天の拳』は、北斗1800年の歴史上、最も奔放苛烈で最強と呼ばれた”第62代北斗神拳伝承者・霞拳志郎”の物語。そんな『蒼天の拳』が、原作者・原哲夫の監修の元、新たにTVアニメで蘇る！\r\nその名は『蒼天の拳REGENESIS』!!\r\n最強の北斗神拳伝承者・霞拳志郎の生き様を、目撃せよ!!",
-    "score": 5.5,
-    "scored_by": 155,
-    "rank": 7853,
-    "popularity": 0,
-    "members": 446,
-    "genres": [
-      "动作"
-    ],
-    "studios": [],
-    "source": [
-      "漫画『蒼天の拳』（原哲夫・堀江信彦 監修：武論尊）"
-    ],
-    "aired_from": "2018-04-09",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/228259"
-  },
-  {
-    "mal_id": 227231,
-    "title": "奴隶区 我与23人的奴隶",
-    "title_japanese": "奴隷区 The Animation",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/3a/0f/227231_3u2Do.jpg",
-    "synopsis": "“SCM”——那是可将他人变为奴隶的器具。\r\n在胜负中获胜即成为主人，败者则成为奴隶。\r\n复仇、爱情、憎恶……各种思绪在拥有SCM的人们之间展开的，欲望的群像剧。\r\n是胜利，还是服从？壮绝的生存游戏开幕。 ",
-    "score": 5.1,
-    "scored_by": 726,
-    "rank": 9211,
-    "popularity": 0,
-    "members": 1842,
-    "genres": [
-      "动作",
-      "悬疑",
-      "科幻"
-    ],
-    "studios": [
-      "ゼロジー×ティー・エヌ・ケー"
-    ],
-    "source": [
-      "オオイシヒロト、岡田伸一/双葉社"
-    ],
-    "aired_from": "2018-04-12",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/227231"
+    "url": "https://bgm.tv/subject/235421"
   },
   {
     "mal_id": 239180,
@@ -689,180 +422,28 @@
     "url": "https://bgm.tv/subject/239180"
   },
   {
-    "mal_id": 239839,
-    "title": "年轻老板娘是小学生！",
-    "title_japanese": "若おかみは小学生！",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/84/03/239839_g242z.jpg",
-    "synopsis": "儿童向小说作品《年轻老板娘是小学生！》由令丈弘子创作，亚沙美负责插画，由讲谈社青鸟文库出版，已出版23卷小说单行本，累计发行量突破300万部。\r\n\r\n故事讲述了小学6年级的女生关织子在父母因事故双亡后被祖母收养，并住在祖母经营的温泉旅馆“春之屋”。她在新环境开始新生活，并且结识了一位幽灵少年立卖诚，成为了朋友。某一天祖母突然身体不适，此时敌对旅馆前来拜访，表示要收购春之屋。织子更是受到了同为小学生的敌对旅馆之女秋野真月的挑衅，也为了表现自己守护春之屋的决心而开始帮忙旅馆的工作，展开了成为老板娘的修行。",
-    "score": 6.2,
-    "scored_by": 226,
-    "rank": 6246,
-    "popularity": 0,
-    "members": 801,
-    "genres": [
-      "日常",
-      "治愈",
-      "萌系"
-    ],
-    "studios": [
-      "MADHOUSE、DLE（动画制作统括）"
-    ],
-    "source": [
-      "令丈ヒロ子・亜沙美（絵） （講談社青い鳥文庫『若おかみは小学生！』シリーズ）"
-    ],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/239839"
-  },
-  {
-    "mal_id": 236074,
-    "title": "闪亮美妙☆频道",
-    "title_japanese": "キラッとプリ☆チャン",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/99/92/236074_shlLQ.jpg",
-    "synopsis": "PRI☆CHAN！那是……\r\n不论任何人都能轻易开始，不论任何人都能成为偶像的梦幻频道！\r\n在闪耀又令人心动、只有自己的频道中担任制作，以大受欢迎的PRI☆CHAN偶像为目标，是女孩子们共有的梦想……\r\n\r\n绮罗里丘中学一年级的桃山未来和萌黄绘萌，由于对同校的人气PRI☆CHAN偶像·赤城杏菜的对抗意识，而顺势在PRI☆CHAN出道。\r\n\r\n她们将熟知PRI☆CHAN的优等生青叶铃花收为同伴，梦想成为顶级PRI☆CHAN偶像的3人开始了频道的创设……。 ",
-    "score": 6.2,
-    "scored_by": 96,
-    "rank": 5324,
-    "popularity": 0,
-    "members": 327,
-    "genres": [
-      "日常",
-      "校园",
-      "百合",
-      "音乐"
-    ],
-    "studios": [
-      "タツノコプロ、DONGWOO A&E"
-    ],
-    "source": [
-      "タカラトミーアーツ／シンソフィア"
-    ],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/236074"
-  },
-  {
-    "mal_id": 216371,
-    "title": "莉兹与青鸟",
-    "title_japanese": "リズと青い鳥",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/1d/35/216371_5926R.jpg",
-    "synopsis": "铠塚霙，高中3年级，双簧管演奏者。\r\n伞木希美，高中3年级，长笛演奏者。\r\n\r\n初中时，是希美牵起了霙的手，带领她走出了孤独。\r\n自那以后，希美就占据了霙的整个世界。\r\n只有与希美在一起的生活，才令霙感到幸福。\r\n可在高中一年级，希美一度退出了吹奏部。而她的归来，也始终未能抹去霙心中的不安。\r\n——是否有一天，希美会再次消失在自己面前呢？\r\n\r\n就这样，二人迎来了高中最后的竞演会。\r\n参赛的自由曲是「莉兹与青鸟」。\r\n在这首以童话为蓝本创作的乐曲当中，有一段双簧管与长笛交相呼应的章节。\r\n\r\n「故事的结局，还是越美满越好啦。」\r\n虽然希美如此认为，霙却依然对终将到来的离别心怀恐惧。\r\n\r\n——请永远，永远，留在我身边吧——\r\n\r\n在继续着日常生活的同时，两人总是情不自禁地将自己投影到童话当中。\r\n霙是莉兹，希美是青鸟。\r\n但是……\r\n两枚略有嫌隙的齿轮，仍不停地转动，寻找着与彼此相契合的那个瞬间。",
-    "score": 8.6,
-    "scored_by": 18302,
-    "rank": 27,
-    "popularity": 0,
-    "members": 35722,
-    "genres": [
-      "日常",
-      "校园",
-      "治愈",
-      "爱情",
-      "百合",
-      "音乐"
-    ],
-    "studios": [
-      "京都アニメーション"
-    ],
-    "source": [
-      "武田綾乃（宝島社文庫「響け！ユーフォニアム 北宇治高校吹奏楽部、波乱の第二楽章」）"
-    ],
-    "aired_from": "2018-04-21",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/216371"
-  },
-  {
-    "mal_id": 232646,
-    "title": "食戟之灵 餐之皿 远月列车篇",
-    "title_japanese": "食戟のソーマ 餐ノ皿 遠月列車篇",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ed/32/232646_wEi6d.jpg",
-    "synopsis": "",
-    "score": 6.6,
-    "scored_by": 2999,
-    "rank": 4686,
-    "popularity": 0,
-    "members": 6226,
-    "genres": [
-      "后宫",
-      "喜剧",
-      "校园",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "附田祐斗・佐伯俊 协力：森崎友紀（集英社「週刊少年ジャンプ」連載）"
-    ],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/232646"
-  },
-  {
-    "mal_id": 225631,
-    "title": "黑社会的超能力女儿",
-    "title_japanese": "ヒナまつり",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/11/f9/225631_0p0sS.jpg",
-    "synopsis": "支持着芦川组的年轻智力型黑道新田义史，过着被喜欢的壶所包围的悠然自得单身生活。但某一天，随着装在神秘物体里的少女雏来到他家，他的生活为之一变。他被能使用念动力的雏所胁迫，迫不得已开始和她同居！\r\n容易暴走的雏，不论在组里还是在学校都为所欲为。新田为此头痛不已，但由于自己那老好人的性格而陷入总是要照顾她的境地。究竟这种生活会变得怎样呢？\r\n老好人不法之徒与任性超能力少女的危险而热闹的日常开始了！",
-    "score": 7.2,
-    "scored_by": 8994,
-    "rank": 1900,
-    "popularity": 0,
-    "members": 17498,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "日常",
-      "治愈"
-    ],
-    "studios": [],
-    "source": [
-      "大武政夫（『ヒナまつり』／KADOKAWA刊）"
-    ],
-    "aired_from": "2018-04-06",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/225631"
-  },
-  {
-    "mal_id": 239962,
-    "title": "Lady Sport",
-    "title_japanese": "レディスポ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/70/58/239962_g98e8.jpg",
-    "synopsis": "",
-    "score": 3.4,
-    "scored_by": 9,
+    "mal_id": 240513,
+    "title": "决斗大师！",
+    "title_japanese": "デュエル・マスターズ！",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/a3/62/240513_tSdV9.jpg",
+    "synopsis": "主人公・切札勝（ジョー）は絵を描くこととデュエマが好きな小学4年生。\r\n\r\n\r\nクリーチャーを生み出す能力を持つ“しゃべるデッキケース”ことデッキーと\r\n相棒「ジョーカーズ」を生み出し、ライバル達とのデュエルに挑む！\r\n\r\n\r\nある日、クリーチャー世界の一つ「自然文明」世界へと偶然迷い込んだジョー。\r\nそこにはまだ見ぬ脅威「闇文明」からの侵略と闘う、クリーチャー四天王の姿があった。\r\n自然文明世界でトラブルを起こしてしまったジョーは四天王から敵と見なされ、\r\nデュエルで闘うことに・・・！？\r\n\r\n\r\n自然文明を舞台にジョーの新たな物語が幕を開ける！！",
+    "score": 5.3,
+    "scored_by": 3,
     "rank": 0,
     "popularity": 0,
-    "members": 72,
-    "genres": [
-      "百合"
+    "members": 26,
+    "genres": [],
+    "studios": [
+      "アセンション、小学館ミュージック&デジタルエンタテイメント"
     ],
-    "studios": [],
     "source": [],
-    "aired_from": "2018-04-09",
+    "aired_from": "2018-04-01",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/239962"
+    "url": "https://bgm.tv/subject/240513"
   },
   {
     "mal_id": 232072,
@@ -871,10 +452,10 @@
     "image_url": "https://lain.bgm.tv/pic/cover/l/df/81/232072_rBO1a.jpg",
     "synopsis": "2018年《足球小将》将再度让世界沸腾！\r\n本作品描述转学进入南葛小学的天才足球少年大空翼，在与若林源三、日向小次郎等来自全国的对手们的战斗中，逐渐成长蜕变为独挡一面的足球运动员。《足球小将》爽朗的故事与个性丰富的人物，以及充满震撼任谁都想加以模仿的各种美技，瞬时一跃成为人气漫画。其人气飘洋过海在世界上掀起《足球小将》的热潮。",
     "score": 6.3,
-    "scored_by": 221,
-    "rank": 5788,
+    "scored_by": 223,
+    "rank": 5798,
     "popularity": 0,
-    "members": 677,
+    "members": 685,
     "genres": [
       "运动"
     ],
@@ -891,273 +472,22 @@
     "url": "https://bgm.tv/subject/232072"
   },
   {
-    "mal_id": 226986,
-    "title": "雷顿 神秘侦探社～卡托莉的解谜档案～",
-    "title_japanese": "レイトン ミステリー探偵社～カトリーのナゾトキファイル～",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d1/41/226986_szP3i.jpg",
-    "synopsis": "“不论何种谜团都全部解明，这就是我雷顿侦探社的宗旨。”\r\n雷顿教授的女儿卡特莉艾尔·雷顿，和会说话的狗夏洛以及助手诺亚一起经营雷顿侦探社，每天都在解决发生在伦敦的不可思议事件。原本为了寻找突然失踪的父亲艾尔夏尔·雷顿而开始的这份工作，但利用各种异想天开的想法来解谜却逐渐成为了话题，并开始迎来各种委托。 ",
-    "score": 6.8,
-    "scored_by": 226,
-    "rank": 3412,
-    "popularity": 0,
-    "members": 857,
-    "genres": [
-      "喜剧",
-      "悬疑",
-      "日常"
-    ],
-    "studios": [],
-    "source": [
-      "「レイトン」シリーズ（レベルファイブ）"
-    ],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/226986"
-  },
-  {
-    "mal_id": 212003,
-    "title": "赛马娘 Pretty Derby",
-    "title_japanese": "ウマ娘 プリティーダービー",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/91/c0/212003_pPk1M.jpg",
-    "synopsis": "这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。\r\n从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！",
-    "score": 7,
-    "scored_by": 10682,
-    "rank": 2610,
-    "popularity": 0,
-    "members": 21703,
-    "genres": [
-      "励志",
-      "喜剧",
-      "日常",
-      "校园",
-      "治愈",
-      "百合",
-      "运动",
-      "音乐"
-    ],
-    "studios": [],
-    "source": [
-      "Cygames"
-    ],
-    "aired_from": "2018-04-01",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/212003"
-  },
-  {
-    "mal_id": 243923,
-    "title": "ぱすてるらいふ",
-    "title_japanese": "ぱすてるらいふ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/09/97/243923_ZR4p4.jpg",
-    "synopsis": "Pastel＊Palettesのアニメ化が決定\r\n\r\nパスパレが主役の日常系ゆるふわアニメ「ぱすてるらいふ」の放送が決定",
-    "score": 6.3,
-    "scored_by": 207,
-    "rank": 5628,
-    "popularity": 0,
-    "members": 460,
-    "genres": [
-      "喜剧",
-      "日常",
-      "百合",
-      "音乐"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-05-17",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/243923"
-  },
-  {
-    "mal_id": 191302,
-    "title": "少女与战车 最终章 第1话",
-    "title_japanese": "ガールズ&パンツァー 最終章 第1話",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/be/64/191302_RybiD.jpg",
-    "synopsis": "从赌上校园存亡的对战中击败大学生选拔队后，大洗女子学园战车道部的成员们终于迎来了平稳的冬日。\r\n但随著三年生的毕业、学生会改选、新执行部开始运转等事情，小小的变化也开始了。\r\n有一天，在她们身上发生了骚动。为了面对新出现的难题，战车道队将重新启动……",
-    "score": 7.8,
-    "scored_by": 3296,
-    "rank": 450,
-    "popularity": 0,
-    "members": 6532,
-    "genres": [
-      "动作",
-      "喜剧",
-      "校园",
-      "百合",
-      "萌系",
-      "运动"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-24",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/191302"
-  },
-  {
-    "mal_id": 230176,
-    "title": "卡利古拉",
-    "title_japanese": "Caligula -カリギュラ-",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/9f/46/230176_lzgvV.jpg",
-    "synopsis": "“毁坏理想，回归现实——”\r\n响彻城市的美妙歌声。如同被拥有绝大人气的偶像“μ”所守护着一般，平稳的日常在城市中流逝。\r\n式岛律，是宫比市立吉志舞高中的一年级生。运动、学习、受到朋友的关照，在青春的正当中过着充实的高中生活。\r\n时间流逝，到了升入二年级的开学典礼。作为新生代表登上讲台的少年，是本来不可能身在那里的人物—— ",
-    "score": 5.6,
-    "scored_by": 1250,
-    "rank": 8559,
-    "popularity": 0,
-    "members": 3021,
-    "genres": [
-      "动作",
-      "奇幻",
-      "悬疑",
-      "校园",
-      "科幻",
-      "音乐"
-    ],
-    "studios": [],
-    "source": [
-      "「Caligula-カリギュラ-」（フリュー）"
-    ],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/230176"
-  },
-  {
-    "mal_id": 226734,
-    "title": "多田君不恋爱",
-    "title_japanese": "多田くんは恋をしない",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/05/f6/226734_Xgrmb.jpg",
-    "synopsis": "手持相机，拍摄盛开樱花照片的多田光良，与刚刚从异国他乡来到日本的少女特蕾莎·瓦格纳相遇了。从欧洲的拉森堡来到日本留学的特蕾莎，刚一到达日本，就和一起过来的伙伴走散而迷路了。由此而开始帮助她的光良，将特蕾莎带到了祖父经营的多田咖啡店……",
-    "score": 6.3,
-    "scored_by": 2478,
-    "rank": 6344,
-    "popularity": 0,
-    "members": 5730,
-    "genres": [
-      "喜剧",
-      "日常",
-      "校园",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "羽矢浪好貴"
-    ],
-    "aired_from": "2018-04-05",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/226734"
-  },
-  {
-    "mal_id": 231971,
-    "title": "霸旋陀螺 爆刃对决 超Z",
-    "title_japanese": "ベイブレード バースト 超ゼツ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/28/c2/231971_68804.jpg",
-    "synopsis": "赤刃アイガは豊かな自然の中で育った超野性児。\r\n世界チャンピオン蒼井バルトとのベイバトルに刺激を受けたアイガは、\r\n超ゼツベイ・ゼットアキレスと共に\r\n最強無敵のブレーダーを目指すようになる。\r\nもっと強い相手と戦って、もっと強くなりたい。\r\nアイガは、世界タイトルマッチの挑戦権を得てバルトを倒すために、\r\n世界へと飛び出す。\r\n\r\n今ここに赤刃アイガの\r\n冒険と挑戦の日々が始まる。",
-    "score": 5.6,
-    "scored_by": 10,
-    "rank": 0,
-    "popularity": 0,
-    "members": 38,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-02",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/231971"
-  },
-  {
-    "mal_id": 229393,
-    "title": "妖怪旅馆营业中",
-    "title_japanese": "かくりよの宿飯",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/af/fa/229393_86gkc.jpg",
-    "synopsis": "女大学生津场木葵拥有从过世的祖父那里继承来的、能看见妖怪的能力。\r\n她突然被抓到了妖怪栖息的隐世的老字号旅馆“天神屋”。\r\n感到困惑的葵得知了祖父留下的庞大欠款，\r\n以及她作为抵押必须嫁给鬼神大老板这一约定。\r\n无法接受的葵为了反抗婚事、起死回生，\r\n而向妖怪们宣言她会在天神屋工作来偿还欠款……。 ",
-    "score": 6,
-    "scored_by": 308,
-    "rank": 7187,
-    "popularity": 0,
-    "members": 998,
-    "genres": [
-      "奇幻",
-      "日常",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "友麻碧（株式会社KADOKAWA 富士見L文庫「かくりよの宿飯」シリーズ）"
-    ],
-    "aired_from": "2018-04-02",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/229393"
-  },
-  {
-    "mal_id": 240513,
-    "title": "决斗大师！",
-    "title_japanese": "デュエル・マスターズ！",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/a3/62/240513_tSdV9.jpg",
-    "synopsis": "主人公・切札勝（ジョー）は絵を描くこととデュエマが好きな小学4年生。\r\n\r\n\r\nクリーチャーを生み出す能力を持つ“しゃべるデッキケース”ことデッキーと\r\n相棒「ジョーカーズ」を生み出し、ライバル達とのデュエルに挑む！\r\n\r\n\r\nある日、クリーチャー世界の一つ「自然文明」世界へと偶然迷い込んだジョー。\r\nそこにはまだ見ぬ脅威「闇文明」からの侵略と闘う、クリーチャー四天王の姿があった。\r\n自然文明世界でトラブルを起こしてしまったジョーは四天王から敵と見なされ、\r\nデュエルで闘うことに・・・！？\r\n\r\n\r\n自然文明を舞台にジョーの新たな物語が幕を開ける！！",
-    "score": 5.3,
-    "scored_by": 3,
-    "rank": 0,
-    "popularity": 0,
-    "members": 25,
-    "genres": [],
-    "studios": [
-      "アセンション、小学館ミュージック&デジタルエンタテイメント"
-    ],
-    "source": [],
-    "aired_from": "2018-04-01",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/240513"
-  },
-  {
-    "mal_id": 239853,
-    "title": "兔子玛修",
-    "title_japanese": "うさぎのマシュー",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/85/b2/239853_rfjiG.jpg",
+    "mal_id": 239840,
+    "title": "ケッケロケー",
+    "title_japanese": "ケッケロケー",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f9/f2/239840_Uh4AN.jpg",
     "synopsis": "",
     "score": 0,
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 14,
+    "members": 12,
     "genres": [],
-    "studios": [],
+    "studios": [
+      "勝鬨スタジオ"
+    ],
     "source": [
-      "QUAN/MMDGP"
+      "カフカエミリ/MMDGP"
     ],
     "aired_from": "2018-04-05",
     "year": 2018,
@@ -1165,36 +495,146 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/239853"
+    "url": "https://bgm.tv/subject/239840"
   },
   {
-    "mal_id": 227739,
-    "title": "棒球大联盟2nd",
-    "title_japanese": "メジャーセカンド",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/c3/be/227739_q8BzT.jpg",
-    "synopsis": "茂野大吾は、いまも現役のプロ野球選手を父にもつ小学生。\r\nかつてメジャーリーグでも活躍した父親・吾郎に憧れて、少年野球チーム「三船ドルフィンズ」で野球を始める。しかし、二世ならではのプレッシャーのなか、思うように上達できず、１年足らずで野球をやめ、無気力な生活を送っていた。\r\n迎えた小学６年生の春、大吾の目の前に、アメリカから帰国したという転校生が現れる。\r\n転校生の名は、佐藤光。なんと光の父は、吾郎の盟友で元メジャーリーガーの佐藤寿也だった・・・。\r\n\r\nそして、少年たちの運命が動き出す！",
-    "score": 6.9,
-    "scored_by": 181,
-    "rank": 2690,
+    "mal_id": 219164,
+    "title": "鲁邦三世 PART5",
+    "title_japanese": "ルパン三世 PART5",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/42/54/219164_3976M.jpg",
+    "synopsis": "鲁邦三世与次元大介身处法国。故事在某处乡间小镇的公寓一室开始。\r\n包括毒品枪械等非法物资在内，任何物品都能购买的地下网站，“马可波罗”。为了盗取虚拟货币，鲁邦等人侵入了戒备森严的巨大服务器设施。他们在那里遇到了神秘的天才黑客少女，阿米。\r\n鲁邦和阿米一起正面应对马可波罗的陷阱，但由于敌人设置的“鲁邦游戏”，而落得被全世界监视的下场……\r\n阿米身上接连揭晓的谜团，以及知晓鲁邦三世过去的男人出现——\r\n鲁邦正陷入前所未有的绝境！ ",
+    "score": 7.4,
+    "scored_by": 768,
+    "rank": 1156,
     "popularity": 0,
-    "members": 467,
+    "members": 1783,
     "genres": [
-      "运动"
+      "冒险",
+      "动作",
+      "喜剧",
+      "科幻"
     ],
-    "studios": [
-      "NHKエンタープライズ",
-      "OLM TEAM KOJIMA"
-    ],
+    "studios": [],
     "source": [
-      "満田拓也「MAJOR 2nd（メジャーセカンド）」（週刊少年サンデー / 小学館）"
+      "モンキー・パンチ"
     ],
-    "aired_from": "2018-04-07",
+    "aired_from": "2018-04-03",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/227739"
+    "url": "https://bgm.tv/subject/219164"
+  },
+  {
+    "mal_id": 109956,
+    "title": "魔法少女俺",
+    "title_japanese": "魔法少女 俺",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/2d/0e/109956_b1Bnb.jpg",
+    "synopsis": "“恋爱，使少女变强。”\r\n在新生偶像组合·Magical Twin每日每夜努力展开演艺活动的卯野咲。\r\n她所爱慕之人，是组合成员樱世的哥哥，顶级偶像组合·STAR☆PRINCE的御翔桃拾。\r\n只要是为了他，什么都可以做到。这样的心意，引发了奇迹！\r\n由于“想要守护重要之人”的这一愿望，而变身成魔法少女的咲。\r\n但是，那种姿态却超出她的预想……",
+    "score": 5.8,
+    "scored_by": 1549,
+    "rank": 8228,
+    "popularity": 0,
+    "members": 3854,
+    "genres": [
+      "动作",
+      "喜剧",
+      "奇幻",
+      "日常",
+      "百合",
+      "音乐"
+    ],
+    "studios": [
+      "studioぴえろ+（スタジオ サインポスト）"
+    ],
+    "source": [
+      "毛魂一直線（コミックBe「魔法少女 俺」／「ふゅーじょんぷろだくと」刊）　"
+    ],
+    "aired_from": "2018-04-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/109956"
+  },
+  {
+    "mal_id": 235016,
+    "title": "智龙迷城",
+    "title_japanese": "パズドラ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/9c/e7/235016_v204q.jpg",
+    "synopsis": "舞台は下町情緒あふれる花草（はなくさ）商店街。\r\nそこに軒を連ねるたこ焼き明石屋（あかしや）で世界一をめざす少年・明石（あかし）タイガは、モンスターのトラゴンと出会い『パズドラ』の世界を知る。\r\nそしてパズドラとたこ焼き屋、どちらも世界一を目指すタイガは、パートナーとなったトラゴンとともにプロゲーマーの世界へと足を踏み入れ、ついにはパズドラプロリーグで優勝を果たし、史上最年少で『キング・オブ・パズドラ』の称号を手にしたのだった。\r\nこうしてナンバーワンプロゲーマーとなったタイガを待っていたのは華やかな日々…ではなく、同じパズドラ部の仲間たちやライバル、商店街の面々といった魅力溢れるキャラクターたちが巻き起こすトラブルばかり。\r\nさらに今度はモンスターたちも暴れまくり！？　花草商店街は今日も大騒ぎ！ ",
+    "score": 5.2,
+    "scored_by": 13,
+    "rank": 0,
+    "popularity": 0,
+    "members": 83,
+    "genres": [
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "Puzzle & Dragons(ガンホー・オンライン・エンターテイメント)"
+    ],
+    "aired_from": "2018-04-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/235016"
+  },
+  {
+    "mal_id": 236790,
+    "title": "高达创形者",
+    "title_japanese": "ガンダムビルドダイバーズ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/b3/ae/236790_601mn.jpg",
+    "synopsis": "在电脑假想空间内，享受使用钢普拉进行的各种任务的最新网络游戏《Gunpla Battle Nexus Online（GBN）》。\r\n\r\n初中生三上陆和好友日高幸夫，将同班同学八代桃香卷入其中，飞向了那个广大的世界。成为GBN内的住民“潜行者”的他们，与对钢普拉持有不可思议感性的少女莎拉相遇，并开始和她共同行动，但……。\r\n\r\n以陆所憧憬的冠军九条恭也为首，著名潜行者的存在。由多数潜行者构成的部队系统“Force”的成立。来自使用外挂及破坏转印的“集团潜行者”的妨碍。历经各种邂逅与经历，陆等人将要创造出的不只是钢普拉，也创造出属于自己的冒险！ ",
+    "score": 4.4,
+    "scored_by": 655,
+    "rank": 9615,
+    "popularity": 0,
+    "members": 1423,
+    "genres": [
+      "机战",
+      "科幻",
+      "运动"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-03",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/236790"
+  },
+  {
+    "mal_id": 234413,
+    "title": "偶像活动Friends",
+    "title_japanese": "アイカツフレンズ！",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/e0/b5/234413_91k2t.jpg",
+    "synopsis": "アイドル活動“アイカツ！”にはげむアイドルたちの\r\n努力と友情の成長物語『アイカツフレンズ！』\r\n\r\nスターハーモニー学園の普通科に通う「友希あいね」は、\r\n友達を作るのが大得意な女の子。\r\n\r\n学園のトップアイドル「湊みお」と友達になって、\r\n一緒に“アイカツ！”のステージに出ることに！？\r\n\r\n待っていたのは「蝶乃舞花」や「日向エマ」など、\r\n個性豊かなアイドルたちとの出会いや\r\n芸能界のお仕事、学園生活と大忙しの毎日！\r\n\r\n２人組の『フレンズ』を組んで、目指すのは\r\nトップアイドル、キラキラ輝く『ダイヤモンドフレンズ』！\r\n「神城カレン」「明日香ミライ」の２人がまとうドレスの輝きは、\r\nまさにダイヤモンド級！\r\n\r\n集めた数だけドラマがあるっ！\r\n『アイカツ！カード』でドレスアップ！\r\n\r\nファンも友達、カードも友達！\r\n友達いっぱい、夢いっぱい！",
+    "score": 7.2,
+    "scored_by": 172,
+    "rank": 1939,
+    "popularity": 0,
+    "members": 612,
+    "genres": [
+      "百合",
+      "音乐"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-05",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/234413"
   },
   {
     "mal_id": 129807,
@@ -1203,10 +643,10 @@
     "image_url": "https://lain.bgm.tv/pic/cover/l/f6/91/129807_9VAi4.jpg",
     "synopsis": "       2010年11月β世界线——\r\n       主人公冈部伦太郎跨越无数的苦难与悲哀，终究还是放弃拯救“她”的世界线。\r\n       跌落失意谷底的冈部伦太郎。担心着他的同伴们。\r\n       没能得到拯救的“她”将会变得如何？\r\n       迎来新的角色，描绘而成的“零”之物语。 ",
     "score": 8.2,
-    "scored_by": 14239,
-    "rank": 133,
+    "scored_by": 14537,
+    "rank": 132,
     "popularity": 0,
-    "members": 31250,
+    "members": 32116,
     "genres": [
       "奇幻",
       "悬疑",
@@ -1226,30 +666,205 @@
     "url": "https://bgm.tv/subject/129807"
   },
   {
-    "mal_id": 235016,
-    "title": "智龙迷城",
-    "title_japanese": "パズドラ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/9c/e7/235016_v204q.jpg",
-    "synopsis": "舞台は下町情緒あふれる花草（はなくさ）商店街。\r\nそこに軒を連ねるたこ焼き明石屋（あかしや）で世界一をめざす少年・明石（あかし）タイガは、モンスターのトラゴンと出会い『パズドラ』の世界を知る。\r\nそしてパズドラとたこ焼き屋、どちらも世界一を目指すタイガは、パートナーとなったトラゴンとともにプロゲーマーの世界へと足を踏み入れ、ついにはパズドラプロリーグで優勝を果たし、史上最年少で『キング・オブ・パズドラ』の称号を手にしたのだった。\r\nこうしてナンバーワンプロゲーマーとなったタイガを待っていたのは華やかな日々…ではなく、同じパズドラ部の仲間たちやライバル、商店街の面々といった魅力溢れるキャラクターたちが巻き起こすトラブルばかり。\r\nさらに今度はモンスターたちも暴れまくり！？　花草商店街は今日も大騒ぎ！ ",
-    "score": 5.2,
-    "scored_by": 13,
-    "rank": 0,
+    "mal_id": 143694,
+    "title": "银河英雄传说 Die Neue These 邂逅",
+    "title_japanese": "銀河英雄伝説 Die Neue These 邂逅",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/ba/ed/143694_Mb76T.jpg",
+    "synopsis": "数千年后的未来，进入宇宙空间的人类，被分为银河帝国与自由行星同盟这两个拥有“专制政治”与“民主主义”两种不同政治体制的国家。两国之间的抗争持续了150年，以无边无际的广袤银河为舞台，重复着无止境的战斗银河帝国的门阀贵族社会的腐败，以及自由行星同盟可称为民主主义的弊端的群愚政治侵蚀着两个国家。之后，宇宙历8世纪末，两位天才的登场驱动了历史。“常胜的天才”莱因哈特·冯·罗严克拉姆，以及人称“不败的魔术师”的杨威利。两人率领着帝国军与同盟军，展开了不知道是第几次的冲突。 ",
+    "score": 7.4,
+    "scored_by": 1786,
+    "rank": 1117,
     "popularity": 0,
-    "members": 80,
+    "members": 3935,
     "genres": [
-      "运动"
+      "动作",
+      "战争",
+      "科幻"
     ],
     "studios": [],
     "source": [
-      "Puzzle & Dragons(ガンホー・オンライン・エンターテイメント)"
+      "田中芳樹（東京創元社刊）"
     ],
-    "aired_from": "2018-04-02",
+    "aired_from": "2018-04-03",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/235016"
+    "url": "https://bgm.tv/subject/143694"
+  },
+  {
+    "mal_id": 220688,
+    "title": "ALICE or ALICE",
+    "title_japanese": "ありすorありす",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/35/8b/220688_6H5Hy.jpg",
+    "synopsis": "描绘双胞胎“璃星”与“蓝璃”以及略妹控的哥哥之间的温暖日常的喜剧作品。吃饭、吵架、和朋友玩……。可爱的爱丽丝的心动日常，稍微偷看一下吧？ ",
+    "score": 5.7,
+    "scored_by": 1100,
+    "rank": 8415,
+    "popularity": 0,
+    "members": 2745,
+    "genres": [
+      "后宫",
+      "喜剧",
+      "日常",
+      "治愈",
+      "萌系"
+    ],
+    "studios": [],
+    "source": [
+      "梱枝りこ（月刊コミックキューン連載／KADOKAWA刊）"
+    ],
+    "aired_from": "2018-04-04",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/220688"
+  },
+  {
+    "mal_id": 227718,
+    "title": "MEGALO BOX",
+    "title_japanese": "メガロボクス",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/50/29/227718_50fU0.jpg",
+    "synopsis": "将肉体与“外骨骼技术”融合的究极格斗技——“MEGALO BOX”，将自己的全部赌在上面的男人们的热血战斗开始！\r\n今天也立于未认可地区的赌博比赛赛场上的MEGALO拳击手“Junk Dog”。虽然具备实力，却只有靠比赛造假赚钱这一条生存之道，他为自己的“现在”感到心焦。\r\n但，他与孤高的冠军·勇利相遇，作为MEGALO拳击手，作为男人，向自己的“现在”发起挑战——。 ",
+    "score": 7.6,
+    "scored_by": 8912,
+    "rank": 658,
+    "popularity": 0,
+    "members": 17959,
+    "genres": [
+      "动作",
+      "励志",
+      "科幻",
+      "运动",
+      "音乐"
+    ],
+    "studios": [
+      "トムス・エンタテインメント/3xCube"
+    ],
+    "source": [],
+    "aired_from": "2018-04-05",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/227718"
+  },
+  {
+    "mal_id": 232646,
+    "title": "食戟之灵 餐之皿 远月列车篇",
+    "title_japanese": "食戟のソーマ 餐ノ皿 遠月列車篇",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/ed/32/232646_wEi6d.jpg",
+    "synopsis": "",
+    "score": 6.6,
+    "scored_by": 3047,
+    "rank": 4694,
+    "popularity": 0,
+    "members": 6360,
+    "genres": [
+      "后宫",
+      "喜剧",
+      "校园",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "附田祐斗・佐伯俊 协力：森崎友紀（集英社「週刊少年ジャンプ」連載）"
+    ],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/232646"
+  },
+  {
+    "mal_id": 226677,
+    "title": "我的英雄学院 第三季",
+    "title_japanese": "僕のヒーローアカデミア 第3期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7e/2c/226677_z5K1m.jpg",
+    "synopsis": "　　拥有名为“个性”的超常能力的人类的存在变得理所当然的世界。与No.1英雄·欧尔麦特相遇了的“无个性”少年·绿谷出久，小出他的隐藏的英雄资质被发现，并继承了欧尔麦特的“个性”——ONE FOR ALL。而后小出成功地进入了英雄辈出的名门校·雄英高校，与同学们过着互相比试切磋琢磨的每一天。\r\n　　雄英高校的学生们激烈比试的大活动「雄英体育祭」、在职业英雄手下磨练技艺的「职场体验」、与“英雄杀手”斯坦因的死斗、期末考试中与欧尔麦特的战斗，然后是与敌联合的死柄木吊的邂逅…。在一个个试炼面前，目标着成为职业英雄而果敢的站了出来的出久。另一方，死柄木与欧尔麦特的宿敌·ALL FOR ONE的同伴也增加了，并伺机蠢蠢欲动。为了成为最棒的英雄的出久的步伐、以及与敌人们的战斗，日渐加速！",
+    "score": 6.4,
+    "scored_by": 4381,
+    "rank": 6069,
+    "popularity": 0,
+    "members": 8436,
+    "genres": [
+      "动作",
+      "励志",
+      "奇幻",
+      "校园"
+    ],
+    "studios": [],
+    "source": [
+      "堀越耕平（集英社「週刊少年ジャンプ」連載）"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/226677"
+  },
+  {
+    "mal_id": 234378,
+    "title": "美男高校地球防卫部 HAPPY KISS！",
+    "title_japanese": "美男高校地球防衛部 HAPPY KISS!",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/06/af/234378_aPGCY.jpg",
+    "synopsis": "位于日本北关东的城市，眉难市——\r\n眉难高中的“地球防卫部（笑）”一如既往地是什么也不做的社团……。\r\n部员修善寺镜太郎、雾岛龙马、和仓七绪、万座太子和道后一六，无所事事地享受着品茶，聊着一文不值的愚蠢话题，就是这样的社团。放学后，众人移步前往“黑玉汤”。修善寺由于过于舒服而沉入水底，当雾岛拉起他的手臂时，一同钓上来的是位奇怪的美少年。\r\n“我是霍奈拉王国霍奈拉王家的第一王子卡尔斯先生！为了HAPPY地统治各位而来☆”\r\n就这样，5人被卷入了魔法之国的继承人之争…… ",
+    "score": 5.6,
+    "scored_by": 91,
+    "rank": 7064,
+    "popularity": 0,
+    "members": 323,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "校园",
+      "耽美"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/234378"
+  },
+  {
+    "mal_id": 219779,
+    "title": "魔性之线DEVIL'S LINE",
+    "title_japanese": "デビルズライン",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/94/bc/219779_81F01.jpg",
+    "synopsis": "鬼与人共存的世界——每当两人的心灵靠近，名为鬼的存在就分开他们的距离。\r\n等着两人的命运，以及“鬼”是——。\r\n\r\n鬼与人，描绘究极之爱的本作，于此出动！ ",
+    "score": 5.2,
+    "scored_by": 383,
+    "rank": 9091,
+    "popularity": 0,
+    "members": 1133,
+    "genres": [
+      "动作",
+      "奇幻",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "花田陵「デビルズライン」（モーニング・ツー / 講談社）"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/219779"
   },
   {
     "mal_id": 303899,
@@ -1279,6 +894,262 @@
     "url": "https://bgm.tv/subject/303899"
   },
   {
+    "mal_id": 227739,
+    "title": "棒球大联盟2nd",
+    "title_japanese": "メジャーセカンド",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/c3/be/227739_q8BzT.jpg",
+    "synopsis": "茂野大吾は、いまも現役のプロ野球選手を父にもつ小学生。\r\nかつてメジャーリーグでも活躍した父親・吾郎に憧れて、少年野球チーム「三船ドルフィンズ」で野球を始める。しかし、二世ならではのプレッシャーのなか、思うように上達できず、１年足らずで野球をやめ、無気力な生活を送っていた。\r\n迎えた小学６年生の春、大吾の目の前に、アメリカから帰国したという転校生が現れる。\r\n転校生の名は、佐藤光。なんと光の父は、吾郎の盟友で元メジャーリーガーの佐藤寿也だった・・・。\r\n\r\nそして、少年たちの運命が動き出す！",
+    "score": 6.9,
+    "scored_by": 181,
+    "rank": 2702,
+    "popularity": 0,
+    "members": 467,
+    "genres": [
+      "运动"
+    ],
+    "studios": [
+      "NHKエンタープライズ",
+      "OLM TEAM KOJIMA"
+    ],
+    "source": [
+      "満田拓也「MAJOR 2nd（メジャーセカンド）」（週刊少年サンデー / 小学館）"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/227739"
+  },
+  {
+    "mal_id": 236947,
+    "title": "最终休止符～无止境的螺旋物语～",
+    "title_japanese": "ラストピリオド -終わりなき螺旋の物語-",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/af/99/236947_h60r6.jpg",
+    "synopsis": "“Period”，是将诞生自绝望的异形怪物“Spiral”打倒之人的名号。\r\n隶属于Arc End第8支部的见习Period·哈尔，也为了斩断绝望的轮回，而投身于无止境的战斗当中……。\r\n\r\n——然而！！！\r\n神秘的盗窃事件引发了财政破绽，因此被本部舍弃的第8支部所剩下的Period，竟然只剩哈尔等3人。\r\n他们为了重建支部，而投身于无止境的黑暗营业当中！ ",
+    "score": 6.6,
+    "scored_by": 582,
+    "rank": 4445,
+    "popularity": 0,
+    "members": 1751,
+    "genres": [
+      "冒险",
+      "喜剧",
+      "奇幻",
+      "萌系"
+    ],
+    "studios": [
+      "EGG FIRM"
+    ],
+    "source": [
+      "Happy Elements"
+    ],
+    "aired_from": "2018-04-11",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/236947"
+  },
+  {
+    "mal_id": 239839,
+    "title": "年轻老板娘是小学生！",
+    "title_japanese": "若おかみは小学生！",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/84/03/239839_g242z.jpg",
+    "synopsis": "儿童向小说作品《年轻老板娘是小学生！》由令丈弘子创作，亚沙美负责插画，由讲谈社青鸟文库出版，已出版23卷小说单行本，累计发行量突破300万部。\r\n\r\n故事讲述了小学6年级的女生关织子在父母因事故双亡后被祖母收养，并住在祖母经营的温泉旅馆“春之屋”。她在新环境开始新生活，并且结识了一位幽灵少年立卖诚，成为了朋友。某一天祖母突然身体不适，此时敌对旅馆前来拜访，表示要收购春之屋。织子更是受到了同为小学生的敌对旅馆之女秋野真月的挑衅，也为了表现自己守护春之屋的决心而开始帮忙旅馆的工作，展开了成为老板娘的修行。",
+    "score": 6.1,
+    "scored_by": 227,
+    "rank": 6313,
+    "popularity": 0,
+    "members": 814,
+    "genres": [
+      "日常",
+      "治愈",
+      "萌系"
+    ],
+    "studios": [
+      "MADHOUSE、DLE（动画制作统括）"
+    ],
+    "source": [
+      "令丈ヒロ子・亜沙美（絵） （講談社青い鳥文庫『若おかみは小学生！』シリーズ）"
+    ],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/239839"
+  },
+  {
+    "mal_id": 231474,
+    "title": "桧曾根与间租谭",
+    "title_japanese": "ひそねとまそたん",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/40/81/231474_Qe54B.jpg",
+    "synopsis": "“我与你一同飞向天空。”\r\n甘粕桧曾根，是最近开始在航空自卫队岐阜基地任职的新人。\r\n过于率直而总是无意识地伤害他人，对此感到疲惫不堪的她，选择成为任期限定的自卫官。\r\n但，命运的邂逅彻底改变了她的人生。\r\n被秘藏在基地中、伪装成战斗机的龙选中了桧曾根，并和她一起飞向天空。\r\n就这样，搭乘“OTF（变态飞翔生命体）”的飞行要员，\r\n成为了桧曾根的工作。\r\n甚至能左右国家命运的龙，\r\n究竟隐藏着怎样的秘密呢……。 ",
+    "score": 6.9,
+    "scored_by": 939,
+    "rank": 2812,
+    "popularity": 0,
+    "members": 2241,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "爱情",
+      "百合",
+      "科幻"
+    ],
+    "studios": [
+      "BONES"
+    ],
+    "source": [
+      "BONES・樋口真嗣・岡田麿里"
+    ],
+    "aired_from": "2018-04-12",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/231474"
+  },
+  {
+    "mal_id": 227231,
+    "title": "奴隶区 我与23人的奴隶",
+    "title_japanese": "奴隷区 The Animation",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/3a/0f/227231_3u2Do.jpg",
+    "synopsis": "“SCM”——那是可将他人变为奴隶的器具。\r\n在胜负中获胜即成为主人，败者则成为奴隶。\r\n复仇、爱情、憎恶……各种思绪在拥有SCM的人们之间展开的，欲望的群像剧。\r\n是胜利，还是服从？壮绝的生存游戏开幕。 ",
+    "score": 5.1,
+    "scored_by": 733,
+    "rank": 9272,
+    "popularity": 0,
+    "members": 1883,
+    "genres": [
+      "动作",
+      "悬疑",
+      "犯罪",
+      "科幻"
+    ],
+    "studios": [
+      "ゼロジー×ティー・エヌ・ケー"
+    ],
+    "source": [
+      "『奴隷区 僕と23人の奴隷』（双葉社アクションコミックス） /オオイシヒロト　岡田伸一"
+    ],
+    "aired_from": "2018-04-12",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/227231"
+  },
+  {
+    "mal_id": 226750,
+    "title": "刀剑神域外传 Gun Gale Online",
+    "title_japanese": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/29/40/226750_3fW9q.jpg",
+    "synopsis": "在枪与钢铁的世界“Gun Gale Online”享受着单人游戏的女性玩家·莲。喜欢可爱事物的她，全身清一色的粉红色装备，不断累积游戏经验，并逐渐增强实力。之后，由于某件事而对于PK（玩家狩猎）觉醒了兴趣的莲沉迷于PK中，并终于到达被人称作“粉红恶魔”的地步。\r\n这样的莲，与神秘的美女玩家·Pitohui相遇，并和她意气相投。莲按照她所说的，参加了小队作战活动“特攻强袭”。 ",
+    "score": 6.5,
+    "scored_by": 4783,
+    "rank": 5165,
+    "popularity": 0,
+    "members": 10554,
+    "genres": [
+      "动作",
+      "奇幻",
+      "百合",
+      "科幻",
+      "萌系"
+    ],
+    "studios": [],
+    "source": [
+      "時雨沢恵一（電撃文庫刊）"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/226750"
+  },
+  {
+    "mal_id": 239853,
+    "title": "兔子玛修",
+    "title_japanese": "うさぎのマシュー",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/85/b2/239853_rfjiG.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 14,
+    "genres": [],
+    "studios": [],
+    "source": [
+      "QUAN/MMDGP"
+    ],
+    "aired_from": "2018-04-05",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/239853"
+  },
+  {
+    "mal_id": 185789,
+    "title": "闪电十一人 阿瑞斯的天平",
+    "title_japanese": "イナズマイレブン アレスの天秤",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/77/32/185789_jPBVp.jpg",
+    "synopsis": "居住在宁静的孤岛·伊那国岛的少年们，突然遭遇了足球部废部的危机。\r\n取回足球的条件是，在Football Frontier的比赛中取得一胜。主人公·稻森明日人等人离开了岛，进入雷门中学并向Football Frontier发起挑战。\r\n伊那国·雷门十一人初战的对手，是排名第一的“星章学园”…… ",
+    "score": 4.8,
+    "scored_by": 55,
+    "rank": 8004,
+    "popularity": 0,
+    "members": 169,
+    "genres": [
+      "奇幻",
+      "运动"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-06",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/185789"
+  },
+  {
+    "mal_id": 239962,
+    "title": "Lady Sport",
+    "title_japanese": "レディスポ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/70/58/239962_g98e8.jpg",
+    "synopsis": "",
+    "score": 3.4,
+    "scored_by": 9,
+    "rank": 0,
+    "popularity": 0,
+    "members": 72,
+    "genres": [
+      "百合"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-09",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/239962"
+  },
+  {
     "mal_id": 294292,
     "title": "きこりと宝物",
     "title_japanese": "きこりと宝物",
@@ -1303,173 +1174,6 @@
     "url": "https://bgm.tv/subject/294292"
   },
   {
-    "mal_id": 226677,
-    "title": "我的英雄学院 第三季",
-    "title_japanese": "僕のヒーローアカデミア 第3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7e/2c/226677_z5K1m.jpg",
-    "synopsis": "　　拥有名为“个性”的超常能力的人类的存在变得理所当然的世界。与No.1英雄·欧尔麦特相遇了的“无个性”少年·绿谷出久，小出他的隐藏的英雄资质被发现，并继承了欧尔麦特的“个性”——ONE FOR ALL。而后小出成功地进入了英雄辈出的名门校·雄英高校，与同学们过着互相比试切磋琢磨的每一天。\r\n　　雄英高校的学生们激烈比试的大活动「雄英体育祭」、在职业英雄手下磨练技艺的「职场体验」、与“英雄杀手”斯坦因的死斗、期末考试中与欧尔麦特的战斗，然后是与敌联合的死柄木吊的邂逅…。在一个个试炼面前，目标着成为职业英雄而果敢的站了出来的出久。另一方，死柄木与欧尔麦特的宿敌·ALL FOR ONE的同伴也增加了，并伺机蠢蠢欲动。为了成为最棒的英雄的出久的步伐、以及与敌人们的战斗，日渐加速！",
-    "score": 6.4,
-    "scored_by": 4351,
-    "rank": 5987,
-    "popularity": 0,
-    "members": 8301,
-    "genres": [
-      "动作",
-      "励志",
-      "奇幻",
-      "校园"
-    ],
-    "studios": [],
-    "source": [
-      "堀越耕平（集英社「週刊少年ジャンプ」連載）"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/226677"
-  },
-  {
-    "mal_id": 195845,
-    "title": "恶魔高校 D×D HERO",
-    "title_japanese": "ハイスクールD×D HERO",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/cf/41/195845_z7Gr3.jpg",
-    "synopsis": "一早就前来诱惑的朱乃、急速接近的小猫、以及越来越积极的爱莎，莉雅丝对3人燃起了对抗心。处在过激争夺战中心的一诚，尽情享受着幸福的色情生活。\r\n在享受平稳日常的另一方面，超自然研究部成员也逐步准备着与巴力家的排名游戏，以及一诚等人的修学旅行。\r\n修学旅行的目的地，是存在着不同神话体系的京都。一诚等人对观光充满期待，但他们刚一到达就被卷入了祸之团一派与栖息于古都的妖怪们之间的纠纷。一诚为了守护莉雅丝所爱的京都，而摸索新的“可能性”……。 ",
-    "score": 6.3,
-    "scored_by": 1698,
-    "rank": 6327,
-    "popularity": 0,
-    "members": 4676,
-    "genres": [
-      "动作",
-      "后宫",
-      "奇幻",
-      "校园",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "石踏一榮「ハイスクールD×D」（ファンタジア文庫 / KADOKAWA）"
-    ],
-    "aired_from": "2018-04-10",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/195845"
-  },
-  {
-    "mal_id": 432510,
-    "title": "咬住秒针",
-    "title_japanese": "秒針を噛む",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/8f/e0/432510_1Sc8c.jpg",
-    "synopsis": "ずっと真夜中でいいのに。\r\n『秒針を噛む』\r\nLyrics & Vocal : ACAね\r\nMusic :  ACAね×ぬゆり\r\nArrangement : ぬゆり\r\nAnimation  : Waboku\r\n",
-    "score": 7.1,
-    "scored_by": 29,
-    "rank": 0,
-    "popularity": 0,
-    "members": 72,
-    "genres": [],
-    "studios": [
-      "Waboku"
-    ],
-    "source": [],
-    "aired_from": "2018-06-04",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/432510"
-  },
-  {
-    "mal_id": 190254,
-    "title": "罪人与龙共舞",
-    "title_japanese": "されど罪人は竜と踊る",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/31/5b/190254_d3FjO.jpg",
-    "synopsis": "　　咒式与谋略、爱以及因爱而生的背叛——\r\n　　所谓的咒式，乃操作作用子定数h，让物理法则发生局部变化，产生TNT炸药与毒气，并引发电浆与核融合之类强烈物理现象的方程式。\r\n　　两名使用咒式的进攻型咒式士——想摆脱恶运缠身的嘉优斯，以及残酷的俊美剑士吉吉那。追寻「异貌者」和赏金通缉要犯的两人，被卷入艾理达那上「龙」的战争以及大国的阴谋中……",
-    "score": 5.1,
-    "scored_by": 213,
-    "rank": 8897,
-    "popularity": 0,
-    "members": 789,
-    "genres": [
-      "动作",
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [
-      "浅井ラボ（小学館「ガガガ文庫」刊）"
-    ],
-    "aired_from": "2018-04-05",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/190254"
-  },
-  {
-    "mal_id": 220688,
-    "title": "ALICE or ALICE",
-    "title_japanese": "ありすorありす",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/35/8b/220688_6H5Hy.jpg",
-    "synopsis": "描绘双胞胎“璃星”与“蓝璃”以及略妹控的哥哥之间的温暖日常的喜剧作品。吃饭、吵架、和朋友玩……。可爱的爱丽丝的心动日常，稍微偷看一下吧？ ",
-    "score": 5.7,
-    "scored_by": 1093,
-    "rank": 8375,
-    "popularity": 0,
-    "members": 2710,
-    "genres": [
-      "后宫",
-      "喜剧",
-      "日常",
-      "治愈",
-      "萌系"
-    ],
-    "studios": [],
-    "source": [
-      "梱枝りこ（月刊コミックキューン連載／KADOKAWA刊）"
-    ],
-    "aired_from": "2018-04-04",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/220688"
-  },
-  {
-    "mal_id": 234378,
-    "title": "美男高校地球防卫部 HAPPY KISS！",
-    "title_japanese": "美男高校地球防衛部 HAPPY KISS!",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/06/af/234378_aPGCY.jpg",
-    "synopsis": "位于日本北关东的城市，眉难市——\r\n眉难高中的“地球防卫部（笑）”一如既往地是什么也不做的社团……。\r\n部员修善寺镜太郎、雾岛龙马、和仓七绪、万座太子和道后一六，无所事事地享受着品茶，聊着一文不值的愚蠢话题，就是这样的社团。放学后，众人移步前往“黑玉汤”。修善寺由于过于舒服而沉入水底，当雾岛拉起他的手臂时，一同钓上来的是位奇怪的美少年。\r\n“我是霍奈拉王国霍奈拉王家的第一王子卡尔斯先生！为了HAPPY地统治各位而来☆”\r\n就这样，5人被卷入了魔法之国的继承人之争…… ",
-    "score": 5.7,
-    "scored_by": 88,
-    "rank": 6941,
-    "popularity": 0,
-    "members": 315,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "校园",
-      "耽美"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/234378"
-  },
-  {
     "mal_id": 240592,
     "title": "妖怪手表 阴影面",
     "title_japanese": "妖怪ウォッチ シャドウサイド",
@@ -1479,7 +1183,7 @@
     "scored_by": 12,
     "rank": 0,
     "popularity": 0,
-    "members": 51,
+    "members": 52,
     "genres": [
       "奇幻",
       "萌系"
@@ -1495,436 +1199,26 @@
     "url": "https://bgm.tv/subject/240592"
   },
   {
-    "mal_id": 229947,
-    "title": "蓝海少女 第二季",
-    "title_japanese": "あまんちゅ！～あどばんす～",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/d4/a2/229947_MmPMC.jpg",
-    "synopsis": "生长于伊豆小镇的小日向光，以及从东京搬来的大木双叶。一同进入梦丘高中的两人，在呼吸器潜水以及日常的平凡事件当中，找到了很多的幸福。曾经对任何事都很消极的双叶，在总是开朗乐观的光的影响下，经历了很多向前踏出一步的喜悦。不止如此，双叶还在期盼已久的开放水域潜水员实习中合格，接下来将要以进阶开放水域潜水员为目标。仅此一次、无可替代的高中生活，现在才正要开始。美妙的日子仍未结束，两人一同走过的日子还要一直继续。 ",
-    "score": 7,
-    "scored_by": 283,
-    "rank": 2668,
+    "mal_id": 236074,
+    "title": "闪亮美妙☆频道",
+    "title_japanese": "キラッとプリ☆チャン",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/99/92/236074_shlLQ.jpg",
+    "synopsis": "PRI☆CHAN！那是……\r\n不论任何人都能轻易开始，不论任何人都能成为偶像的梦幻频道！\r\n在闪耀又令人心动、只有自己的频道中担任制作，以大受欢迎的PRI☆CHAN偶像为目标，是女孩子们共有的梦想……\r\n\r\n绮罗里丘中学一年级的桃山未来和萌黄绘萌，由于对同校的人气PRI☆CHAN偶像·赤城杏菜的对抗意识，而顺势在PRI☆CHAN出道。\r\n\r\n她们将熟知PRI☆CHAN的优等生青叶铃花收为同伴，梦想成为顶级PRI☆CHAN偶像的3人开始了频道的创设……。 ",
+    "score": 6.2,
+    "scored_by": 98,
+    "rank": 5346,
     "popularity": 0,
-    "members": 999,
+    "members": 331,
     "genres": [
       "日常",
-      "校园",
-      "治愈",
       "百合",
-      "运动"
+      "音乐"
     ],
     "studios": [
-      "J.C.STAFF"
+      "タツノコプロ、DONGWOO A&E"
     ],
     "source": [
-      "天野こずえ（ブレイドコミックス／マッグガーデン刊）"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/229947"
-  },
-  {
-    "mal_id": 240459,
-    "title": "少年阿贝GO！GO！小芝麻 第三季",
-    "title_japanese": "少年アシベ GO!GO!ゴマちゃん 第3シリーズ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/6b/29/240459_5pgGh.jpg",
-    "synopsis": "小学１年生のアシベとゴマフアザラシのゴマちゃんが、家や学校、近所の人々と繰り広げるゆかいな日常を描いたアニメ「少年アシベ　GO!GO!ゴマちゃん」の、第3シリーズの放送が決定しました！",
-    "score": 5.8,
-    "scored_by": 6,
-    "rank": 0,
-    "popularity": 0,
-    "members": 28,
-    "genres": [],
-    "studios": [],
-    "source": [
-      "森下裕美「少年アシベ」"
-    ],
-    "aired_from": "2018-04-03",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/240459"
-  },
-  {
-    "mal_id": 227136,
-    "title": "鹿枫堂",
-    "title_japanese": "鹿楓堂よついろ日和",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/02/06/227136_iKxkz.jpg",
-    "synopsis": "这里是和风咖啡厅“鹿枫堂”\r\n店主·茶水担当的水，拿铁拉花担当的格雷，料理担当的世贵，甜点担当的椿。\r\n各自身怀绝技的4人经营的隐藏人气店。\r\n他们在“款待”客人的同时，偶尔还会解决客人的“烦恼”。\r\n以咖啡厅为舞台，完美的4人编织而成的真诚故事。\r\n好了，今天的客人是……？ ",
-    "score": 6.8,
-    "scored_by": 366,
-    "rank": 3273,
-    "popularity": 0,
-    "members": 956,
-    "genres": [
-      "日常",
-      "治愈"
-    ],
-    "studios": [],
-    "source": [
-      "清水ユウ（新潮社「月刊コミックパンチ」連載）"
-    ],
-    "aired_from": "2018-04-10",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/227136"
-  },
-  {
-    "mal_id": 229805,
-    "title": "3D彼女",
-    "title_japanese": "3D彼女 リアルガール",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/9e/07/229805_6bcTk.jpg",
-    "synopsis": "高中三年级的筒井光是所谓的御宅族少年。\r\n只要有游戏或动画里的二次元女生的话，感觉就能独自一人生活了……。\r\n但，他突然被超绝3D（现实）美少女·五十岚色叶告白，并开始和她交往！\r\n在被奔放的色叶玩弄于股掌之间的同时，筒井逐渐爱上了她……。",
-    "score": 5.7,
-    "scored_by": 833,
-    "rank": 8310,
-    "popularity": 0,
-    "members": 2283,
-    "genres": [
-      "日常",
-      "校园",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "那波マオ「3D彼女 リアルガール」（講談社「KCデザート」刊）"
-    ],
-    "aired_from": "2018-04-03",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/229805"
-  },
-  {
-    "mal_id": 231474,
-    "title": "桧曾根与间租谭",
-    "title_japanese": "ひそねとまそたん",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/40/81/231474_Qe54B.jpg",
-    "synopsis": "“我与你一同飞向天空。”\r\n甘粕桧曾根，是最近开始在航空自卫队岐阜基地任职的新人。\r\n过于率直而总是无意识地伤害他人，对此感到疲惫不堪的她，选择成为任期限定的自卫官。\r\n但，命运的邂逅彻底改变了她的人生。\r\n被秘藏在基地中、伪装成战斗机的龙选中了桧曾根，并和她一起飞向天空。\r\n就这样，搭乘“OTF（变态飞翔生命体）”的飞行要员，\r\n成为了桧曾根的工作。\r\n甚至能左右国家命运的龙，\r\n究竟隐藏着怎样的秘密呢……。 ",
-    "score": 6.9,
-    "scored_by": 934,
-    "rank": 2795,
-    "popularity": 0,
-    "members": 2226,
-    "genres": [
-      "喜剧",
-      "奇幻",
-      "爱情",
-      "百合",
-      "科幻"
-    ],
-    "studios": [
-      "BONES"
-    ],
-    "source": [
-      "BONES・樋口真嗣・岡田麿里"
-    ],
-    "aired_from": "2018-04-12",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/231474"
-  },
-  {
-    "mal_id": 241879,
-    "title": "WASIMO 第六季",
-    "title_japanese": "わしも-wasimo- 第6シリーズ",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/29/ad/241879_2uzku.jpg",
-    "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 14,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-02",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/241879"
-  },
-  {
-    "mal_id": 220312,
-    "title": "宅男腐女恋爱真难",
-    "title_japanese": "ヲタクに恋は難しい",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/65/a5/220312_ErRl1.jpg",
-    "synopsis": "桃濑成海是一个深藏腐女属性的OL，不过在情场上十分失意。 而二藤宏嵩是桃濑的青梅竹马，虽然是个彻头彻尾的死宅，但是长着一副英俊的面孔带着酷冷的形象。 在桃濑情场失意时作为青梅竹马的二藤迅速拉近了与桃濑的感情距离，一脸淡然的告白之后正式交往……",
-    "score": 6.6,
-    "scored_by": 5129,
-    "rank": 4532,
-    "popularity": 0,
-    "members": 11352,
-    "genres": [
-      "喜剧",
-      "日常",
-      "爱情",
-      "职场"
-    ],
-    "studios": [
-      "A-1 Pictures"
-    ],
-    "source": [
-      "ふじた（「comic POOL」連載／一迅社刊）"
-    ],
-    "aired_from": "2018-04-12",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/220312"
-  },
-  {
-    "mal_id": 225022,
-    "title": "宇宙战舰提拉米斯",
-    "title_japanese": "宇宙戦艦ティラミス",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/94/21/225022_UWYZz.jpg",
-    "synopsis": "地球是蓝的。哥俩是蠢的。\r\n在人类将生活领域和自身欲望扩张到宇宙的时代，寻求自由的人们移民到宇宙中居住，他们的睿智孕育出发达的文明，不知不觉转变为对地球的一种威胁。\r\n宇宙历0156年，地球联邦政府经历了与祖母星格兰地玛斯有史以来的第四次接触（4th note），也正是从这一年开始，联邦政府与【梅杜斯子民】之间的对抗正式拉开帷幕。\r\n战争永无止境，牺牲不断增加……\r\n为了打开战局，联邦政府派出一名英姿飒爽的青年加入战局。年轻人名叫斯巴鲁·一之濑，不仅长相帅气、成绩优异，而且是宇宙战舰【提拉米斯】的王牌驾驶员。\r\n全人类的希望都寄托在他的身上。\r\n——然而，他实际上是个难以融入提拉米斯舰内集体生活，整日将自己关在专用机“杜兰德尔”驾驶舱内的“窝里蹲”……",
-    "score": 6.3,
-    "scored_by": 1353,
-    "rank": 6297,
-    "popularity": 0,
-    "members": 2802,
-    "genres": [
-      "喜剧",
-      "机战",
-      "科幻"
-    ],
-    "studios": [
-      "GONZO"
-    ],
-    "source": [
-      "宮川サトシ、伊藤亰（新潮社「くらげバンチ」連載）"
-    ],
-    "aired_from": "2018-04-02",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/225022"
-  },
-  {
-    "mal_id": 185789,
-    "title": "闪电十一人 阿瑞斯的天平",
-    "title_japanese": "イナズマイレブン アレスの天秤",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/77/32/185789_jPBVp.jpg",
-    "synopsis": "居住在宁静的孤岛·伊那国岛的少年们，突然遭遇了足球部废部的危机。\r\n取回足球的条件是，在Football Frontier的比赛中取得一胜。主人公·稻森明日人等人离开了岛，进入雷门中学并向Football Frontier发起挑战。\r\n伊那国·雷门十一人初战的对手，是排名第一的“星章学园”…… ",
-    "score": 4.9,
-    "scored_by": 54,
-    "rank": 7834,
-    "popularity": 0,
-    "members": 167,
-    "genres": [
-      "运动"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-06",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/185789"
-  },
-  {
-    "mal_id": 239750,
-    "title": "做得很好！名作君 第三季",
-    "title_japanese": "あはれ！名作くん 第3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/39/2d/239750_0C0xC.jpg",
-    "synopsis": "むかしむかしあるところに数々の名作キャラを輩出する学校がありました。ある日「松田名作」というフツーの男の子が入学。超バカでハイテンションの「スウィーツ」、おにぎりと言われるとキレる「むすび」ナルシストで自称ロボの「ノキオ」、ブッとんだ亀の「ボルト」など、濃いクラスメイトに囲まれた名作くんは、立派な名作キャラとして卒業できるのでしょうか。",
-    "score": 5,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 18,
-    "genres": [],
-    "studios": [],
-    "source": [
-      "Pie in the sky"
-    ],
-    "aired_from": "2018-04-06",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/239750"
-  },
-  {
-    "mal_id": 219164,
-    "title": "鲁邦三世 PART5",
-    "title_japanese": "ルパン三世 PART5",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/42/54/219164_3976M.jpg",
-    "synopsis": "鲁邦三世与次元大介身处法国。故事在某处乡间小镇的公寓一室开始。\r\n包括毒品枪械等非法物资在内，任何物品都能购买的地下网站，“马可波罗”。为了盗取虚拟货币，鲁邦等人侵入了戒备森严的巨大服务器设施。他们在那里遇到了神秘的天才黑客少女，阿米。\r\n鲁邦和阿米一起正面应对马可波罗的陷阱，但由于敌人设置的“鲁邦游戏”，而落得被全世界监视的下场……\r\n阿米身上接连揭晓的谜团，以及知晓鲁邦三世过去的男人出现——\r\n鲁邦正陷入前所未有的绝境！ ",
-    "score": 7.4,
-    "scored_by": 757,
-    "rank": 1160,
-    "popularity": 0,
-    "members": 1757,
-    "genres": [
-      "冒险",
-      "动作",
-      "喜剧",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "モンキー・パンチ"
-    ],
-    "aired_from": "2018-04-03",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/219164"
-  },
-  {
-    "mal_id": 225819,
-    "title": "Butlers～千年百年物语～",
-    "title_japanese": "Butlers～千年百年物語～",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/65/5d/225819_HG9Z1.jpg",
-    "synopsis": "头脑聪明、眉清目秀，一个清爽的微笑就能虏获女生芳心的学生会长神宫司高马（Jay）。\r\n多才多艺、温柔敦厚，能够用拿铁咖啡画出猫头鹰，极受女性欢迎的咖啡店员羽早川翔（Hayakawa）。\r\n这二人，其实是穿越时空的命中宿敌？\r\n被称作“Butlers”的充满魅力的角色们所编织而成的异能战斗及喧闹学园喜剧终于开演！",
-    "score": 3.9,
-    "scored_by": 70,
-    "rank": 9218,
-    "popularity": 0,
-    "members": 293,
-    "genres": [
-      "奇幻",
-      "爱情",
-      "耽美"
-    ],
-    "studios": [],
-    "source": [
-      "「Intouchable Butlers」（SummerACG）"
-    ],
-    "aired_from": "2018-04-11",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/225819"
-  },
-  {
-    "mal_id": 219779,
-    "title": "魔性之线DEVIL'S LINE",
-    "title_japanese": "デビルズライン",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/94/bc/219779_81F01.jpg",
-    "synopsis": "鬼与人共存的世界——每当两人的心灵靠近，名为鬼的存在就分开他们的距离。\r\n等着两人的命运，以及“鬼”是——。\r\n\r\n鬼与人，描绘究极之爱的本作，于此出动！ ",
-    "score": 5.1,
-    "scored_by": 381,
-    "rank": 9059,
-    "popularity": 0,
-    "members": 1124,
-    "genres": [
-      "动作",
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "花田陵「デビルズライン」（モーニング・ツー / 講談社）"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/219779"
-  },
-  {
-    "mal_id": 416313,
-    "title": "反斗小王子 第21季",
-    "title_japanese": "おじゃる丸 第21シリーズ",
-    "image_url": "",
-    "synopsis": "",
-    "score": 6,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 5,
-    "genres": [],
-    "studios": [
-      "ぎゃろっぷ",
-      "NHK、NHKエンタープライズ"
-    ],
-    "source": [],
-    "aired_from": "2018-04-04",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/416313"
-  },
-  {
-    "mal_id": 143694,
-    "title": "银河英雄传说 Die Neue These 邂逅",
-    "title_japanese": "銀河英雄伝説 Die Neue These 邂逅",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ba/ed/143694_Mb76T.jpg",
-    "synopsis": "数千年后的未来，进入宇宙空间的人类，被分为银河帝国与自由行星同盟这两个拥有“专制政治”与“民主主义”两种不同政治体制的国家。两国之间的抗争持续了150年，以无边无际的广袤银河为舞台，重复着无止境的战斗银河帝国的门阀贵族社会的腐败，以及自由行星同盟可称为民主主义的弊端的群愚政治侵蚀着两个国家。之后，宇宙历8世纪末，两位天才的登场驱动了历史。“常胜的天才”莱因哈特·冯·罗严克拉姆，以及人称“不败的魔术师”的杨威利。两人率领着帝国军与同盟军，展开了不知道是第几次的冲突。 ",
-    "score": 7.4,
-    "scored_by": 1779,
-    "rank": 1115,
-    "popularity": 0,
-    "members": 3903,
-    "genres": [
-      "动作",
-      "战争",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "田中芳樹（東京創元社刊）"
-    ],
-    "aired_from": "2018-04-03",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/143694"
-  },
-  {
-    "mal_id": 189984,
-    "title": "冷然之天秤",
-    "title_japanese": "ニル・アドミラリの天秤",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/ca/0d/189984_sR7a5.jpg",
-    "synopsis": "故事发生在大正25年。帝都东京。\r\n正当华族出生的久世鸫为守护没落家族决意联姻时，弟弟久世鹟却被卷入被称作“稀有之物”、会对读者产生巨大影响的书所引起的事件之中。\r\n鸫以此为契机，能够看见被称为“灵韵”的、稀有之物所散发出的寄居者的情感，此时，“帝国图书情报资产管理局”（通称“鸱鸺”）的人出现在困惑的鸫面前。他们是保护·管理“稀有之物”的组织，并委托鸫协助调查“稀有之物”。鸫虽然犹豫，却还是决定参与“鸱鸺”，展开对“稀有之物”的调查活动——\r\n这是一部讲述一位命运如天秤般摇摆不定的少女的故事。",
-    "score": 5.7,
-    "scored_by": 222,
-    "rank": 7688,
-    "popularity": 0,
-    "members": 722,
-    "genres": [
-      "奇幻",
-      "爱情"
-    ],
-    "studios": [],
-    "source": [
-      "「ニル・アドミラリの天秤 帝都幻惑奇譚」オトメイト（アイディアファクトリー）"
+      "タカラトミーアーツ／シンソフィア"
     ],
     "aired_from": "2018-04-08",
     "year": 2018,
@@ -1932,7 +1226,63 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/189984"
+    "url": "https://bgm.tv/subject/236074"
+  },
+  {
+    "mal_id": 226734,
+    "title": "多田君不恋爱",
+    "title_japanese": "多田くんは恋をしない",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/05/f6/226734_Xgrmb.jpg",
+    "synopsis": "手持相机，拍摄盛开樱花照片的多田光良，与刚刚从异国他乡来到日本的少女特蕾莎·瓦格纳相遇了。从欧洲的拉森堡来到日本留学的特蕾莎，刚一到达日本，就和一起过来的伙伴走散而迷路了。由此而开始帮助她的光良，将特蕾莎带到了祖父经营的多田咖啡店……",
+    "score": 6.3,
+    "scored_by": 2498,
+    "rank": 6373,
+    "popularity": 0,
+    "members": 5792,
+    "genres": [
+      "喜剧",
+      "日常",
+      "校园",
+      "治愈",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "羽矢浪好貴"
+    ],
+    "aired_from": "2018-04-05",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/226734"
+  },
+  {
+    "mal_id": 228259,
+    "title": "苍天之拳 REGENESIS",
+    "title_japanese": "蒼天の拳 REGENESIS",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/2a/eb/228259_20MKT.jpg",
+    "synopsis": "『蒼天の拳』は、北斗1800年の歴史上、最も奔放苛烈で最強と呼ばれた”第62代北斗神拳伝承者・霞拳志郎”の物語。そんな『蒼天の拳』が、原作者・原哲夫の監修の元、新たにTVアニメで蘇る！\r\nその名は『蒼天の拳REGENESIS』!!\r\n最強の北斗神拳伝承者・霞拳志郎の生き様を、目撃せよ!!",
+    "score": 5.5,
+    "scored_by": 155,
+    "rank": 7885,
+    "popularity": 0,
+    "members": 450,
+    "genres": [
+      "动作"
+    ],
+    "studios": [],
+    "source": [
+      "漫画『蒼天の拳』（原哲夫・堀江信彦 監修：武論尊）"
+    ],
+    "aired_from": "2018-04-09",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/228259"
   },
   {
     "mal_id": 241967,
@@ -1942,9 +1292,9 @@
     "synopsis": "正義と悪の共同生活！？\r\n\r\nどこにでもいる小学校の同級生4人組。\r\n彼らは小学校卒業後に色々あり…ヒーロー、ダークヒーロー、怪人、怪獣となり、\r\nある日、遂に敵同士として相対することとなる。\r\n壮絶な戦いの果てにそれぞれの正体を知った彼らは、\r\n本来は殺し合わなければならない関係であるにも関わらず、\r\n友情を選び、各組織の目をかいくぐり、ひとつ屋根の下でこっそりと共同生活を始める。\r\n予期せぬゲスト（幽霊、ヒロイン、UMA等）が訪れたりもする面白おかしいドタバタな暮らしの中で、\r\n彼らは話し合い、時に喧嘩をし、ガス抜きをしながら、避けられぬ戦いへと赴いていく―――",
     "score": 6.6,
     "scored_by": 55,
-    "rank": 3287,
+    "rank": 3292,
     "popularity": 0,
-    "members": 145,
+    "members": 146,
     "genres": [],
     "studios": [
       "テレビ東京、ILCA"
@@ -1959,31 +1309,177 @@
     "url": "https://bgm.tv/subject/241967"
   },
   {
-    "mal_id": 233608,
-    "title": "甜心战士Universe",
-    "title_japanese": "Cutie Honey Universe",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/98/88/233608_oJztO.jpg",
-    "synopsis": "如月甜心，是就读于圣查贝尔学园的女高中生，但她的真实身份却是天才科学家·如月博士所制造的美少女机器人，爱的战士Cutie Honey。\r\n甜心为了抓捕神秘的秘密结社豹爪，而和对豹爪搜查官一同展开行动。\r\n但豹爪的干部西斯塔吉尔却使用了化名潜入。\r\n甜心不知她是敌人，一直单纯地相信着西斯塔吉尔…… ",
-    "score": 4.7,
-    "scored_by": 138,
-    "rank": 9116,
+    "mal_id": 212003,
+    "title": "赛马娘 Pretty Derby",
+    "title_japanese": "ウマ娘 プリティーダービー",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/91/c0/212003_pPk1M.jpg",
+    "synopsis": "这是从异世界传承下光辉的姓名与竞跑能力的“马娘”、自久以来与人类共存着的世界的故事。\r\n从乡下转学到大都市的训中学园的马娘·特别周，与同学们互相切磋、赌上“日本第一马娘”的称号，目标：在“Twinkle系列”中的胜利！",
+    "score": 7,
+    "scored_by": 10886,
+    "rank": 2621,
     "popularity": 0,
-    "members": 494,
+    "members": 22223,
     "genres": [
-      "爱情",
-      "百合"
+      "励志",
+      "喜剧",
+      "日常",
+      "校园",
+      "治愈",
+      "百合",
+      "运动",
+      "音乐"
     ],
     "studios": [],
     "source": [
-      "永井豪「キューティーハニー」"
+      "Cygames"
     ],
-    "aired_from": "2018-04-08",
+    "aired_from": "2018-04-01",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/233608"
+    "url": "https://bgm.tv/subject/212003"
+  },
+  {
+    "mal_id": 241031,
+    "title": "我们是妖怪人间G",
+    "title_japanese": "俺たちゃ妖怪人間G",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/2e/b7/241031_Z8C00.jpg",
+    "synopsis": "頑張ってはきたものの人間になれない妖怪人間たちが原点回帰してもう一度細胞からやり直そうと決心。フラスコの中でふにゃふにゃの細胞に戻り、現代の流行や社会現象に独自のピュァな視点で切り込みを入れ、人間を研究してい〈という荒唐無稽のCGア二メだ。現代の基礎知識を手に入れた細胞たちはどのような変化を遂げるのか!? さらに出演者が描いたイラス卜がア二メになつて登場するシ一ンもアリ!!\r\n\r\n\r\n放送50周年プロジェクト第2弾。\r\n\r\n2018年4月4日开始，2006年动画「妖怪人間ベム -HUMANOID MONSTER BEM-」再放送同时放送得新作动画。",
+    "score": 5,
+    "scored_by": 2,
+    "rank": 0,
+    "popularity": 0,
+    "members": 24,
+    "genres": [
+      "奇幻"
+    ],
+    "studios": [
+      "DLE、NAS",
+      "DLE"
+    ],
+    "source": [
+      "アサツー ディ・ケイ"
+    ],
+    "aired_from": "2018-04-04",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/241031"
+  },
+  {
+    "mal_id": 150246,
+    "title": "全金属狂潮 Invisible Victory",
+    "title_japanese": "フルメタル・パニック! Invisible Victory",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/66/5d/150246_fcg4u.jpg",
+    "synopsis": "打倒了敌人“汞合金”的九龙、盖茨等强敌，恢复了以往和平日常的“阵代高中”。\r\n但，这样的日子并未延续多久……。\r\n持续失态的“汞合金”开始正式向相良宗介等人发动袭击。\r\n世界各地的“秘银”基地遭到强袭！\r\n泰莎率领的Tuatha de Danaan所容身的“美利达岛”也遭到大量导弹、强袭机兵的攻击。\r\n另一方面，魔手也正在逼近日本的宗介与要！！\r\n宗介、要、泰莎等人，再度面临试炼！！！",
+    "score": 7,
+    "scored_by": 2187,
+    "rank": 2397,
+    "popularity": 0,
+    "members": 5145,
+    "genres": [
+      "动作",
+      "机战",
+      "校园",
+      "爱情",
+      "科幻"
+    ],
+    "studios": [],
+    "source": [
+      "賀東招二「フルメタル・パニック！」（ファンタジア文庫 / KADOKAWA）"
+    ],
+    "aired_from": "2018-04-13",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/150246"
+  },
+  {
+    "mal_id": 231971,
+    "title": "霸旋陀螺 爆刃对决 超Z",
+    "title_japanese": "ベイブレード バースト 超ゼツ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/28/c2/231971_68804.jpg",
+    "synopsis": "赤刃アイガは豊かな自然の中で育った超野性児。\r\n世界チャンピオン蒼井バルトとのベイバトルに刺激を受けたアイガは、\r\n超ゼツベイ・ゼットアキレスと共に\r\n最強無敵のブレーダーを目指すようになる。\r\nもっと強い相手と戦って、もっと強くなりたい。\r\nアイガは、世界タイトルマッチの挑戦権を得てバルトを倒すために、\r\n世界へと飛び出す。\r\n\r\n今ここに赤刃アイガの\r\n冒険と挑戦の日々が始まる。",
+    "score": 5.6,
+    "scored_by": 10,
+    "rank": 0,
+    "popularity": 0,
+    "members": 38,
+    "genres": [],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/231971"
+  },
+  {
+    "mal_id": 221062,
+    "title": "女神异闻录5",
+    "title_japanese": "PERSONA5 the Animation",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/e9/da/221062_UxRu1.jpg",
+    "synopsis": "高二的春天，雨宫莲转学进了东京的「秀尽学园」。\r\n因某事为契机而觉醒为“Persona”使用者的莲，与新认识的伙伴们组建了「心之怪盗团」。怪盗团员们去盗走陷进罪恶欲望之中的成年人们的“扭曲欲望”，让成年人们洗心革面。\r\n同时，难以让人理解的“精神暴走事件”在城市中的各个角落接连发生……。\r\n以大都市“东京”为舞台，一边是身为享受日常生活的高中生、一边是放学后身为「心之怪盗团」的暗地活跃——。\r\n壮大的恶汉罗曼故事，就此一触即发！",
+    "score": 6,
+    "scored_by": 3075,
+    "rank": 7471,
+    "popularity": 0,
+    "members": 7228,
+    "genres": [
+      "动作",
+      "奇幻",
+      "校园"
+    ],
+    "studios": [],
+    "source": [
+      "「ペルソナ5」（アトラス）"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/221062"
+  },
+  {
+    "mal_id": 232165,
+    "title": "立花馆恋爱三角铃",
+    "title_japanese": "立花館To Lieあんぐる",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/57/d0/232165_82x25.jpg",
+    "synopsis": "福利后宫漫的主人公是女孩子！？\r\n\r\n随着升入高中而回到暌违6年的乡下城镇。\r\n从时尚设计风的宿舍“橘馆”优雅地去上学……\r\n本来是这么想的，却由于出了差错而沦落到入住破旧公寓“立花馆”的夏乃花火。\r\n入住立花馆第一天就遭遇到神秘全裸美少女，\r\n偶然目击到年长大姐姐的羞人之处，\r\n凝视不知为何与自己针锋相对的青梅竹马的羞人之处。\r\n……完、完全没有觉得“幸运♪”什么的！ ",
+    "score": 5.7,
+    "scored_by": 666,
+    "rank": 8430,
+    "popularity": 0,
+    "members": 1920,
+    "genres": [
+      "后宫",
+      "喜剧",
+      "日常",
+      "百合"
+    ],
+    "studios": [
+      "Creators in pack／スタジオリングス"
+    ],
+    "source": [
+      "merryhachi（一迅社刊「コミック百合姫」連載）"
+    ],
+    "aired_from": "2018-04-03",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/232165"
   },
   {
     "mal_id": 302446,
@@ -2018,10 +1514,10 @@
     "image_url": "https://lain.bgm.tv/pic/cover/l/10/46/211581_sl1HW.jpg",
     "synopsis": "凡田夏之介是一名高中毕业就加入职棒，年薪1800万的选手，靠著左侧投这项独特的武器，他即使混得不上不下，仍有口饭吃。在他眼中，职棒选手都是可以用钱去衡量的！年薪就代表着职棒选手的地位，即使当季表现再良好的选手，只要年薪不如自己，仍会被凡田瞧不起。透过这平凡的职棒选手，职棒不为人知的另外一面即将被揭露！",
     "score": 7,
-    "scored_by": 815,
-    "rank": 2511,
+    "scored_by": 818,
+    "rank": 2521,
     "popularity": 0,
-    "members": 1720,
+    "members": 1728,
     "genres": [
       "喜剧",
       "职场",
@@ -2040,24 +1536,29 @@
     "url": "https://bgm.tv/subject/211581"
   },
   {
-    "mal_id": 203812,
-    "title": "失忆融合WIXOSS",
-    "title_japanese": "Lostorage conflated WIXOSS",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/1e/aa/203812_oiwwI.jpg",
-    "synopsis": "「闇は終わらない」束の間の平和な日々に、再びセレクターバトルの影が忍び寄る―――異変にいち早く気づいた水嶋清衣は、闇の連鎖に終止符を打つべく、動き出す今回のバトルに加わる、新しいカード“鍵”（ルビ：キー）今までとは違う、仕組まれたルール首謀者も目的も謎に包まれたまま、闇は次第に深くなっていく穂村すず子、森下千夏、御影はんな、小湊るう子、紅林遊月、植村一衣、蒼井晶・・・ふたたび集結する少女（ルビ：セレクター）たち“願い”と“記憶”、そして“鍵”すべてを懸けた最後のバトルが今はじまる・・・！",
-    "score": 6.4,
-    "scored_by": 510,
-    "rank": 5652,
+    "mal_id": 225021,
+    "title": "魔法少女网站",
+    "title_japanese": "魔法少女サイト",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/11/76/225021_bU822.jpg",
+    "synopsis": "看来这个网站似乎只会与不幸的人相遇。所以她们才被选中了——。\r\n在任何地方都没有容身之所的她，总是想着去死。在学校遭受同班同学欺凌，在家里忍受哥哥虐待的每一天。\r\n朝雾彩。初中2年级。14岁。某天，她发现了诡异的网站“魔法少女网站”，并获得了隐藏魔法之力的“魔杖”。\r\n彩通过获得魔法之力，而与同样持有魔杖的同班同学奴村露乃以及其他“魔法少女”一同，被卷入了残酷的命运当中。\r\n这是，获得魔法之力的不幸少女们的，友情与青春，以及改变命运的战斗记录。 ",
+    "score": 5.6,
+    "scored_by": 1969,
+    "rank": 8657,
     "popularity": 0,
-    "members": 1382,
+    "members": 4821,
     "genres": [
       "动作",
       "奇幻",
-      "百合"
+      "悬疑",
+      "校园",
+      "百合",
+      "致郁"
     ],
-    "studios": [],
+    "studios": [
+      "production dóA"
+    ],
     "source": [
-      "LRIG"
+      "佐藤健太郎『魔法少女サイト』（秋田書店「週刊少年チャンピオン」連載）"
     ],
     "aired_from": "2018-04-06",
     "year": 2018,
@@ -2065,39 +1566,352 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/203812"
+    "url": "https://bgm.tv/subject/225021"
   },
   {
-    "mal_id": 236103,
-    "title": "道口时间",
-    "title_japanese": "踏切時間",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f4/c7/236103_kuvkS.jpg",
-    "synopsis": "“当当当当……！”某处的“平交道”今天也降下栏杆，阻挡住某人的步伐。围绕着在“平交道”等待的时间展开的青春、情欲、艺术、初恋……etc。平交道时间的日常系短篇故事集！ ",
-    "score": 6.7,
-    "scored_by": 1905,
-    "rank": 3975,
+    "mal_id": 240459,
+    "title": "少年阿贝GO！GO！小芝麻 第三季",
+    "title_japanese": "少年アシベ GO!GO!ゴマちゃん 第3シリーズ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/6b/29/240459_5pgGh.jpg",
+    "synopsis": "小学１年生のアシベとゴマフアザラシのゴマちゃんが、家や学校、近所の人々と繰り広げるゆかいな日常を描いたアニメ「少年アシベ　GO!GO!ゴマちゃん」の、第3シリーズの放送が決定しました！",
+    "score": 5.8,
+    "scored_by": 6,
+    "rank": 0,
     "popularity": 0,
-    "members": 4296,
-    "genres": [
-      "喜剧",
-      "日常",
-      "治愈",
-      "爱情",
-      "百合"
-    ],
-    "studios": [
-      "EKACHI EPILKA"
-    ],
+    "members": 28,
+    "genres": [],
+    "studios": [],
     "source": [
-      "里好「踏切時間」（双葉社・月刊アクション連載中）"
+      "森下裕美「少年アシベ」"
     ],
-    "aired_from": "2018-04-09",
+    "aired_from": "2018-04-03",
     "year": 2018,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/236103"
+    "url": "https://bgm.tv/subject/240459"
+  },
+  {
+    "mal_id": 229805,
+    "title": "3D彼女",
+    "title_japanese": "3D彼女 リアルガール",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/9e/07/229805_6bcTk.jpg",
+    "synopsis": "高中三年级的筒井光是所谓的御宅族少年。\r\n只要有游戏或动画里的二次元女生的话，感觉就能独自一人生活了……。\r\n但，他突然被超绝3D（现实）美少女·五十岚色叶告白，并开始和她交往！\r\n在被奔放的色叶玩弄于股掌之间的同时，筒井逐渐爱上了她……。",
+    "score": 5.7,
+    "scored_by": 839,
+    "rank": 8359,
+    "popularity": 0,
+    "members": 2321,
+    "genres": [
+      "日常",
+      "校园",
+      "治愈",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "那波マオ「3D彼女 リアルガール」（講談社「KCデザート」刊）"
+    ],
+    "aired_from": "2018-04-03",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/229805"
+  },
+  {
+    "mal_id": 233608,
+    "title": "甜心战士Universe",
+    "title_japanese": "Cutie Honey Universe",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/98/88/233608_oJztO.jpg",
+    "synopsis": "如月甜心，是就读于圣查贝尔学园的女高中生，但她的真实身份却是天才科学家·如月博士所制造的美少女机器人，爱的战士Cutie Honey。\r\n甜心为了抓捕神秘的秘密结社豹爪，而和对豹爪搜查官一同展开行动。\r\n但豹爪的干部西斯塔吉尔却使用了化名潜入。\r\n甜心不知她是敌人，一直单纯地相信着西斯塔吉尔…… ",
+    "score": 4.7,
+    "scored_by": 139,
+    "rank": 9183,
+    "popularity": 0,
+    "members": 500,
+    "genres": [
+      "爱情",
+      "百合"
+    ],
+    "studios": [],
+    "source": [
+      "永井豪「キューティーハニー」"
+    ],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/233608"
+  },
+  {
+    "mal_id": 226986,
+    "title": "雷顿 神秘侦探社～卡托莉的解谜档案～",
+    "title_japanese": "レイトン ミステリー探偵社～カトリーのナゾトキファイル～",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d1/41/226986_szP3i.jpg",
+    "synopsis": "“不论何种谜团都全部解明，这就是我雷顿侦探社的宗旨。”\r\n雷顿教授的女儿卡特莉艾尔·雷顿，和会说话的狗夏洛以及助手诺亚一起经营雷顿侦探社，每天都在解决发生在伦敦的不可思议事件。原本为了寻找突然失踪的父亲艾尔夏尔·雷顿而开始的这份工作，但利用各种异想天开的想法来解谜却逐渐成为了话题，并开始迎来各种委托。 ",
+    "score": 6.8,
+    "scored_by": 227,
+    "rank": 3411,
+    "popularity": 0,
+    "members": 868,
+    "genres": [
+      "喜剧",
+      "悬疑",
+      "日常"
+    ],
+    "studios": [],
+    "source": [
+      "「レイトン」シリーズ（レベルファイブ）"
+    ],
+    "aired_from": "2018-04-08",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/226986"
+  },
+  {
+    "mal_id": 237838,
+    "title": "黒猫モンロヲ",
+    "title_japanese": "黒猫モンロヲ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/9a/4f/237838_bKb3g.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 17,
+    "genres": [],
+    "studios": [
+      "黒猫モンロヲ製作委員会"
+    ],
+    "source": [
+      "ヨシヤス"
+    ],
+    "aired_from": "2018-04-17",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/237838"
+  },
+  {
+    "mal_id": 239747,
+    "title": "キャラとおたまじゃくし島",
+    "title_japanese": "キャラとおたまじゃくし島",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/33/d5/239747_KmO6e.jpg",
+    "synopsis": "「ファイナル・ファンタジー」（l～lll）の原作、脚本を手がけた寺田憲史、そして豊かな色彩感覚と斬新なデザインで“ハンドトーク“を表現する“絵描き”、門 秀彦が描く、ハートフルで奇想天外なファンタジー･アドベンチャーアニメが、4月2日（月）に放送スタート！\r\n\r\n3月30日（金）前 0:30（木曜深夜）NHK・E 先行放送 １～５ 話\r\n\r\nかつて音楽の神が棲む島と言われた「おたまじゃくし島」。\r\n自然の風物がいつも心地いい“音楽”を奏で、生き物たちはそれを酸素のように吸って、生命のエネルギーとしてきた。その“音楽エネルギー”で生まれたのが、体の一部が楽器の、“ガッキアニマル”。\r\n\r\n彼らの奏でる音楽が風で天に舞いあがると、神々しく共鳴し合い、圧倒的な生命のエネルギーが島に降り注がれるのだった。しかし、突如あらわれた“魔女”によって、その平和な空気と調和は大きくゆがめられ、不安が島をおおい包む…。\r\n\r\nそこに、一人の少女戦士がおりたつ。彼女の名前は、“キャラ”。\r\n\r\nまっすぐで好奇心旺盛、正義感にあふれるキャラは、世話焼きで、でもちょっと狡猾なガッキアニマル、“カタカタ”とともに、聖なる音楽のエネルギーをとりもどすための冒険に出る。カラフルな個性の生き物たちと、言葉を超えたコミュニケーションでつながり、心を通わせる中で、島にひそむ謎をひとつひとつ解きあかしていく。\r\n\r\n果たしてキャラは魔女を倒し、この島を再び音楽で満たすことができるのか？！",
+    "score": 5,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 16,
+    "genres": [],
+    "studios": [
+      "33コレクティブ"
+    ],
+    "source": [
+      "門秀彦"
+    ],
+    "aired_from": "2018-04-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/239747"
+  },
+  {
+    "mal_id": 416313,
+    "title": "反斗小王子 第21季",
+    "title_japanese": "おじゃる丸 第21シリーズ",
+    "image_url": "",
+    "synopsis": "",
+    "score": 6,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 5,
+    "genres": [],
+    "studios": [
+      "ぎゃろっぷ",
+      "NHK、NHKエンタープライズ"
+    ],
+    "source": [],
+    "aired_from": "2018-04-04",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/416313"
+  },
+  {
+    "mal_id": 220312,
+    "title": "宅男腐女恋爱真难",
+    "title_japanese": "ヲタクに恋は難しい",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/65/a5/220312_ErRl1.jpg",
+    "synopsis": "桃濑成海是一个深藏腐女属性的OL，不过在情场上十分失意。 而二藤宏嵩是桃濑的青梅竹马，虽然是个彻头彻尾的死宅，但是长着一副英俊的面孔带着酷冷的形象。 在桃濑情场失意时作为青梅竹马的二藤迅速拉近了与桃濑的感情距离，一脸淡然的告白之后正式交往……",
+    "score": 6.6,
+    "scored_by": 5207,
+    "rank": 4531,
+    "popularity": 0,
+    "members": 11639,
+    "genres": [
+      "喜剧",
+      "日常",
+      "爱情",
+      "职场"
+    ],
+    "studios": [
+      "A-1 Pictures"
+    ],
+    "source": [
+      "ふじた（「comic POOL」連載／一迅社刊）"
+    ],
+    "aired_from": "2018-04-12",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/220312"
+  },
+  {
+    "mal_id": 148481,
+    "title": "东京喰种:re",
+    "title_japanese": "東京喰種トーキョーグール：re",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/eb/20/148481_v7x7A.jpg",
+    "synopsis": "混杂于群众之中，以人类的肉为食。拥有人类的形态，却与人类不同的存在……“喰种”。\r\n对“喰种”进行驱逐、研究的CCG，为了达成某个命题，而新设了实验体集团。\r\n——其名为“Quinx”。\r\n并非“正经人类”的他们，与佐佐木琲世一等搜查官一起在“东京”面对的事物究竟是——！？\r\n描绘《东京食尸鬼√A》2年后的新章《东京食尸鬼:re》终于启动。 ",
+    "score": 5.5,
+    "scored_by": 4576,
+    "rank": 8887,
+    "popularity": 0,
+    "members": 10006,
+    "genres": [
+      "动作",
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [
+      "石田スイ（集英社「週刊ヤングジャンプ」連載）"
+    ],
+    "aired_from": "2018-04-03",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/148481"
+  },
+  {
+    "mal_id": 225631,
+    "title": "黑社会的超能力女儿",
+    "title_japanese": "ヒナまつり",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/11/f9/225631_0p0sS.jpg",
+    "synopsis": "支持着芦川组的年轻智力型黑道新田义史，过着被喜欢的壶所包围的悠然自得单身生活。但某一天，随着装在神秘物体里的少女雏来到他家，他的生活为之一变。他被能使用念动力的雏所胁迫，迫不得已开始和她同居！\r\n容易暴走的雏，不论在组里还是在学校都为所欲为。新田为此头痛不已，但由于自己那老好人的性格而陷入总是要照顾她的境地。究竟这种生活会变得怎样呢？\r\n老好人不法之徒与任性超能力少女的危险而热闹的日常开始了！",
+    "score": 7.2,
+    "scored_by": 9103,
+    "rank": 1894,
+    "popularity": 0,
+    "members": 17806,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "日常",
+      "治愈"
+    ],
+    "studios": [],
+    "source": [
+      "大武政夫（『ヒナまつり』／KADOKAWA刊）"
+    ],
+    "aired_from": "2018-04-06",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/225631"
+  },
+  {
+    "mal_id": 241475,
+    "title": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン5",
+    "title_japanese": "ポンコツクエスト〜魔王と派遣の魔物たち〜 シーズン5",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/29/2b/241475_h99Th.jpg",
+    "synopsis": "BS11 每月第二个星期三放送",
+    "score": 8,
+    "scored_by": 3,
+    "rank": 0,
+    "popularity": 0,
+    "members": 18,
+    "genres": [],
+    "studios": [
+      "バップ",
+      "Pie in the sky"
+    ],
+    "source": [],
+    "aired_from": "2018-04-11",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/241475"
+  },
+  {
+    "mal_id": 241879,
+    "title": "WASIMO 第六季",
+    "title_japanese": "わしも-wasimo- 第6シリーズ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/29/ad/241879_2uzku.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 14,
+    "genres": [],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/241879"
+  },
+  {
+    "mal_id": 240778,
+    "title": "香蕉怪大叔 呐呐~呐",
+    "title_japanese": "テレビ野郎 ナナーナ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5d/68/240778_7pszl.jpg",
+    "synopsis": "",
+    "score": 6.4,
+    "scored_by": 27,
+    "rank": 0,
+    "popularity": 0,
+    "members": 67,
+    "genres": [
+      "喜剧"
+    ],
+    "studios": [
+      "studio crocodille"
+    ],
+    "source": [],
+    "aired_from": "2018-04-06",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/240778"
   },
   {
     "mal_id": 240383,
@@ -2126,237 +1940,16 @@
     "url": "https://bgm.tv/subject/240383"
   },
   {
-    "mal_id": 242978,
-    "title": "未来卡 神搭档对战",
-    "title_japanese": "フューチャーカード 神バディファイト",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/78/e2/242978_Zz4aA.jpg",
-    "synopsis": "",
-    "score": 6.2,
-    "scored_by": 6,
-    "rank": 0,
-    "popularity": 0,
-    "members": 32,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-06-02",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/242978"
-  },
-  {
-    "mal_id": 109956,
-    "title": "魔法少女俺",
-    "title_japanese": "魔法少女 俺",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/2d/0e/109956_b1Bnb.jpg",
-    "synopsis": "“恋爱，使少女变强。”\r\n在新生偶像组合·Magical Twin每日每夜努力展开演艺活动的卯野咲。\r\n她所爱慕之人，是组合成员樱世的哥哥，顶级偶像组合·STAR☆PRINCE的御翔桃拾。\r\n只要是为了他，什么都可以做到。这样的心意，引发了奇迹！\r\n由于“想要守护重要之人”的这一愿望，而变身成魔法少女的咲。\r\n但是，那种姿态却超出她的预想……",
-    "score": 5.8,
-    "scored_by": 1538,
-    "rank": 8198,
-    "popularity": 0,
-    "members": 3807,
-    "genres": [
-      "动作",
-      "喜剧",
-      "奇幻",
-      "日常",
-      "百合",
-      "音乐"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": "2018-04-02",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/109956"
-  },
-  {
-    "mal_id": 226750,
-    "title": "刀剑神域外传 Gun Gale Online",
-    "title_japanese": "ソードアート・オンライン オルタナティブ ガンゲイル・オンライン",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/29/40/226750_3fW9q.jpg",
-    "synopsis": "在枪与钢铁的世界“Gun Gale Online”享受着单人游戏的女性玩家·莲。喜欢可爱事物的她，全身清一色的粉红色装备，不断累积游戏经验，并逐渐增强实力。之后，由于某件事而对于PK（玩家狩猎）觉醒了兴趣的莲沉迷于PK中，并终于到达被人称作“粉红恶魔”的地步。\r\n这样的莲，与神秘的美女玩家·Pitohui相遇，并和她意气相投。莲按照她所说的，参加了小队作战活动“特攻强袭”。 ",
-    "score": 6.5,
-    "scored_by": 4726,
-    "rank": 5133,
-    "popularity": 0,
-    "members": 10390,
-    "genres": [
-      "动作",
-      "奇幻",
-      "百合",
-      "科幻",
-      "萌系"
-    ],
-    "studios": [],
-    "source": [
-      "時雨沢恵一（電撃文庫刊）"
-    ],
-    "aired_from": "2018-04-07",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/226750"
-  },
-  {
-    "mal_id": 150246,
-    "title": "全金属狂潮 Invisible Victory",
-    "title_japanese": "フルメタル・パニック! Invisible Victory",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/66/5d/150246_fcg4u.jpg",
-    "synopsis": "打倒了敌人“汞合金”的九龙、盖茨等强敌，恢复了以往和平日常的“阵代高中”。\r\n但，这样的日子并未延续多久……。\r\n持续失态的“汞合金”开始正式向相良宗介等人发动袭击。\r\n世界各地的“秘银”基地遭到强袭！\r\n泰莎率领的Tuatha de Danaan所容身的“美利达岛”也遭到大量导弹、强袭机兵的攻击。\r\n另一方面，魔手也正在逼近日本的宗介与要！！\r\n宗介、要、泰莎等人，再度面临试炼！！！",
-    "score": 7,
-    "scored_by": 2173,
-    "rank": 2374,
-    "popularity": 0,
-    "members": 5106,
-    "genres": [
-      "动作",
-      "机战",
-      "校园",
-      "爱情",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "賀東招二「フルメタル・パニック！」（ファンタジア文庫 / KADOKAWA）"
-    ],
-    "aired_from": "2018-04-13",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/150246"
-  },
-  {
-    "mal_id": 219377,
-    "title": "甜甜私房猫 吃饱啦大旅行",
-    "title_japanese": "こねこのチー ポンポンらー大旅行",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/cd/27/219377_sffnn.jpg",
-    "synopsis": "フランスで開催中の日本文化の祭典「Japan Expo 2017」にて、『こねこのチー』3DCG版アニメの第2期制作決定を発表いたしました。\r\n\r\nやんちゃな子猫のチーは今日も元気いっぱい、楽しく暮らしています。友達のコッチ、アン、テリーと一緒に公園で遊んだり、イタズラしたり、秘密の遊び場を見つけたり……。新しいキャラクターやステージが登場し、ますますパワーアップした新シリーズ！ノラ子猫のコッチが見知らぬ町へ旅に出る番外編も収録！",
-    "score": 6.4,
-    "scored_by": 26,
-    "rank": 0,
-    "popularity": 0,
-    "members": 80,
-    "genres": [
-      "萌系"
-    ],
-    "studios": [],
-    "source": [
-      "こなみかなた（講談社「モーニング」所載）"
-    ],
-    "aired_from": "2018-04-08",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/219377"
-  },
-  {
-    "mal_id": 227718,
-    "title": "MEGALO BOX",
-    "title_japanese": "メガロボクス",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/50/29/227718_50fU0.jpg",
-    "synopsis": "将肉体与“外骨骼技术”融合的究极格斗技——“MEGALO BOX”，将自己的全部赌在上面的男人们的热血战斗开始！\r\n今天也立于未认可地区的赌博比赛赛场上的MEGALO拳击手“Junk Dog”。虽然具备实力，却只有靠比赛造假赚钱这一条生存之道，他为自己的“现在”感到心焦。\r\n但，他与孤高的冠军·勇利相遇，作为MEGALO拳击手，作为男人，向自己的“现在”发起挑战——。 ",
-    "score": 7.6,
-    "scored_by": 8809,
-    "rank": 654,
-    "popularity": 0,
-    "members": 17691,
-    "genres": [
-      "动作",
-      "励志",
-      "科幻",
-      "运动",
-      "音乐"
-    ],
-    "studios": [
-      "トムス・エンタテインメント/3xCube"
-    ],
-    "source": [],
-    "aired_from": "2018-04-05",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/227718"
-  },
-  {
-    "mal_id": 227724,
-    "title": "名侦探柯南 零的执行人",
-    "title_japanese": "名探偵コナン ゼロの執行人",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/b9/26/227724_o3cmo.jpg",
-    "synopsis": "作为东京峰会召开地的东京湾新设施“海洋边缘”。在峰会召开的5月1日有约2万名警察出动的这一超巨大设施，发生了大规模爆炸案！那里，有隶属于暗中掌控全国公安警察、俗称为“零”的警察厅秘密组织的安室透的身影。秘密暗中出动的安室的神秘行动令柯南不禁感到蹊跷。\r\n根据现场留下的作为证据的指纹，犯人被断定为曾在警视厅就职的毛利小五郎！与安室围绕小五郎的逮捕开始敌对的柯南听说了过去安室曾将嫌疑人逼至自杀的奇妙案件。随后在决定起诉小五郎的那时，在戒备森严的东京都内，同时爆发了多起难以理解的恐袭！\r\n柯南和公安警察正接近着隐藏在案件后的阴谋，峰会召开那天也被确定是大型无人探测器“天鹅”完成在火星的任务返回地球的日子。究竟，迫近的X日会发生什么？神秘的存在——安室透，究竟是敌人，还是伙伴？",
-    "score": 5.7,
-    "scored_by": 2592,
-    "rank": 8422,
-    "popularity": 0,
-    "members": 4930,
-    "genres": [
-      "动作",
-      "悬疑",
-      "科幻"
-    ],
-    "studios": [],
-    "source": [
-      "青山剛昌（小学館「週刊少年サンデー」連載中）"
-    ],
-    "aired_from": "2018-04-13",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/227724"
-  },
-  {
-    "mal_id": 234531,
-    "title": "鬼太郎 第六季",
-    "title_japanese": "ゲゲゲの鬼太郎",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/30/71/234531_u3ujU.jpg",
-    "synopsis": "进入21世纪已有近20年，在人们已忘记了妖怪存在的现代。\r\n科学无法解明的现象频发，流言飞语散布各处，大人们只能疲于奔命。\r\n希望想办法解决这一情况而写信给妖怪信箱的13岁少女·真奈的面前，\r\n随着咔哒咔哒的木屐响声，鬼太郎来到了…。 ",
-    "score": 7.1,
-    "scored_by": 150,
-    "rank": 2273,
-    "popularity": 0,
-    "members": 626,
-    "genres": [
-      "奇幻"
-    ],
-    "studios": [
-      "フジテレビ・読売広告社・東映アニメーション"
-    ],
-    "source": [],
-    "aired_from": "2018-04-01",
-    "year": 2018,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/234531"
-  },
-  {
     "mal_id": 228380,
     "title": "钢琴之森",
     "title_japanese": "ピアノの森",
     "image_url": "https://lain.bgm.tv/pic/cover/l/0b/7a/228380_P4qaQ.jpg",
     "synopsis": "将遗弃在森林里的钢琴当做玩具而成长的主人公一之濑海，通过与曾被称作天才钢琴家的阿字野壮介以及拥有伟大钢琴家父亲的雨宫修平等人相遇，使自己的钢琴才能开花，并在之后挑战肖邦钢琴赛——描写的就是这样一个感人至深的故事。 ",
     "score": 6.5,
-    "scored_by": 558,
-    "rank": 4967,
+    "scored_by": 560,
+    "rank": 4984,
     "popularity": 0,
-    "members": 1530,
+    "members": 1544,
     "genres": [
       "励志",
       "日常",
@@ -2377,5 +1970,306 @@
     "themes": [],
     "demographics": [],
     "url": "https://bgm.tv/subject/228380"
+  },
+  {
+    "mal_id": 225022,
+    "title": "宇宙战舰提拉米斯",
+    "title_japanese": "宇宙戦艦ティラミス",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/94/21/225022_UWYZz.jpg",
+    "synopsis": "地球是蓝的。哥俩是蠢的。\r\n在人类将生活领域和自身欲望扩张到宇宙的时代，寻求自由的人们移民到宇宙中居住，他们的睿智孕育出发达的文明，不知不觉转变为对地球的一种威胁。\r\n宇宙历0156年，地球联邦政府经历了与祖母星格兰地玛斯有史以来的第四次接触（4th note），也正是从这一年开始，联邦政府与【梅杜斯子民】之间的对抗正式拉开帷幕。\r\n战争永无止境，牺牲不断增加……\r\n为了打开战局，联邦政府派出一名英姿飒爽的青年加入战局。年轻人名叫斯巴鲁·一之濑，不仅长相帅气、成绩优异，而且是宇宙战舰【提拉米斯】的王牌驾驶员。\r\n全人类的希望都寄托在他的身上。\r\n——然而，他实际上是个难以融入提拉米斯舰内集体生活，整日将自己关在专用机“杜兰德尔”驾驶舱内的“窝里蹲”……",
+    "score": 6.3,
+    "scored_by": 1357,
+    "rank": 6321,
+    "popularity": 0,
+    "members": 2816,
+    "genres": [
+      "喜剧",
+      "机战",
+      "科幻"
+    ],
+    "studios": [
+      "GONZO"
+    ],
+    "source": [
+      "宮川サトシ、伊藤亰（新潮社「くらげバンチ」連載）"
+    ],
+    "aired_from": "2018-04-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/225022"
+  },
+  {
+    "mal_id": 236103,
+    "title": "道口时间",
+    "title_japanese": "踏切時間",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f4/c7/236103_kuvkS.jpg",
+    "synopsis": "“当当当当……！”某处的“平交道”今天也降下栏杆，阻挡住某人的步伐。围绕着在“平交道”等待的时间展开的青春、情欲、艺术、初恋……etc。平交道时间的日常系短篇故事集！ ",
+    "score": 6.7,
+    "scored_by": 1968,
+    "rank": 4000,
+    "popularity": 0,
+    "members": 4432,
+    "genres": [
+      "喜剧",
+      "日常",
+      "治愈",
+      "爱情",
+      "百合"
+    ],
+    "studios": [
+      "EKACHI EPILKA"
+    ],
+    "source": [
+      "里好「踏切時間」（双葉社・月刊アクション連載中）"
+    ],
+    "aired_from": "2018-04-09",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/236103"
+  },
+  {
+    "mal_id": 230940,
+    "title": "敦君与女朋友",
+    "title_japanese": "あっくんとカノジョ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/b7/a1/230940_Mk5DV.jpg",
+    "synopsis": "青梅竹马的敦君和小音是一对恋人。\r\n但，敦君却以粗暴的言辞冷淡对待小音，\r\n总是一副严苛的态度……。\r\n\r\n但那却是敦君的“最喜欢小音了！”这种心情的反面表现。\r\n敦君，以及对于敦君的这种言行毫不在意地“深爱敦君”的小音，\r\n描绘他们之间日常的学园青春恋爱喜剧。 ",
+    "score": 6.2,
+    "scored_by": 1581,
+    "rank": 6946,
+    "popularity": 0,
+    "members": 4189,
+    "genres": [
+      "喜剧",
+      "日常",
+      "校园",
+      "爱情"
+    ],
+    "studios": [],
+    "source": [
+      "杜若わか（MFコミックスジーンシリーズ／KADOKAWA刊）"
+    ],
+    "aired_from": "2018-04-06",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/230940"
+  },
+  {
+    "mal_id": 242978,
+    "title": "未来卡 神搭档对战",
+    "title_japanese": "フューチャーカード 神バディファイト",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/78/e2/242978_Zz4aA.jpg",
+    "synopsis": "",
+    "score": 6.2,
+    "scored_by": 6,
+    "rank": 0,
+    "popularity": 0,
+    "members": 33,
+    "genres": [],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-06-02",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/242978"
+  },
+  {
+    "mal_id": 225819,
+    "title": "Butlers～千年百年物语～",
+    "title_japanese": "Butlers～千年百年物語～",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/65/5d/225819_HG9Z1.jpg",
+    "synopsis": "头脑聪明、眉清目秀，一个清爽的微笑就能虏获女生芳心的学生会长神宫司高马（Jay）。\r\n多才多艺、温柔敦厚，能够用拿铁咖啡画出猫头鹰，极受女性欢迎的咖啡店员羽早川翔（Hayakawa）。\r\n这二人，其实是穿越时空的命中宿敌？\r\n被称作“Butlers”的充满魅力的角色们所编织而成的异能战斗及喧闹学园喜剧终于开演！",
+    "score": 3.9,
+    "scored_by": 70,
+    "rank": 9268,
+    "popularity": 0,
+    "members": 298,
+    "genres": [
+      "动作",
+      "奇幻",
+      "爱情",
+      "逆后宫"
+    ],
+    "studios": [],
+    "source": [
+      "「Intouchable Butlers」（SummerACG）"
+    ],
+    "aired_from": "2018-04-11",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/225819"
+  },
+  {
+    "mal_id": 234305,
+    "title": "鬼灯的冷彻 第二季 其之二",
+    "title_japanese": "鬼灯の冷徹 第弐期 その弐",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/0f/22/234305_Lqyds.jpg",
+    "synopsis": "这是地狱的故事。在一如既往充斥着亡者的地狱，阎魔大王的第一辅佐官·鬼灯，对大王的辅佐自不必说，还有对亡者的呵责、对狱卒的指导、对现世的视察，过着如此忙碌的生活。这样的鬼灯与不论何时都很愉快的伙伴们，再加上久违的西洋地狱恶魔，以及来自童话的公主和鹤之类，喧闹而又快乐的地狱每一天仍将继续！ ",
+    "score": 7.1,
+    "scored_by": 1066,
+    "rank": 2018,
+    "popularity": 0,
+    "members": 2561,
+    "genres": [
+      "喜剧",
+      "奇幻",
+      "日常"
+    ],
+    "studios": [],
+    "source": [
+      "江口夏実（講談社「モーニング」連載）"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/234305"
+  },
+  {
+    "mal_id": 221127,
+    "title": "黄金神威",
+    "title_japanese": "ゴールデンカムイ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/0d/59/221127_v6nv6.jpg",
+    "synopsis": "为了实现日俄战争中死去好友寅次，临死之前「治好我妻子眼睛」的愿望，军人杉元为了筹集到金钱而从东京前往北海道，因为传说在北海道土著阿依努族中有大批金块存在，而在旅途中杉元结识了土著阿依努人女孩阿希莉。\r\n在阿希莉被熊袭击时，杉元及时出手救了女孩，杉元一方面感叹阿希莉所拥有的猎人技能和知识，但也知道阿希莉的父亲为了保护金块被人杀死。\r\n于是杉元向阿希莉提出自己只要能完成朋友遗愿的那部分金块，剩下的金块都给阿希莉作为替父亲报酬的资金，作为交换阿希莉要和自己一起去寻找金块，于是二人踏上寻找黄金的征途。\r\n另一方面，驻守在北海道第七师团也涉及到黄金寻宝当中蠢蠢欲动——",
+    "score": 7.5,
+    "scored_by": 4084,
+    "rank": 916,
+    "popularity": 0,
+    "members": 10328,
+    "genres": [
+      "冒险",
+      "动作",
+      "历史",
+      "喜剧"
+    ],
+    "studios": [],
+    "source": [
+      "野田サトル（集英社「週刊ヤングジャンプ」連載）"
+    ],
+    "aired_from": "2018-04-09",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/221127"
+  },
+  {
+    "mal_id": 242454,
+    "title": "未来卡搭档对战X 全明星对战",
+    "title_japanese": "フューチャーカード バディファイト バッツ オールスターファイト",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/91/67/242454_N2E5w.jpg",
+    "synopsis": "新动画《未来卡搭档对战X 全明星对战》，4月7日开始播出！ 最强的八名斗士集结：牙王、翼空、升、彼方、凯斗、雷、响也、维斯达姆！ 历代好敌手与搭档参战，牙王的三任搭档冲击钻、巴鲁、巴兹全体登场！ ",
+    "score": 7.5,
+    "scored_by": 4,
+    "rank": 0,
+    "popularity": 0,
+    "members": 29,
+    "genres": [],
+    "studios": [],
+    "source": [
+      "ブシロード　田村光久/小学館"
+    ],
+    "aired_from": "2018-04-07",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/242454"
+  },
+  {
+    "mal_id": 240775,
+    "title": "猫猫日本史 第三季",
+    "title_japanese": "ねこねこ日本史 第3シリーズ",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/d0/74/240775_732hC.jpg",
+    "synopsis": "さまざまな歴史上の人物たちが猫になって登場！ゆるーく歴史が学べる（かも知れない）「ねこねこ日本史」の、第３シリーズが放送されることが決まりました！\r\n\r\n４月からも楽しい猫の偉人達がたくさん登場します。\r\nお楽しみに！",
+    "score": 5,
+    "scored_by": 5,
+    "rank": 0,
+    "popularity": 0,
+    "members": 36,
+    "genres": [
+      "历史",
+      "喜剧"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": "2018-04-04",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/240775"
+  },
+  {
+    "mal_id": 209764,
+    "title": "卡片战斗先导者!!Vanguard",
+    "title_japanese": "カードファイト!! ヴァンガード",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/8b/209764_ptW7G.jpg",
+    "synopsis": "2011年１月の放送開始から大きな話題を呼んだ「カードファイト!! ヴァンガード」が、\r\n伊藤彰先生の「コミック版」をベースに、もうひとつのカタチでよみがえる！\r\n先導者ヴァンガードたちに再び出会う物語を、OLMによる最新映像でお届けします！\r\n\r\n主人公「先導アイチ」は、気が弱く、\r\nクラスでも目立たない中学三年生の男の子。\r\nアイチが心の支えにしていたのは、\r\n子供の頃にもらった一枚のカード「ブラスター・ブレード」。\r\n架空の異世界「惑星クレイ」を舞台にしたカードゲーム、\r\n「ヴァンガード」の貴重なレアカードだった。\r\nそのカードをもらった相手「櫂トシキ」と再会した日から、\r\nアイチの日常は大きく変わり始める。\r\n\r\nさまざまなファイターと出会い、自分の世界を広げる中、\r\nアイチは、惑星クレイのユニットの声が聞こえる\r\n不思議な体験をする――――\r\nそれは、フーファイターの当主「雀ヶ森レン」が持つ、\r\nPSYサイクオリアと呼ばれる力と酷似していた。\r\n\r\nファイトを通じて自らの熱い心をぶつけ合う、\r\nヴァンガードファイターたちの青春ストーリー。",
+    "score": 5.5,
+    "scored_by": 15,
+    "rank": 0,
+    "popularity": 0,
+    "members": 92,
+    "genres": [
+      "动作"
+    ],
+    "studios": [
+      "OLM TEAM GO"
+    ],
+    "source": [],
+    "aired_from": "2018-05-05",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/209764"
+  },
+  {
+    "mal_id": 190254,
+    "title": "罪人与龙共舞",
+    "title_japanese": "されど罪人は竜と踊る",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/31/5b/190254_d3FjO.jpg",
+    "synopsis": "　　咒式与谋略、爱以及因爱而生的背叛——\r\n　　所谓的咒式，乃操作作用子定数h，让物理法则发生局部变化，产生TNT炸药与毒气，并引发电浆与核融合之类强烈物理现象的方程式。\r\n　　两名使用咒式的进攻型咒式士——想摆脱恶运缠身的嘉优斯，以及残酷的俊美剑士吉吉那。追寻「异貌者」和赏金通缉要犯的两人，被卷入艾理达那上「龙」的战争以及大国的阴谋中……",
+    "score": 5.1,
+    "scored_by": 216,
+    "rank": 8961,
+    "popularity": 0,
+    "members": 796,
+    "genres": [
+      "动作",
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [
+      "浅井ラボ（小学館「ガガガ文庫」刊）"
+    ],
+    "aired_from": "2018-04-05",
+    "year": 2018,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/190254"
   }
 ]

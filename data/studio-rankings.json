@@ -2,32 +2,32 @@
   "by_quantity": [
     {
       "studio": "J.C.Staff",
-      "count": 148,
+      "count": 150,
       "avg_score": 7.2
     },
     {
       "studio": "Studio Deen",
-      "count": 114,
-      "avg_score": 6.89
-    },
-    {
-      "studio": "A-1 Pictures",
-      "count": 107,
-      "avg_score": 7.39
+      "count": 118,
+      "avg_score": 6.88
     },
     {
       "studio": "OLM",
-      "count": 106,
+      "count": 111,
       "avg_score": 6.8
     },
     {
+      "studio": "A-1 Pictures",
+      "count": 108,
+      "avg_score": 7.39
+    },
+    {
       "studio": "Madhouse",
-      "count": 97,
-      "avg_score": 7.47
+      "count": 101,
+      "avg_score": 7.46
     },
     {
       "studio": "TMS Entertainment",
-      "count": 84,
+      "count": 86,
       "avg_score": 7.05
     },
     {
@@ -37,33 +37,33 @@
     },
     {
       "studio": "Sunrise",
-      "count": 78,
+      "count": 80,
       "avg_score": 7.25
     },
     {
       "studio": "DLE",
       "count": 77,
-      "avg_score": 5.79
+      "avg_score": 5.8
     },
     {
       "studio": "SILVER LINK.",
-      "count": 70,
+      "count": 72,
       "avg_score": 6.92
     },
     {
       "studio": "LIDENFILMS",
-      "count": 70,
+      "count": 72,
       "avg_score": 6.83
     },
     {
       "studio": "Production I.G",
-      "count": 66,
+      "count": 68,
       "avg_score": 7.56
     },
     {
       "studio": "Doga Kobo",
-      "count": 63,
-      "avg_score": 7.09
+      "count": 65,
+      "avg_score": 7.1
     },
     {
       "studio": "Bones",
@@ -72,7 +72,7 @@
     },
     {
       "studio": "Satelight",
-      "count": 55,
+      "count": 56,
       "avg_score": 6.91
     }
   ],
@@ -92,13 +92,13 @@
     {
       "studio": "CloverWorks",
       "avg_score": 7.65,
-      "count": 36,
+      "count": 37,
       "rated_count": 36
     },
     {
       "studio": "White Fox",
       "avg_score": 7.61,
-      "count": 26,
+      "count": 27,
       "rated_count": 26
     },
     {
@@ -110,7 +110,7 @@
     {
       "studio": "Wit Studio",
       "avg_score": 7.58,
-      "count": 28,
+      "count": 30,
       "rated_count": 27
     },
     {
@@ -122,19 +122,19 @@
     {
       "studio": "Production I.G",
       "avg_score": 7.56,
-      "count": 66,
+      "count": 68,
       "rated_count": 66
     },
     {
       "studio": "TROYCA",
       "avg_score": 7.49,
-      "count": 14,
+      "count": 16,
       "rated_count": 14
     },
     {
       "studio": "MAPPA",
       "avg_score": 7.48,
-      "count": 53,
+      "count": 55,
       "rated_count": 53
     },
     {
@@ -145,27 +145,27 @@
     },
     {
       "studio": "Madhouse",
-      "avg_score": 7.47,
-      "count": 97,
-      "rated_count": 97
+      "avg_score": 7.46,
+      "count": 101,
+      "rated_count": 98
     },
     {
       "studio": "David Production",
       "avg_score": 7.46,
-      "count": 26,
+      "count": 27,
       "rated_count": 26
     },
     {
       "studio": "A-1 Pictures",
       "avg_score": 7.39,
-      "count": 107,
+      "count": 108,
       "rated_count": 107
     },
     {
-      "studio": "Manglobe",
+      "studio": "Studio KAI",
       "avg_score": 7.37,
-      "count": 15,
-      "rated_count": 15
+      "count": 16,
+      "rated_count": 11
     }
   ]
 }

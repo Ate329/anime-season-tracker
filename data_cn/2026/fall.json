@@ -1,15 +1,118 @@
 [
   {
-    "mal_id": 568244,
-    "title": "药屋少女的呢喃 第三季",
-    "title_japanese": "薬屋のひとりごと 第3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/55/e2/568244_OwOw9.jpg",
+    "mal_id": 586941,
+    "title": "新网球王子 U-17 WORLD CUP 决赛成员选拔赛",
+    "title_japanese": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/58/86/586941_qUXVs.jpg",
+    "synopsis": "2024年に放送の「U-17 WORLD CUP SEMIFINAL」では、日本代表とドイツ代表による熱戦が描かれた「新テニスの王子様」。「U-17 WORLD CUP 決勝メンバー決定戦」では、決勝戦となるスペイン代表との試合に向けて、出場メンバーを決める日本代表内での戦いが展開される。",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 12,
+    "genres": [
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "許斐剛（集英社 「ジャンプ SQ.」連載）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/586941"
+  },
+  {
+    "mal_id": 617273,
+    "title": "Keroro军曹☆",
+    "title_japanese": "ケロロ軍曹☆",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/60/14/617273_dD73c.jpg",
     "synopsis": "",
     "score": 0,
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 612,
+    "members": 7,
+    "genres": [
+      "科幻"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/617273"
+  },
+  {
+    "mal_id": 548156,
+    "title": "青之箱 第二季",
+    "title_japanese": "アオのハコ 第2期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_fH6hX.jpg",
+    "synopsis": "",
+    "score": 10,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 475,
+    "genres": [
+      "日常",
+      "校园",
+      "爱情",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/548156"
+  },
+  {
+    "mal_id": 563508,
+    "title": "パンどろぼう",
+    "title_japanese": "パンどろぼう",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/56/5e/563508_8XjYy.jpg",
+    "synopsis": "「パンどろぼう」は街のパン屋からパンを担いで逃げていく“パンどろぼう”を描いた絵本シリーズ。シュールでお茶目なキャラクターが人気を呼び、「第11回リブロ絵本大賞」大賞や「第1回TSUTAYAえほん大賞」第1位など数々の賞を受賞している。アニメ化に伴い柴田からはコメントと描き下ろしイラストが到着。「『パンどろぼう』のアニメ化が決定し、とても感激しています。こうしてアニメ化が実現できたのは、これまでパンどろぼうを応援してくださった皆さんのおかげです。ありがとうございます」と感謝を綴った。",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 4,
+    "genres": [],
+    "studios": [],
+    "source": [
+      "柴田ケイコ"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/563508"
+  },
+  {
+    "mal_id": 568244,
+    "title": "药屋少女的呢喃 第三季",
+    "title_japanese": "薬屋のひとりごと 第3期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/55/e2/568244_OwOw9.jpg",
+    "synopsis": "",
+    "score": 2,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 757,
     "genres": [
       "悬疑",
       "治愈",
@@ -30,25 +133,23 @@
     "url": "https://bgm.tv/subject/568244"
   },
   {
-    "mal_id": 599894,
-    "title": "药屋少女的呢喃 剧场版",
-    "title_japanese": "薬屋のひとりごと 劇場版",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/10/3f/599894_GOgSa.jpg",
+    "mal_id": 613256,
+    "title": "恐怖收集者",
+    "title_japanese": "恐怖コレクター",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/a7/613256_xbpzo.jpg",
     "synopsis": "",
     "score": 0,
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 137,
+    "members": 20,
     "genres": [
-      "悬疑",
-      "治愈"
+      "奇幻",
+      "恐怖"
     ],
-    "studios": [
-      "TOHO animation STUDIO×OLM"
-    ],
+    "studios": [],
     "source": [
-      "日向夏（ヒーロー文庫／イマジカインフォス刊）"
+      "佐東みどり、鶴田法男"
     ],
     "aired_from": null,
     "year": null,
@@ -56,6 +157,6 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/599894"
+    "url": "https://bgm.tv/subject/613256"
   }
 ]
