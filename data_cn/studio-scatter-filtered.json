@@ -14,7 +14,7 @@
     },
     {
       "name": "ILCA",
-      "avg_rating": 4.71,
+      "avg_rating": 5.39,
       "anime_count": 11,
       "rated_count": 11
     },
@@ -23,6 +23,12 @@
       "avg_rating": 6.26,
       "anime_count": 7,
       "rated_count": 7
+    },
+    {
+      "name": "FelixFilm",
+      "avg_rating": 6.18,
+      "anime_count": 5,
+      "rated_count": 5
     },
     {
       "name": "A-1 Pictures",
@@ -487,8 +493,8 @@
       "rated_count": 6
     }
   ],
-  "mean_rating": 6.14,
-  "mean_count": 10.8,
-  "total_studios": 81,
+  "mean_rating": 6.15,
+  "mean_count": 10.7,
+  "total_studios": 82,
   "min_anime_count": 5
 }

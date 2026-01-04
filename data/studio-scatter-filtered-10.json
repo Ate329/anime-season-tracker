@@ -34,7 +34,7 @@
       "name": "J.C.Staff",
       "avg_rating": 7.2,
       "anime_count": 150,
-      "rated_count": 148
+      "rated_count": 149
     },
     {
       "name": "Actas",
@@ -117,7 +117,7 @@
     {
       "name": "Seven Arcs",
       "avg_rating": 7.09,
-      "anime_count": 17,
+      "anime_count": 18,
       "rated_count": 17
     },
     {
@@ -524,9 +524,9 @@
     },
     {
       "name": "Felix Film",
-      "avg_rating": 7.09,
+      "avg_rating": 7.14,
       "anime_count": 15,
-      "rated_count": 11
+      "rated_count": 12
     },
     {
       "name": "Studio 3Hz",

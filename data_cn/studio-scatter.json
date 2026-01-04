@@ -7,16 +7,10 @@
       "rated_count": 37
     },
     {
-      "name": "studio H\u014dKIBOSHI",
-      "avg_rating": 5,
-      "anime_count": 1,
-      "rated_count": 1
-    },
-    {
-      "name": "\u98b1\u98a8\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30b9\u00d7Qzil.la",
-      "avg_rating": 5,
-      "anime_count": 1,
-      "rated_count": 1
+      "name": "\u30c8\u30a5\u30fc\u30f3\u30cf\u30fc\u30d0\u30fc\u30ef\u30fc\u30af\u30b9",
+      "avg_rating": 2.75,
+      "anime_count": 2,
+      "rated_count": 2
     },
     {
       "name": "MAPPA",
@@ -25,14 +19,44 @@
       "rated_count": 10
     },
     {
+      "name": "\u30d1\u30c3\u30b7\u30e7\u30fc\u30cd\u00d7\u30cf\u30e4\u30d6\u30b5\u30d5\u30a3\u30eb\u30e0",
+      "avg_rating": 6.45,
+      "anime_count": 2,
+      "rated_count": 2
+    },
+    {
+      "name": "studio H\u014dKIBOSHI",
+      "avg_rating": 7,
+      "anime_count": 1,
+      "rated_count": 1
+    },
+    {
       "name": "ILCA",
-      "avg_rating": 4.71,
+      "avg_rating": 5.39,
       "anime_count": 11,
       "rated_count": 11
     },
     {
+      "name": "OLM TEAM HIKITA",
+      "avg_rating": 7,
+      "anime_count": 1,
+      "rated_count": 1
+    },
+    {
       "name": "\u753b\u72c2\u00d7FelixFilm",
-      "avg_rating": 0,
+      "avg_rating": 10,
+      "anime_count": 1,
+      "rated_count": 1
+    },
+    {
+      "name": "\u5f00\u53d1\uff1aQualiArts",
+      "avg_rating": 5.8,
+      "anime_count": 1,
+      "rated_count": 1
+    },
+    {
+      "name": "animation studio42",
+      "avg_rating": 5.3,
       "anime_count": 1,
       "rated_count": 1
     },
@@ -43,22 +67,16 @@
       "rated_count": 7
     },
     {
-      "name": "OLM TEAM HIKITA",
-      "avg_rating": 8.5,
+      "name": "\u98b1\u98a8\u30b0\u30e9\u30d5\u30a3\u30c3\u30af\u30b9\u00d7Qzil.la",
+      "avg_rating": 5.3,
       "anime_count": 1,
       "rated_count": 1
     },
     {
-      "name": "\u30c8\u30a5\u30fc\u30f3\u30cf\u30fc\u30d0\u30fc\u30ef\u30fc\u30af\u30b9",
-      "avg_rating": 2.75,
-      "anime_count": 2,
-      "rated_count": 2
-    },
-    {
-      "name": "\u30d1\u30c3\u30b7\u30e7\u30fc\u30cd\u00d7\u30cf\u30e4\u30d6\u30b5\u30d5\u30a3\u30eb\u30e0",
-      "avg_rating": 6.25,
-      "anime_count": 2,
-      "rated_count": 2
+      "name": "FelixFilm",
+      "avg_rating": 6.18,
+      "anime_count": 5,
+      "rated_count": 5
     },
     {
       "name": "TOHO animation STUDIO",
@@ -1067,12 +1085,6 @@
       "avg_rating": 6.74,
       "anime_count": 10,
       "rated_count": 10
-    },
-    {
-      "name": "FelixFilm",
-      "avg_rating": 5.92,
-      "anime_count": 4,
-      "rated_count": 4
     },
     {
       "name": "\u30aa\u30ec\u30f3\u30b8",
@@ -4909,7 +4921,7 @@
       "rated_count": 1
     }
   ],
-  "mean_rating": 5.8,
+  "mean_rating": 5.81,
   "mean_count": 2.2,
-  "total_studios": 818
+  "total_studios": 820
 }
