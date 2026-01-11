@@ -3,12 +3,12 @@
     {
       "studio": "J.C.Staff",
       "count": 150,
-      "avg_score": 7.2
+      "avg_score": 7.21
     },
     {
       "studio": "Studio Deen",
       "count": 118,
-      "avg_score": 6.88
+      "avg_score": 6.89
     },
     {
       "studio": "OLM",
@@ -18,7 +18,7 @@
     {
       "studio": "A-1 Pictures",
       "count": 108,
-      "avg_score": 7.39
+      "avg_score": 7.4
     },
     {
       "studio": "Madhouse",
@@ -38,7 +38,7 @@
     {
       "studio": "Sunrise",
       "count": 80,
-      "avg_score": 7.25
+      "avg_score": 7.24
     },
     {
       "studio": "DLE",
@@ -78,6 +78,12 @@
   ],
   "by_quality": [
     {
+      "studio": "Shuka",
+      "avg_score": 8.04,
+      "count": 10,
+      "rated_count": 10
+    },
+    {
       "studio": "Kyoto Animation",
       "avg_score": 7.87,
       "count": 29,
@@ -110,7 +116,7 @@
     {
       "studio": "Wit Studio",
       "avg_score": 7.58,
-      "count": 30,
+      "count": 31,
       "rated_count": 27
     },
     {
@@ -126,16 +132,16 @@
       "rated_count": 66
     },
     {
-      "studio": "TROYCA",
-      "avg_score": 7.49,
-      "count": 16,
-      "rated_count": 14
+      "studio": "MAPPA",
+      "avg_score": 7.5,
+      "count": 55,
+      "rated_count": 54
     },
     {
-      "studio": "MAPPA",
+      "studio": "David Production",
       "avg_score": 7.48,
-      "count": 55,
-      "rated_count": 53
+      "count": 27,
+      "rated_count": 27
     },
     {
       "studio": "Shaft",
@@ -150,22 +156,16 @@
       "rated_count": 98
     },
     {
-      "studio": "David Production",
-      "avg_score": 7.46,
-      "count": 27,
-      "rated_count": 26
-    },
-    {
-      "studio": "A-1 Pictures",
-      "avg_score": 7.39,
-      "count": 108,
-      "rated_count": 107
+      "studio": "TROYCA",
+      "avg_score": 7.44,
+      "count": 16,
+      "rated_count": 15
     },
     {
       "studio": "Studio KAI",
-      "avg_score": 7.37,
+      "avg_score": 7.43,
       "count": 16,
-      "rated_count": 11
+      "rated_count": 13
     }
   ]
 }

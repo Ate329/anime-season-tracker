@@ -1,46 +1,24 @@
 [
   {
-    "mal_id": 617273,
-    "title": "Keroro军曹☆",
-    "title_japanese": "ケロロ軍曹☆",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/60/14/617273_dD73c.jpg",
+    "mal_id": 548156,
+    "title": "青之箱 第二季",
+    "title_japanese": "アオのハコ 第2期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_fH6hX.jpg",
     "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
+    "score": 10,
+    "scored_by": 1,
     "rank": 0,
     "popularity": 0,
-    "members": 8,
+    "members": 489,
     "genres": [
-      "科幻"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/617273"
-  },
-  {
-    "mal_id": 613256,
-    "title": "恐怖收集者",
-    "title_japanese": "恐怖コレクター",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/a7/613256_xbpzo.jpg",
-    "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 20,
-    "genres": [
-      "奇幻",
-      "恐怖"
+      "日常",
+      "校园",
+      "爱情",
+      "运动"
     ],
     "studios": [],
     "source": [
-      "佐東みどり、鶴田法男"
+      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
     ],
     "aired_from": null,
     "year": null,
@@ -48,7 +26,7 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/613256"
+    "url": "https://bgm.tv/subject/548156"
   },
   {
     "mal_id": 563508,
@@ -60,7 +38,7 @@
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 4,
+    "members": 5,
     "genres": [],
     "studios": [],
     "source": [
@@ -75,6 +53,30 @@
     "url": "https://bgm.tv/subject/563508"
   },
   {
+    "mal_id": 617273,
+    "title": "Keroro军曹☆",
+    "title_japanese": "ケロロ軍曹☆",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/60/14/617273_dD73c.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 10,
+    "genres": [
+      "科幻"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/617273"
+  },
+  {
     "mal_id": 568244,
     "title": "药屋少女的呢喃 第三季",
     "title_japanese": "薬屋のひとりごと 第3期",
@@ -84,7 +86,7 @@
     "scored_by": 1,
     "rank": 0,
     "popularity": 0,
-    "members": 774,
+    "members": 790,
     "genres": [
       "悬疑",
       "治愈",
@@ -105,25 +107,23 @@
     "url": "https://bgm.tv/subject/568244"
   },
   {
-    "mal_id": 548156,
-    "title": "青之箱 第二季",
-    "title_japanese": "アオのハコ 第2期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_fH6hX.jpg",
+    "mal_id": 613256,
+    "title": "恐怖收集者",
+    "title_japanese": "恐怖コレクター",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/7b/a7/613256_xbpzo.jpg",
     "synopsis": "",
-    "score": 10,
-    "scored_by": 1,
+    "score": 0,
+    "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 482,
+    "members": 21,
     "genres": [
-      "日常",
-      "校园",
-      "爱情",
-      "运动"
+      "奇幻",
+      "恐怖"
     ],
     "studios": [],
     "source": [
-      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
+      "佐東みどり、鶴田法男"
     ],
     "aired_from": null,
     "year": null,
@@ -131,7 +131,7 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/548156"
+    "url": "https://bgm.tv/subject/613256"
   },
   {
     "mal_id": 586941,
@@ -143,7 +143,7 @@
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 13,
+    "members": 14,
     "genres": [
       "运动"
     ],

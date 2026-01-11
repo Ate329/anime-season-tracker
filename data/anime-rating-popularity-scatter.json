@@ -24802,35 +24802,294 @@
       "mal_id": 62643
     },
     {
+      "title": "Jujutsu Kaisen: Shimetsu Kaiyuu - Zenpen",
+      "score": 8.66,
+      "popularity": 1142,
+      "members": 242646,
+      "mal_id": 57658
+    },
+    {
+      "title": "Yuusha-kei ni Shosu: Choubatsu Yuusha 9004-tai Keimu Kiroku",
+      "score": 8.51,
+      "popularity": 1917,
+      "members": 133075,
+      "mal_id": 56009
+    },
+    {
+      "title": "Enen no Shouboutai: San no Shou Part 2",
+      "score": 7.94,
+      "popularity": 2171,
+      "members": 112145,
+      "mal_id": 59229
+    },
+    {
+      "title": "Fate/strange Fake",
+      "score": 8.26,
+      "popularity": 2412,
+      "members": 95115,
+      "mal_id": 55830
+    },
+    {
+      "title": "Mato Seihei no Slave 2",
+      "score": 7.49,
+      "popularity": 3136,
+      "members": 61601,
+      "mal_id": 58505
+    },
+    {
+      "title": "Vigilante: Boku no Hero Academia Illegals 2nd Season",
+      "score": 7.46,
+      "popularity": 3235,
+      "members": 57947,
+      "mal_id": 61942
+    },
+    {
       "title": "Yuusha Party wo Oidasareta Kiyoubinbou",
       "score": 6.76,
-      "popularity": 4773,
-      "members": 26976,
+      "popularity": 3861,
+      "members": 42608,
       "mal_id": 61128
     },
     {
+      "title": "Golden Kamuy: Saishuushou",
+      "score": 8.04,
+      "popularity": 3933,
+      "members": 41067,
+      "mal_id": 55772
+    },
+    {
       "title": "Tamon-kun Ima Docchi!?",
-      "score": 7.67,
-      "popularity": 4853,
-      "members": 25971,
+      "score": 7.92,
+      "popularity": 4085,
+      "members": 37931,
       "mal_id": 59047
     },
     {
+      "title": "Yuusha Party ni Kawaii Ko ga Ita node, Kokuhaku shitemita.",
+      "score": 6.9,
+      "popularity": 4140,
+      "members": 36766,
+      "mal_id": 61983
+    },
+    {
+      "title": "Shibou Yuugi de Meshi wo Kuu.",
+      "score": 7.92,
+      "popularity": 4162,
+      "members": 36508,
+      "mal_id": 59711
+    },
+    {
+      "title": "Mayonaka Heart Tune",
+      "score": 7.29,
+      "popularity": 4237,
+      "members": 35298,
+      "mal_id": 61211
+    },
+    {
+      "title": "Ikoku Nikki",
+      "score": 7.82,
+      "popularity": 4438,
+      "members": 31741,
+      "mal_id": 58788
+    },
+    {
+      "title": "Kizoku Tensei: Megumareta Umare kara Saikyou no Chikara wo Eru",
+      "score": 6.58,
+      "popularity": 4626,
+      "members": 29104,
+      "mal_id": 60692
+    },
+    {
+      "title": "Majutsushi Kunon wa Mieteiru",
+      "score": 6.77,
+      "popularity": 4672,
+      "members": 28458,
+      "mal_id": 60810
+    },
+    {
+      "title": "Eris no Seihai",
+      "score": 7.2,
+      "popularity": 4973,
+      "members": 24579,
+      "mal_id": 60151
+    },
+    {
+      "title": "Darwin Jihen",
+      "score": 6.88,
+      "popularity": 5086,
+      "members": 23266,
+      "mal_id": 58886
+    },
+    {
+      "title": "Toumei Otoko to Ningen Onna: Sonouchi Fuufu ni Naru Futari",
+      "score": 7.15,
+      "popularity": 5283,
+      "members": 21413,
+      "mal_id": 60395
+    },
+    {
       "title": "MF Ghost 3rd Season",
-      "score": 7.68,
-      "popularity": 5567,
-      "members": 18460,
+      "score": 7.9,
+      "popularity": 5329,
+      "members": 20992,
       "mal_id": 60602
     },
     {
+      "title": "Okiraku Ryoushu no Tanoshii Ryouchi Bouei: Seisankei Majutsu de Na mo Naki Mura wo Saikyou no Jousai Toshi ni",
+      "score": 6.95,
+      "popularity": 5327,
+      "members": 20945,
+      "mal_id": 61549
+    },
+    {
+      "title": "Isekai no Sata wa Shachiku Shidai",
+      "score": 7.06,
+      "popularity": 5373,
+      "members": 20458,
+      "mal_id": 60226
+    },
+    {
+      "title": "\"Omae Gotoki ga Maou ni Kateru to Omouna\" to Yuusha Party wo Tsuihou sareta node, Outo de Kimama ni Kurashitai",
+      "score": 6.79,
+      "popularity": 5472,
+      "members": 19450,
+      "mal_id": 61587
+    },
+    {
+      "title": "Kirei ni Shitemoraemasu ka.",
+      "score": 6.97,
+      "popularity": 5513,
+      "members": 19117,
+      "mal_id": 61782
+    },
+    {
+      "title": "Osananajimi to wa Love Comedy ni Naranai",
+      "score": 6.64,
+      "popularity": 5574,
+      "members": 18532,
+      "mal_id": 61359
+    },
+    {
+      "title": "Hanazakari no Kimitachi e",
+      "score": 7.03,
+      "popularity": 5590,
+      "members": 18338,
+      "mal_id": 58861
+    },
+    {
+      "title": "Hell Mode: Yarikomizuki no Gamer wa Hai Settei no Isekai de Musou suru",
+      "score": 6.44,
+      "popularity": 5697,
+      "members": 17707,
+      "mal_id": 60460
+    },
+    {
+      "title": "Champignon no Majo",
+      "score": 7.24,
+      "popularity": 5885,
+      "members": 16095,
+      "mal_id": 60509
+    },
+    {
+      "title": "Odayaka Kizoku no Kyuuka no Susume.",
+      "score": 6.75,
+      "popularity": 5894,
+      "members": 15960,
+      "mal_id": 60071
+    },
+    {
+      "title": "29-sai Dokushin Chuuken Boukensha no Nichijou",
+      "score": 6.5,
+      "popularity": 5952,
+      "members": 15631,
+      "mal_id": 61637
+    },
+    {
+      "title": "Maou no Musume wa Yasashisugiru!!",
+      "score": 7.22,
+      "popularity": 6044,
+      "members": 15014,
+      "mal_id": 61884
+    },
+    {
+      "title": "Dark Moon: Tsuki no Saidan",
+      "score": 6.71,
+      "popularity": 6194,
+      "members": 14112,
+      "mal_id": 59853
+    },
+    {
+      "title": "Arne no Jikenbo",
+      "score": 6.54,
+      "popularity": 6497,
+      "members": 12543,
+      "mal_id": 60255
+    },
+    {
+      "title": "Goumon Baito-kun no Nichijou",
+      "score": 5.67,
+      "popularity": 6797,
+      "members": 11238,
+      "mal_id": 61886
+    },
+    {
+      "title": "Yuusha no Kuzu",
+      "score": 6.55,
+      "popularity": 7113,
+      "members": 10381,
+      "mal_id": 61217
+    },
+    {
+      "title": "Jingai Kyoushitsu no Ningengirai Kyoushi",
+      "score": 6.41,
+      "popularity": 7209,
+      "members": 9739,
+      "mal_id": 62432
+    },
+    {
+      "title": "Douse, Koishite Shimaunda. 2nd Season",
+      "score": 6.57,
+      "popularity": 7686,
+      "members": 8317,
+      "mal_id": 61325
+    },
+    {
+      "title": "Android wa Keiken Ninzuu ni Hairimasu ka??",
+      "score": 6.56,
+      "popularity": 7924,
+      "members": 7641,
+      "mal_id": 61694
+    },
+    {
       "title": "Ao no Miburo: Serizawa Ansatsu-hen",
-      "score": 6.89,
-      "popularity": 8877,
-      "members": 5824,
+      "score": 6.93,
+      "popularity": 8522,
+      "members": 6425,
       "mal_id": 61333
+    },
+    {
+      "title": "Jigoku Sensei Nube (2025) Part 2",
+      "score": 6.95,
+      "popularity": 8619,
+      "members": 6238,
+      "mal_id": 61608
+    },
+    {
+      "title": "Saioshi no Gikei wo Mederu Tame, Nagaiki shimasu!",
+      "score": 5.93,
+      "popularity": 9858,
+      "members": 4322,
+      "mal_id": 61969
+    },
+    {
+      "title": "Yoroi Shin Den Samurai Troopers",
+      "score": 6.63,
+      "popularity": 10165,
+      "members": 3953,
+      "mal_id": 61830
     }
   ],
-  "mean_score": 6.92,
-  "mean_popularity": 3972.1,
-  "total_anime": 3547
+  "mean_score": 6.93,
+  "mean_popularity": 3986.3,
+  "total_anime": 3584
 }

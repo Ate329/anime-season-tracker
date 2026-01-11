@@ -138,6 +138,12 @@
       "rated_count": 12
     },
     {
+      "studio": "MAPPA",
+      "avg_score": 6.63,
+      "count": 10,
+      "rated_count": 10
+    },
+    {
       "studio": "J.C.STAFF",
       "avg_score": 6.63,
       "count": 46,
@@ -148,12 +154,6 @@
       "avg_score": 6.62,
       "count": 23,
       "rated_count": 23
-    },
-    {
-      "studio": "MAPPA",
-      "avg_score": 6.58,
-      "count": 10,
-      "rated_count": 10
     },
     {
       "studio": "feel.",
