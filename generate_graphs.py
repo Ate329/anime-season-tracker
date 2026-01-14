@@ -31,6 +31,35 @@ else:
 
 ASSETS_DIR.mkdir(exist_ok=True)
 
+def get_current_season():
+    """Get the current anime season based on the current month."""
+    month = datetime.now().month
+    if month in [1, 2, 3]:
+        return 'winter'
+    elif month in [4, 5, 6]:
+        return 'spring'
+    elif month in [7, 8, 9]:
+        return 'summer'
+    else:  # 10, 11, 12
+        return 'fall'
+
+def is_future_season(year, season):
+    """Check if the given year/season is in the future."""
+    # If year is None/null, we can't determine if it's future, so assume it's not
+    if year is None:
+        return False
+    
+    current_year = datetime.now().year
+    current_season = get_current_season()
+    
+    season_order = {'winter': 0, 'spring': 1, 'summer': 2, 'fall': 3}
+    
+    if year > current_year:
+        return True
+    elif year == current_year:
+        return season_order.get(season, 0) > season_order.get(current_season, 0)
+    return False
+
 # Localization
 TRANSLATIONS = {
     'en': {
@@ -208,8 +237,8 @@ def generate_rating_trend():
         year = entry['year']
         season = entry['season']
         
-        # Filter to only include 2006 to current year
-        if year < 2006 or year > current_year:
+        # Filter to only include 2006 to current season (exclude future seasons)
+        if year < 2006 or is_future_season(year, season):
             continue
         
         season_file = DATA_DIR / str(year) / f"{season}.json"
@@ -325,13 +354,12 @@ def generate_genre_trends():
     print("\nGenerating genre trends...")
     all_anime, _ = load_all_anime_data()
     
-    current_year = datetime.now().year
-    
     genre_counts_by_year = defaultdict(lambda: defaultdict(int))
     
     for anime in all_anime:
         year = anime.get('year')
-        if not year or year < 2006 or year > current_year:
+        season = anime.get('season')
+        if not year or year < 2006 or is_future_season(year, season):
             continue
         
         genres = anime.get('genres', [])
@@ -395,12 +423,11 @@ def generate_production_volume():
     print("\nGenerating production volume...")
     _, manifest = load_all_anime_data()
     
-    current_year = datetime.now().year
-    
     volume_by_year = defaultdict(int)
     for entry in manifest:
         year = entry['year']
-        if 2006 <= year <= current_year:
+        season = entry['season']
+        if year >= 2006 and not is_future_season(year, season):
             volume_by_year[year] += entry['count']
     
     years = sorted(volume_by_year.keys())
@@ -468,14 +495,13 @@ def generate_genre_trends_percentage():
     print("\nGenerating genre trends (percentage)...")
     all_anime, _ = load_all_anime_data()
     
-    current_year = datetime.now().year
-    
     genre_counts_by_year = defaultdict(lambda: defaultdict(int))
     total_by_year = defaultdict(int)
     
     for anime in all_anime:
         year = anime.get('year')
-        if not year or year < 2006 or year > current_year:
+        season = anime.get('season')
+        if not year or year < 2006 or is_future_season(year, season):
             continue
         
         total_by_year[year] += 1
@@ -543,8 +569,6 @@ def generate_genre_trends_by_season():
     print("\nGenerating genre trends by season...")
     all_anime, manifest = load_all_anime_data()
     
-    current_year = datetime.now().year
-    
     # Sort manifest chronologically
     season_month = {'winter': 1, 'spring': 4, 'summer': 7, 'fall': 10}
     manifest_sorted = sorted(manifest, key=lambda x: (x['year'], season_month.get(x['season'], 0)))
@@ -557,7 +581,7 @@ def generate_genre_trends_by_season():
         year = entry['year']
         season = entry['season']
         
-        if year < 2006 or year > current_year:
+        if year < 2006 or is_future_season(year, season):
             continue
             
         season_label = f"{season.capitalize()} {year}"
@@ -643,8 +667,6 @@ def generate_genre_trends_by_season_percentage():
     print("\nGenerating genre trends by season (percentage)...")
     all_anime, manifest = load_all_anime_data()
     
-    current_year = datetime.now().year
-    
     # Sort manifest chronologically
     season_month = {'winter': 1, 'spring': 4, 'summer': 7, 'fall': 10}
     manifest_sorted = sorted(manifest, key=lambda x: (x['year'], season_month.get(x['season'], 0)))
@@ -658,7 +680,7 @@ def generate_genre_trends_by_season_percentage():
         year = entry['year']
         season = entry['season']
         
-        if year < 2006 or year > current_year:
+        if year < 2006 or is_future_season(year, season):
             continue
             
         season_label = f"{season.capitalize()} {year}"
@@ -755,7 +777,12 @@ def generate_seasonal_patterns():
     
     for anime in all_anime:
         season = anime.get('season')
+        year = anime.get('year')
         score = anime.get('score')
+        
+        # Skip future seasons
+        if is_future_season(year, season):
+            continue
         
         if season in season_order:
             season_stats[season]['count'] += 1
