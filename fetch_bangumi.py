@@ -67,7 +67,7 @@ def fetch_subject_details(subject_id):
     """
     url = f"https://api.bgm.tv/v0/subjects/{subject_id}"
     headers = {
-        "User-Agent": "Ate329/anime-season-tracker (https://github.com/Ate329/anime-season-tracker)"
+        "User-Agent": "Ate329/anime-stats-tracker (https://github.com/Ate329/anime-stats-tracker)"
     }
     
     try:

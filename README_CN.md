@@ -1,4 +1,4 @@
-# 🎬 Anime Season Tracker
+# 🎬 Anime Stats Tracker
 
 **[中文](README_CN.md)** | **[English](README.md)**
 
@@ -43,7 +43,7 @@
 ## 📂 项目结构
 
 ```
-anime-season-tracker/
+anime-stats-tracker/
 ├── index.html              # 英文主页
 ├── index_cn.html           # 中文主页
 ├── data.html               # 英文数据可视化页面

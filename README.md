@@ -1,4 +1,4 @@
-# 🎬 Anime Season Tracker
+# 🎬 Anime Stats Tracker
 
 **[中文](README_CN.md)** | **[English](README.md)**
 
@@ -46,7 +46,7 @@ A beautiful, free anime tracker that helps you explore seasonal anime from 2006 
 ## 📂 Project Structure
 
 ```
-anime-season-tracker/
+anime-stats-tracker/
 ├── index.html              # Main website
 ├── data.html               # Data visualization page
 ├── app.js                  # Frontend logic
