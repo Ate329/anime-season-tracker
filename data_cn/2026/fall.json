@@ -1,88 +1,5 @@
 [
   {
-    "mal_id": 563508,
-    "title": "パンどろぼう",
-    "title_japanese": "パンどろぼう",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/56/5e/563508_8XjYy.jpg",
-    "synopsis": "「パンどろぼう」は街のパン屋からパンを担いで逃げていく“パンどろぼう”を描いた絵本シリーズ。シュールでお茶目なキャラクターが人気を呼び、「第11回リブロ絵本大賞」大賞や「第1回TSUTAYAえほん大賞」第1位など数々の賞を受賞している。アニメ化に伴い柴田からはコメントと描き下ろしイラストが到着。「『パンどろぼう』のアニメ化が決定し、とても感激しています。こうしてアニメ化が実現できたのは、これまでパンどろぼうを応援してくださった皆さんのおかげです。ありがとうございます」と感謝を綴った。",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 7,
-    "genres": [],
-    "studios": [],
-    "source": [
-      "柴田ケイコ 「パンどろぼう」 (KADOKAWA刊)"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/563508"
-  },
-  {
-    "mal_id": 548156,
-    "title": "青之箱 第二季",
-    "title_japanese": "アオのハコ 第2期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_fH6hX.jpg",
-    "synopsis": "",
-    "score": 10,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 516,
-    "genres": [
-      "日常",
-      "校园",
-      "爱情",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/548156"
-  },
-  {
-    "mal_id": 568244,
-    "title": "药屋少女的呢喃 第三季",
-    "title_japanese": "薬屋のひとりごと 第3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/55/e2/568244_OwOw9.jpg",
-    "synopsis": "",
-    "score": 2,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 865,
-    "genres": [
-      "悬疑",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [
-      "TOHO animation STUDIO×OLM"
-    ],
-    "source": [
-      "日向夏（ヒーロー文庫／イマジカインフォス刊）"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/568244"
-  },
-  {
     "mal_id": 617273,
     "title": "Keroro军曹☆",
     "title_japanese": "ケロロ軍曹☆",
@@ -107,6 +24,28 @@
     "url": "https://bgm.tv/subject/617273"
   },
   {
+    "mal_id": 624085,
+    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
+    "title_japanese": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/c6/8d/624085_CmO8f.jpg",
+    "synopsis": "「どうせなら、戦って死にたかった」\r\nかつて神殺しをも成し遂げた大英雄は、\r\n死の間際、自分を殺せるほど強い相手と\r\n出会うことを夢に見る。\r\nだが、待ち受けていたのは病弱な貴族令嬢への転生だった！？\r\n美しくも病弱な\r\n令嬢ニア・リストンとなった彼女は、\r\n第二の人生でも強者を求めて\r\n楽しく戦いに身を投じてゆく！\r\nさらに、魔法映像マジックビジョンのタレント活動でも\r\n学院生活でも大暴れ！？\r\nこれは、いずれ「凶乱令嬢」と呼ばれる\r\n最強お嬢様の華麗なる戦いの記録。",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 47,
+    "genres": [],
+    "studios": [],
+    "source": [],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/624085"
+  },
+  {
     "mal_id": 613256,
     "title": "恐怖收集者",
     "title_japanese": "恐怖コレクター",
@@ -116,7 +55,7 @@
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 22,
+    "members": 23,
     "genres": [
       "奇幻",
       "恐怖"
@@ -132,6 +71,113 @@
     "themes": [],
     "demographics": [],
     "url": "https://bgm.tv/subject/613256"
+  },
+  {
+    "mal_id": 568244,
+    "title": "药屋少女的呢喃 第三季",
+    "title_japanese": "薬屋のひとりごと 第3期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/55/e2/568244_OwOw9.jpg",
+    "synopsis": "",
+    "score": 2,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 884,
+    "genres": [
+      "悬疑",
+      "治愈",
+      "爱情"
+    ],
+    "studios": [
+      "TOHO animation STUDIO×OLM"
+    ],
+    "source": [
+      "日向夏（ヒーロー文庫／イマジカインフォス刊）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/568244"
+  },
+  {
+    "mal_id": 621108,
+    "title": "萤火虫的出嫁",
+    "title_japanese": "ホタルの嫁入り",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_CC6fO.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 26,
+    "genres": [],
+    "studios": [],
+    "source": [
+      "橘オレコ（小学館「マンガワンコミックス」刊）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/621108"
+  },
+  {
+    "mal_id": 623249,
+    "title": "龙珠超 比鲁斯",
+    "title_japanese": "ドラゴンボール超 ビルス",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/0f/0f/623249_Ba296.jpg",
+    "synopsis": "鳥山明先生による世界的大人気漫画作品『DRAGON BALL』（ドラゴンボール）。TVアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、モンスタータイトルとして全世界で桁外れの人気を誇る。\r\nそして、2026年―。鳥山明先生が原作・ストーリー・キャラクターデザインを手掛けるアニメ『ドラゴンボール超』が『ドラゴンボール超 ビルス』として新たに始動！ 本作では、大幅な新規カットの追加や描き直し、さらに物語の再構築を行い“エンハンスド”。最新の映像表現により、バトルシーンのさらなる臨場感と、より精密な原作再現がほどこされたエンハンスド版としてここに登場する。\r\n\r\n魔人ブウとの壮絶な闘いから数年が経ち、地球は束の間の平和を取り戻していた。\r\n時を同じくして、長い眠りから目覚めた破壊神・ビルス。\r\n星々を破壊する圧倒的な力を持つビルスの目覚めを、界王や界王神たちですら畏れをもって見守っていたのだが…そのさなか、フリーザを倒したサイヤ人の噂を聞きつけたビルスは、突如悟空の前に現れるー。\r\nかつてない力を持つビルスの襲来により、消滅の危機に直面する地球・・・破壊神と悟空たちの宇宙を揺るがす超絶バトルが幕を開ける――。",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 42,
+    "genres": [
+      "动作"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/623249"
+  },
+  {
+    "mal_id": 548156,
+    "title": "青之箱 第二季",
+    "title_japanese": "アオのハコ 第2期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_7JB17.jpg",
+    "synopsis": "",
+    "score": 10,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 528,
+    "genres": [
+      "日常",
+      "校园",
+      "爱情",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/548156"
   },
   {
     "mal_id": 586941,
@@ -170,7 +216,7 @@
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 93,
+    "members": 94,
     "genres": [
       "奇幻"
     ],
@@ -187,42 +233,20 @@
     "url": "https://bgm.tv/subject/542007"
   },
   {
-    "mal_id": 624085,
-    "title": "乱世千金倪亚‧利斯顿转生为娇弱千金的弑神武人华丽无双录",
-    "title_japanese": "凶乱令嬢ニア・リストン 病弱令嬢に転生した神殺しの武人の華麗なる無双録",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/c6/8d/624085_CmO8f.jpg",
-    "synopsis": "「どうせなら、戦って死にたかった」\r\nかつて神殺しをも成し遂げた大英雄は、\r\n死の間際、自分を殺せるほど強い相手と\r\n出会うことを夢に見る。\r\nだが、待ち受けていたのは病弱な貴族令嬢への転生だった！？\r\n美しくも病弱な\r\n令嬢ニア・リストンとなった彼女は、\r\n第二の人生でも強者を求めて\r\n楽しく戦いに身を投じてゆく！\r\nさらに、魔法映像マジックビジョンのタレント活動でも\r\n学院生活でも大暴れ！？\r\nこれは、いずれ「凶乱令嬢」と呼ばれる\r\n最強お嬢様の華麗なる戦いの記録。",
+    "mal_id": 563508,
+    "title": "パンどろぼう",
+    "title_japanese": "パンどろぼう",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/56/5e/563508_8XjYy.jpg",
+    "synopsis": "「パンどろぼう」は街のパン屋からパンを担いで逃げていく“パンどろぼう”を描いた絵本シリーズ。シュールでお茶目なキャラクターが人気を呼び、「第11回リブロ絵本大賞」大賞や「第1回TSUTAYAえほん大賞」第1位など数々の賞を受賞している。アニメ化に伴い柴田からはコメントと描き下ろしイラストが到着。「『パンどろぼう』のアニメ化が決定し、とても感激しています。こうしてアニメ化が実現できたのは、これまでパンどろぼうを応援してくださった皆さんのおかげです。ありがとうございます」と感謝を綴った。",
     "score": 0,
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 40,
-    "genres": [],
-    "studios": [],
-    "source": [],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/624085"
-  },
-  {
-    "mal_id": 621108,
-    "title": "萤火虫的出嫁",
-    "title_japanese": "ホタルの嫁入り",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_CC6fO.jpg",
-    "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 24,
+    "members": 7,
     "genres": [],
     "studios": [],
     "source": [
-      "橘オレコ（小学館「マンガワンコミックス」刊）"
+      "柴田ケイコ 「パンどろぼう」 (KADOKAWA刊)"
     ],
     "aired_from": null,
     "year": null,
@@ -230,30 +254,6 @@
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/621108"
-  },
-  {
-    "mal_id": 623249,
-    "title": "龙珠超 比鲁斯",
-    "title_japanese": "ドラゴンボール超 ビルス",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/0f/0f/623249_Ba296.jpg",
-    "synopsis": "鳥山明先生による世界的大人気漫画作品『DRAGON BALL』（ドラゴンボール）。TVアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、モンスタータイトルとして全世界で桁外れの人気を誇る。\r\nそして、2026年―。鳥山明先生が原作・ストーリー・キャラクターデザインを手掛けるアニメ『ドラゴンボール超』が『ドラゴンボール超 ビルス』として新たに始動！ 本作では、大幅な新規カットの追加や描き直し、さらに物語の再構築を行い“エンハンスド”。最新の映像表現により、バトルシーンのさらなる臨場感と、より精密な原作再現がほどこされたエンハンスド版としてここに登場する。\r\n\r\n魔人ブウとの壮絶な闘いから数年が経ち、地球は束の間の平和を取り戻していた。\r\n時を同じくして、長い眠りから目覚めた破壊神・ビルス。\r\n星々を破壊する圧倒的な力を持つビルスの目覚めを、界王や界王神たちですら畏れをもって見守っていたのだが…そのさなか、フリーザを倒したサイヤ人の噂を聞きつけたビルスは、突如悟空の前に現れるー。\r\nかつてない力を持つビルスの襲来により、消滅の危機に直面する地球・・・破壊神と悟空たちの宇宙を揺るがす超絶バトルが幕を開ける――。",
-    "score": 7,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 35,
-    "genres": [
-      "动作"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/623249"
+    "url": "https://bgm.tv/subject/563508"
   }
 ]

@@ -2,13 +2,13 @@
   "studios": [
     {
       "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.05,
-      "anime_count": 37,
-      "rated_count": 37
+      "avg_rating": 6.07,
+      "anime_count": 38,
+      "rated_count": 38
     },
     {
       "name": "ILCA",
-      "avg_rating": 5.26,
+      "avg_rating": 5.23,
       "anime_count": 11,
       "rated_count": 11
     },
@@ -176,7 +176,7 @@
     }
   ],
   "mean_rating": 6.26,
-  "mean_count": 18,
+  "mean_count": 18.0,
   "total_studios": 29,
   "min_anime_count": 10
 }
