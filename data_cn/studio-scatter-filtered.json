@@ -2,9 +2,15 @@
   "studios": [
     {
       "name": "\u6771\u6620\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3",
-      "avg_rating": 6.07,
+      "avg_rating": 6.06,
       "anime_count": 38,
       "rated_count": 38
+    },
+    {
+      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
+      "avg_rating": 5.76,
+      "anime_count": 7,
+      "rated_count": 7
     },
     {
       "name": "ILCA",
@@ -17,12 +23,6 @@
       "avg_rating": 6.63,
       "anime_count": 10,
       "rated_count": 10
-    },
-    {
-      "name": "KINEMA CITRUS\u3001\u304e\u3075\u3068\u30a2\u30cb\u30e1\u30fc\u30b7\u30e7\u30f3\u3001STUDIO JEMI",
-      "avg_rating": 5.76,
-      "anime_count": 7,
-      "rated_count": 7
     },
     {
       "name": "FelixFilm",

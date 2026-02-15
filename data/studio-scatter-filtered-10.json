@@ -159,7 +159,7 @@
     {
       "name": "TMS Entertainment",
       "avg_rating": 7.05,
-      "anime_count": 86,
+      "anime_count": 87,
       "rated_count": 83
     },
     {
@@ -296,7 +296,7 @@
     },
     {
       "name": "Diomed\u00e9a",
-      "avg_rating": 6.84,
+      "avg_rating": 6.85,
       "anime_count": 36,
       "rated_count": 36
     },
@@ -488,7 +488,7 @@
     },
     {
       "name": "NAZ",
-      "avg_rating": 6.34,
+      "avg_rating": 6.33,
       "anime_count": 10,
       "rated_count": 10
     },
@@ -524,7 +524,7 @@
     },
     {
       "name": "Felix Film",
-      "avg_rating": 7.13,
+      "avg_rating": 7.12,
       "anime_count": 15,
       "rated_count": 13
     },
@@ -542,7 +542,7 @@
     },
     {
       "name": "Shuka",
-      "avg_rating": 8.1,
+      "avg_rating": 8.12,
       "anime_count": 10,
       "rated_count": 10
     },
@@ -596,7 +596,7 @@
     },
     {
       "name": "Typhoon Graphics",
-      "avg_rating": 6.4,
+      "avg_rating": 6.39,
       "anime_count": 11,
       "rated_count": 11
     },
@@ -639,14 +639,20 @@
     {
       "name": "Maho Film",
       "avg_rating": 6.84,
-      "anime_count": 14,
+      "anime_count": 15,
       "rated_count": 14
     },
     {
       "name": "ENGI",
-      "avg_rating": 7.01,
+      "avg_rating": 7.02,
       "anime_count": 14,
       "rated_count": 13
+    },
+    {
+      "name": "Bibury Animation Studios",
+      "avg_rating": 6.99,
+      "anime_count": 10,
+      "rated_count": 9
     },
     {
       "name": "Yokohama Animation Lab",
@@ -674,19 +680,19 @@
     },
     {
       "name": "Imagica Infos",
-      "avg_rating": 6.19,
-      "anime_count": 11,
+      "avg_rating": 6.17,
+      "anime_count": 12,
       "rated_count": 9
     },
     {
       "name": "Imageworks Studio",
-      "avg_rating": 6.06,
-      "anime_count": 13,
+      "avg_rating": 6.04,
+      "anime_count": 14,
       "rated_count": 10
     }
   ],
   "mean_rating": 6.9,
-  "mean_count": 29.3,
-  "total_studios": 114,
+  "mean_count": 29.1,
+  "total_studios": 115,
   "min_anime_count": 10
 }

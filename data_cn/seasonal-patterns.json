@@ -9,12 +9,12 @@
     "winter": 6.18,
     "spring": 6.29,
     "summer": 6.15,
-    "fall": 6.22
+    "fall": 6.23
   },
   "counts": {
     "winter": 955,
-    "spring": 1287,
-    "summer": 898,
+    "spring": 1284,
+    "summer": 899,
     "fall": 1140
   },
   "highest_rated_season": "spring",

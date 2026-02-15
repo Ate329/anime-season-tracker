@@ -1,27 +1,32 @@
 [
   {
-    "mal_id": 617273,
-    "title": "Keroro军曹☆",
-    "title_japanese": "ケロロ軍曹☆",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/60/14/617273_dD73c.jpg",
+    "mal_id": 548156,
+    "title": "青之箱 第二季",
+    "title_japanese": "アオのハコ 第2期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_7JB17.jpg",
     "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
+    "score": 10,
+    "scored_by": 1,
     "rank": 0,
     "popularity": 0,
-    "members": 11,
+    "members": 536,
     "genres": [
-      "科幻"
+      "日常",
+      "校园",
+      "爱情",
+      "运动"
     ],
     "studios": [],
-    "source": [],
+    "source": [
+      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
+    ],
     "aired_from": null,
     "year": null,
     "is_hentai": false,
     "title_english": "",
     "themes": [],
     "demographics": [],
-    "url": "https://bgm.tv/subject/617273"
+    "url": "https://bgm.tv/subject/548156"
   },
   {
     "mal_id": 624085,
@@ -33,7 +38,7 @@
     "scored_by": 0,
     "rank": 0,
     "popularity": 0,
-    "members": 47,
+    "members": 55,
     "genres": [],
     "studios": [],
     "source": [],
@@ -44,6 +49,30 @@
     "themes": [],
     "demographics": [],
     "url": "https://bgm.tv/subject/624085"
+  },
+  {
+    "mal_id": 623249,
+    "title": "龙珠超 比鲁斯",
+    "title_japanese": "ドラゴンボール超 ビルス",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/0f/0f/623249_Ba296.jpg",
+    "synopsis": "鳥山明先生による世界的大人気漫画作品『DRAGON BALL』（ドラゴンボール）。TVアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、モンスタータイトルとして全世界で桁外れの人気を誇る。\r\nそして、2026年―。鳥山明先生が原作・ストーリー・キャラクターデザインを手掛けるアニメ『ドラゴンボール超』が『ドラゴンボール超 ビルス』として新たに始動！ 本作では、大幅な新規カットの追加や描き直し、さらに物語の再構築を行い“エンハンスド”。最新の映像表現により、バトルシーンのさらなる臨場感と、より精密な原作再現がほどこされたエンハンスド版としてここに登場する。\r\n\r\n魔人ブウとの壮絶な闘いから数年が経ち、地球は束の間の平和を取り戻していた。\r\n時を同じくして、長い眠りから目覚めた破壊神・ビルス。\r\n星々を破壊する圧倒的な力を持つビルスの目覚めを、界王や界王神たちですら畏れをもって見守っていたのだが…そのさなか、フリーザを倒したサイヤ人の噂を聞きつけたビルスは、突如悟空の前に現れるー。\r\nかつてない力を持つビルスの襲来により、消滅の危機に直面する地球・・・破壊神と悟空たちの宇宙を揺るがす超絶バトルが幕を開ける――。",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 43,
+    "genres": [
+      "动作"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/623249"
   },
   {
     "mal_id": 613256,
@@ -73,166 +102,6 @@
     "url": "https://bgm.tv/subject/613256"
   },
   {
-    "mal_id": 568244,
-    "title": "药屋少女的呢喃 第三季",
-    "title_japanese": "薬屋のひとりごと 第3期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/55/e2/568244_OwOw9.jpg",
-    "synopsis": "",
-    "score": 2,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 884,
-    "genres": [
-      "悬疑",
-      "治愈",
-      "爱情"
-    ],
-    "studios": [
-      "TOHO animation STUDIO×OLM"
-    ],
-    "source": [
-      "日向夏（ヒーロー文庫／イマジカインフォス刊）"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/568244"
-  },
-  {
-    "mal_id": 621108,
-    "title": "萤火虫的出嫁",
-    "title_japanese": "ホタルの嫁入り",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_CC6fO.jpg",
-    "synopsis": "",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 26,
-    "genres": [],
-    "studios": [],
-    "source": [
-      "橘オレコ（小学館「マンガワンコミックス」刊）"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/621108"
-  },
-  {
-    "mal_id": 623249,
-    "title": "龙珠超 比鲁斯",
-    "title_japanese": "ドラゴンボール超 ビルス",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/0f/0f/623249_Ba296.jpg",
-    "synopsis": "鳥山明先生による世界的大人気漫画作品『DRAGON BALL』（ドラゴンボール）。TVアニメ・映画・ゲームなど様々なメディアミックスでファンを魅了しながら、モンスタータイトルとして全世界で桁外れの人気を誇る。\r\nそして、2026年―。鳥山明先生が原作・ストーリー・キャラクターデザインを手掛けるアニメ『ドラゴンボール超』が『ドラゴンボール超 ビルス』として新たに始動！ 本作では、大幅な新規カットの追加や描き直し、さらに物語の再構築を行い“エンハンスド”。最新の映像表現により、バトルシーンのさらなる臨場感と、より精密な原作再現がほどこされたエンハンスド版としてここに登場する。\r\n\r\n魔人ブウとの壮絶な闘いから数年が経ち、地球は束の間の平和を取り戻していた。\r\n時を同じくして、長い眠りから目覚めた破壊神・ビルス。\r\n星々を破壊する圧倒的な力を持つビルスの目覚めを、界王や界王神たちですら畏れをもって見守っていたのだが…そのさなか、フリーザを倒したサイヤ人の噂を聞きつけたビルスは、突如悟空の前に現れるー。\r\nかつてない力を持つビルスの襲来により、消滅の危機に直面する地球・・・破壊神と悟空たちの宇宙を揺るがす超絶バトルが幕を開ける――。",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 42,
-    "genres": [
-      "动作"
-    ],
-    "studios": [],
-    "source": [],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/623249"
-  },
-  {
-    "mal_id": 548156,
-    "title": "青之箱 第二季",
-    "title_japanese": "アオのハコ 第2期",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/f1/6c/548156_7JB17.jpg",
-    "synopsis": "",
-    "score": 10,
-    "scored_by": 1,
-    "rank": 0,
-    "popularity": 0,
-    "members": 528,
-    "genres": [
-      "日常",
-      "校园",
-      "爱情",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "三浦糀（集英社「週刊ヤングジャンプ」連載）"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/548156"
-  },
-  {
-    "mal_id": 586941,
-    "title": "新网球王子 U-17 WORLD CUP 决赛成员选拔赛",
-    "title_japanese": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/58/86/586941_qUXVs.jpg",
-    "synopsis": "2024年に放送の「U-17 WORLD CUP SEMIFINAL」では、日本代表とドイツ代表による熱戦が描かれた「新テニスの王子様」。「U-17 WORLD CUP 決勝メンバー決定戦」では、決勝戦となるスペイン代表との試合に向けて、出場メンバーを決める日本代表内での戦いが展開される。",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 21,
-    "genres": [
-      "动作",
-      "运动"
-    ],
-    "studios": [],
-    "source": [
-      "許斐剛（集英社 「ジャンプ SQ.」連載）"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/586941"
-  },
-  {
-    "mal_id": 542007,
-    "title": "转生了的大圣女，拼死隐瞒自己身为圣女",
-    "title_japanese": "転生した大聖女は、聖女であることをひた隠す",
-    "image_url": "https://lain.bgm.tv/pic/cover/l/61/81/542007_5pzhZ.jpg",
-    "synopsis": "「剣の才能がない」と言われながらも騎士を目指す少女・フィーア。\r\n死にかけた彼女が思い出したのは、なんと規格外のチート能力を持つ\r\n「大聖女」としての前世で!?\r\n\r\n大聖女として騎士とともに戦い、\r\n最後に魔王の右腕によって無残に殺された300年前の過去だった――\r\n\r\n記憶を思い出したことで、「大聖女」の力も蘇ったフィーアだったが、\r\n前世で魔王の右腕から「聖女として生まれ変わったら殺す」と脅されたことを思い出し、\r\nその力を隠しながら騎士として生きていくことを決意する。\r\n\r\nしかし傷ついている人を見たら放っておけないフィーアは、\r\n度々遭遇する事件で頻繁に力を使ってしまう。\r\n果たして聖女であることをひた隠し続けることができるのか…!?",
-    "score": 0,
-    "scored_by": 0,
-    "rank": 0,
-    "popularity": 0,
-    "members": 94,
-    "genres": [
-      "奇幻"
-    ],
-    "studios": [],
-    "source": [
-      "十夜（アース・スターノベル／アース・スター エンターテイメント刊）；漫画：青辺マヒト"
-    ],
-    "aired_from": null,
-    "year": null,
-    "is_hentai": false,
-    "title_english": "",
-    "themes": [],
-    "demographics": [],
-    "url": "https://bgm.tv/subject/542007"
-  },
-  {
     "mal_id": 563508,
     "title": "パンどろぼう",
     "title_japanese": "パンどろぼう",
@@ -255,5 +124,136 @@
     "themes": [],
     "demographics": [],
     "url": "https://bgm.tv/subject/563508"
+  },
+  {
+    "mal_id": 542007,
+    "title": "转生了的大圣女，拼死隐瞒自己身为圣女",
+    "title_japanese": "転生した大聖女は、聖女であることをひた隠す",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/61/81/542007_5pzhZ.jpg",
+    "synopsis": "「剣の才能がない」と言われながらも騎士を目指す少女・フィーア。\r\n死にかけた彼女が思い出したのは、なんと規格外のチート能力を持つ\r\n「大聖女」としての前世で!?\r\n\r\n大聖女として騎士とともに戦い、\r\n最後に魔王の右腕によって無残に殺された300年前の過去だった――\r\n\r\n記憶を思い出したことで、「大聖女」の力も蘇ったフィーアだったが、\r\n前世で魔王の右腕から「聖女として生まれ変わったら殺す」と脅されたことを思い出し、\r\nその力を隠しながら騎士として生きていくことを決意する。\r\n\r\nしかし傷ついている人を見たら放っておけないフィーアは、\r\n度々遭遇する事件で頻繁に力を使ってしまう。\r\n果たして聖女であることをひた隠し続けることができるのか…!?",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 95,
+    "genres": [
+      "奇幻"
+    ],
+    "studios": [],
+    "source": [
+      "十夜（アース・スターノベル／アース・スター エンターテイメント刊）；漫画：青辺マヒト"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/542007"
+  },
+  {
+    "mal_id": 586941,
+    "title": "新网球王子 U-17 WORLD CUP 决赛成员选拔赛",
+    "title_japanese": "新テニスの王子様 U-17 WORLD CUP 決勝メンバー決定戦",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/58/86/586941_qUXVs.jpg",
+    "synopsis": "2024年に放送の「U-17 WORLD CUP SEMIFINAL」では、日本代表とドイツ代表による熱戦が描かれた「新テニスの王子様」。「U-17 WORLD CUP 決勝メンバー決定戦」では、決勝戦となるスペイン代表との試合に向けて、出場メンバーを決める日本代表内での戦いが展開される。",
+    "score": 9,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 23,
+    "genres": [
+      "动作",
+      "运动"
+    ],
+    "studios": [],
+    "source": [
+      "許斐剛（集英社 「ジャンプ SQ.」連載）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/586941"
+  },
+  {
+    "mal_id": 617273,
+    "title": "Keroro军曹☆",
+    "title_japanese": "ケロロ軍曹☆",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/60/14/617273_dD73c.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 12,
+    "genres": [
+      "科幻"
+    ],
+    "studios": [],
+    "source": [],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/617273"
+  },
+  {
+    "mal_id": 621108,
+    "title": "萤火虫的出嫁",
+    "title_japanese": "ホタルの嫁入り",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/5c/04/621108_CC6fO.jpg",
+    "synopsis": "",
+    "score": 0,
+    "scored_by": 0,
+    "rank": 0,
+    "popularity": 0,
+    "members": 28,
+    "genres": [],
+    "studios": [],
+    "source": [
+      "橘オレコ（小学館「マンガワンコミックス」刊）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/621108"
+  },
+  {
+    "mal_id": 568244,
+    "title": "药屋少女的呢喃 第三季",
+    "title_japanese": "薬屋のひとりごと 第3期",
+    "image_url": "https://lain.bgm.tv/pic/cover/l/55/e2/568244_OwOw9.jpg",
+    "synopsis": "",
+    "score": 2,
+    "scored_by": 1,
+    "rank": 0,
+    "popularity": 0,
+    "members": 896,
+    "genres": [
+      "悬疑",
+      "治愈",
+      "爱情"
+    ],
+    "studios": [
+      "TOHO animation STUDIO×OLM"
+    ],
+    "source": [
+      "日向夏（ヒーロー文庫／イマジカインフォス刊）"
+    ],
+    "aired_from": null,
+    "year": null,
+    "is_hentai": false,
+    "title_english": "",
+    "themes": [],
+    "demographics": [],
+    "url": "https://bgm.tv/subject/568244"
   }
 ]
